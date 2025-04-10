@@ -1,0 +1,2121 @@
+{
+    "or": {
+        "value": "of",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.measures_title.column._measure": {
+        "value": "Maten",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.measures_title.column._metric": {
+        "value": "Meetgegevens",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.measures_title.bar._measure": {
+        "value": "Maten",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.measures_title.bar._metric": {
+        "value": "Meetgegevens",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.measures_title.line._measure": {
+        "value": "Maten",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.measures_title.line._metric": {
+        "value": "Meetgegevens",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.measures_title.area._measure": {
+        "value": "Maten",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.measures_title.area._metric": {
+        "value": "Meetgegevens",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.measures_title.pie._measure": {
+        "value": "Maten",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.measures_title.pie._metric": {
+        "value": "Meetgegevens",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.measures_title.funnel._measure": {
+        "value": "Maten",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.measures_title.funnel._metric": {
+        "value": "Meetgegevens",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.measures_title.pyramid._measure": {
+        "value": "Maten",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.measures_title.pyramid._metric": {
+        "value": "Meetgegevens",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.measures_title.treemap._measure": {
+        "value": "Maten",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.measures_title.treemap._metric": {
+        "value": "Meetgegevens",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.measures_title.donut._measure": {
+        "value": "Maten",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.measures_title.donut._metric": {
+        "value": "Meetgegevens",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.measures_title.heatmap._measure": {
+        "value": "Maat",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.measures_title.heatmap._metric": {
+        "value": "Meetgegeven",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.measures_title.headline._measure": {
+        "value": "Maat",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.measures_title.headline._metric": {
+        "value": "Meetgegeven",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.measures_subtitle.headline": {
+        "value": "primair",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.secondary_measures_title.headline._measure": {
+        "value": "Maat",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.secondary_measures_title.headline._metric": {
+        "value": "Meetgegeven",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.secondary_measures_subtitle.headline": {
+        "value": "secundair",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.measures_title.scatter._measure": {
+        "value": "Maat",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.measures_title.scatter._metric": {
+        "value": "Meetgegeven",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.secondary_measures_title.scatter._measure": {
+        "value": "Maat",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.secondary_measures_title.scatter._metric": {
+        "value": "Meetgegeven",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.measures_subtitle.scatter": {
+        "value": "X-as",
+        "comment": "Horizontal axis of a scatter plot.",
+        "limit": 0
+    },
+    "dashboard.bucket.secondary_measures_subtitle.scatter": {
+        "value": "Y-as",
+        "comment": "Vertical axis of a scatter plot.",
+        "limit": 0
+    },
+    "dashboard.bucket.attribute_title.scatter": {
+        "value": "Bekijken met",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.segment_title.scatter": {
+        "value": "Verdelen volgens",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.measures_title.combo._measure": {
+        "value": "Maten",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.measures_title.combo._metric": {
+        "value": "Meetgegevens",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.measures_subtitle.combo": {
+        "value": "Kolom",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.secondary_measures_title.combo._measure": {
+        "value": "Maten",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.secondary_measures_title.combo._metric": {
+        "value": "Meetgegevens",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.secondary_measures_subtitle.combo": {
+        "value": "Lijn",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.measures_title.xirr._measure": {
+        "value": "Maat",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.measures_title.xirr._metric": {
+        "value": "Meetgegeven",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.measures_title.waterfall._measure": {
+        "value": "Maten",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.measures_title.waterfall._metric": {
+        "value": "Meetgegevens",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.attribute_title.xirr": {
+        "value": "Datumattribuut",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.attribute_from_title.sankey": {
+        "value": "Attribuut",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.attribute_from_subtitle.sankey": {
+        "value": "van",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.attribute_to_title.sankey": {
+        "value": "Attribuut",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.attribute_to_subtitle.sankey": {
+        "value": "naar",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.attribute_from_title.dependencywheel": {
+        "value": "Attribuut",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.attribute_from_subtitle.dependencywheel": {
+        "value": "van",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.attribute_to_title.dependencywheel": {
+        "value": "Attribuut",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.attribute_to_subtitle.dependencywheel": {
+        "value": "naar",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.combo.subtitle.column": {
+        "value": "als kolommen",
+        "comment": "Display measures in column chart = 'as columns'.",
+        "limit": 0
+    },
+    "dashboard.bucket.combo.subtitle.line": {
+        "value": "als lijnen",
+        "comment": "Display measures in line chart = 'as lines'.",
+        "limit": 0
+    },
+    "dashboard.bucket.combo.subtitle.area": {
+        "value": "als gebieden",
+        "comment": "Display measures in area chart = 'as areas'.",
+        "limit": 0
+    },
+    "dashboard.bucket.measures_title.bubble._measure": {
+        "value": "Maat",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.measures_title.bubble._metric": {
+        "value": "Meetgegeven",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.secondary_measures_title.bubble._measure": {
+        "value": "Maat",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.secondary_measures_title.bubble._metric": {
+        "value": "Meetgegeven",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.tertiary_measures_title.bubble._measure": {
+        "value": "Maat",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.tertiary_measures_title.bubble._metric": {
+        "value": "Meetgegeven",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.measures_subtitle.bubble": {
+        "value": "X-as",
+        "comment": "Horizontal axis of a bubble plot.",
+        "limit": 0
+    },
+    "dashboard.bucket.secondary_measures_subtitle.bubble": {
+        "value": "Y-as",
+        "comment": "Vertical axis of a bubble plot.",
+        "limit": 0
+    },
+    "dashboard.bucket.tertiary_measures_subtitle.bubble": {
+        "value": "Grootte",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.location_title.pushpin": {
+        "value": "Locatie",
+        "comment": "Position of a pin pushed to a map.",
+        "limit": 0
+    },
+    "dashboard.bucket.size_title.pushpin._measure": {
+        "value": "Maat",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.size_title.pushpin._metric": {
+        "value": "Meetgegeven",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.size_subtitle.pushpin": {
+        "value": "Grootte",
+        "comment": "Size of a pin pushed to a map",
+        "limit": 0
+    },
+    "dashboard.bucket.color_title.pushpin._measure": {
+        "value": "Maat",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.color_title.pushpin._metric": {
+        "value": "Meetgegeven",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.color_subtitle.pushpin": {
+        "value": "Kleur",
+        "comment": "Color of a pin pushed to a map",
+        "limit": 0
+    },
+    "dashboard.bucket.view_title.bubble": {
+        "value": "Bekijken met",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.view_title.pie": {
+        "value": "Bekijken met",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.view_title.treemap": {
+        "value": "Bekijken met",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.view_title.donut": {
+        "value": "Bekijken met",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.view_title.funnel": {
+        "value": "Bekijken met",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.view_title.pyramid": {
+        "value": "Bekijken met",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.view_title.column": {
+        "value": "Bekijken met",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.view_title.bar": {
+        "value": "Bekijken met",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.view_title.area": {
+        "value": "Bekijken met",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.view_title.bullet": {
+        "value": "Bekijken met",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.view_title.waterfall": {
+        "value": "Bekijken met",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.view_title.heatmap": {
+        "value": "Rijen",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.trend_title.line": {
+        "value": "Trend volgens",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.view_title.combo": {
+        "value": "Bekijken met",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.stack_title.column": {
+        "value": "Sorteren volgens",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.stack_title.bar": {
+        "value": "Sorteren volgens",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.stack_title.area": {
+        "value": "Sorteren volgens",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.stack_title.heatmap": {
+        "value": "Kolommen",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.segment_title.line": {
+        "value": "Verdelen volgens",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.segment_title.treemap": {
+        "value": "Verdelen volgens",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.segment_title.pushpin": {
+        "value": "Verdelen volgens",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.metric_segment_by_warning._measure": {
+        "value": "Om een extra maatregel toe te voegen, verwijdert u {icons} van '<span class=\"stack-by\">'verdelen volgens'</span>'",
+        "comment": "Do not translate HTML markup enclosed in '<>'. Do not translate {icons}. Translate words 'segment by'.",
+        "limit": 0
+    },
+    "dashboard.bucket.metric_segment_by_warning._metric": {
+        "value": "Om extra meetgegevens toe te voegen, verwijdert u {icons} van '<span class=\"stack-by\">'verdelen volgens'</span>'",
+        "comment": "Do not translate HTML markup enclosed in '<>'. Do not translate {icons}. Translate words 'segment by'.",
+        "limit": 0
+    },
+    "dashboard.bucket.metric_stack_by_warning._measure": {
+        "value": "Om een extra maatregel toe te voegen, verwijdert u {icons} van '<span class=\"stack-by\">'sorteren volgens'</span>'",
+        "comment": "Do not translate HTML markup enclosed in '<>'. Do not translate {icons}. Translate words 'stack by'.",
+        "limit": 0
+    },
+    "dashboard.bucket.metric_stack_by_warning._metric": {
+        "value": "Om extra meetgegevens toe te voegen, verwijdert u {icons} van '<span class=\"stack-by\">'sorteren volgens'</span>'",
+        "comment": "Do not translate HTML markup enclosed in '<>'. Do not translate {icons}. Translate words 'stack by'.",
+        "limit": 0
+    },
+    "dashboard.bucket.metric_view_by_warning._measure": {
+        "value": "Om een extra maatregel toe te voegen, verwijdert u {icons} van '<span class=\"stack-by\">'bekijken met'</span>'",
+        "comment": "Do not translate HTML markup enclosed in '<>'. Do not translate {icons}. Translate words 'view by'.",
+        "limit": 0
+    },
+    "dashboard.bucket.metric_view_by_warning._metric": {
+        "value": "Om extra meetgegevens toe te voegen, verwijdert u {icons} van '<span class=\"stack-by\">'bekijken met'</span>'",
+        "comment": "Do not translate HTML markup enclosed in '<>'. Do not translate {icons}. Translate words 'view by'.",
+        "limit": 0
+    },
+    "dashboard.bucket.category_view_by_warning._measure|insight": {
+        "value": "Om op een ander kenmerk te bekijken, kan een visualisatie slechts één maatregel hebben",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.category_view_by_warning._metric|insight": {
+        "value": "Om op een ander kenmerk te bekijken, kan een visualisatie slechts één metriek hebben",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.category_view_by_warning._measure|report": {
+        "value": "To view by another attribute, a report can have only one measure",
+        "comment": "",
+        "limit": 0,
+        "translate": false
+    },
+    "dashboard.bucket.category_view_by_warning._metric|report": {
+        "value": "To view by another attribute, a report can have only one metric",
+        "comment": "",
+        "limit": 0,
+        "translate": false
+    },
+    "dashboard.bucket.view_stack_by_warning": {
+        "value": "Om een extra attribuut toe te voegen, verwijdert u {icons} van '<span class=\"stack-by\">'sorteren volgens'</span>'",
+        "comment": "Do not translate HTML markup enclosed in '<>'. Do not translate {icons}. Translate words 'stack by'.",
+        "limit": 0
+    },
+    "dashboard.bucket.category_stack_by_warning._measure|insight": {
+        "value": "Om te stapelen kan een visualisatie slechts één maatregel hebben",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.category_stack_by_warning._metric|insight": {
+        "value": "Om te stapelen kan een visualisatie slechts één metriek hebben",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.category_stack_by_warning._measure|report": {
+        "value": "To stack by, a report can have only one measure",
+        "comment": "",
+        "limit": 0,
+        "translate": false
+    },
+    "dashboard.bucket.category_stack_by_warning._metric|report": {
+        "value": "To stack by, a report can have only one metric",
+        "comment": "",
+        "limit": 0,
+        "translate": false
+    },
+    "dashboard.bucket.stack_view_by_warning|insight": {
+        "value": "Om te stapelen kan een visualisatie slechts één attribuut in beeld hebben door",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.stack_view_by_warning|report": {
+        "value": "To stack by, a report can have only one attribute in view by",
+        "comment": "",
+        "limit": 0,
+        "translate": false
+    },
+    "dashboard.bucket.measure_stack_by_warning._measure|insight": {
+        "value": "Om te stapelen op een attribuut kan een visualisatie slechts één maatregel hebben",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.measure_stack_by_warning._metric|insight": {
+        "value": "Om te stapelen op een eigenschap, kan een visualisatie slechts één metriek hebben",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.measure_stack_by_warning._measure|report": {
+        "value": "To stack by an attribute, a report can have only one measure",
+        "comment": "",
+        "limit": 0,
+        "translate": false
+    },
+    "dashboard.bucket.measure_stack_by_warning._metric|report": {
+        "value": "To stack by an attribute, a report can have only one metric",
+        "comment": "",
+        "limit": 0,
+        "translate": false
+    },
+    "dashboard.bucket.category_columns_warning._measure": {
+        "value": "Kolommen toevoegen niet mogelijk: de limiet is {oldLimit} maatregelen en {oldRowsLimit} rijen. Volg de limieten om er meer toe te voegen",
+        "comment": "Do not translate {oldLimit} and {oldRowsLimit}.",
+        "limit": 0
+    },
+    "dashboard.bucket.category_columns_warning._metric": {
+        "value": "Kolommen toevoegen niet mogelijk: de limiet is {oldLimit} meetgegevens en {oldRowsLimit} rijen. Volg de limieten om er meer toe te voegen",
+        "comment": "Do not translate {oldLimit} and {oldRowsLimit}.",
+        "limit": 0
+    },
+    "dashboard.bucket.category_measures_rows_warning": {
+        "value": "Om meer toe te voegen dan {limit}, verwijdert u alle items uit het kolommengedeelte",
+        "comment": "Do not translate {limit}.",
+        "limit": 0
+    },
+    "dashboard.bucket.category_category_by_warning._measure|insight": {
+        "value": "Om door te kijken kan een visualisatie slechts één maatregel hebben",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.category_category_by_warning._metric|insight": {
+        "value": "Om door te kijken kan een visualisatie slechts één metriek hebben",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.category_category_by_warning._measure|report": {
+        "value": "To view by, a report can have only one measure",
+        "comment": "",
+        "limit": 0,
+        "translate": false
+    },
+    "dashboard.bucket.category_category_by_warning._metric|report": {
+        "value": "To view by, a report can have only one metric",
+        "comment": "",
+        "limit": 0,
+        "translate": false
+    },
+    "dashboard.bucket.category_segment_by_warning._measure|insight": {
+        "value": "Om te segmenteren kan een visualisatie slechts één maatregel hebben",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.category_segment_by_warning._metric|insight": {
+        "value": "Om te segmenteren kan een visualisatie slechts één metriek hebben",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.category_segment_by_warning._measure|report": {
+        "value": "To segment by, a report can have only one measure",
+        "comment": "",
+        "limit": 0,
+        "translate": false
+    },
+    "dashboard.bucket.category_segment_by_warning._metric|report": {
+        "value": "To segment by, a report can have only one metric",
+        "comment": "",
+        "limit": 0,
+        "translate": false
+    },
+    "dashboard.bucket.measures_title.table._measure": {
+        "value": "Maten",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.measures_title.table._metric": {
+        "value": "Meetgegevens",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.measures_title.sankey._measure": {
+        "value": "MAAT",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.measures_title.sankey._metric": {
+        "value": "MEETGEGEVEN",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.measures_title.dependencywheel._measure": {
+        "value": "MAAT",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.measures_title.dependencywheel._metric": {
+        "value": "MEETGEGEVEN",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.attribute_title.table": {
+        "value": "Rijen",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.columns_title.table": {
+        "value": "Kolommen",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.attribute_title.repeater": {
+        "value": "Rijen",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.view_title.repeater": {
+        "value": "Bekijken met",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.columns_title.repeater": {
+        "value": "Kolommen",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.error.missing_primary_bucket_item.heading._measure|insight": {
+        "value": "Geen primaire maatregel in uw visualisatie",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.error.missing_primary_bucket_item.heading._metric|insight": {
+        "value": "Geen primaire metriek in uw visualisatie",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.error.missing_primary_bucket_item.heading._measure|report": {
+        "value": "No primary measure in your report",
+        "comment": "",
+        "limit": 0,
+        "translate": false
+    },
+    "dashboard.error.missing_primary_bucket_item.heading._metric|report": {
+        "value": "No primary metric in your report",
+        "comment": "",
+        "limit": 0,
+        "translate": false
+    },
+    "dashboard.error.missing_primary_bucket_item.text._measure|insight": {
+        "value": "Voeg een primaire maatregel toe aan uw visualisatie of schakel over naar tabel.\nAls u klaar bent, kunt u de visualisatie opslaan.",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.error.missing_primary_bucket_item.text._metric|insight": {
+        "value": "Voeg een primaire metriek toe aan uw visualisatie of schakel over naar tabel.\nAls u klaar bent, kunt u de visualisatie opslaan.",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.error.missing_primary_bucket_item.text._measure|report": {
+        "value": "Add a primary measure to your report, or switch to table.\nOnce done, you'll be able to save it.",
+        "comment": "",
+        "limit": 0,
+        "translate": false
+    },
+    "dashboard.error.missing_primary_bucket_item.text._metric|report": {
+        "value": "Add a primary metric to your report, or switch to table.\nOnce done, you'll be able to save it.",
+        "comment": "",
+        "limit": 0,
+        "translate": false
+    },
+    "dashboard.xirr.error.invalid_buckets.heading": {
+        "value": "Onvolledige configuratie",
+        "comment": "Informs the user that they have not provided all the necessary configuration items (one measure and one date attribute)",
+        "limit": 0
+    },
+    "dashboard.xirr.error.invalid_buckets.text._measure": {
+        "value": "Zorg dat u minimaal één maatregel en één datumattribuut hebt geselecteerd",
+        "comment": "The user should be instructed to review that they have added one measure and one date attribute to the visualization",
+        "limit": 0
+    },
+    "dashboard.xirr.error.invalid_buckets.text._metric": {
+        "value": "Zorg dat u minimaal één meetgegevens één datumattribuut hebt geselecteerd",
+        "comment": "The user should be instructed to review that they have added one metric and one date attribute to the visualization",
+        "limit": 0
+    },
+    "properties.unsupported": {
+        "value": "Deze weergave ondersteunt geen configuratie",
+        "comment": "",
+        "limit": 0
+    },
+    "properties.config.not_applicable|insight": {
+        "value": "Configuration Panel is niet van toepassing voor deze configuratie van de visualisatie.",
+        "comment": "",
+        "limit": 0
+    },
+    "properties.config.not_applicable|report": {
+        "value": "Configuration Panel is not applicable for this configuration of the report",
+        "comment": "",
+        "limit": 0,
+        "translate": false
+    },
+    "properties.not_applicable|insight": {
+        "value": "Eigenschap is niet van toepassing voor deze configuratie van de visualisatie",
+        "comment": "",
+        "limit": 0
+    },
+    "properties.not_applicable|report": {
+        "value": "Property is not applicable for this configuration of the report",
+        "comment": "",
+        "limit": 0,
+        "translate": false
+    },
+    "properties.auto_placeholder": {
+        "value": "auto",
+        "comment": "",
+        "limit": 0
+    },
+    "properties.auto_default": {
+        "value": "auto (standaard)",
+        "comment": "",
+        "limit": 0
+    },
+    "properties.legend.title": {
+        "value": "Legenda",
+        "comment": "",
+        "limit": 0
+    },
+    "properties.legend.position": {
+        "value": "Positie",
+        "comment": "",
+        "limit": 0
+    },
+    "properties.total.title": {
+        "value": "Totaal",
+        "comment": "",
+        "limit": 0
+    },
+    "properties.total.name": {
+        "value": "Naam",
+        "comment": "",
+        "limit": 0
+    },
+    "properties.total.tooltip": {
+        "value": "Voeg de som van alle waarden aan het einde toe als een kolom.",
+        "comment": "",
+        "limit": 0
+    },
+    "properties.total.measures.tooltip": {
+        "value": "Schakel 'is totaal'-opties uit in meetgegevens om de som van alle waarden als een kolom aan het einde toe te voegen.",
+        "comment": "The tooltip for the toggle total section when there is any metric set to total metric",
+        "limit": 0
+    },
+    "properties.color.total": {
+        "value": "Totaal",
+        "comment": "",
+        "limit": 0
+    },
+    "properties.color.positive": {
+        "value": "Positief",
+        "comment": "",
+        "limit": 0
+    },
+    "properties.color.negative": {
+        "value": "Negatief",
+        "comment": "",
+        "limit": 0
+    },
+    "properties.canvas.title": {
+        "value": "Canvas",
+        "comment": "",
+        "limit": 0
+    },
+    "properties.canvas.gridline": {
+        "value": "Rasterlijn",
+        "comment": "",
+        "limit": 0
+    },
+    "properties.canvas.labels.percentages": {
+        "value": "Percentage",
+        "comment": "applicable for funnel chart special data labels which can include percentages",
+        "limit": 0
+    },
+    "properties.canvas.labels.percentages.info": {
+        "value": "Geef percentages op elke schijf weer, met de bovenste schijf als 100% en de andere als fracties van die waarde.",
+        "comment": "this is an explanation tooltip for the Percentage option for funnel chart (properties.canvas.labels.percentages)",
+        "limit": 0
+    },
+    "properties.canvas.labels.percentages.disabled": {
+        "value": "Percentages worden verborgen door verborgen datalabels.",
+        "comment": "this is an explanation tooltip when the Percentage option for funnel chart is disabled (properties.canvas.labels.percentages)",
+        "limit": 0
+    },
+    "properties.canvas.continuousLine.label": {
+        "value": "Doorlopende lijn",
+        "comment": "",
+        "limit": 0
+    },
+    "properties.canvas.continuousLine.tooltip": {
+        "value": "Teken een lijn tussen punten met ontbrekende waarden.",
+        "comment": "",
+        "limit": 0
+    },
+    "properties.canvas.dataLabels": {
+        "value": "Gegevenslabels",
+        "comment": "",
+        "limit": 0
+    },
+    "properties.canvas.dataLabels.auto": {
+        "value": "auto (standaard)",
+        "comment": "",
+        "limit": 0
+    },
+    "properties.canvas.dataLabels.show": {
+        "value": "tonen",
+        "comment": "",
+        "limit": 0
+    },
+    "properties.canvas.dataLabels.hide": {
+        "value": "verbergen",
+        "comment": "",
+        "limit": 0
+    },
+    "properties.canvas.rowHeight": {
+        "value": "Rijhoogte",
+        "comment": "Label of the dropdown for configuring the row height of the chart",
+        "limit": 0
+    },
+    "properties.canvas.rowHeight.small": {
+        "value": "klein",
+        "comment": "Option of the dropdown for configuring the row height of the chart (small)",
+        "limit": 0
+    },
+    "properties.canvas.rowHeight.medium": {
+        "value": "gemiddeld",
+        "comment": "Option of the dropdown for configuring the row height of the chart (medium)",
+        "limit": 0
+    },
+    "properties.canvas.rowHeight.large": {
+        "value": "groot",
+        "comment": "Option of the dropdown for configuring the row height of the chart (large)",
+        "limit": 0
+    },
+    "properties.canvas.verticalAlign": {
+        "value": "Verticale uitlijning",
+        "comment": "Label of the dropdown for configuring vertical alignment of the chart cells",
+        "limit": 0
+    },
+    "properties.canvas.verticalAlign.top": {
+        "value": "boven",
+        "comment": "Option of the dropdown for configuring the vertical alignment of the chart cell (top)",
+        "limit": 0
+    },
+    "properties.canvas.verticalAlign.middle": {
+        "value": "midden",
+        "comment": "Option of the dropdown for configuring the vertical alignment of the chart cell (middle)",
+        "limit": 0
+    },
+    "properties.canvas.verticalAlign.bottom": {
+        "value": "onder",
+        "comment": "Option of the dropdown for configuring the vertical alignment of the chart cell (bottom)",
+        "limit": 0
+    },
+    "properties.canvas.textWrapping": {
+        "value": "Tekstomloop",
+        "comment": "Label of the dropdown for configuring text wrapping of the chart cells",
+        "limit": 0
+    },
+    "properties.canvas.textWrapping.clip": {
+        "value": "klemmen",
+        "comment": "Option of the dropdown for configuring the text wrapping of the chart cell (clip)",
+        "limit": 0
+    },
+    "properties.canvas.textWrapping.wrap": {
+        "value": "omloop",
+        "comment": "Option of the dropdown for configuring the text wrapping of the chart cell (wrap)",
+        "limit": 0
+    },
+    "properties.canvas.image": {
+        "value": "Afbeelding",
+        "comment": "Label of the dropdown for configuring image sizing of the chart cells",
+        "limit": 0
+    },
+    "properties.canvas.image.fit": {
+        "value": "passend maken",
+        "comment": "Option of the dropdown for configuring the image sizing of the chart cell (fit)",
+        "limit": 0
+    },
+    "properties.canvas.image.fill": {
+        "value": "vullen",
+        "comment": "Option of the dropdown for configuring the image sizing of the chart cell (fill)",
+        "limit": 0
+    },
+    "properties.forecast.title": {
+        "value": "Voorspelling",
+        "comment": "",
+        "limit": 0
+    },
+    "properties.forecastDisabled.title": {
+        "value": "Voorspelling is niet beschikbaar voor deze combinatie van buckets",
+        "comment": "",
+        "limit": 0
+    },
+    "properties.forecastPeriod.title": {
+        "value": "Periode",
+        "comment": "",
+        "limit": 0
+    },
+    "properties.forecastPeriod.placeholder": {
+        "value": "Periode",
+        "comment": "",
+        "limit": 0
+    },
+    "properties.forecastSeasonal.title": {
+        "value": "Seizoen",
+        "comment": "",
+        "limit": 0
+    },
+    "properties.forecastConfidence.title": {
+        "value": "Vertrouwen",
+        "comment": "",
+        "limit": 0
+    },
+    "properties.forecastConfidence.70": {
+        "value": "70%",
+        "comment": "",
+        "limit": 0
+    },
+    "properties.forecastConfidence.75": {
+        "value": "75%",
+        "comment": "",
+        "limit": 0
+    },
+    "properties.forecastConfidence.80": {
+        "value": "80%",
+        "comment": "",
+        "limit": 0
+    },
+    "properties.forecastConfidence.85": {
+        "value": "85%",
+        "comment": "",
+        "limit": 0
+    },
+    "properties.forecastConfidence.90": {
+        "value": "90%",
+        "comment": "",
+        "limit": 0
+    },
+    "properties.forecastConfidence.95": {
+        "value": "95%",
+        "comment": "",
+        "limit": 0
+    },
+    "properties.forecastSliced.title": {
+        "value": "Gedeeltelijke voorspelling.",
+        "comment": "",
+        "limit": 0
+    },
+    "properties.forecastSliced.description": {
+        "value": "De beschikbare gegevenspunten dekken niet de hele geselecteerde periode.",
+        "comment": "",
+        "limit": 0
+    },
+    "properties.clustering.title": {
+        "value": "Cluster",
+        "comment": "Title of the clustering configuration section.",
+        "limit": 0
+    },
+    "properties.clustering.amount": {
+        "value": "Bedrag",
+        "comment": "Label of the input for configuring the number of clusters.",
+        "limit": 0
+    },
+    "properties.clustering.amount.placeholder": {
+        "value": "3",
+        "comment": "Placeholder of the input for configuring the number of clusters.",
+        "limit": 0
+    },
+    "properties.clustering.threshold": {
+        "value": "Drempel",
+        "comment": "Label of the input for configuring the clustering threshold.",
+        "limit": 0
+    },
+    "properties.clustering.threshold.placeholder": {
+        "value": "0.03",
+        "comment": "Placeholder of the input for configuring the clustering threshold.",
+        "limit": 0
+    },
+    "properties.clustering.threshold.tooltip": {
+        "value": "De drempel is een limiet die bepaalt wanneer gegevens moeten worden gegroepeerd. <link>Lees meer</link>",
+        "comment": "Tooltip message of the clustering threshold input. Do not translate <link> and </link> tags",
+        "limit": 0
+    },
+    "properties.clustering.amount.partial.title": {
+        "value": "Gedeeltelijke clusters tonen",
+        "comment": "Message title that is shown when clustering amount is higher than the number of visualization data points.",
+        "limit": 0
+    },
+    "properties.clustering.amount.partial.description": {
+        "value": "De beschikbare gegevenspunten dekken niet het gehele geselecteerde bedrag.",
+        "comment": "Message description that is shown when clustering amount is higher than the number of visualization data points.",
+        "limit": 0
+    },
+    "properties.clustering.disabled": {
+        "value": "Clustering requires 2 Metrics and View by, without Segment by.",
+        "comment": "Tooltip message of the disabled toggle that enables clustering",
+        "limit": 0
+    },
+    "properties.canvas.totalLabels": {
+        "value": "Totaal aantal labels",
+        "comment": "",
+        "limit": 0
+    },
+    "properties.canvas.totalLabels.auto": {
+        "value": "auto (standaard)",
+        "comment": "",
+        "limit": 0
+    },
+    "properties.canvas.totalLabels.show": {
+        "value": "tonen",
+        "comment": "",
+        "limit": 0
+    },
+    "properties.canvas.totalLabels.hide": {
+        "value": "verbergen",
+        "comment": "",
+        "limit": 0
+    },
+    "properties.canvas.dataPoints": {
+        "value": "Gegevenspunten",
+        "comment": "",
+        "limit": 0
+    },
+    "properties.canvas.dataPoints.auto": {
+        "value": "auto (standaard)",
+        "comment": "",
+        "limit": 0
+    },
+    "properties.canvas.dataPoints.show": {
+        "value": "tonen",
+        "comment": "",
+        "limit": 0
+    },
+    "properties.canvas.dataPoints.hide": {
+        "value": "verbergen",
+        "comment": "",
+        "limit": 0
+    },
+    "properties.yaxis.title": {
+        "value": "Y-as",
+        "comment": "Vertical axis of a plot.",
+        "limit": 0
+    },
+    "properties.axis.labels": {
+        "value": "labels",
+        "comment": "",
+        "limit": 0
+    },
+    "properties.axis.rotation": {
+        "value": "Rotatie",
+        "comment": "",
+        "limit": 0
+    },
+    "properties.axis.format": {
+        "value": "Formaat",
+        "comment": "",
+        "limit": 0
+    },
+    "properties.axis.format.inherit": {
+        "value": "overnemen",
+        "comment": "Axis format option to inherit formatting from used measure.",
+        "limit": 0
+    },
+    "properties.axis.format.info.inherit._measure|insight": {
+        "value": "Het formaat wordt geërfd van de eerste maatregel in de visualisatie.",
+        "comment": "Info text for axis format option.",
+        "limit": 0
+    },
+    "properties.axis.format.info.inherit._metric|insight": {
+        "value": "Het formaat wordt geërfd van de eerste metriek in de visualisatie.",
+        "comment": "Info text for axis format option.",
+        "limit": 0
+    },
+    "properties.axis.format.info.inherit._measure|report": {
+        "value": "The format is inherited from the first measure in the report.",
+        "comment": "",
+        "limit": 0,
+        "translate": false
+    },
+    "properties.axis.format.info.inherit._metric|report": {
+        "value": "The format is inherited from the first metric in the report.",
+        "comment": "",
+        "limit": 0,
+        "translate": false
+    },
+    "properties.axis.name": {
+        "value": "naam",
+        "comment": "Name of the axis of a chart",
+        "limit": 0
+    },
+    "properties.axis.name.position": {
+        "value": "Positie",
+        "comment": "Position of the axis of a chart",
+        "limit": 0
+    },
+    "properties.axis.name.position.left": {
+        "value": "links",
+        "comment": "",
+        "limit": 0
+    },
+    "properties.axis.name.position.center": {
+        "value": "centreren",
+        "comment": "Horizontal center (between left and right)",
+        "limit": 0
+    },
+    "properties.axis.name.position.right": {
+        "value": "rechts",
+        "comment": "",
+        "limit": 0
+    },
+    "properties.axis.name.position.top": {
+        "value": "boven",
+        "comment": "",
+        "limit": 0
+    },
+    "properties.axis.name.position.middle": {
+        "value": "midden",
+        "comment": "Vertical center (between top and bottom)",
+        "limit": 0
+    },
+    "properties.axis.name.position.bottom": {
+        "value": "onder",
+        "comment": "",
+        "limit": 0
+    },
+    "properties.axis.min": {
+        "value": "Min",
+        "comment": "",
+        "limit": 0
+    },
+    "properties.axis.min.warning": {
+        "value": "Min waarde kan niet groter zijn dan max waarde",
+        "comment": "",
+        "limit": 0
+    },
+    "properties.axis.max": {
+        "value": "Max",
+        "comment": "",
+        "limit": 0
+    },
+    "properties.axis.max.warning": {
+        "value": "Max waarde kan niet kleiner zijn dan min waarde",
+        "comment": "",
+        "limit": 0
+    },
+    "properties.xaxis.title": {
+        "value": "X-as",
+        "comment": "Horizontal axis of a plot.",
+        "limit": 0
+    },
+    "properties.axis.scale": {
+        "value": "schaal",
+        "comment": "",
+        "limit": 0
+    },
+    "properties.axis.left": {
+        "value": "Links",
+        "comment": "",
+        "limit": 0
+    },
+    "properties.axis.right": {
+        "value": "Rechts",
+        "comment": "",
+        "limit": 0
+    },
+    "properties.axis.top": {
+        "value": "Boven",
+        "comment": "",
+        "limit": 0
+    },
+    "properties.axis.bottom": {
+        "value": "Onder",
+        "comment": "",
+        "limit": 0
+    },
+    "properties.rotation.0": {
+        "value": "0°",
+        "comment": "",
+        "limit": 0
+    },
+    "properties.rotation.30": {
+        "value": "30°",
+        "comment": "",
+        "limit": 0
+    },
+    "properties.rotation.60": {
+        "value": "60°",
+        "comment": "",
+        "limit": 0
+    },
+    "properties.rotation.90": {
+        "value": "90°",
+        "comment": "",
+        "limit": 0
+    },
+    "properties.legend.position.up": {
+        "value": "boven",
+        "comment": "",
+        "limit": 0
+    },
+    "properties.legend.position.down": {
+        "value": "onder",
+        "comment": "",
+        "limit": 0
+    },
+    "properties.legend.position.right": {
+        "value": "rechts",
+        "comment": "",
+        "limit": 0
+    },
+    "properties.legend.position.left": {
+        "value": "links",
+        "comment": "",
+        "limit": 0
+    },
+    "properties.orientation.title": {
+        "value": "Oriëntatie",
+        "comment": "The title for the orientation configuration section",
+        "limit": 0
+    },
+    "properties.orientation.horizontal": {
+        "value": "Horizontaal (standaard)",
+        "comment": "The chart orientation configuration",
+        "limit": 0
+    },
+    "properties.orientation.vertical": {
+        "value": "Verticaal",
+        "comment": "The chart orientation configuration",
+        "limit": 0
+    },
+    "properties.points.title": {
+        "value": "Punten",
+        "comment": "Points on map",
+        "limit": 0
+    },
+    "properties.points.groupNearbyPoints": {
+        "value": "Nabijgelegen punten groeperen",
+        "comment": "",
+        "limit": 0
+    },
+    "properties.points.size.title": {
+        "value": "Puntenformaat",
+        "comment": "Size of a point on a map",
+        "limit": 0
+    },
+    "properties.points.size.extra_small": {
+        "value": "0,5x",
+        "comment": "Multiplicator of size of a point on map. Means 50% of size.",
+        "limit": 0
+    },
+    "properties.points.size.small": {
+        "value": "0,75x",
+        "comment": "Multiplicator of size of a point on map. Means 75% of size.",
+        "limit": 0
+    },
+    "properties.points.size.normal": {
+        "value": "normaal",
+        "comment": "Multiplicator of size of a point on map. Means 100% of size.",
+        "limit": 0
+    },
+    "properties.points.size.large": {
+        "value": "1,25x",
+        "comment": "Multiplicator of size of a point on map. Means 125% of size.",
+        "limit": 0
+    },
+    "properties.points.size.extra_large": {
+        "value": "1,5x",
+        "comment": "Multiplicator of size of a point on map. Means 150% of size.",
+        "limit": 0
+    },
+    "properties.points.size.min.title": {
+        "value": "Kleinste",
+        "comment": "Smallest size of a point on a map",
+        "limit": 0
+    },
+    "properties.points.size.max.title": {
+        "value": "Grootste",
+        "comment": "Largest size of a point on a map",
+        "limit": 0
+    },
+    "properties.map.title": {
+        "value": "Kaart",
+        "comment": "Map configuration",
+        "limit": 0
+    },
+    "properties.viewport.area.title": {
+        "value": "Standaard viewport",
+        "comment": "Default viewport configuration",
+        "limit": 0
+    },
+    "properties.viewport.area.auto_default": {
+        "value": "Alle gegevens insluiten",
+        "comment": "All data will be visibled on the map",
+        "limit": 0
+    },
+    "properties.viewport.area.continents": {
+        "value": "continenten",
+        "comment": "",
+        "limit": 0
+    },
+    "properties.viewport.area.continent_af": {
+        "value": "Afrika",
+        "comment": "Continent Africa",
+        "limit": 0
+    },
+    "properties.viewport.area.continent_as": {
+        "value": "Azië",
+        "comment": "Continent Asia",
+        "limit": 0
+    },
+    "properties.viewport.area.continent_au": {
+        "value": "Australië",
+        "comment": "Continent Australia",
+        "limit": 0
+    },
+    "properties.viewport.area.continent_eu": {
+        "value": "Europa",
+        "comment": "Continent Europe",
+        "limit": 0
+    },
+    "properties.viewport.area.continent_na": {
+        "value": "Amerika (noord)",
+        "comment": "Continent North America",
+        "limit": 0
+    },
+    "properties.viewport.area.continent_sa": {
+        "value": "Amerika (zuid)",
+        "comment": "Continent South America",
+        "limit": 0
+    },
+    "properties.viewport.area.world": {
+        "value": "Wereld",
+        "comment": "",
+        "limit": 0
+    },
+    "gs.color-dropdown.custom-color": {
+        "value": "Aangepaste kleur",
+        "comment": "",
+        "limit": 0
+    },
+    "properties.colors.reset-colors": {
+        "value": "Kleuren herstellen",
+        "comment": "",
+        "limit": 0
+    },
+    "properties.colors": {
+        "value": "Kleuren",
+        "comment": "",
+        "limit": 0
+    },
+    "properties.colors.unsupported|insight": {
+        "value": "Er zijn geen kleuren voor deze configuratie van de visualisatie",
+        "comment": "",
+        "limit": 0
+    },
+    "properties.colors.unsupported|report": {
+        "value": "There are no colors for this configuration of the report",
+        "comment": "",
+        "limit": 0,
+        "translate": false
+    },
+    "export_unsupported.colors|insight": {
+        "value": "De visualisatie is niet compatibel met aangepaste kleuren. Om de visualisatie als rapport te openen, klikt u Reset kleuren in Configuratie -> Kleuren.",
+        "comment": "",
+        "limit": 0
+    },
+    "export_unsupported.colors|report": {
+        "value": "The report is not compatible with custom colors. Click Reset Colors in Configuration —> Colors.",
+        "comment": "",
+        "limit": 0,
+        "translate": false
+    },
+    "dashboard.bucket.measures_title.bullet._measure": {
+        "value": "Maat",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.measures_title.bullet._metric": {
+        "value": "Meetgegeven",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.secondary_measures_title.bullet._measure": {
+        "value": "Maat",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.secondary_measures_title.bullet._metric": {
+        "value": "Meetgegeven",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.tertiary_measures_title.bullet._measure": {
+        "value": "Maat",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.tertiary_measures_title.bullet._metric": {
+        "value": "Meetgegeven",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.measures_subtitle.bullet": {
+        "value": "Primair",
+        "comment": "Primary measure of a bullet chart.",
+        "limit": 0
+    },
+    "dashboard.bucket.secondary_measures_subtitle.bullet": {
+        "value": "Doel",
+        "comment": "Target of a bullet chart.",
+        "limit": 0
+    },
+    "dashboard.bucket.tertiary_measures_subtitle.bullet": {
+        "value": "Relatief",
+        "comment": "Comparative measures of a bullet chart",
+        "limit": 0
+    },
+    "sorting.disabled.explanation.attribute|insight": {
+        "value": "Sorteren is niet mogelijk voor deze visualisatieconfiguratie.",
+        "comment": "Explains why sort button is disabled. Shown as tooltip",
+        "limit": 0
+    },
+    "sorting.disabled.explanation.attribute|report": {
+        "value": "Sorteren is niet mogelijk voor deze rapportconfiguratie.",
+        "comment": "Explains why sort button is disabled. Shown as tooltip",
+        "limit": 0,
+        "translate": false
+    },
+    "sorting.disabled.explanation.measure._measure|insight": {
+        "value": "U moet ten minste één attribuut toevoegen om de visualisatie te sorteren. U kunt ook de positie van items in het onderdeel maatregelen aanpassen om hun positie in de visualisatie te wijzigen.",
+        "comment": "Explains why sort button is disabled. Shown as tooltip",
+        "limit": 0
+    },
+    "sorting.disabled.explanation.measure._measure|report": {
+        "value": "U moet minimaal één attribuut toevoegen om het rapport te sorteren. U kunt ook de positie van items aanpassen in het gedeelte Maten om de positie ervan in het rapport te wijzigen.",
+        "comment": "Explains why sort button is disabled. Shown as tooltip",
+        "limit": 0,
+        "translate": false
+    },
+    "sorting.disabled.explanation.measure._metric|insight": {
+        "value": "U moet minstens één attribuut toevoegen om de visualisatie te sorteren. U kunt ook de positie van items in de Metrics-sectie aanpassen om hun positie in de visualisatie te wijzigen.",
+        "comment": "Explains why sort button is disabled. Shown as tooltip",
+        "limit": 0
+    },
+    "sorting.disabled.explanation.measure._metric|report": {
+        "value": "U moet minimaal één attribuut toevoegen om het rapport te sorteren. U kunt ook de positie van items in het gedeelte Meetgegevens aanpassen om de positie ervan in het rapport te wijzigen.",
+        "comment": "Explains why sort button is disabled. Shown as tooltip",
+        "limit": 0,
+        "translate": false
+    },
+    "properties.metrics.title._measure": {
+        "value": "Maten",
+        "comment": "",
+        "limit": 0
+    },
+    "properties.metrics.title._metric": {
+        "value": "Meetgegevens",
+        "comment": "",
+        "limit": 0
+    },
+    "properties.metrics.position": {
+        "value": "Positie",
+        "comment": "",
+        "limit": 0
+    },
+    "properties.metrics.position.columns": {
+        "value": "kolommen (standaard)",
+        "comment": "",
+        "limit": 0
+    },
+    "properties.metrics.position.rows": {
+        "value": "rijen",
+        "comment": "",
+        "limit": 0
+    },
+    "properties.column.headers.title": {
+        "value": "Kolomkoppen",
+        "comment": "",
+        "limit": 0
+    },
+    "properties.column.headers.position": {
+        "value": "Positie",
+        "comment": "",
+        "limit": 0
+    },
+    "properties.column.headers.position.top": {
+        "value": "boven (standaard)",
+        "comment": "",
+        "limit": 0
+    },
+    "properties.column.headers.position.left": {
+        "value": "links",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.table.subtitle.columns": {
+        "value": "In kolommen",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.table.subtitle.rows": {
+        "value": "In rijen",
+        "comment": "",
+        "limit": 0
+    },
+    "properties.interactions.title": {
+        "value": "Interacties",
+        "comment": "The title for the interactions configuration section",
+        "limit": 0
+    },
+    "properties.advanced.title": {
+        "value": "Geavanceerde aanpassingen",
+        "comment": "The title for the advanced configuration section",
+        "limit": 0
+    },
+    "properties.advanced.chartConfigOverride.noValueLabel": {
+        "value": "Nog geen aanpassingen.",
+        "comment": "Text show when user did not define any customization yet.",
+        "limit": 0
+    },
+    "properties.advanced.chartConfigOverride.link": {
+        "value": "Meer informatie",
+        "comment": "Text of link that leads to feature documentation.",
+        "limit": 0
+    },
+    "properties.advanced.chartConfigOverride.editorButton": {
+        "value": "Editor openen",
+        "comment": "Text of button that opens editor of configuration.",
+        "limit": 0
+    },
+    "properties.advanced.chartConfigOverride.title": {
+        "value": "Geavanceerde aanpassing",
+        "comment": "Text of dialog that defines advanced customization of visualization.",
+        "limit": 0
+    },
+    "properties.advanced.chartConfigOverride.snippets.header": {
+        "value": "Fragmenten ",
+        "comment": "The header of list that contains snippets (recipes) of various charts configurations.",
+        "limit": 0
+    },
+    "properties.advanced.chartConfigOverride.button.apply": {
+        "value": "Toepassen",
+        "comment": "The label of button in dialog that applies the dialog value.",
+        "limit": 0
+    },
+    "properties.advanced.chartConfigOverride.button.cancel": {
+        "value": "Annuleren",
+        "comment": "The label of button in dialog that closes the dialog.",
+        "limit": 0
+    },
+    "properties.interactions.drillDown": {
+        "value": "Inzoomen",
+        "comment": "The text for the drill down checkbox",
+        "limit": 0
+    },
+    "properties.interactions.alerts": {
+        "value": "Waarschuwing",
+        "comment": "Label of the checkbox that enables/disables alerts configuration for particular visualization.",
+        "limit": 0
+    },
+    "properties.interactions.alerts.tooltip": {
+        "value": "Stel gebruikers in staat om waarschuwingen te maken voor deze visualisatie op dashboards.",
+        "comment": "Tooltip for the checkbox that enables/disables alerts configuration for particular visualization.",
+        "limit": 0
+    },
+    "properties.interactions.scheduledExports": {
+        "value": "Geplande export",
+        "comment": "Label of the checkbox that enables/disables scheduled exports configuration for particular visualization.",
+        "limit": 0
+    },
+    "properties.interactions.scheduledExports.tooltip": {
+        "value": "Stel gebruikers in staat om geplande exports te maken voor deze visualisatie op dashboards.",
+        "comment": "Tooltip for the checkbox that enables/disables scheduled exports configuration for particular visualization.",
+        "limit": 0
+    },
+    "properties.comparison.title": {
+        "value": "Vergelijking",
+        "comment": "The title of comparison section",
+        "limit": 0
+    },
+    "properties.comparison.calculationType.title": {
+        "value": "Berekend als",
+        "comment": "The label of calculation type dropdown",
+        "limit": 0
+    },
+    "properties.comparison.calculationType.as.change": {
+        "value": "Wijzigen",
+        "comment": "The title of the dropdown option that specifies the arithmetic operation to calculate the change between two values.",
+        "limit": 0
+    },
+    "properties.comparison.calculationType.as.ratio": {
+        "value": "Verhouding",
+        "comment": "The title of the dropdown option that specifies the arithmetic operation to calculate the ratio between two values.",
+        "limit": 0
+    },
+    "properties.comparison.calculationType.as.difference": {
+        "value": "Verschil",
+        "comment": "The title of the dropdown option that specifies the arithmetic operation to calculate the difference between two values.",
+        "limit": 0
+    },
+    "properties.comparison.calculationType.as.changeDifference": {
+        "value": "Wijzigen (verschil)",
+        "comment": "The title of the dropdown option that specifies the arithmetic operation to calculate the change and difference between two values.",
+        "limit": 0
+    },
+    "properties.comparison.calculationType.as.change.tooltip.useIn._metric": {
+        "value": "Berekent de relatieve wijziging tussen primaire en secundaire metrische waarden.",
+        "comment": "The content describes the pertinent scenarios for the change calculation.",
+        "limit": 0
+    },
+    "properties.comparison.calculationType.as.change.tooltip.useIn._measure": {
+        "value": "Berekent de relatieve wijziging tussen primaire en secundaire maatwaarden.",
+        "comment": "The content describes the pertinent scenarios for the change calculation.",
+        "limit": 0
+    },
+    "properties.comparison.calculationType.as.ratio.tooltip.useIn._metric": {
+        "value": "Kwantificeert het deel van de primaire metrische waarde in de secundaire metrische waarde.",
+        "comment": "The content describes the pertinent scenarios for the ratio calculation.",
+        "limit": 0
+    },
+    "properties.comparison.calculationType.as.ratio.tooltip.useIn._measure": {
+        "value": "Kwantificeert het deel van de primaire maatwaarde in de secundaire maatwaarde.",
+        "comment": "The content describes the pertinent scenarios for the ratio calculation.",
+        "limit": 0
+    },
+    "properties.comparison.calculationType.as.difference.tooltip.useIn._metric": {
+        "value": "Berekent het absolute verschil tussen primaire en secundaire metrische waarden.",
+        "comment": "The content describes the pertinent scenarios for the difference calculation.",
+        "limit": 0
+    },
+    "properties.comparison.calculationType.as.difference.tooltip.useIn._measure": {
+        "value": "Berekent het absolute verschil tussen primaire en secundaire maatwaarden.",
+        "comment": "The content describes the pertinent scenarios for the difference calculation.",
+        "limit": 0
+    },
+    "properties.comparison.calculationType.as.changeDifference.tooltip.useIn._metric": {
+        "value": "Berekent zowel de relatieve wijziging als het absolute verschil tussen primaire en secundaire metrische waarden.",
+        "comment": "The content describes the pertinent scenarios for the change (difference) calculation.",
+        "limit": 0
+    },
+    "properties.comparison.calculationType.as.changeDifference.tooltip.useIn._measure": {
+        "value": "Berekent zowel de relatieve wijziging als het absolute verschil tussen primaire en secundaire maatwaarden.",
+        "comment": "The content describes the pertinent scenarios for the change (difference) calculation.",
+        "limit": 0
+    },
+    "properties.comparison.calculationType.tooltip.formula.section": {
+        "value": "Formule",
+        "comment": "The title of the section that describes the formula for the calculation",
+        "limit": 0
+    },
+    "properties.comparison.calculationType.tooltip.formulaChange.section": {
+        "value": "Formule (relatieve wijziging)",
+        "comment": "The title of the section that describes the formula for the change calculation",
+        "limit": 0
+    },
+    "properties.comparison.calculationType.tooltip.formulaDifference.section": {
+        "value": "Formule (absoluut verschil)",
+        "comment": "The title of the section that describes the formula for the difference calculation",
+        "limit": 0
+    },
+    "properties.comparison.calculationType.as.change.tooltip.formula": {
+        "value": "(Primair - Secundair) / Secundair",
+        "comment": "The content describes the formula of the change calculation.",
+        "limit": 0
+    },
+    "properties.comparison.calculationType.as.ratio.tooltip.formula": {
+        "value": "Primair / Secundair",
+        "comment": "The content describes the formula of the ratio calculation.",
+        "limit": 0
+    },
+    "properties.comparison.calculationType.as.difference.tooltip.formula": {
+        "value": "Primair - Secundair",
+        "comment": "The content describes the formula of the difference calculation.",
+        "limit": 0
+    },
+    "properties.comparison.calculationType.tooltip.example.section": {
+        "value": "Voorbeeld",
+        "comment": "The title of the section that provides an example for the calculation",
+        "limit": 0
+    },
+    "properties.comparison.calculationType.as.change.tooltip.example": {
+        "value": "Verkoopwijziging jaar na jaar = (verkopen in het huidige jaar - verkopen in het vorige jaar) / verkopen in het vorige jaar",
+        "comment": "The example illustrating the change calculation.",
+        "limit": 0
+    },
+    "properties.comparison.calculationType.as.ratio.tooltip.example": {
+        "value": "Huidige verkopen vergeleken met een quotum = huidige verkopen/quotum",
+        "comment": "The example illustrating the ratio calculation.",
+        "limit": 0
+    },
+    "properties.comparison.calculationType.as.difference.tooltip.example": {
+        "value": "Verkoopverschil jaar na jaar = verkopen in het huidige jaar - verkopen in het vorige jaar",
+        "comment": "The example illustrating the difference calculation.",
+        "limit": 0
+    },
+    "properties.comparison.calculationType.as.changeDifference.tooltip.example": {
+        "value": "Verkoopwijziging jaar na jaar = [(verkopen in het huidige jaar - verkopen in het vorige jaar) / verkopen in het vorige jaar] EN [de verkopen in het huidige jaar - de verkopen in het vorige jaar]",
+        "comment": "The example illustrating the change (difference) calculation.",
+        "limit": 0
+    },
+    "properties.comparison.measureNumber.format.preset.inherit": {
+        "value": "Erven",
+        "comment": "An item in list of formatting presets. Means: use inherited measure format",
+        "limit": 0
+    },
+    "properties.comparison.measureNumber.format.preset.rounded": {
+        "value": "Afgerond",
+        "comment": "An item in list of formatting presets. Whole number without decimal numbers.",
+        "limit": 0
+    },
+    "properties.comparison.measureNumber.format.preset.decimal1": {
+        "value": "Decimaal (1)",
+        "comment": "An item in list of formatting presets. Decimal number measure format with one decimal number.",
+        "limit": 0
+    },
+    "properties.comparison.measureNumber.format.preset.decimal2": {
+        "value": "Decimaal (2)",
+        "comment": "An item in list of formatting presets. Decimal number measure format with two decimal numbers.",
+        "limit": 0
+    },
+    "properties.comparison.measureNumber.format.preset.percentRounded": {
+        "value": "Percentage (afgerond)",
+        "comment": "An item in list of formatting presets. Whole number without decimal numbers and with % sign at the end.",
+        "limit": 0
+    },
+    "properties.comparison.measureNumber.format.preset.percent1": {
+        "value": "Percentage (1)",
+        "comment": "An item in list of formatting presets. Decimal number with one decimal number and % sign at the end.",
+        "limit": 0
+    },
+    "properties.comparison.measureNumber.format.preset.percent2": {
+        "value": "Percentage (2)",
+        "comment": "An item in list of formatting presets. Decimal number with two decimal numbers and % sign at the end.",
+        "limit": 0
+    },
+    "properties.comparison.measureNumber.format.template.rounded": {
+        "value": "Afgerond",
+        "comment": "An item in list of formatting templates. Whole number without decimal numbers.",
+        "limit": 0
+    },
+    "properties.comparison.measureNumber.format.template.decimal1": {
+        "value": "Decimaal (1)",
+        "comment": "An item in list of formatting templates. Decimal number measure format with one decimal number.",
+        "limit": 0
+    },
+    "properties.comparison.measureNumber.format.template.decimal2": {
+        "value": "Decimaal (2)",
+        "comment": "An item in list of formatting templates. Decimal number measure format with two decimal numbers.",
+        "limit": 0
+    },
+    "properties.comparison.measureNumber.format.template.percentRounded": {
+        "value": "Percentage (afgerond)",
+        "comment": "An item in list of formatting templates. Whole number without decimal numbers and with % sign at the end.",
+        "limit": 0
+    },
+    "properties.comparison.measureNumber.format.template.percent1": {
+        "value": "Percentage (1)",
+        "comment": "An item in list of formatting templates. Decimal number with one decimal number and % sign at the end.",
+        "limit": 0
+    },
+    "properties.comparison.measureNumber.format.template.percent2": {
+        "value": "Percentage (2)",
+        "comment": "An item in list of formatting templates. Decimal number with two decimal numbers and % sign at the end.",
+        "limit": 0
+    },
+    "properties.comparison.measureNumber.format.template.currency": {
+        "value": "Munteenheid",
+        "comment": "An item in list of formatting templates. Number with currency sign.",
+        "limit": 0
+    },
+    "properties.comparison.measureNumber.format.template.currencyShortened": {
+        "value": "Munteenheid afgekort",
+        "comment": "An item in list of formatting templates. Number with currency sign shortened with K, M, B and T characters.",
+        "limit": 0
+    },
+    "properties.comparison.measureNumber.format.template.largeNumbersShortened": {
+        "value": "Grote getallen afgekort",
+        "comment": "An item in list of formatting templates. Number shortened with K, M, B and T characters.",
+        "limit": 0
+    },
+    "properties.comparison.measureNumber.format.template.largeNumbersShortenedWithColors": {
+        "value": "Grote getallen afgekort met kleuren",
+        "comment": "An item in list of formatting templates. Colored number shortened with K, M, B and T characters.",
+        "limit": 0
+    },
+    "properties.comparison.measureNumber.format.template.negativeNumbersRed": {
+        "value": "Negatieve getallen in rood",
+        "comment": "An item in list of formatting templates. Number is formatted in red color if negative.",
+        "limit": 0
+    },
+    "properties.comparison.measureNumber.format.template.financial": {
+        "value": "Financieel",
+        "comment": "An item in list of formatting templates. Number is in brackets if negative.",
+        "limit": 0
+    },
+    "properties.comparison.measureNumber.format.template.decimalWithoutThousandsSeparator": {
+        "value": "Decimaal (2) met scheidingsteken voor duizendtallen",
+        "comment": "An item in list of formatting templates.",
+        "limit": 0
+    },
+    "properties.comparison.measureNumber.format.template.conditionalColors": {
+        "value": "Voorwaardelijke kleuren",
+        "comment": "An item in list of formatting templates. Numbers is formatted in different colors based on its value.",
+        "limit": 0
+    },
+    "properties.comparison.measureNumber.format.template.trendSymbols": {
+        "value": "Trendsymbolen",
+        "comment": "An item in list of formatting templates. Numbers is formatted in different colors prefixed with arrow symbol based on its value.",
+        "limit": 0
+    },
+    "properties.comparison.measureNumber.format.template.timeFromSeconds": {
+        "value": "Tijd (in seconden)",
+        "comment": "An item in list of formatting templates. Seconds are formatted properly in hours, minutes and seconds.",
+        "limit": 0
+    },
+    "properties.comparison.measureNumber.format.template.zeroInsteadOfNull": {
+        "value": "Nul in plaats van blanco waarde",
+        "comment": "An item in list of formatting templates. Null value is replaced with 0.",
+        "limit": 0
+    },
+    "properties.comparison.valueSubSection.title": {
+        "value": "Waarde",
+        "comment": "The label of comparison value sub section.",
+        "limit": 0
+    },
+    "properties.comparison.format.title": {
+        "value": "Formaat",
+        "comment": "The label of comparison format control.",
+        "limit": 0
+    },
+    "properties.comparison.subFormat.title": {
+        "value": "(Formaat)",
+        "comment": "The label of comparison sub format control.",
+        "limit": 0
+    },
+    "properties.comparison.indicator.title": {
+        "value": "Indicator",
+        "comment": "The label of comparison indicator sub section",
+        "limit": 0
+    },
+    "properties.comparison.indicator.arrow.title": {
+        "value": "Pijl",
+        "comment": "The label of the checkbox that controls whether to use the arrow indicator or not.",
+        "limit": 0
+    },
+    "properties.comparison.indicator.colorConfig.title": {
+        "value": "Kleur",
+        "comment": "The label of the checkbox that controls whether to use the color or not.",
+        "limit": 0
+    },
+    "properties.comparison.indicator.colorConfig.equals": {
+        "value": "Primair = Secundair",
+        "comment": "The label of the color item will be set when the primary value is equal to the secondary value.",
+        "limit": 0
+    },
+    "properties.comparison.indicator.colorConfig.positive": {
+        "value": "Primair > Secundair",
+        "comment": "The label of the color item will be set when the primary value is greater than the secondary value.",
+        "limit": 0
+    },
+    "properties.comparison.indicator.colorConfig.negative": {
+        "value": "Primair < Secundair",
+        "comment": "The label of the color item will be set when the primary value is less than the secondary value.",
+        "limit": 0
+    },
+    "properties.comparison.labelSubSection.title": {
+        "value": "Label",
+        "comment": "The label of comparison label sub section.",
+        "limit": 0
+    },
+    "properties.comparison.labelSubSection.positionOnTop.disabled": {
+        "value": "Labels niet van toepassing voor waarde op bovenste positie.",
+        "comment": "Disable tooltip message when the comparison position is set to top.",
+        "limit": 0
+    },
+    "properties.comparison.labelSubSection.conditional.disabled": {
+        "value": "Voorwaardelabels zijn niet van toepassing op verhoudingsberekeningen.",
+        "comment": "Disable tooltip message when the calculation is ratio.",
+        "limit": 0
+    },
+    "properties.comparison.labelName.title": {
+        "value": "Naam",
+        "comment": "The label of name input control.",
+        "limit": 0
+    },
+    "properties.comparison.labelConditional.title": {
+        "value": "Voorwaardelijk",
+        "comment": "The label of conditional checkbox control.",
+        "limit": 0
+    },
+    "properties.comparison.labelPositive.title": {
+        "value": "Primair > Secundair",
+        "comment": "The label of the input control will be set when the primary value is greater than the secondary value.",
+        "limit": 0
+    },
+    "properties.comparison.labelNegative.title": {
+        "value": "Primair < Secundair",
+        "comment": "The label of the input control will be set when the primary value is less than the secondary value.",
+        "limit": 0
+    },
+    "properties.comparison.labelEquals.title": {
+        "value": "Primair = Secundair",
+        "comment": "The label of the input control will be set when the primary value is equal the secondary value.",
+        "limit": 0
+    },
+    "properties.comparison.position.title": {
+        "value": "Positie",
+        "comment": "The label of comparison position control.",
+        "limit": 0
+    },
+    "properties.comparison.position.top": {
+        "value": "boven",
+        "comment": "The title of dropdown option that specifies the position of comparison to be on top.",
+        "limit": 0
+    },
+    "properties.comparison.position.right": {
+        "value": "rechts",
+        "comment": "The title of dropdown option that specifies the position of comparison to be on right.",
+        "limit": 0
+    },
+    "properties.comparison.position.left": {
+        "value": "links",
+        "comment": "The title of dropdown option that specifies the position of comparison to be on left.",
+        "limit": 0
+    },
+    "visualizations.headline.tertiary.title": {
+        "value": "Versus",
+        "comment": "Means comparison of two values - for example '100 (this week) VERSUS 10 (last week)'.",
+        "limit": 0
+    },
+    "gs.date.yesterday": {
+        "value": "Gisteren",
+        "comment": "",
+        "limit": 0
+    },
+    "notifications.panel.button.label": {
+        "value": "Meldingen",
+        "comment": "A global notifications button label in the main menu",
+        "limit": 0
+    },
+    "notifications.panel.notifications.list.label": {
+        "value": "Meldingen",
+        "comment": "",
+        "limit": 0
+    },
+    "notifications.panel.tab.unread": {
+        "value": "Niet gelezen ({count})",
+        "comment": "",
+        "limit": 0
+    },
+    "notifications.panel.tab.all": {
+        "value": "Alle",
+        "comment": "",
+        "limit": 0
+    },
+    "notifications.panel.markAllAsRead": {
+        "value": "Alles als gelezen markeren",
+        "comment": "",
+        "limit": 0
+    },
+    "notifications.panel.error.loading": {
+        "value": "Fout bij het laden van meldingen",
+        "comment": "",
+        "limit": 0
+    },
+    "notifications.panel.empty.all": {
+        "value": "Geen meldingen",
+        "comment": "",
+        "limit": 0
+    },
+    "notifications.panel.empty.unread": {
+        "value": "Geen ongelezen meldingen",
+        "comment": "",
+        "limit": 0
+    },
+    "notifications.panel.unsupported.notification.type": {
+        "value": "Niet-ondersteund meldingstype",
+        "comment": "",
+        "limit": 0
+    },
+    "notifications.panel.markAsRead": {
+        "value": "Als gelezen markeren",
+        "comment": "",
+        "limit": 0
+    },
+    "notifications.panel.alert.notification.type.label": {
+        "value": "Waarschuwingsmelding",
+        "comment": "",
+        "limit": 0
+    },
+    "notifications.filters.buttonLabel": {
+        "value": "Filters tonen",
+        "comment": "",
+        "limit": 0
+    },
+    "notifications.filters.dialog.title": {
+        "value": "Toegepaste filters",
+        "comment": "",
+        "limit": 0
+    },
+    "notifications.filters.dialog.dateRange": {
+        "value": "Datumbereik",
+        "comment": "",
+        "limit": 0
+    },
+    "notifications.panel.triggers.title": {
+        "value": "voor {triggeredCount}/{totalCount} items",
+        "comment": "",
+        "limit": 0
+    },
+    "notifications.panel.triggers.dialog.newValue": {
+        "value": "Nieuwe waarde",
+        "comment": "",
+        "limit": 0
+    },
+    "close": {
+        "value": "Sluiten",
+        "comment": "Label of a button for closing a dialog window",
+        "limit": 0
+    },
+    "notifications.panel.triggers.dialog.title": {
+        "value": "Geactiveerd voor",
+        "comment": "",
+        "limit": 0
+    },
+    "notifications.panel.error.learnMore": {
+        "value": "Meer informatie",
+        "comment": "",
+        "limit": 0
+    },
+    "notifications.panel.error.traceId": {
+        "value": "Traceer-ID",
+        "comment": "",
+        "limit": 0
+    },
+    "notifications.panel.error.message": {
+        "value": "De waarschuwing kon niet worden verwerkt.",
+        "comment": "",
+        "limit": 0
+    }
+}
