@@ -1,0 +1,114 @@
+{
+  "gd.gen-ai.global-error": {
+    "value": "Something went wrong",
+    "crowdinContext": ""
+  },
+  "gd.gen-ai.global-error.description": {
+    "value": "Try restarting the chatbot and starting over.",
+    "crowdinContext": ""
+  },
+  "gd.gen-ai.global-error.button-details": {
+    "value": "See details",
+    "crowdinContext": ""
+  },
+  "gd.gen-ai.global-error.button-clear": {
+    "value": "Restart chatbot",
+    "crowdinContext": ""
+  },
+  "gd.gen-ai.input-placeholder": {
+    "value": "Ask here…",
+    "crowdinContext": "Use ellipsis at the end …"
+  },
+  "gd.gen-ai.input-label": {
+    "value": "Ask your question",
+    "crowdinContext": ""
+  },
+  "gd.gen-ai.assistant-icon": {
+    "value": "chatbot",
+    "crowdinContext": ""
+  },
+  "gd.gen-ai.disclaimer": {
+    "value": "AI assistants can make mistakes. Check before relying on these answers.",
+    "crowdinContext": ""
+  },
+  "gd.gen-ai.header.reset-tooltip": {
+    "value": "Reset",
+    "crowdinContext": ""
+  },
+  "gd.gen-ai.header.contract-tooltip": {
+    "value": "Contract",
+    "crowdinContext": "As in the opposite of expand"
+  },
+  "gd.gen-ai.header.expand-tooltip": {
+    "value": "Expand",
+    "crowdinContext": ""
+  },
+  "gd.gen-ai.header.close-tooltip": {
+    "value": "Close",
+    "crowdinContext": ""
+  },
+  "gd.gen-ai.welcome.line-1": {
+    "value": "Hi there,",
+    "crowdinContext": ""
+  },
+  "gd.gen-ai.welcome.line-2": {
+    "value": "How can I help you?",
+    "crowdinContext": ""
+  },
+  "gd.gen-ai.welcome.option-1.title": {
+    "value": "Search for a dashboard or visualization",
+    "crowdinContext": ""
+  },
+  "gd.gen-ai.welcome.option-1.answer": {
+    "value": "Sure thing, what kind of dashboard or visualization would you like to see?",
+    "crowdinContext": ""
+  },
+  "gd.gen-ai.welcome.option-2.title": {
+    "value": "Create a new visualization",
+    "crowdinContext": ""
+  },
+  "gd.gen-ai.welcome.option-2.answer": {
+    "value": "Sure thing, what kind of visualization would you like to create?",
+    "crowdinContext": ""
+  },
+  "gd.gen-ai.welcome.option-3.title": {
+    "value": "Answer a business question",
+    "crowdinContext": ""
+  },
+  "gd.gen-ai.welcome.option-3.answer": {
+    "value": "Sure thing, what business question would you like to answer?",
+    "crowdinContext": ""
+  },
+  "gd.gen-ai.state.cancelled": {
+    "value": "Evaluation cancelled…",
+    "crowdinContext": "Use ellipsis at the end …"
+  },
+  "gd.gen-ai.button.send": {
+    "value": "Send",
+    "crowdinContext": ""
+  },
+  "gd.gen-ai.button.save": {
+    "value": "Save",
+    "crowdinContext": ""
+  },
+  "gd.gen-ai.button.cancel": {
+    "value": "Cancel",
+    "crowdinContext": ""
+  },
+  "gd.gen-ai.button.edit": {
+    "value": "Edit",
+    "crowdinContext": ""
+  },
+  "gd.gen-ai.save-dialog.label": {
+    "value": "Name",
+    "crowdinContext": ""
+  },
+  "gd.gen-ai.save-dialog.title": {
+    "value": "Name your visualization",
+    "crowdinContext": ""
+  },
+  "gd.gen-ai.save-dialog.description": {
+    "value": "Give your new visualization a new descriptive name, so it's easier to find it later on.",
+    "crowdinContext": ""
+  }
+}
