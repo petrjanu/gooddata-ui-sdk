@@ -1,0 +1,2121 @@
+{
+    "or": {
+        "value": "oppure",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.measures_title.column._measure": {
+        "value": "Misure",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.measures_title.column._metric": {
+        "value": "Metriche",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.measures_title.bar._measure": {
+        "value": "Misure",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.measures_title.bar._metric": {
+        "value": "Metriche",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.measures_title.line._measure": {
+        "value": "Misure",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.measures_title.line._metric": {
+        "value": "Metriche",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.measures_title.area._measure": {
+        "value": "Misure",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.measures_title.area._metric": {
+        "value": "Metriche",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.measures_title.pie._measure": {
+        "value": "Misure",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.measures_title.pie._metric": {
+        "value": "Metriche",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.measures_title.funnel._measure": {
+        "value": "Misure",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.measures_title.funnel._metric": {
+        "value": "Metriche",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.measures_title.pyramid._measure": {
+        "value": "Misure",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.measures_title.pyramid._metric": {
+        "value": "Metriche",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.measures_title.treemap._measure": {
+        "value": "Misure",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.measures_title.treemap._metric": {
+        "value": "Metriche",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.measures_title.donut._measure": {
+        "value": "Misure",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.measures_title.donut._metric": {
+        "value": "Metriche",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.measures_title.heatmap._measure": {
+        "value": "Misura",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.measures_title.heatmap._metric": {
+        "value": "Metrica",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.measures_title.headline._measure": {
+        "value": "Misura",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.measures_title.headline._metric": {
+        "value": "Metrica",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.measures_subtitle.headline": {
+        "value": "primaria",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.secondary_measures_title.headline._measure": {
+        "value": "Misura",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.secondary_measures_title.headline._metric": {
+        "value": "Metrica",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.secondary_measures_subtitle.headline": {
+        "value": "secondaria",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.measures_title.scatter._measure": {
+        "value": "Misura",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.measures_title.scatter._metric": {
+        "value": "Metrica",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.secondary_measures_title.scatter._measure": {
+        "value": "Misura",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.secondary_measures_title.scatter._metric": {
+        "value": "Metrica",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.measures_subtitle.scatter": {
+        "value": "Asse X",
+        "comment": "Horizontal axis of a scatter plot.",
+        "limit": 0
+    },
+    "dashboard.bucket.secondary_measures_subtitle.scatter": {
+        "value": "Asse Y",
+        "comment": "Vertical axis of a scatter plot.",
+        "limit": 0
+    },
+    "dashboard.bucket.attribute_title.scatter": {
+        "value": "Visualizza per",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.segment_title.scatter": {
+        "value": "Segmenta per",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.measures_title.combo._measure": {
+        "value": "Misure",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.measures_title.combo._metric": {
+        "value": "Metriche",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.measures_subtitle.combo": {
+        "value": "Colonna",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.secondary_measures_title.combo._measure": {
+        "value": "Misure",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.secondary_measures_title.combo._metric": {
+        "value": "Metriche",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.secondary_measures_subtitle.combo": {
+        "value": "Linea",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.measures_title.xirr._measure": {
+        "value": "Misura",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.measures_title.xirr._metric": {
+        "value": "Metrica",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.measures_title.waterfall._measure": {
+        "value": "Misure",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.measures_title.waterfall._metric": {
+        "value": "Metriche",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.attribute_title.xirr": {
+        "value": "Attributo data",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.attribute_from_title.sankey": {
+        "value": "Attributo",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.attribute_from_subtitle.sankey": {
+        "value": "da",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.attribute_to_title.sankey": {
+        "value": "Attributo",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.attribute_to_subtitle.sankey": {
+        "value": "rispetto a",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.attribute_from_title.dependencywheel": {
+        "value": "Attributo",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.attribute_from_subtitle.dependencywheel": {
+        "value": "da",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.attribute_to_title.dependencywheel": {
+        "value": "Attributo",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.attribute_to_subtitle.dependencywheel": {
+        "value": "rispetto a",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.combo.subtitle.column": {
+        "value": "come colonne",
+        "comment": "Display measures in column chart = 'as columns'.",
+        "limit": 0
+    },
+    "dashboard.bucket.combo.subtitle.line": {
+        "value": "come linee",
+        "comment": "Display measures in line chart = 'as lines'.",
+        "limit": 0
+    },
+    "dashboard.bucket.combo.subtitle.area": {
+        "value": "come aree",
+        "comment": "Display measures in area chart = 'as areas'.",
+        "limit": 0
+    },
+    "dashboard.bucket.measures_title.bubble._measure": {
+        "value": "Misura",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.measures_title.bubble._metric": {
+        "value": "Metrica",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.secondary_measures_title.bubble._measure": {
+        "value": "Misura",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.secondary_measures_title.bubble._metric": {
+        "value": "Metrica",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.tertiary_measures_title.bubble._measure": {
+        "value": "Misura",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.tertiary_measures_title.bubble._metric": {
+        "value": "Metrica",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.measures_subtitle.bubble": {
+        "value": "Asse X",
+        "comment": "Horizontal axis of a bubble plot.",
+        "limit": 0
+    },
+    "dashboard.bucket.secondary_measures_subtitle.bubble": {
+        "value": "Asse Y",
+        "comment": "Vertical axis of a bubble plot.",
+        "limit": 0
+    },
+    "dashboard.bucket.tertiary_measures_subtitle.bubble": {
+        "value": "Dimensioni",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.location_title.pushpin": {
+        "value": "Posizione",
+        "comment": "Position of a pin pushed to a map.",
+        "limit": 0
+    },
+    "dashboard.bucket.size_title.pushpin._measure": {
+        "value": "Misura",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.size_title.pushpin._metric": {
+        "value": "Metrica",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.size_subtitle.pushpin": {
+        "value": "Dimensioni",
+        "comment": "Size of a pin pushed to a map",
+        "limit": 0
+    },
+    "dashboard.bucket.color_title.pushpin._measure": {
+        "value": "Misura",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.color_title.pushpin._metric": {
+        "value": "Metrica",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.color_subtitle.pushpin": {
+        "value": "Colore",
+        "comment": "Color of a pin pushed to a map",
+        "limit": 0
+    },
+    "dashboard.bucket.view_title.bubble": {
+        "value": "Visualizza per",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.view_title.pie": {
+        "value": "Visualizza per",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.view_title.treemap": {
+        "value": "Visualizza per",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.view_title.donut": {
+        "value": "Visualizza per",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.view_title.funnel": {
+        "value": "Visualizza per",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.view_title.pyramid": {
+        "value": "Visualizza per",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.view_title.column": {
+        "value": "Visualizza per",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.view_title.bar": {
+        "value": "Visualizza per",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.view_title.area": {
+        "value": "Visualizza per",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.view_title.bullet": {
+        "value": "Visualizza per",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.view_title.waterfall": {
+        "value": "Visualizza per",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.view_title.heatmap": {
+        "value": "Righe",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.trend_title.line": {
+        "value": "Tendi per",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.view_title.combo": {
+        "value": "Visualizza per",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.stack_title.column": {
+        "value": "Impila per",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.stack_title.bar": {
+        "value": "Impila per",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.stack_title.area": {
+        "value": "Impila per",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.stack_title.heatmap": {
+        "value": "Colonne",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.segment_title.line": {
+        "value": "Segmenta per",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.segment_title.treemap": {
+        "value": "Segmenta per",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.segment_title.pushpin": {
+        "value": "Segmenta per",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.metric_segment_by_warning._measure": {
+        "value": "Per aggiungere una misura aggiuntiva, rimuovere {icons} da '<span class=\"stack-by\">'Segmenta per'</span>'",
+        "comment": "Do not translate HTML markup enclosed in '<>'. Do not translate {icons}. Translate words 'segment by'.",
+        "limit": 0
+    },
+    "dashboard.bucket.metric_segment_by_warning._metric": {
+        "value": "Per aggiungere una metrica aggiuntiva, rimuovere {icons} da '<span class=\"stack-by\">'Segmenta per'</span>'",
+        "comment": "Do not translate HTML markup enclosed in '<>'. Do not translate {icons}. Translate words 'segment by'.",
+        "limit": 0
+    },
+    "dashboard.bucket.metric_stack_by_warning._measure": {
+        "value": "Per aggiungere una misura aggiuntiva, rimuovere {icons} da '<span class=\"stack-by\">'Impila per'</span>'",
+        "comment": "Do not translate HTML markup enclosed in '<>'. Do not translate {icons}. Translate words 'stack by'.",
+        "limit": 0
+    },
+    "dashboard.bucket.metric_stack_by_warning._metric": {
+        "value": "Per aggiungere una metrica aggiuntiva, rimuovere {icons} da '<span class=\"stack-by\">'Impila per'</span>'",
+        "comment": "Do not translate HTML markup enclosed in '<>'. Do not translate {icons}. Translate words 'stack by'.",
+        "limit": 0
+    },
+    "dashboard.bucket.metric_view_by_warning._measure": {
+        "value": "Per aggiungere una misura aggiuntiva, rimuovere {icons} da '<span class=\"stack-by\">'Visualizza per'</span>'",
+        "comment": "Do not translate HTML markup enclosed in '<>'. Do not translate {icons}. Translate words 'view by'.",
+        "limit": 0
+    },
+    "dashboard.bucket.metric_view_by_warning._metric": {
+        "value": "Per aggiungere una metrica aggiuntiva, rimuovere {icons} da '<span class=\"stack-by\">'Visualizza per'</span>'",
+        "comment": "Do not translate HTML markup enclosed in '<>'. Do not translate {icons}. Translate words 'view by'.",
+        "limit": 0
+    },
+    "dashboard.bucket.category_view_by_warning._measure|insight": {
+        "value": "Per visualizzare in base a un altro attributo, una visualizzazione può avere solo una misura",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.category_view_by_warning._metric|insight": {
+        "value": "Per visualizzare in base a un altro attributo, una visualizzazione può avere solo una metrica",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.category_view_by_warning._measure|report": {
+        "value": "To view by another attribute, a report can have only one measure",
+        "comment": "",
+        "limit": 0,
+        "translate": false
+    },
+    "dashboard.bucket.category_view_by_warning._metric|report": {
+        "value": "To view by another attribute, a report can have only one metric",
+        "comment": "",
+        "limit": 0,
+        "translate": false
+    },
+    "dashboard.bucket.view_stack_by_warning": {
+        "value": "Per aggiungere un attributo aggiuntivo, rimuovere {icons} da '<span class=\"stack-by\">'Impila per'</span>'",
+        "comment": "Do not translate HTML markup enclosed in '<>'. Do not translate {icons}. Translate words 'stack by'.",
+        "limit": 0
+    },
+    "dashboard.bucket.category_stack_by_warning._measure|insight": {
+        "value": "Per impilare, una visualizzazione può avere solo una misura",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.category_stack_by_warning._metric|insight": {
+        "value": "Per impilare, una visualizzazione può avere solo una metrica",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.category_stack_by_warning._measure|report": {
+        "value": "To stack by, a report can have only one measure",
+        "comment": "",
+        "limit": 0,
+        "translate": false
+    },
+    "dashboard.bucket.category_stack_by_warning._metric|report": {
+        "value": "To stack by, a report can have only one metric",
+        "comment": "",
+        "limit": 0,
+        "translate": false
+    },
+    "dashboard.bucket.stack_view_by_warning|insight": {
+        "value": "Per impilare, una visualizzazione può avere un solo attributo in vista ",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.stack_view_by_warning|report": {
+        "value": "To stack by, a report can have only one attribute in view by",
+        "comment": "",
+        "limit": 0,
+        "translate": false
+    },
+    "dashboard.bucket.measure_stack_by_warning._measure|insight": {
+        "value": "Per impilare in base a un attributo, una visualizzazione può avere solo una misura",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.measure_stack_by_warning._metric|insight": {
+        "value": "Per impilare in base a un attributo, una visualizzazione può avere solo una metrica",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.measure_stack_by_warning._measure|report": {
+        "value": "To stack by an attribute, a report can have only one measure",
+        "comment": "",
+        "limit": 0,
+        "translate": false
+    },
+    "dashboard.bucket.measure_stack_by_warning._metric|report": {
+        "value": "To stack by an attribute, a report can have only one metric",
+        "comment": "",
+        "limit": 0,
+        "translate": false
+    },
+    "dashboard.bucket.category_columns_warning._measure": {
+        "value": "Impossibile aggiungere colonne: il limite è {oldLimit} misure e {oldRowsLimit} righe. Seguire i limiti per aggiungerne altre",
+        "comment": "Do not translate {oldLimit} and {oldRowsLimit}.",
+        "limit": 0
+    },
+    "dashboard.bucket.category_columns_warning._metric": {
+        "value": "Impossibile aggiungere colonne: il limite è di {oldLimit} metriche e {oldRowsLimit} righe. Seguire i limiti per aggiungerne altre",
+        "comment": "Do not translate {oldLimit} and {oldRowsLimit}.",
+        "limit": 0
+    },
+    "dashboard.bucket.category_measures_rows_warning": {
+        "value": "Per aggiungerne altre {limit}, rimuovere tutti gli elementi dalla sezione delle colonne",
+        "comment": "Do not translate {limit}.",
+        "limit": 0
+    },
+    "dashboard.bucket.category_category_by_warning._measure|insight": {
+        "value": "Per visualizzare da, una visualizzazione può avere una sola misura",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.category_category_by_warning._metric|insight": {
+        "value": "Per visualizzare da, una visualizzazione può avere solo una metrica",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.category_category_by_warning._measure|report": {
+        "value": "To view by, a report can have only one measure",
+        "comment": "",
+        "limit": 0,
+        "translate": false
+    },
+    "dashboard.bucket.category_category_by_warning._metric|report": {
+        "value": "To view by, a report can have only one metric",
+        "comment": "",
+        "limit": 0,
+        "translate": false
+    },
+    "dashboard.bucket.category_segment_by_warning._measure|insight": {
+        "value": "Per segmentare, una visualizzazione può avere solo una misura",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.category_segment_by_warning._metric|insight": {
+        "value": "Per la segmentazione, una visualizzazione può avere solo una metrica",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.category_segment_by_warning._measure|report": {
+        "value": "To segment by, a report can have only one measure",
+        "comment": "",
+        "limit": 0,
+        "translate": false
+    },
+    "dashboard.bucket.category_segment_by_warning._metric|report": {
+        "value": "To segment by, a report can have only one metric",
+        "comment": "",
+        "limit": 0,
+        "translate": false
+    },
+    "dashboard.bucket.measures_title.table._measure": {
+        "value": "Misure",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.measures_title.table._metric": {
+        "value": "Metriche",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.measures_title.sankey._measure": {
+        "value": "MISURA",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.measures_title.sankey._metric": {
+        "value": "METRICA",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.measures_title.dependencywheel._measure": {
+        "value": "MISURA",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.measures_title.dependencywheel._metric": {
+        "value": "METRICA",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.attribute_title.table": {
+        "value": "Righe",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.columns_title.table": {
+        "value": "Colonne",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.attribute_title.repeater": {
+        "value": "Righe",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.view_title.repeater": {
+        "value": "Visualizza per",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.columns_title.repeater": {
+        "value": "Colonne",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.error.missing_primary_bucket_item.heading._measure|insight": {
+        "value": "Nessuna misura primaria nella visualizzazione",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.error.missing_primary_bucket_item.heading._metric|insight": {
+        "value": "Nessuna metrica primaria nella visualizzazione",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.error.missing_primary_bucket_item.heading._measure|report": {
+        "value": "No primary measure in your report",
+        "comment": "",
+        "limit": 0,
+        "translate": false
+    },
+    "dashboard.error.missing_primary_bucket_item.heading._metric|report": {
+        "value": "No primary metric in your report",
+        "comment": "",
+        "limit": 0,
+        "translate": false
+    },
+    "dashboard.error.missing_primary_bucket_item.text._measure|insight": {
+        "value": "Aggiungere una misura primaria alla visualizzazione o passare alla tabella.\nUna volta terminato, sarà possibile salvarla.",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.error.missing_primary_bucket_item.text._metric|insight": {
+        "value": "Aggiungere una metrica primaria alla visualizzazione o passare alla tabella.\nUna volta terminata, sarà possibile salvarla.",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.error.missing_primary_bucket_item.text._measure|report": {
+        "value": "Add a primary measure to your report, or switch to table.\nOnce done, you'll be able to save it.",
+        "comment": "",
+        "limit": 0,
+        "translate": false
+    },
+    "dashboard.error.missing_primary_bucket_item.text._metric|report": {
+        "value": "Add a primary metric to your report, or switch to table.\nOnce done, you'll be able to save it.",
+        "comment": "",
+        "limit": 0,
+        "translate": false
+    },
+    "dashboard.xirr.error.invalid_buckets.heading": {
+        "value": "Configurazione incompleta",
+        "comment": "Informs the user that they have not provided all the necessary configuration items (one measure and one date attribute)",
+        "limit": 0
+    },
+    "dashboard.xirr.error.invalid_buckets.text._measure": {
+        "value": "Assicurarsi di aver selezionato una misura e un attributo data",
+        "comment": "The user should be instructed to review that they have added one measure and one date attribute to the visualization",
+        "limit": 0
+    },
+    "dashboard.xirr.error.invalid_buckets.text._metric": {
+        "value": "Assicurarsi di aver selezionato una metrica e un attributo data",
+        "comment": "The user should be instructed to review that they have added one metric and one date attribute to the visualization",
+        "limit": 0
+    },
+    "properties.unsupported": {
+        "value": "Questa visualizzazione non supporta la configurazione",
+        "comment": "",
+        "limit": 0
+    },
+    "properties.config.not_applicable|insight": {
+        "value": "Il pannello di configurazione non è applicabile a questa configurazione della visualizzazione.",
+        "comment": "",
+        "limit": 0
+    },
+    "properties.config.not_applicable|report": {
+        "value": "Configuration Panel is not applicable for this configuration of the report",
+        "comment": "",
+        "limit": 0,
+        "translate": false
+    },
+    "properties.not_applicable|insight": {
+        "value": "La proprietà non è applicabile a questa configurazione della visualizzazione.",
+        "comment": "",
+        "limit": 0
+    },
+    "properties.not_applicable|report": {
+        "value": "Property is not applicable for this configuration of the report",
+        "comment": "",
+        "limit": 0,
+        "translate": false
+    },
+    "properties.auto_placeholder": {
+        "value": "automatico",
+        "comment": "",
+        "limit": 0
+    },
+    "properties.auto_default": {
+        "value": "automatico (predefinito)",
+        "comment": "",
+        "limit": 0
+    },
+    "properties.legend.title": {
+        "value": "Leggenda",
+        "comment": "",
+        "limit": 0
+    },
+    "properties.legend.position": {
+        "value": "Posizione",
+        "comment": "",
+        "limit": 0
+    },
+    "properties.total.title": {
+        "value": "Totale",
+        "comment": "",
+        "limit": 0
+    },
+    "properties.total.name": {
+        "value": "Nome",
+        "comment": "",
+        "limit": 0
+    },
+    "properties.total.tooltip": {
+        "value": "Aggiungere la somma di tutti i valori come colonna alla fine.",
+        "comment": "",
+        "limit": 0
+    },
+    "properties.total.measures.tooltip": {
+        "value": "Disattivare le opzioni \"è totale\" nelle metriche per aggiungere la somma di tutti i valori come colonna alla fine.",
+        "comment": "The tooltip for the toggle total section when there is any metric set to total metric",
+        "limit": 0
+    },
+    "properties.color.total": {
+        "value": "Totale",
+        "comment": "",
+        "limit": 0
+    },
+    "properties.color.positive": {
+        "value": "Positivo",
+        "comment": "",
+        "limit": 0
+    },
+    "properties.color.negative": {
+        "value": "Negativo",
+        "comment": "",
+        "limit": 0
+    },
+    "properties.canvas.title": {
+        "value": "Area di disegno",
+        "comment": "",
+        "limit": 0
+    },
+    "properties.canvas.gridline": {
+        "value": "Linea di griglia",
+        "comment": "",
+        "limit": 0
+    },
+    "properties.canvas.labels.percentages": {
+        "value": "Percentuale",
+        "comment": "applicable for funnel chart special data labels which can include percentages",
+        "limit": 0
+    },
+    "properties.canvas.labels.percentages.info": {
+        "value": "Visualizzare le percentuali su ciascuna parte, con la parte più in alto come 100% e le altre come frazioni di quel valore.",
+        "comment": "this is an explanation tooltip for the Percentage option for funnel chart (properties.canvas.labels.percentages)",
+        "limit": 0
+    },
+    "properties.canvas.labels.percentages.disabled": {
+        "value": "Le percentuali sono nascoste a causa delle etichette dati nascoste.",
+        "comment": "this is an explanation tooltip when the Percentage option for funnel chart is disabled (properties.canvas.labels.percentages)",
+        "limit": 0
+    },
+    "properties.canvas.continuousLine.label": {
+        "value": "Linea continua",
+        "comment": "",
+        "limit": 0
+    },
+    "properties.canvas.continuousLine.tooltip": {
+        "value": "Tracciare una linea tra i punti con valori mancanti.",
+        "comment": "",
+        "limit": 0
+    },
+    "properties.canvas.dataLabels": {
+        "value": "Etichette dati",
+        "comment": "",
+        "limit": 0
+    },
+    "properties.canvas.dataLabels.auto": {
+        "value": "automatico (predefinito)",
+        "comment": "",
+        "limit": 0
+    },
+    "properties.canvas.dataLabels.show": {
+        "value": "mostra",
+        "comment": "",
+        "limit": 0
+    },
+    "properties.canvas.dataLabels.hide": {
+        "value": "nascondi",
+        "comment": "",
+        "limit": 0
+    },
+    "properties.canvas.rowHeight": {
+        "value": "Altezza della riga",
+        "comment": "Label of the dropdown for configuring the row height of the chart",
+        "limit": 0
+    },
+    "properties.canvas.rowHeight.small": {
+        "value": "piccola",
+        "comment": "Option of the dropdown for configuring the row height of the chart (small)",
+        "limit": 0
+    },
+    "properties.canvas.rowHeight.medium": {
+        "value": "media",
+        "comment": "Option of the dropdown for configuring the row height of the chart (medium)",
+        "limit": 0
+    },
+    "properties.canvas.rowHeight.large": {
+        "value": "grande",
+        "comment": "Option of the dropdown for configuring the row height of the chart (large)",
+        "limit": 0
+    },
+    "properties.canvas.verticalAlign": {
+        "value": "Allineamento verticale",
+        "comment": "Label of the dropdown for configuring vertical alignment of the chart cells",
+        "limit": 0
+    },
+    "properties.canvas.verticalAlign.top": {
+        "value": "in cima",
+        "comment": "Option of the dropdown for configuring the vertical alignment of the chart cell (top)",
+        "limit": 0
+    },
+    "properties.canvas.verticalAlign.middle": {
+        "value": "in mezzo",
+        "comment": "Option of the dropdown for configuring the vertical alignment of the chart cell (middle)",
+        "limit": 0
+    },
+    "properties.canvas.verticalAlign.bottom": {
+        "value": "in fondo",
+        "comment": "Option of the dropdown for configuring the vertical alignment of the chart cell (bottom)",
+        "limit": 0
+    },
+    "properties.canvas.textWrapping": {
+        "value": "Interruzione del testo",
+        "comment": "Label of the dropdown for configuring text wrapping of the chart cells",
+        "limit": 0
+    },
+    "properties.canvas.textWrapping.clip": {
+        "value": "taglia",
+        "comment": "Option of the dropdown for configuring the text wrapping of the chart cell (clip)",
+        "limit": 0
+    },
+    "properties.canvas.textWrapping.wrap": {
+        "value": "ritorna a capo",
+        "comment": "Option of the dropdown for configuring the text wrapping of the chart cell (wrap)",
+        "limit": 0
+    },
+    "properties.canvas.image": {
+        "value": "Immagine",
+        "comment": "Label of the dropdown for configuring image sizing of the chart cells",
+        "limit": 0
+    },
+    "properties.canvas.image.fit": {
+        "value": "adatta",
+        "comment": "Option of the dropdown for configuring the image sizing of the chart cell (fit)",
+        "limit": 0
+    },
+    "properties.canvas.image.fill": {
+        "value": "riempi",
+        "comment": "Option of the dropdown for configuring the image sizing of the chart cell (fill)",
+        "limit": 0
+    },
+    "properties.forecast.title": {
+        "value": "Previsione",
+        "comment": "",
+        "limit": 0
+    },
+    "properties.forecastDisabled.title": {
+        "value": "La previsione non è disponibile per questa combinazione di bucket.",
+        "comment": "",
+        "limit": 0
+    },
+    "properties.forecastPeriod.title": {
+        "value": "Periodo",
+        "comment": "",
+        "limit": 0
+    },
+    "properties.forecastPeriod.placeholder": {
+        "value": "Periodo",
+        "comment": "",
+        "limit": 0
+    },
+    "properties.forecastSeasonal.title": {
+        "value": "Stagionalità",
+        "comment": "",
+        "limit": 0
+    },
+    "properties.forecastConfidence.title": {
+        "value": "Probabilità",
+        "comment": "",
+        "limit": 0
+    },
+    "properties.forecastConfidence.70": {
+        "value": "70%",
+        "comment": "",
+        "limit": 0
+    },
+    "properties.forecastConfidence.75": {
+        "value": "75%",
+        "comment": "",
+        "limit": 0
+    },
+    "properties.forecastConfidence.80": {
+        "value": "80%",
+        "comment": "",
+        "limit": 0
+    },
+    "properties.forecastConfidence.85": {
+        "value": "85%",
+        "comment": "",
+        "limit": 0
+    },
+    "properties.forecastConfidence.90": {
+        "value": "90%",
+        "comment": "",
+        "limit": 0
+    },
+    "properties.forecastConfidence.95": {
+        "value": "95%",
+        "comment": "",
+        "limit": 0
+    },
+    "properties.forecastSliced.title": {
+        "value": "Mostra una previsione parziale.",
+        "comment": "",
+        "limit": 0
+    },
+    "properties.forecastSliced.description": {
+        "value": "I dati disponibili non coprono l'intero periodo selezionato.",
+        "comment": "",
+        "limit": 0
+    },
+    "properties.clustering.title": {
+        "value": "Gruppo",
+        "comment": "Title of the clustering configuration section.",
+        "limit": 0
+    },
+    "properties.clustering.amount": {
+        "value": "Importo",
+        "comment": "Label of the input for configuring the number of clusters.",
+        "limit": 0
+    },
+    "properties.clustering.amount.placeholder": {
+        "value": "3",
+        "comment": "Placeholder of the input for configuring the number of clusters.",
+        "limit": 0
+    },
+    "properties.clustering.threshold": {
+        "value": "Soglia",
+        "comment": "Label of the input for configuring the clustering threshold.",
+        "limit": 0
+    },
+    "properties.clustering.threshold.placeholder": {
+        "value": "0,03",
+        "comment": "Placeholder of the input for configuring the clustering threshold.",
+        "limit": 0
+    },
+    "properties.clustering.threshold.tooltip": {
+        "value": "La soglia è un limite che determina quando raggruppare i dati. <link>Maggiori informazioni</link>",
+        "comment": "Tooltip message of the clustering threshold input. Do not translate <link> and </link> tags",
+        "limit": 0
+    },
+    "properties.clustering.amount.partial.title": {
+        "value": "Mostra i gruppi parziali",
+        "comment": "Message title that is shown when clustering amount is higher than the number of visualization data points.",
+        "limit": 0
+    },
+    "properties.clustering.amount.partial.description": {
+        "value": "I punti dati disponibili non coprono l'intero importo selezionato.",
+        "comment": "Message description that is shown when clustering amount is higher than the number of visualization data points.",
+        "limit": 0
+    },
+    "properties.clustering.disabled": {
+        "value": "Clustering requires 2 Metrics and View by, without Segment by.",
+        "comment": "Tooltip message of the disabled toggle that enables clustering",
+        "limit": 0
+    },
+    "properties.canvas.totalLabels": {
+        "value": "Totale etichette",
+        "comment": "",
+        "limit": 0
+    },
+    "properties.canvas.totalLabels.auto": {
+        "value": "automatico (predefinito)",
+        "comment": "",
+        "limit": 0
+    },
+    "properties.canvas.totalLabels.show": {
+        "value": "mostra",
+        "comment": "",
+        "limit": 0
+    },
+    "properties.canvas.totalLabels.hide": {
+        "value": "nascondi",
+        "comment": "",
+        "limit": 0
+    },
+    "properties.canvas.dataPoints": {
+        "value": "Punti dati",
+        "comment": "",
+        "limit": 0
+    },
+    "properties.canvas.dataPoints.auto": {
+        "value": "automatico (predefinito)",
+        "comment": "",
+        "limit": 0
+    },
+    "properties.canvas.dataPoints.show": {
+        "value": "mostra",
+        "comment": "",
+        "limit": 0
+    },
+    "properties.canvas.dataPoints.hide": {
+        "value": "nascondi",
+        "comment": "",
+        "limit": 0
+    },
+    "properties.yaxis.title": {
+        "value": "Asse Y",
+        "comment": "Vertical axis of a plot.",
+        "limit": 0
+    },
+    "properties.axis.labels": {
+        "value": "etichette",
+        "comment": "",
+        "limit": 0
+    },
+    "properties.axis.rotation": {
+        "value": "Rotazione",
+        "comment": "",
+        "limit": 0
+    },
+    "properties.axis.format": {
+        "value": "Formato",
+        "comment": "",
+        "limit": 0
+    },
+    "properties.axis.format.inherit": {
+        "value": "eredita",
+        "comment": "Axis format option to inherit formatting from used measure.",
+        "limit": 0
+    },
+    "properties.axis.format.info.inherit._measure|insight": {
+        "value": "Il formato è ereditato dalla prima misura della visualizzazione.",
+        "comment": "Info text for axis format option.",
+        "limit": 0
+    },
+    "properties.axis.format.info.inherit._metric|insight": {
+        "value": "Il formato è ereditato dalla prima metrica della visualizzazione.",
+        "comment": "Info text for axis format option.",
+        "limit": 0
+    },
+    "properties.axis.format.info.inherit._measure|report": {
+        "value": "The format is inherited from the first measure in the report.",
+        "comment": "",
+        "limit": 0,
+        "translate": false
+    },
+    "properties.axis.format.info.inherit._metric|report": {
+        "value": "The format is inherited from the first metric in the report.",
+        "comment": "",
+        "limit": 0,
+        "translate": false
+    },
+    "properties.axis.name": {
+        "value": "nome",
+        "comment": "Name of the axis of a chart",
+        "limit": 0
+    },
+    "properties.axis.name.position": {
+        "value": "Posizione",
+        "comment": "Position of the axis of a chart",
+        "limit": 0
+    },
+    "properties.axis.name.position.left": {
+        "value": "a sinistra",
+        "comment": "",
+        "limit": 0
+    },
+    "properties.axis.name.position.center": {
+        "value": "centro",
+        "comment": "Horizontal center (between left and right)",
+        "limit": 0
+    },
+    "properties.axis.name.position.right": {
+        "value": "a destra",
+        "comment": "",
+        "limit": 0
+    },
+    "properties.axis.name.position.top": {
+        "value": "in cima",
+        "comment": "",
+        "limit": 0
+    },
+    "properties.axis.name.position.middle": {
+        "value": "in mezzo",
+        "comment": "Vertical center (between top and bottom)",
+        "limit": 0
+    },
+    "properties.axis.name.position.bottom": {
+        "value": "in fondo",
+        "comment": "",
+        "limit": 0
+    },
+    "properties.axis.min": {
+        "value": "Min",
+        "comment": "",
+        "limit": 0
+    },
+    "properties.axis.min.warning": {
+        "value": "Il valore minimo non può essere maggiore del valore massimo",
+        "comment": "",
+        "limit": 0
+    },
+    "properties.axis.max": {
+        "value": "Max",
+        "comment": "",
+        "limit": 0
+    },
+    "properties.axis.max.warning": {
+        "value": "Il valore massimo non può essere inferiore al valore minimo",
+        "comment": "",
+        "limit": 0
+    },
+    "properties.xaxis.title": {
+        "value": "Asse X",
+        "comment": "Horizontal axis of a plot.",
+        "limit": 0
+    },
+    "properties.axis.scale": {
+        "value": "ridimensiona",
+        "comment": "",
+        "limit": 0
+    },
+    "properties.axis.left": {
+        "value": "Sinistra",
+        "comment": "",
+        "limit": 0
+    },
+    "properties.axis.right": {
+        "value": "Destra",
+        "comment": "",
+        "limit": 0
+    },
+    "properties.axis.top": {
+        "value": "In cima",
+        "comment": "",
+        "limit": 0
+    },
+    "properties.axis.bottom": {
+        "value": "In fondo",
+        "comment": "",
+        "limit": 0
+    },
+    "properties.rotation.0": {
+        "value": "0°",
+        "comment": "",
+        "limit": 0
+    },
+    "properties.rotation.30": {
+        "value": "30°",
+        "comment": "",
+        "limit": 0
+    },
+    "properties.rotation.60": {
+        "value": "60°",
+        "comment": "",
+        "limit": 0
+    },
+    "properties.rotation.90": {
+        "value": "90°",
+        "comment": "",
+        "limit": 0
+    },
+    "properties.legend.position.up": {
+        "value": "in cima",
+        "comment": "",
+        "limit": 0
+    },
+    "properties.legend.position.down": {
+        "value": "in fondo",
+        "comment": "",
+        "limit": 0
+    },
+    "properties.legend.position.right": {
+        "value": "a destra",
+        "comment": "",
+        "limit": 0
+    },
+    "properties.legend.position.left": {
+        "value": "a sinistra",
+        "comment": "",
+        "limit": 0
+    },
+    "properties.orientation.title": {
+        "value": "Orientamento",
+        "comment": "The title for the orientation configuration section",
+        "limit": 0
+    },
+    "properties.orientation.horizontal": {
+        "value": "Orizzontale (predefinito)",
+        "comment": "The chart orientation configuration",
+        "limit": 0
+    },
+    "properties.orientation.vertical": {
+        "value": "Verticale",
+        "comment": "The chart orientation configuration",
+        "limit": 0
+    },
+    "properties.points.title": {
+        "value": "Punti",
+        "comment": "Points on map",
+        "limit": 0
+    },
+    "properties.points.groupNearbyPoints": {
+        "value": "Raggruppa punti vicini",
+        "comment": "",
+        "limit": 0
+    },
+    "properties.points.size.title": {
+        "value": "Dimensione del punto",
+        "comment": "Size of a point on a map",
+        "limit": 0
+    },
+    "properties.points.size.extra_small": {
+        "value": "0.5x",
+        "comment": "Multiplicator of size of a point on map. Means 50% of size.",
+        "limit": 0
+    },
+    "properties.points.size.small": {
+        "value": "0.75x",
+        "comment": "Multiplicator of size of a point on map. Means 75% of size.",
+        "limit": 0
+    },
+    "properties.points.size.normal": {
+        "value": "normale",
+        "comment": "Multiplicator of size of a point on map. Means 100% of size.",
+        "limit": 0
+    },
+    "properties.points.size.large": {
+        "value": "1.25x",
+        "comment": "Multiplicator of size of a point on map. Means 125% of size.",
+        "limit": 0
+    },
+    "properties.points.size.extra_large": {
+        "value": "1.5x",
+        "comment": "Multiplicator of size of a point on map. Means 150% of size.",
+        "limit": 0
+    },
+    "properties.points.size.min.title": {
+        "value": "Minima",
+        "comment": "Smallest size of a point on a map",
+        "limit": 0
+    },
+    "properties.points.size.max.title": {
+        "value": "Massima",
+        "comment": "Largest size of a point on a map",
+        "limit": 0
+    },
+    "properties.map.title": {
+        "value": "Mappa",
+        "comment": "Map configuration",
+        "limit": 0
+    },
+    "properties.viewport.area.title": {
+        "value": "Riquadro di visualizzazione predefinito",
+        "comment": "Default viewport configuration",
+        "limit": 0
+    },
+    "properties.viewport.area.auto_default": {
+        "value": "Includi tutti i dati",
+        "comment": "All data will be visibled on the map",
+        "limit": 0
+    },
+    "properties.viewport.area.continents": {
+        "value": "continenti",
+        "comment": "",
+        "limit": 0
+    },
+    "properties.viewport.area.continent_af": {
+        "value": "Africa",
+        "comment": "Continent Africa",
+        "limit": 0
+    },
+    "properties.viewport.area.continent_as": {
+        "value": "Asia",
+        "comment": "Continent Asia",
+        "limit": 0
+    },
+    "properties.viewport.area.continent_au": {
+        "value": "Australia",
+        "comment": "Continent Australia",
+        "limit": 0
+    },
+    "properties.viewport.area.continent_eu": {
+        "value": "Europa",
+        "comment": "Continent Europe",
+        "limit": 0
+    },
+    "properties.viewport.area.continent_na": {
+        "value": "America (nord)",
+        "comment": "Continent North America",
+        "limit": 0
+    },
+    "properties.viewport.area.continent_sa": {
+        "value": "America (sud)",
+        "comment": "Continent South America",
+        "limit": 0
+    },
+    "properties.viewport.area.world": {
+        "value": "Mondo",
+        "comment": "",
+        "limit": 0
+    },
+    "gs.color-dropdown.custom-color": {
+        "value": "Colore personalizzato",
+        "comment": "",
+        "limit": 0
+    },
+    "properties.colors.reset-colors": {
+        "value": "Reimposta colori",
+        "comment": "",
+        "limit": 0
+    },
+    "properties.colors": {
+        "value": "Colori",
+        "comment": "",
+        "limit": 0
+    },
+    "properties.colors.unsupported|insight": {
+        "value": "Non ci sono colori per questa configurazione della visualizzazione.",
+        "comment": "",
+        "limit": 0
+    },
+    "properties.colors.unsupported|report": {
+        "value": "There are no colors for this configuration of the report",
+        "comment": "",
+        "limit": 0,
+        "translate": false
+    },
+    "export_unsupported.colors|insight": {
+        "value": "La visualizzazione non è compatibile con i colori personalizzati. Per aprire la visualizzazione come report, cliccare su Reimposta colori in Configurazione -> Colori.",
+        "comment": "",
+        "limit": 0
+    },
+    "export_unsupported.colors|report": {
+        "value": "The report is not compatible with custom colors. Click Reset Colors in Configuration —> Colors.",
+        "comment": "",
+        "limit": 0,
+        "translate": false
+    },
+    "dashboard.bucket.measures_title.bullet._measure": {
+        "value": "Misura",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.measures_title.bullet._metric": {
+        "value": "Metrica",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.secondary_measures_title.bullet._measure": {
+        "value": "Misura",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.secondary_measures_title.bullet._metric": {
+        "value": "Metrica",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.tertiary_measures_title.bullet._measure": {
+        "value": "Misura",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.tertiary_measures_title.bullet._metric": {
+        "value": "Metrica",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.measures_subtitle.bullet": {
+        "value": "Primaria",
+        "comment": "Primary measure of a bullet chart.",
+        "limit": 0
+    },
+    "dashboard.bucket.secondary_measures_subtitle.bullet": {
+        "value": "Obiettivo",
+        "comment": "Target of a bullet chart.",
+        "limit": 0
+    },
+    "dashboard.bucket.tertiary_measures_subtitle.bullet": {
+        "value": "Comparative",
+        "comment": "Comparative measures of a bullet chart",
+        "limit": 0
+    },
+    "sorting.disabled.explanation.attribute|insight": {
+        "value": "L'ordinamento non è possibile per questa configurazione di visualizzazione.",
+        "comment": "Explains why sort button is disabled. Shown as tooltip",
+        "limit": 0
+    },
+    "sorting.disabled.explanation.attribute|report": {
+        "value": "Sorting is not possible for this report configuration.",
+        "comment": "Explains why sort button is disabled. Shown as tooltip",
+        "limit": 0,
+        "translate": false
+    },
+    "sorting.disabled.explanation.measure._measure|insight": {
+        "value": "È necessario aggiungere almeno un attributo per ordinare la visualizzazione. È inoltre possibile regolare la posizione degli elementi nella sezione Misure per modificarne la posizione nella visualizzazione.",
+        "comment": "Explains why sort button is disabled. Shown as tooltip",
+        "limit": 0
+    },
+    "sorting.disabled.explanation.measure._measure|report": {
+        "value": "You must add at least one attribute to sort the report. You can also adjust the position of items in the Measures section to change their position in the report.",
+        "comment": "Explains why sort button is disabled. Shown as tooltip",
+        "limit": 0,
+        "translate": false
+    },
+    "sorting.disabled.explanation.measure._metric|insight": {
+        "value": "È necessario aggiungere almeno un attributo per ordinare la visualizzazione. È inoltre possibile regolare la posizione degli elementi nella sezione Metriche per modificarne la posizione nella visualizzazione.",
+        "comment": "Explains why sort button is disabled. Shown as tooltip",
+        "limit": 0
+    },
+    "sorting.disabled.explanation.measure._metric|report": {
+        "value": "You must add at least one attribute to sort the report. You can also adjust the position of items in the Metrics section to change their position in the report.",
+        "comment": "Explains why sort button is disabled. Shown as tooltip",
+        "limit": 0,
+        "translate": false
+    },
+    "properties.metrics.title._measure": {
+        "value": "Misure",
+        "comment": "",
+        "limit": 0
+    },
+    "properties.metrics.title._metric": {
+        "value": "Metriche",
+        "comment": "",
+        "limit": 0
+    },
+    "properties.metrics.position": {
+        "value": "Posizione",
+        "comment": "",
+        "limit": 0
+    },
+    "properties.metrics.position.columns": {
+        "value": "colonne (predefinita)",
+        "comment": "",
+        "limit": 0
+    },
+    "properties.metrics.position.rows": {
+        "value": "righe",
+        "comment": "",
+        "limit": 0
+    },
+    "properties.column.headers.title": {
+        "value": "Intestazioni colonna",
+        "comment": "",
+        "limit": 0
+    },
+    "properties.column.headers.position": {
+        "value": "Posizione",
+        "comment": "",
+        "limit": 0
+    },
+    "properties.column.headers.position.top": {
+        "value": "in cima (predefinita)",
+        "comment": "",
+        "limit": 0
+    },
+    "properties.column.headers.position.left": {
+        "value": "a sinistra",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.table.subtitle.columns": {
+        "value": "in colonne",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.table.subtitle.rows": {
+        "value": "in righe",
+        "comment": "",
+        "limit": 0
+    },
+    "properties.interactions.title": {
+        "value": "Interazioni",
+        "comment": "The title for the interactions configuration section",
+        "limit": 0
+    },
+    "properties.advanced.title": {
+        "value": "Personalizzazioni avanzate",
+        "comment": "The title for the advanced configuration section",
+        "limit": 0
+    },
+    "properties.advanced.chartConfigOverride.noValueLabel": {
+        "value": "Non ci sono ancora personalizzazioni.",
+        "comment": "Text show when user did not define any customization yet.",
+        "limit": 0
+    },
+    "properties.advanced.chartConfigOverride.link": {
+        "value": "Maggiori informazioni",
+        "comment": "Text of link that leads to feature documentation.",
+        "limit": 0
+    },
+    "properties.advanced.chartConfigOverride.editorButton": {
+        "value": "Aprire l'editor",
+        "comment": "Text of button that opens editor of configuration.",
+        "limit": 0
+    },
+    "properties.advanced.chartConfigOverride.title": {
+        "value": "Personalizzazione avanzata",
+        "comment": "Text of dialog that defines advanced customization of visualization.",
+        "limit": 0
+    },
+    "properties.advanced.chartConfigOverride.snippets.header": {
+        "value": "Snippet",
+        "comment": "The header of list that contains snippets (recipes) of various charts configurations.",
+        "limit": 0
+    },
+    "properties.advanced.chartConfigOverride.button.apply": {
+        "value": "Applica",
+        "comment": "The label of button in dialog that applies the dialog value.",
+        "limit": 0
+    },
+    "properties.advanced.chartConfigOverride.button.cancel": {
+        "value": "Annulla",
+        "comment": "The label of button in dialog that closes the dialog.",
+        "limit": 0
+    },
+    "properties.interactions.drillDown": {
+        "value": "Drill-down",
+        "comment": "The text for the drill down checkbox",
+        "limit": 0
+    },
+    "properties.interactions.alerts": {
+        "value": "Avviso",
+        "comment": "Label of the checkbox that enables/disables alerts configuration for particular visualization.",
+        "limit": 0
+    },
+    "properties.interactions.alerts.tooltip": {
+        "value": "Consente agli utenti di creare avvisi per questa visualizzazione sui dashboard.",
+        "comment": "Tooltip for the checkbox that enables/disables alerts configuration for particular visualization.",
+        "limit": 0
+    },
+    "properties.interactions.scheduledExports": {
+        "value": "Esportazioni programmate",
+        "comment": "Label of the checkbox that enables/disables scheduled exports configuration for particular visualization.",
+        "limit": 0
+    },
+    "properties.interactions.scheduledExports.tooltip": {
+        "value": "Consente agli utenti di creare esportazioni programmate per questa visualizzazione sui dashboard.",
+        "comment": "Tooltip for the checkbox that enables/disables scheduled exports configuration for particular visualization.",
+        "limit": 0
+    },
+    "properties.comparison.title": {
+        "value": "Confronto",
+        "comment": "The title of comparison section",
+        "limit": 0
+    },
+    "properties.comparison.calculationType.title": {
+        "value": "Calcolato come",
+        "comment": "The label of calculation type dropdown",
+        "limit": 0
+    },
+    "properties.comparison.calculationType.as.change": {
+        "value": "Variazione",
+        "comment": "The title of the dropdown option that specifies the arithmetic operation to calculate the change between two values.",
+        "limit": 0
+    },
+    "properties.comparison.calculationType.as.ratio": {
+        "value": "Proporzione",
+        "comment": "The title of the dropdown option that specifies the arithmetic operation to calculate the ratio between two values.",
+        "limit": 0
+    },
+    "properties.comparison.calculationType.as.difference": {
+        "value": "Differenza",
+        "comment": "The title of the dropdown option that specifies the arithmetic operation to calculate the difference between two values.",
+        "limit": 0
+    },
+    "properties.comparison.calculationType.as.changeDifference": {
+        "value": "Variazione (differenza)",
+        "comment": "The title of the dropdown option that specifies the arithmetic operation to calculate the change and difference between two values.",
+        "limit": 0
+    },
+    "properties.comparison.calculationType.as.change.tooltip.useIn._metric": {
+        "value": "Calcola la variazione relativa tra i valori della metrica primaria e secondaria.",
+        "comment": "The content describes the pertinent scenarios for the change calculation.",
+        "limit": 0
+    },
+    "properties.comparison.calculationType.as.change.tooltip.useIn._measure": {
+        "value": "Calcola la variazione relativa tra i valori della misura primaria e secondaria.",
+        "comment": "The content describes the pertinent scenarios for the change calculation.",
+        "limit": 0
+    },
+    "properties.comparison.calculationType.as.ratio.tooltip.useIn._metric": {
+        "value": "Quantifica la quota del valore della metrica primaria sul valore della metrica secondaria.",
+        "comment": "The content describes the pertinent scenarios for the ratio calculation.",
+        "limit": 0
+    },
+    "properties.comparison.calculationType.as.ratio.tooltip.useIn._measure": {
+        "value": "Quantifica la quota del valore della misura primaria sul valore della misura secondaria.",
+        "comment": "The content describes the pertinent scenarios for the ratio calculation.",
+        "limit": 0
+    },
+    "properties.comparison.calculationType.as.difference.tooltip.useIn._metric": {
+        "value": "Calcola la differenza assoluta tra i valori della metrica primaria e secondaria.",
+        "comment": "The content describes the pertinent scenarios for the difference calculation.",
+        "limit": 0
+    },
+    "properties.comparison.calculationType.as.difference.tooltip.useIn._measure": {
+        "value": "Calcola la differenza assoluta tra i valori della misura primaria e secondaria.",
+        "comment": "The content describes the pertinent scenarios for the difference calculation.",
+        "limit": 0
+    },
+    "properties.comparison.calculationType.as.changeDifference.tooltip.useIn._metric": {
+        "value": "Calcola sia la variazione relativa che la differenza assoluta tra i valori della metrica primaria e secondaria.",
+        "comment": "The content describes the pertinent scenarios for the change (difference) calculation.",
+        "limit": 0
+    },
+    "properties.comparison.calculationType.as.changeDifference.tooltip.useIn._measure": {
+        "value": "Calcola sia la variazione relativa che la differenza assoluta tra i valori della misura primaria e secondaria.",
+        "comment": "The content describes the pertinent scenarios for the change (difference) calculation.",
+        "limit": 0
+    },
+    "properties.comparison.calculationType.tooltip.formula.section": {
+        "value": "Formula",
+        "comment": "The title of the section that describes the formula for the calculation",
+        "limit": 0
+    },
+    "properties.comparison.calculationType.tooltip.formulaChange.section": {
+        "value": "Formula (modifica relativa)",
+        "comment": "The title of the section that describes the formula for the change calculation",
+        "limit": 0
+    },
+    "properties.comparison.calculationType.tooltip.formulaDifference.section": {
+        "value": "Formula (differenza assoluta)",
+        "comment": "The title of the section that describes the formula for the difference calculation",
+        "limit": 0
+    },
+    "properties.comparison.calculationType.as.change.tooltip.formula": {
+        "value": "(Primario - Secondario) / Secondario",
+        "comment": "The content describes the formula of the change calculation.",
+        "limit": 0
+    },
+    "properties.comparison.calculationType.as.ratio.tooltip.formula": {
+        "value": "Primario / Secondario",
+        "comment": "The content describes the formula of the ratio calculation.",
+        "limit": 0
+    },
+    "properties.comparison.calculationType.as.difference.tooltip.formula": {
+        "value": "Primario - Secondario",
+        "comment": "The content describes the formula of the difference calculation.",
+        "limit": 0
+    },
+    "properties.comparison.calculationType.tooltip.example.section": {
+        "value": "Esempio",
+        "comment": "The title of the section that provides an example for the calculation",
+        "limit": 0
+    },
+    "properties.comparison.calculationType.as.change.tooltip.example": {
+        "value": "Variazione delle vendite anno su anno = (vendite dell'anno in corso - vendite dell'anno precedente) / vendite dell'anno precedente",
+        "comment": "The example illustrating the change calculation.",
+        "limit": 0
+    },
+    "properties.comparison.calculationType.as.ratio.tooltip.example": {
+        "value": "Vendite attuali rispetto a una quota = vendite attuali / quota",
+        "comment": "The example illustrating the ratio calculation.",
+        "limit": 0
+    },
+    "properties.comparison.calculationType.as.difference.tooltip.example": {
+        "value": "Differenza delle vendite rispetto all'anno precedente = vendite dell'anno in corso - vendite dell'anno precedente",
+        "comment": "The example illustrating the difference calculation.",
+        "limit": 0
+    },
+    "properties.comparison.calculationType.as.changeDifference.tooltip.example": {
+        "value": "Variazione delle vendite su base annua = [(vendite dell'anno in corso - vendite dell'anno precedente) / vendite dell'anno precedente] E [vendite dell'anno in corso - vendite dell'anno precedente].",
+        "comment": "The example illustrating the change (difference) calculation.",
+        "limit": 0
+    },
+    "properties.comparison.measureNumber.format.preset.inherit": {
+        "value": "Eredita",
+        "comment": "An item in list of formatting presets. Means: use inherited measure format",
+        "limit": 0
+    },
+    "properties.comparison.measureNumber.format.preset.rounded": {
+        "value": "Arrotondato",
+        "comment": "An item in list of formatting presets. Whole number without decimal numbers.",
+        "limit": 0
+    },
+    "properties.comparison.measureNumber.format.preset.decimal1": {
+        "value": "Decimale (1)",
+        "comment": "An item in list of formatting presets. Decimal number measure format with one decimal number.",
+        "limit": 0
+    },
+    "properties.comparison.measureNumber.format.preset.decimal2": {
+        "value": "Decimale (2)",
+        "comment": "An item in list of formatting presets. Decimal number measure format with two decimal numbers.",
+        "limit": 0
+    },
+    "properties.comparison.measureNumber.format.preset.percentRounded": {
+        "value": "Percentuale (arrotondata)",
+        "comment": "An item in list of formatting presets. Whole number without decimal numbers and with % sign at the end.",
+        "limit": 0
+    },
+    "properties.comparison.measureNumber.format.preset.percent1": {
+        "value": "Percentuale (1)",
+        "comment": "An item in list of formatting presets. Decimal number with one decimal number and % sign at the end.",
+        "limit": 0
+    },
+    "properties.comparison.measureNumber.format.preset.percent2": {
+        "value": "Percentuale (2)",
+        "comment": "An item in list of formatting presets. Decimal number with two decimal numbers and % sign at the end.",
+        "limit": 0
+    },
+    "properties.comparison.measureNumber.format.template.rounded": {
+        "value": "Arrotondato",
+        "comment": "An item in list of formatting templates. Whole number without decimal numbers.",
+        "limit": 0
+    },
+    "properties.comparison.measureNumber.format.template.decimal1": {
+        "value": "Decimale (1)",
+        "comment": "An item in list of formatting templates. Decimal number measure format with one decimal number.",
+        "limit": 0
+    },
+    "properties.comparison.measureNumber.format.template.decimal2": {
+        "value": "Decimale (2)",
+        "comment": "An item in list of formatting templates. Decimal number measure format with two decimal numbers.",
+        "limit": 0
+    },
+    "properties.comparison.measureNumber.format.template.percentRounded": {
+        "value": "Percentuale (arrotondata)",
+        "comment": "An item in list of formatting templates. Whole number without decimal numbers and with % sign at the end.",
+        "limit": 0
+    },
+    "properties.comparison.measureNumber.format.template.percent1": {
+        "value": "Percentuale (1)",
+        "comment": "An item in list of formatting templates. Decimal number with one decimal number and % sign at the end.",
+        "limit": 0
+    },
+    "properties.comparison.measureNumber.format.template.percent2": {
+        "value": "Percentuale (2)",
+        "comment": "An item in list of formatting templates. Decimal number with two decimal numbers and % sign at the end.",
+        "limit": 0
+    },
+    "properties.comparison.measureNumber.format.template.currency": {
+        "value": "Valuta",
+        "comment": "An item in list of formatting templates. Number with currency sign.",
+        "limit": 0
+    },
+    "properties.comparison.measureNumber.format.template.currencyShortened": {
+        "value": "Valuta abbreviata",
+        "comment": "An item in list of formatting templates. Number with currency sign shortened with K, M, B and T characters.",
+        "limit": 0
+    },
+    "properties.comparison.measureNumber.format.template.largeNumbersShortened": {
+        "value": "Numeri grandi abbreviati",
+        "comment": "An item in list of formatting templates. Number shortened with K, M, B and T characters.",
+        "limit": 0
+    },
+    "properties.comparison.measureNumber.format.template.largeNumbersShortenedWithColors": {
+        "value": "Numeri grandi abbreviati con i colori",
+        "comment": "An item in list of formatting templates. Colored number shortened with K, M, B and T characters.",
+        "limit": 0
+    },
+    "properties.comparison.measureNumber.format.template.negativeNumbersRed": {
+        "value": "Numeri negativi in rosso",
+        "comment": "An item in list of formatting templates. Number is formatted in red color if negative.",
+        "limit": 0
+    },
+    "properties.comparison.measureNumber.format.template.financial": {
+        "value": "Finanziario",
+        "comment": "An item in list of formatting templates. Number is in brackets if negative.",
+        "limit": 0
+    },
+    "properties.comparison.measureNumber.format.template.decimalWithoutThousandsSeparator": {
+        "value": "Decimale (2) senza separatore delle migliaia",
+        "comment": "An item in list of formatting templates.",
+        "limit": 0
+    },
+    "properties.comparison.measureNumber.format.template.conditionalColors": {
+        "value": "Colori condizionali",
+        "comment": "An item in list of formatting templates. Numbers is formatted in different colors based on its value.",
+        "limit": 0
+    },
+    "properties.comparison.measureNumber.format.template.trendSymbols": {
+        "value": "Simboli di andamento",
+        "comment": "An item in list of formatting templates. Numbers is formatted in different colors prefixed with arrow symbol based on its value.",
+        "limit": 0
+    },
+    "properties.comparison.measureNumber.format.template.timeFromSeconds": {
+        "value": "Tempo (da secondi)",
+        "comment": "An item in list of formatting templates. Seconds are formatted properly in hours, minutes and seconds.",
+        "limit": 0
+    },
+    "properties.comparison.measureNumber.format.template.zeroInsteadOfNull": {
+        "value": "Zero al posto del valore vuoto",
+        "comment": "An item in list of formatting templates. Null value is replaced with 0.",
+        "limit": 0
+    },
+    "properties.comparison.valueSubSection.title": {
+        "value": "Valore",
+        "comment": "The label of comparison value sub section.",
+        "limit": 0
+    },
+    "properties.comparison.format.title": {
+        "value": "Formato",
+        "comment": "The label of comparison format control.",
+        "limit": 0
+    },
+    "properties.comparison.subFormat.title": {
+        "value": "(Formato)",
+        "comment": "The label of comparison sub format control.",
+        "limit": 0
+    },
+    "properties.comparison.indicator.title": {
+        "value": "Indicatore",
+        "comment": "The label of comparison indicator sub section",
+        "limit": 0
+    },
+    "properties.comparison.indicator.arrow.title": {
+        "value": "Freccia",
+        "comment": "The label of the checkbox that controls whether to use the arrow indicator or not.",
+        "limit": 0
+    },
+    "properties.comparison.indicator.colorConfig.title": {
+        "value": "Colore",
+        "comment": "The label of the checkbox that controls whether to use the color or not.",
+        "limit": 0
+    },
+    "properties.comparison.indicator.colorConfig.equals": {
+        "value": "Primario = Secondario",
+        "comment": "The label of the color item will be set when the primary value is equal to the secondary value.",
+        "limit": 0
+    },
+    "properties.comparison.indicator.colorConfig.positive": {
+        "value": "Primario > Secondario",
+        "comment": "The label of the color item will be set when the primary value is greater than the secondary value.",
+        "limit": 0
+    },
+    "properties.comparison.indicator.colorConfig.negative": {
+        "value": "Primario < Secondario",
+        "comment": "The label of the color item will be set when the primary value is less than the secondary value.",
+        "limit": 0
+    },
+    "properties.comparison.labelSubSection.title": {
+        "value": "Etichetta",
+        "comment": "The label of comparison label sub section.",
+        "limit": 0
+    },
+    "properties.comparison.labelSubSection.positionOnTop.disabled": {
+        "value": "Etichette non applicabili per la posizione di valore più in alto.",
+        "comment": "Disable tooltip message when the comparison position is set to top.",
+        "limit": 0
+    },
+    "properties.comparison.labelSubSection.conditional.disabled": {
+        "value": "Le etichette condizionali non sono applicabili ai calcoli della divisione.",
+        "comment": "Disable tooltip message when the calculation is ratio.",
+        "limit": 0
+    },
+    "properties.comparison.labelName.title": {
+        "value": "Nome",
+        "comment": "The label of name input control.",
+        "limit": 0
+    },
+    "properties.comparison.labelConditional.title": {
+        "value": "Condizionale",
+        "comment": "The label of conditional checkbox control.",
+        "limit": 0
+    },
+    "properties.comparison.labelPositive.title": {
+        "value": "Primario > Secondario",
+        "comment": "The label of the input control will be set when the primary value is greater than the secondary value.",
+        "limit": 0
+    },
+    "properties.comparison.labelNegative.title": {
+        "value": "Primario < Secondario",
+        "comment": "The label of the input control will be set when the primary value is less than the secondary value.",
+        "limit": 0
+    },
+    "properties.comparison.labelEquals.title": {
+        "value": "Primario = Secondario",
+        "comment": "The label of the input control will be set when the primary value is equal the secondary value.",
+        "limit": 0
+    },
+    "properties.comparison.position.title": {
+        "value": "Posizione",
+        "comment": "The label of comparison position control.",
+        "limit": 0
+    },
+    "properties.comparison.position.top": {
+        "value": "in cima",
+        "comment": "The title of dropdown option that specifies the position of comparison to be on top.",
+        "limit": 0
+    },
+    "properties.comparison.position.right": {
+        "value": "a destra",
+        "comment": "The title of dropdown option that specifies the position of comparison to be on right.",
+        "limit": 0
+    },
+    "properties.comparison.position.left": {
+        "value": "a sinistra",
+        "comment": "The title of dropdown option that specifies the position of comparison to be on left.",
+        "limit": 0
+    },
+    "visualizations.headline.tertiary.title": {
+        "value": "VS",
+        "comment": "Means comparison of two values - for example '100 (this week) VERSUS 10 (last week)'.",
+        "limit": 0
+    },
+    "gs.date.yesterday": {
+        "value": "Ieri",
+        "comment": "",
+        "limit": 0
+    },
+    "notifications.panel.button.label": {
+        "value": "Notifiche",
+        "comment": "A global notifications button label in the main menu",
+        "limit": 0
+    },
+    "notifications.panel.notifications.list.label": {
+        "value": "Notifiche",
+        "comment": "",
+        "limit": 0
+    },
+    "notifications.panel.tab.unread": {
+        "value": "Non letto ({count})",
+        "comment": "",
+        "limit": 0
+    },
+    "notifications.panel.tab.all": {
+        "value": "Tutto",
+        "comment": "",
+        "limit": 0
+    },
+    "notifications.panel.markAllAsRead": {
+        "value": "Contrassegnare tutti come letti",
+        "comment": "",
+        "limit": 0
+    },
+    "notifications.panel.error.loading": {
+        "value": "Notifiche di errori di caricamento",
+        "comment": "",
+        "limit": 0
+    },
+    "notifications.panel.empty.all": {
+        "value": "Nessuna notifica",
+        "comment": "",
+        "limit": 0
+    },
+    "notifications.panel.empty.unread": {
+        "value": "Nessuna notifica non letta",
+        "comment": "",
+        "limit": 0
+    },
+    "notifications.panel.unsupported.notification.type": {
+        "value": "Tipo di notifica non supportato",
+        "comment": "",
+        "limit": 0
+    },
+    "notifications.panel.markAsRead": {
+        "value": "Segna come letto",
+        "comment": "",
+        "limit": 0
+    },
+    "notifications.panel.alert.notification.type.label": {
+        "value": "Alert notification",
+        "comment": "",
+        "limit": 0
+    },
+    "notifications.filters.buttonLabel": {
+        "value": "Mostra filtri",
+        "comment": "",
+        "limit": 0
+    },
+    "notifications.filters.dialog.title": {
+        "value": "Filtri applicati",
+        "comment": "",
+        "limit": 0
+    },
+    "notifications.filters.dialog.dateRange": {
+        "value": "Intervallo di date",
+        "comment": "",
+        "limit": 0
+    },
+    "notifications.panel.triggers.title": {
+        "value": "per {triggeredCount}/{totalCount} articoli",
+        "comment": "",
+        "limit": 0
+    },
+    "notifications.panel.triggers.dialog.newValue": {
+        "value": "Nuovo valore",
+        "comment": "",
+        "limit": 0
+    },
+    "close": {
+        "value": "Chiudere",
+        "comment": "Label of a button for closing a dialog window",
+        "limit": 0
+    },
+    "notifications.panel.triggers.dialog.title": {
+        "value": "Attivato per",
+        "comment": "",
+        "limit": 0
+    },
+    "notifications.panel.error.learnMore": {
+        "value": "Maggiori informazioni",
+        "comment": "",
+        "limit": 0
+    },
+    "notifications.panel.error.traceId": {
+        "value": "Trace ID",
+        "comment": "",
+        "limit": 0
+    },
+    "notifications.panel.error.message": {
+        "value": "Non è stato possibile elaborare l'avviso.",
+        "comment": "",
+        "limit": 0
+    }
+}
