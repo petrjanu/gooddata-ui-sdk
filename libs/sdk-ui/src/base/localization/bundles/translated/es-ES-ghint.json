@@ -1,0 +1,3551 @@
+{
+    "empty_value": {
+        "value": "valor vacío",
+        "comment": "",
+        "limit": 0
+    },
+    "gs.date.at": {
+        "value": "en",
+        "comment": "",
+        "limit": 0
+    },
+    "gs.header.help": {
+        "value": "Ayuda",
+        "comment": "",
+        "limit": 0
+    },
+    "gs.header.help.label": {
+        "value": "Help links",
+        "comment": "",
+        "limit": 0
+    },
+    "gs.header.search": {
+        "value": "Buscar",
+        "comment": "A global semantic search button label in the main menu",
+        "limit": 0
+    },
+    "gs.header.logo.title.accessibility": {
+        "value": "Logotipo de la aplicación",
+        "comment": "",
+        "limit": 0
+    },
+    "gs.header.href.accessibility": {
+        "value": "Ir a la página de inicio",
+        "comment": "",
+        "limit": 0
+    },
+    "gs.header.accessibility.label": {
+        "value": "Encabezado de aplicación global",
+        "comment": "",
+        "limit": 0
+    },
+    "gs.header.menu.accessibility.label": {
+        "value": "Navegación global",
+        "comment": "",
+        "limit": 0
+    },
+    "gs.header.notifications": {
+        "value": "Notificaciones",
+        "comment": "A global notifications button label in the main menu",
+        "limit": 0
+    },
+    "gs.header.logout": {
+        "value": "Cerrar sesión",
+        "comment": "",
+        "limit": 0
+    },
+    "gs.header.account.title": {
+        "value": "Cuenta",
+        "comment": "",
+        "limit": 0
+    },
+    "gs.list.all": {
+        "value": "Todo",
+        "comment": "",
+        "limit": 0
+    },
+    "gs.list.except": {
+        "value": "excepto",
+        "comment": "",
+        "limit": 0
+    },
+    "gs.list.is": {
+        "value": "es",
+        "comment": "",
+        "limit": 0
+    },
+    "gs.list.search.placeholder": {
+        "value": "Buscar…",
+        "comment": "Use '…' as one character, not 3 dots ('...').",
+        "limit": 0
+    },
+    "gs.list.acessibility.search.label": {
+        "value": "Buscar valores de atributos",
+        "comment": "",
+        "limit": 0
+    },
+    "gs.list.notAvailableAbbreviation": {
+        "value": "N/D",
+        "comment": "Stands for 'Not Available",
+        "limit": 0
+    },
+    "gs.list.searchResults": {
+        "value": "resultados de la búsqueda",
+        "comment": "",
+        "limit": 0
+    },
+    "gs.visualizationsList.loading": {
+        "value": "Cargando…",
+        "comment": "Use '…' as one character, not 3 dots ('...').",
+        "limit": 0
+    },
+    "gs.color-picker.inputPlaceholder": {
+        "value": "#color",
+        "comment": "Character '#' means user should input color code as hexadecimal value, e.g. #C0D6E4",
+        "limit": 0
+    },
+    "gs.color-picker.currentColor": {
+        "value": "actual",
+        "comment": "",
+        "limit": 0
+    },
+    "gs.color-picker.newColor": {
+        "value": "nuevo",
+        "comment": "",
+        "limit": 0
+    },
+    "gs.color-picker.cancelButton": {
+        "value": "Cancelar",
+        "comment": "",
+        "limit": 0
+    },
+    "gs.color-picker.okButton": {
+        "value": "Aceptar",
+        "comment": "",
+        "limit": 0
+    },
+    "gs.color-picker.hex": {
+        "value": "hex",
+        "comment": "etiqueta que indica que el usuario debe introducir un valor de color hexadecimal, por ejemplo, #C0D6E4",
+        "limit": 0
+    },
+    "gs.noData.noMatchingData": {
+        "value": "No hay datos que coincidan",
+        "comment": "",
+        "limit": 0
+    },
+    "gs.noData.noDataAvailable": {
+        "value": "No hay datos que coincidan",
+        "comment": "",
+        "limit": 0
+    },
+    "geochart.scroll.zoom.blocker": {
+        "value": "Use {button} + desplácese para ampliar el mapa",
+        "comment": "This message will appear when map zooming on GeoChart is disabled and available only, while the button is pressed.",
+        "limit": 0
+    },
+    "geochart.touch.pan.blocker": {
+        "value": "Use dos dedos para mover el mapa",
+        "comment": "This message will appear when moving map on GeoChart is disabled by one finger and available only with two.",
+        "limit": 0
+    },
+    "visualizations.of": {
+        "value": "{page} de {pagesCount}",
+        "comment": "Don't translate placeholders '{page}', '{pagesCount}'",
+        "limit": 0
+    },
+    "visualizations.totals.dropdown.title.sum": {
+        "value": "Suma",
+        "comment": "Total of type 'Sum'. Showed in menu before adding to table.",
+        "limit": 0
+    },
+    "visualizations.totals.dropdown.title.avg": {
+        "value": "Media",
+        "comment": "Total of type 'Avg'. Showed in menu before adding to table.",
+        "limit": 0
+    },
+    "visualizations.totals.dropdown.title.min": {
+        "value": "Min",
+        "comment": "Total of type 'Min'. Showed in menu before adding to table.",
+        "limit": 0
+    },
+    "visualizations.totals.dropdown.title.max": {
+        "value": "Máx",
+        "comment": "Total of type 'Max'. Showed in menu before adding to table.",
+        "limit": 0
+    },
+    "visualizations.totals.dropdown.title.nat": {
+        "value": "Consolidación (Total)",
+        "comment": "Total of type 'Rollup' where 'Total' is hint and synonym. Showed in menu before adding to table.",
+        "limit": 0
+    },
+    "visualizations.totals.dropdown.tooltip.nat.disabled.mvf._measure|insight": {
+        "value": "La agregación Rollup (Total) no está disponible cuando se filtra la visualización por valor de medida. Para utilizar Rollup (Total), elimine todos los filtros de valor de medida de la barra de filtros.",
+        "comment": "The tooltip that is shown in pivot's table totals menu when rollup (native) total is disabled because measure value filters are configured for the pivot.",
+        "limit": 0
+    },
+    "visualizations.totals.dropdown.tooltip.nat.disabled.mvf._metric|insight": {
+        "value": "La agregación Rollup (Total) no está disponible cuando se filtra la visualización por valor de métrica. Para utilizar Rollup (Total), elimine todos los filtros de valor de métrica de la barra de filtros.",
+        "comment": "The tooltip that is shown in pivot's table totals menu when rollup (native) total is disabled because metric value filters are configured for the pivot.",
+        "limit": 0
+    },
+    "visualizations.totals.dropdown.tooltip.nat.disabled.mvf._measure|report": {
+        "value": "Rollup (Total) aggregation is not available when filtering the report by measure value. To use Rollup (Total), remove all measure value filters from the filter bar.",
+        "comment": "The tooltip that is shown in pivot's table totals menu when rollup (native) total is disabled because measure value filters are configured for the pivot.",
+        "limit": 0,
+        "translate": false
+    },
+    "visualizations.totals.dropdown.tooltip.nat.disabled.mvf._metric|report": {
+        "value": "Rollup (Total) aggregation is not available when filtering the report by metric value. To use Rollup (Total), remove all metric value filters from the filter bar.",
+        "comment": "The tooltip that is shown in pivot's table totals menu when rollup (native) total is disabled because metric value filters are configured for the pivot.",
+        "limit": 0,
+        "translate": false
+    },
+    "visualizations.totals.dropdown.tooltip.nat.disabled.ranking|insight": {
+        "value": "La agregación Rollup (Total) no está disponible cuando se filtra la visualización por filtro de clasificación. Para utilizar Rollup (Total), elimine el filtro de clasificación de la barra de filtros.",
+        "comment": "The tooltip that is shown in pivot's table totals menu when rollup (native) total is disabled because ranking filters are configured for the pivot.",
+        "limit": 0
+    },
+    "visualizations.totals.dropdown.tooltip.nat.disabled.ranking|report": {
+        "value": "Rollup (Total) aggregation is not available when filtering the report by ranking filter. To use Rollup (Total), remove ranking filter from the filter bar.",
+        "comment": "The tooltip that is shown in pivot's table totals menu when rollup (native) total is disabled because ranking filters are configured for the pivot.",
+        "limit": 0,
+        "translate": false
+    },
+    "visualizations.totals.dropdown.title.med": {
+        "value": "Mediana",
+        "comment": "Total of type 'Median'. Showed in menu before adding to table.",
+        "limit": 0
+    },
+    "visualizations.headline.tertiary.title": {
+        "value": "Frente a",
+        "comment": "Means comparison of two values - for example '100 (this week) VERSUS 10 (last week)'.",
+        "limit": 0
+    },
+    "visualizations.headline.comparison.title.change": {
+        "value": "Cambiar",
+        "comment": "The label of the dropdown option that specifies the arithmetic operation to calculate the change between two values.",
+        "limit": 0
+    },
+    "visualizations.headline.comparison.title.change.positive": {
+        "value": "Aumentar",
+        "comment": "The label will be used when the arithmetic operation is `change` and primary value is greater then secondary value.",
+        "limit": 0
+    },
+    "visualizations.headline.comparison.title.change.negative": {
+        "value": "Reducir",
+        "comment": "The label will be used when the arithmetic operation is `change` and primary value is less then secondary value.",
+        "limit": 0
+    },
+    "visualizations.headline.comparison.title.change.equals": {
+        "value": "Sin cambios",
+        "comment": "The label will be used when the arithmetic operation is `change` and primary value is equals secondary value.",
+        "limit": 0
+    },
+    "visualizations.headline.comparison.title.ratio": {
+        "value": "de",
+        "comment": "The label of the dropdown option that specifies the arithmetic operation to calculate the the ratio between two values.",
+        "limit": 0
+    },
+    "visualizations.headline.comparison.title.difference": {
+        "value": "Diferencia",
+        "comment": "The label of the dropdown option that specifies the arithmetic operation to calculate the difference between two values.",
+        "limit": 0
+    },
+    "visualizations.headline.comparison.title.difference.positive": {
+        "value": "Aumentar",
+        "comment": "The label will be used when the arithmetic operation is `difference` and primary value is greater then secondary value.",
+        "limit": 0
+    },
+    "visualizations.headline.comparison.title.difference.negative": {
+        "value": "Reducir",
+        "comment": "The label will be used when the arithmetic operation is `difference` and primary value is less then secondary value.",
+        "limit": 0
+    },
+    "visualizations.headline.comparison.title.difference.equals": {
+        "value": "Sin diferencia",
+        "comment": "The label will be used when the arithmetic operation is `difference` and primary value is equals secondary value.",
+        "limit": 0
+    },
+    "visualization.numericValues.k": {
+        "value": "k",
+        "comment": "Character 'k' stands for metric prefix kilo (1.000).",
+        "limit": 0
+    },
+    "visualization.numericValues.m": {
+        "value": "M",
+        "comment": "Character 'M' stands for metric prefix mega (1.000.000).",
+        "limit": 0
+    },
+    "visualization.numericValues.g": {
+        "value": "G",
+        "comment": "Character 'G' stands for metric prefix giga (1.000.000.000).",
+        "limit": 0
+    },
+    "visualization.numericValues.t": {
+        "value": "T",
+        "comment": "Character 'T' stands for metric prefix tera (1.000.000.000.000).",
+        "limit": 0
+    },
+    "visualization.numericValues.p": {
+        "value": "P",
+        "comment": "Character 'P' stands for metric prefix peta (1.000.000.000.000.000).",
+        "limit": 0
+    },
+    "visualization.numericValues.e": {
+        "value": "E",
+        "comment": "Character 'E' stands for metric prefix exa (1.000.000.000.000.000.000).",
+        "limit": 0
+    },
+    "visualization.emptyValue": {
+        "value": "valor vacío",
+        "comment": "",
+        "limit": 0
+    },
+    "visualization.waterfall.total": {
+        "value": "Total",
+        "comment": "The default name for the waterfall total column",
+        "limit": 0
+    },
+    "visualization.cluster": {
+        "value": "Grupo",
+        "comment": "The default title for the cluster group",
+        "limit": 0
+    },
+    "visualization.ErrorMessageGeneric|insight": {
+        "value": "Lo sentimos, no podemos mostrar esta visualización",
+        "comment": "",
+        "limit": 0
+    },
+    "visualization.ErrorMessageGeneric|report": {
+        "value": "Sorry, we can't display this report",
+        "comment": "",
+        "limit": 0,
+        "translate": false
+    },
+    "visualization.ErrorDescriptionGeneric": {
+        "value": "Póngase en contacto con su administrador.",
+        "comment": "",
+        "limit": 0
+    },
+    "visualization.ErrorMessageDataTooLarge": {
+        "value": "Demasiados puntos de datos para ser mostrados",
+        "comment": "",
+        "limit": 0
+    },
+    "visualization.ErrorDescriptionDataTooLarge": {
+        "value": "Intente aplicar los filtros.",
+        "comment": "",
+        "limit": 0
+    },
+    "visualization.ErrorMessageNoData": {
+        "value": "No hay datos",
+        "comment": "",
+        "limit": 0
+    },
+    "visualization.ErrorDescriptionNoData": {
+        "value": "No hay datos para la selección del filtro.",
+        "comment": "",
+        "limit": 0
+    },
+    "visualization.ErrorMessageKpi": {
+        "value": "Error",
+        "comment": "",
+        "limit": 0
+    },
+    "visualization.ErrorMessageUnauthorized": {
+        "value": "No autorizado",
+        "comment": "",
+        "limit": 0
+    },
+    "visualization.ErrorDescriptionUnauthorized|insight": {
+        "value": "Lo sentimos, no tiene acceso a esta visualización. Inicie sesión o pida a su administrador que le conceda permisos.",
+        "comment": "",
+        "limit": 0
+    },
+    "visualization.ErrorDescriptionUnauthorized|report": {
+        "value": "Sorry you don't have access to this report. Login or ask your administrator to grant you permissions.",
+        "comment": "",
+        "limit": 0,
+        "translate": false
+    },
+    "visualization.ErrorMessageNotFound|insight": {
+        "value": "Lo sentimos, no podemos encontrar esta visualización",
+        "comment": "",
+        "limit": 0
+    },
+    "visualization.ErrorMessageNotFound|report": {
+        "value": "Sorry, we can't find this report",
+        "comment": "",
+        "limit": 0,
+        "translate": false
+    },
+    "visualization.ErrorDescriptionNotFound|insight": {
+        "value": "La visualización con esta URL no existe.",
+        "comment": "",
+        "limit": 0
+    },
+    "visualization.ErrorDescriptionNotFound|report": {
+        "value": "The report with this URL does not exist.",
+        "comment": "",
+        "limit": 0,
+        "translate": false
+    },
+    "visualization.ErrorDescriptionMissingMapboxToken": {
+        "value": "La configuración del gráfico geográfico requiere un token de acceso a la API válido.",
+        "comment": "",
+        "limit": 0
+    },
+    "visualization.tooltip.resetZoom": {
+        "value": "Restablecer acercar/alejar",
+        "comment": "",
+        "limit": 0
+    },
+    "visualization.tooltip.interaction": {
+        "value": "Haga clic en el gráfico para explorar",
+        "comment": "",
+        "limit": 0
+    },
+    "visualization.tooltip.generic.interaction": {
+        "value": "Haga clic para explorar o filtrar",
+        "comment": "",
+        "limit": 0
+    },
+    "gs.filterLabel.all": {
+        "value": "Todo",
+        "comment": "",
+        "limit": 0
+    },
+    "gs.filterLabel.none": {
+        "value": "Ninguno",
+        "comment": "",
+        "limit": 0
+    },
+    "gs.filter.loading": {
+        "value": "Cargando filtro…",
+        "comment": "Use '…' as one character, not 3 dots ('...').",
+        "limit": 0
+    },
+    "gs.filter.error": {
+        "value": "Error al cargar el filtro.",
+        "comment": "",
+        "limit": 0
+    },
+    "gs.filter.error.tooltip": {
+        "value": "Error. No se pueden cargar los valores.",
+        "comment": "",
+        "limit": 0
+    },
+    "gs.list.clear": {
+        "value": "Borrar",
+        "comment": "",
+        "limit": 0
+    },
+    "gs.list.cancel": {
+        "value": "Cancelar",
+        "comment": "",
+        "limit": 0
+    },
+    "gs.list.apply": {
+        "value": "Aplicar",
+        "comment": "",
+        "limit": 0
+    },
+    "gs.list.only": {
+        "value": "Solo",
+        "comment": "",
+        "limit": 0
+    },
+    "gs.list.selectAll": {
+        "value": "Seleccionar todo",
+        "comment": "",
+        "limit": 0
+    },
+    "gs.list.limitExceeded": {
+        "value": "Lo sentimos, ha superado el límite ({limit}).",
+        "comment": "Don't translate placeholder '{limit}'.",
+        "limit": 0
+    },
+    "gs.list.limitReached": {
+        "value": "Ha alcanzado el límite de {limit} valores seleccionados.",
+        "comment": "Don't translate placeholder '{limit}'.",
+        "limit": 0
+    },
+    "gs.list.cannotSelectMoreValues": {
+        "value": "No puede seleccionar más de {limit} valores.",
+        "comment": "Don't translate placeholder '{limit}'.",
+        "limit": 0
+    },
+    "gs.list.noItemsFound": {
+        "value": "No se ha encontrado ningún elemento.",
+        "comment": "",
+        "limit": 0
+    },
+    "gs.list.noResultsMatch": {
+        "value": "Ningún resultado coincide",
+        "comment": "",
+        "limit": 0
+    },
+    "gs.list.error": {
+        "value": "Error al cargar los valores del filtro.",
+        "comment": "",
+        "limit": 0
+    },
+    "gs.header.upsellButtonText": {
+        "value": "Actualizar",
+        "comment": "",
+        "limit": 0
+    },
+    "gs.header.invite": {
+        "value": "Invitar",
+        "comment": "",
+        "limit": 0
+    },
+    "gs.header.countdown.numberOfDaysLeft": {
+        "value": "Quedan {number} días",
+        "comment": "",
+        "limit": 0
+    },
+    "gs.header.countdown.numberOfMonthsLeft": {
+        "value": "Quedan {number} meses",
+        "comment": "",
+        "limit": 0
+    },
+    "gs.header.countdown.oneMonthLeft": {
+        "value": "Queda 1 mes",
+        "comment": "",
+        "limit": 0
+    },
+    "gs.header.countdown.lastDay": {
+        "value": "Este es su último día",
+        "comment": "",
+        "limit": 0
+    },
+    "measure.title.suffix.same_period_year_ago": {
+        "value": "MP el año anterior",
+        "comment": "",
+        "limit": 0
+    },
+    "measure.title.suffix.previous_period": {
+        "value": "periodo atrás",
+        "comment": "",
+        "limit": 0
+    },
+    "visualizations.measure.arithmetic.sum.title": {
+        "value": "Suma de {firstMeasureTitle} y {secondMeasureTitle}",
+        "comment": "Title of an arithmetic measure of type Sum. Don't translate placeholders '{firstMeasureTitle}', '{secondMeasureTitle}'.",
+        "limit": 0
+    },
+    "visualizations.measure.arithmetic.difference.title": {
+        "value": "Diferencia de {firstMeasureTitle} y {secondMeasureTitle}",
+        "comment": "Title of an arithmetic measure of type Difference. Don't translate placeholders '{firstMeasureTitle}', '{secondMeasureTitle}'.",
+        "limit": 0
+    },
+    "visualizations.measure.arithmetic.multiplication.title": {
+        "value": "Producto de {firstMeasureTitle} y {secondMeasureTitle}",
+        "comment": "Title of an arithmetic measure of type Product. Don't translate placeholders '{firstMeasureTitle}', '{secondMeasureTitle}'.",
+        "limit": 0
+    },
+    "visualizations.measure.arithmetic.ratio.title": {
+        "value": "Ratio de {firstMeasureTitle} y {secondMeasureTitle}",
+        "comment": "Title of an arithmetic measure of type Ratio. Don't translate placeholders '{firstMeasureTitle}', '{secondMeasureTitle}'.",
+        "limit": 0
+    },
+    "visualizations.measure.arithmetic.change.title": {
+        "value": "Cambio de {secondMeasureTitle} a {firstMeasureTitle}",
+        "comment": "Title of an arithmetic measure of type Change. Don't translate placeholders '{firstMeasureTitle}', '{secondMeasureTitle}'.",
+        "limit": 0
+    },
+    "visualizations.legend.text.top": {
+        "value": "Arriba",
+        "comment": "",
+        "limit": 0
+    },
+    "visualizations.legend.text.bottom": {
+        "value": "Abajo",
+        "comment": "",
+        "limit": 0
+    },
+    "visualizations.legend.text.left": {
+        "value": "Izquierda",
+        "comment": "",
+        "limit": 0
+    },
+    "visualizations.legend.text.right": {
+        "value": "Derecha",
+        "comment": "",
+        "limit": 0
+    },
+    "visualizations.legend.text.colon": {
+        "value": ":",
+        "comment": "A colon character stands right after legend. eg: 'Left:'",
+        "limit": 0
+    },
+    "visualizations.legend.text.column": {
+        "value": "Columna",
+        "comment": "column chart",
+        "limit": 0
+    },
+    "visualizations.legend.text.line": {
+        "value": "Línea",
+        "comment": "line chart",
+        "limit": 0
+    },
+    "visualizations.legend.text.area": {
+        "value": "Área",
+        "comment": "area chart",
+        "limit": 0
+    },
+    "visualizations.legend.text.combo": {
+        "value": "{0} ({1})",
+        "comment": "Combination of chart type & y-axis position. eg: 'Legend settings: Column (Left)' where 'Column' is '{0}' and '(Left)' is '({1})'. You can switch order of placeholders '{0}' and '({1})' for right-to-left languages if makes more sense.",
+        "limit": 0
+    },
+    "visualizations.pagination.previous": {
+        "value": "Previous page",
+        "comment": "",
+        "limit": 0
+    },
+    "visualizations.pagination.next": {
+        "value": "Next page",
+        "comment": "",
+        "limit": 0
+    },
+    "visualizations.menu.aggregations": {
+        "value": "Agregar",
+        "comment": "Heading showed above menu listing possible aggregations (totals). Use imperative.",
+        "limit": 50
+    },
+    "visualizations.menu.aggregations.rows": {
+        "value": "Filas",
+        "comment": "Heading showed above row attributes of the table you may apply one of aggregation (total) on.",
+        "limit": 50
+    },
+    "visualizations.menu.aggregations.columns": {
+        "value": "Columnas",
+        "comment": "Heading showed above columns attributes of the table you may apply one of aggregation (total) on.",
+        "limit": 50
+    },
+    "visualizations.menu.aggregations.all-rows": {
+        "value": "de todas las filas",
+        "comment": "Menu option that adds row aggregation (grand total) to the table. Example: 'Sum of all rows'",
+        "limit": 50
+    },
+    "visualizations.menu.aggregations.all-columns": {
+        "value": "de todas las columnas",
+        "comment": "Menu option that adds column aggregation (grand total) to the table. Example: 'Sum of all columns'",
+        "limit": 50
+    },
+    "visualizations.menu.aggregations.within-attribute": {
+        "value": "dentro de {attributeName}",
+        "comment": "Menu option that adds row aggregation (sub-total) for specific attribute to the table. Example: 'Sum within Attribute A'. Don't translate placeholder '{attributeName}'.",
+        "limit": 50
+    },
+    "apply": {
+        "value": "Aplicar",
+        "comment": "",
+        "limit": 0
+    },
+    "cancel": {
+        "value": "Cancelar",
+        "comment": "",
+        "limit": 0
+    },
+    "close": {
+        "value": "Cerrar",
+        "comment": "Button for closing the popup without triggering any action.",
+        "limit": 0
+    },
+    "save": {
+        "value": "Guardar",
+        "comment": "Label of save button or visual element",
+        "limit": 0
+    },
+    "loading": {
+        "value": "Cargando…",
+        "comment": "Use '…' as one character, not 3 dots ('...').",
+        "limit": 0
+    },
+    "filtering": {
+        "value": "Filtrando…",
+        "comment": "Use '…' as one character, not 3 dots ('...').",
+        "limit": 0
+    },
+    "dateFilterDropdown.title": {
+        "value": "Rango de fechas",
+        "comment": "",
+        "limit": 0
+    },
+    "dateFilterDropdown.setDefault": {
+        "value": "Establecer filtro de fecha predeterminado para{nbsp}lectores:",
+        "comment": "Do not translate non-breakable space '{nbsp}'",
+        "limit": 0
+    },
+    "dateFilterDropdown.configuration": {
+        "value": "Configuración",
+        "comment": "Configuration button label in date filter dropdown",
+        "limit": 0
+    },
+    "filters.thisMinute.title": {
+        "value": "Este minuto",
+        "comment": "",
+        "limit": 0
+    },
+    "filters.lastMinute.title": {
+        "value": "Último minuto",
+        "comment": "",
+        "limit": 0
+    },
+    "filters.nextMinute.title": {
+        "value": "Minuto siguiente",
+        "comment": "",
+        "limit": 0
+    },
+    "filters.thisHour.title": {
+        "value": "Esta hora",
+        "comment": "",
+        "limit": 0
+    },
+    "filters.lastHour.title": {
+        "value": "Última hora",
+        "comment": "",
+        "limit": 0
+    },
+    "filters.nextHour.title": {
+        "value": "Hora siguiente",
+        "comment": "",
+        "limit": 0
+    },
+    "filters.thisDay.title": {
+        "value": "Hoy",
+        "comment": "",
+        "limit": 0
+    },
+    "filters.lastDay.title": {
+        "value": "Ayer",
+        "comment": "",
+        "limit": 0
+    },
+    "filters.nextDay.title": {
+        "value": "Mañana",
+        "comment": "",
+        "limit": 0
+    },
+    "filters.thisWeek.title": {
+        "value": "Esta semana",
+        "comment": "",
+        "limit": 0
+    },
+    "filters.lastWeek.title": {
+        "value": "Última semana",
+        "comment": "",
+        "limit": 0
+    },
+    "filters.nextWeek.title": {
+        "value": "Semana siguiente",
+        "comment": "",
+        "limit": 0
+    },
+    "filters.thisMonth.title": {
+        "value": "Este mes",
+        "comment": "",
+        "limit": 0
+    },
+    "filters.lastMonth.title": {
+        "value": "Último mes",
+        "comment": "",
+        "limit": 0
+    },
+    "filters.nextMonth.title": {
+        "value": "Mes siguiente",
+        "comment": "",
+        "limit": 0
+    },
+    "filters.thisQuarter.title": {
+        "value": "Este trimestre",
+        "comment": "",
+        "limit": 0
+    },
+    "filters.lastQuarter.title": {
+        "value": "Último trimestre",
+        "comment": "",
+        "limit": 0
+    },
+    "filters.nextQuarter.title": {
+        "value": "Trimestre siguiente",
+        "comment": "",
+        "limit": 0
+    },
+    "filters.thisYear.title": {
+        "value": "Este año",
+        "comment": "",
+        "limit": 0
+    },
+    "filters.lastYear.title": {
+        "value": "Año pasado",
+        "comment": "",
+        "limit": 0
+    },
+    "filters.nextYear.title": {
+        "value": "Año siguiente",
+        "comment": "",
+        "limit": 0
+    },
+    "filters.lastNMinutes": {
+        "value": "{n, plural, one {El último # minuto} other {Los últimos # minutos}}",
+        "comment": "In '{n, plural, one {LAST # MINUTE} other {LAST # MINUTES}}' translate only uppercase words. Do not translate the numeric placeholder '#'. Add missing plural forms if your language has any: ask if you need any help.",
+        "limit": 0
+    },
+    "filters.lastNHours": {
+        "value": "{n, plural, one {La última # hora} other {Las últimas # horas}}",
+        "comment": "In '{n, plural, one {LAST # HOUR} other {LAST # HOURS}}' translate only uppercase words. Do not translate the numeric placeholder '#'. Add missing plural forms if your language has any: ask if you need any help.",
+        "limit": 0
+    },
+    "filters.lastNDays": {
+        "value": "{n, plural, one {El último # día} other {Los últimos # días}}",
+        "comment": "In '{n, plural, one {LAST # DAY} other {LAST # DAYS}}' translate only uppercase words. Do not translate the numeric placeholder '#'. Add missing plural forms if your language has any: ask if you need any help.",
+        "limit": 0
+    },
+    "filters.lastNWeeks": {
+        "value": "{n, plural, one {La última # semana} other {Las últimas # semanas}}",
+        "comment": "In '{n, plural, one {LAST # WEEK} other {LAST # WEEKS}}' translate only uppercase words. Do not translate the numeric placeholder '#'. Add missing plural forms if your language has any: ask if you need any help.",
+        "limit": 0
+    },
+    "filters.lastNMonths": {
+        "value": "{n, plural, one {El último # mes} other {Los últimos # meses}}",
+        "comment": "In '{n, plural, one {LAST # MONTH} other {LAST # MONTHS}}' translate only uppercase words. Do not translate the numeric placeholder '#'. Add missing plural forms if your language has any: ask if you need any help.",
+        "limit": 0
+    },
+    "filters.lastNQuarters": {
+        "value": "{n, plural, one {El último # trimestre} other {Los últimos # trimestres}}",
+        "comment": "In '{n, plural, one {LAST # QUARTER} other {LAST # QUARTERS}}' translate only uppercase words. Do not translate the numeric placeholder '#'. Add missing plural forms if your language has any: ask if you need any help.",
+        "limit": 0
+    },
+    "filters.lastNYears": {
+        "value": "{n, plural, one {El último # año} other {Los últimos # años}}",
+        "comment": "In '{n, plural, one {LAST # YEAR} other {LAST # YEARS}}' translate only uppercase words. Do not translate the numeric placeholder '#'. Add missing plural forms if your language has any: ask if you need any help.",
+        "limit": 0
+    },
+    "filters.nextNMinutes": {
+        "value": "{n, plural, one {El siguiente # minuto} other {Los siguientes # minutos}}",
+        "comment": "In '{n, plural, one {NEXT # MINUTE} other {NEXT # MINUTES}}' translate only uppercase words. Do not translate the numeric placeholder '#'. Add missing plural forms if your language has any: ask if you need any help.",
+        "limit": 0
+    },
+    "filters.nextNHours": {
+        "value": "{n, plural, one {La siguiente # hora} other {Las siguientes # horas}}",
+        "comment": "In '{n, plural, one {NEXT # HOUR} other {NEXT # HOURS}}' translate only uppercase words. Do not translate the numeric placeholder '#'. Add missing plural forms if your language has any: ask if you need any help.",
+        "limit": 0
+    },
+    "filters.nextNDays": {
+        "value": "{n, plural, one {El siguiente # día} other {Los siguientes # días}}",
+        "comment": "In '{n, plural, one {NEXT # DAY} other {NEXT # DAYS}}' translate only uppercase words. Do not translate the numeric placeholder '#'. Add missing plural forms if your language has any: ask if you need any help.",
+        "limit": 0
+    },
+    "filters.nextNWeeks": {
+        "value": "{n, plural, one {La siguiente # semana} other {Las siguientes # semanas}}",
+        "comment": "In '{n, plural, one {NEXT # WEEK} other {NEXT # WEEKS}}' translate only uppercase words. Do not translate the numeric placeholder '#'. Add missing plural forms if your language has any: ask if you need any help.",
+        "limit": 0
+    },
+    "filters.nextNMonths": {
+        "value": "{n, plural, one {El siguiente # mes} other {Los siguientes # meses}}",
+        "comment": "In '{n, plural, one {NEXT # MONTH} other {NEXT # MONTHS}}' translate only uppercase words. Do not translate the numeric placeholder '#'. Add missing plural forms if your language has any: ask if you need any help.",
+        "limit": 0
+    },
+    "filters.nextNQuarters": {
+        "value": "{n, plural, one {El siguiente # trimestre} other {Los siguientes # trimestres}}",
+        "comment": "In '{n, plural, one {NEXT # QUARTER} other {NEXT # QUARTERS}}' translate only uppercase words. Do not translate the numeric placeholder '#'. Add missing plural forms if your language has any: ask if you need any help.",
+        "limit": 0
+    },
+    "filters.nextNYears": {
+        "value": "{n, plural, one {El siguiente # año} other {Los siguientes # años}}",
+        "comment": "In '{n, plural, one {NEXT # YEAR} other {NEXT # YEARS}}' translate only uppercase words. Do not translate the numeric placeholder '#'. Add missing plural forms if your language has any: ask if you need any help.",
+        "limit": 0
+    },
+    "filters.interval.minutes.past": {
+        "value": "Desde hace {from} a {to} {to, plural, one {minuto} other {minutos}}",
+        "comment": "Example: 'From 5 to 3 minutes ago'. Don't translate placeholders '{from}', '{to}'. In '{to, plural, one {MINUTE} other {MINUTES}}' translate only uppercase words.",
+        "limit": 0
+    },
+    "filters.interval.minutes.past.sameValue": {
+        "value": "Hace {value} {value, plural, one {minuto} other {minutos}}",
+        "comment": "Example: '5 minutes ago'. Don't translate placeholder '{value}'. In '{value, plural, one {MINUTE} other {MINUTES}}' translate only uppercase words.",
+        "limit": 0
+    },
+    "filters.interval.minutes.future": {
+        "value": "Dentro de {from} a {to} {to, plural, one {minuto} other {minutos}}",
+        "comment": "Example: 'From 3 to 5 minutes ahead'. Don't translate placeholders '{from}', '{to}'. In '{to, plural, one {MINUTE} other {MINUTES}}' translate only uppercase words.",
+        "limit": 0
+    },
+    "filters.interval.minutes.future.sameValue": {
+        "value": "Dentro de {value} {value, plural, one {minuto} other {minutos}}",
+        "comment": "Example: '5 minutes ahead'. Don't translate placeholder '{value}'. In '{value, plural, one {MINUTE} other {MINUTES}}' translate only uppercase words.",
+        "limit": 0
+    },
+    "filters.interval.minutes.mixed": {
+        "value": "Hace de {from} {from, plural, one {minuto} other {minutos}} a dentro de {to} {to, plural, one {minuto} other {minutos}}",
+        "comment": "Example: 'From 5 minutes ago to 3 minutes ahead'. Don't translate placeholders '{from}', '{to}'. In '{to, plural, one {MINUTE} other {MINUTES}}' translate only uppercase words.",
+        "limit": 0
+    },
+    "filters.interval.hours.past": {
+        "value": "Hace de {from} a {to} {to, plural, one {hora} other {horas}}",
+        "comment": "Example: 'From 5 to 3 hours ago'. Don't translate placeholders '{from}', '{to}'. In '{to, plural, one {HOUR} other {HOURS}}' translate only uppercase words.",
+        "limit": 0
+    },
+    "filters.interval.hours.past.sameValue": {
+        "value": "Hace {value} {value, plural, one {hora} other {horas}}",
+        "comment": "Example: '5 hours ago'. Don't translate placeholder '{value}'. In '{value, plural, one {HOUR} other {HOURS}}' translate only uppercase words.",
+        "limit": 0
+    },
+    "filters.interval.hours.future": {
+        "value": "Dentro de {from} a {to} {to, plural, one {hora} other {horas}}",
+        "comment": "Example: 'From 3 to 5 hours ahead'. Don't translate placeholders '{from}', '{to}'. In '{to, plural, one {HOUR} other {HOURS}}' translate only uppercase words.",
+        "limit": 0
+    },
+    "filters.interval.hours.future.sameValue": {
+        "value": "Dentro de {value} {value, plural, one {hora} other {horas}}",
+        "comment": "Example: '5 hours ahead'. Don't translate placeholder '{value}'. In '{value, plural, one {HOUR} other {HOURS}}' translate only uppercase words.",
+        "limit": 0
+    },
+    "filters.interval.hours.mixed": {
+        "value": "Hace de {from} {from, plural, one {hora} other {horas}} a dentro de {to} {to, plural, one {hora} other {horas}}",
+        "comment": "Example: 'From 5 hours ago to 3 hours ahead'. Don't translate placeholders '{from}', '{to}'. In '{to, plural, one {HOUR} other {HOURS}}' translate only uppercase words.",
+        "limit": 0
+    },
+    "filters.interval.days.past": {
+        "value": "Hace de {from} a {to} {to, plural, one {día} other {días}}",
+        "comment": "Example: 'From 5 to 3 days ago'. Don't translate placeholders '{from}', '{to}'. In '{to, plural, one {DAY} other {DAYS}}' translate only uppercase words.",
+        "limit": 0
+    },
+    "filters.interval.days.past.sameValue": {
+        "value": "Hace {value} {value, plural, one {día} other {días}}",
+        "comment": "Example: '5 days ago'. Don't translate placeholder '{value}'. In '{value, plural, one {DAY} other {DAYS}}' translate only uppercase words.",
+        "limit": 0
+    },
+    "filters.interval.days.future": {
+        "value": "Dentro de {from} a {to} {to, plural, one {día} other {días}}",
+        "comment": "Example: 'From 3 to 5 days ahead'. Don't translate placeholders '{from}', '{to}'. In '{to, plural, one {DAY} other {DAYS}}' translate only uppercase words.",
+        "limit": 0
+    },
+    "filters.interval.days.future.sameValue": {
+        "value": "Dentro de {value} {value, plural, one {día} other {días}}",
+        "comment": "Example: '5 days ahead'. Don't translate placeholder '{value}'. In '{value, plural, one {DAY} other {DAYS}}' translate only uppercase words.",
+        "limit": 0
+    },
+    "filters.interval.days.mixed": {
+        "value": "Hace de {from} {from, plural, one {día} other {días}} a dentro de {to} {to, plural, one {día} other {días}}",
+        "comment": "Example: 'From 5 days ago to 3 days ahead'. Don't translate placeholders '{from}', '{to}'. In '{to, plural, one {DAY} other {DAYS}}' translate only uppercase words.",
+        "limit": 0
+    },
+    "filters.interval.weeks.past": {
+        "value": "Hace de {from} a {to} {to, plural, one {semana} other {semanas}}",
+        "comment": "Example: 'From 5 to 3 weeks ago'. Don't translate placeholders '{from}', '{to}'. In '{to, plural, one {WEEK} other {WEEKS}}' translate only uppercase words.",
+        "limit": 0
+    },
+    "filters.interval.weeks.past.sameValue": {
+        "value": "Hace {value} {value, plural, one {semana} other {semanas}}",
+        "comment": "Example: '5 weeks ago'. Don't translate placeholder '{value}'. In '{value, plural, one {WEEK} other {WEEKS}}' translate only uppercase words.",
+        "limit": 0
+    },
+    "filters.interval.weeks.future": {
+        "value": "Dentro de {from} a {to} {to, plural, one {semana} other {semanas}}",
+        "comment": "Example: 'From 3 to 5 weeks ahead'. Don't translate placeholders '{from}', '{to}'. In '{to, plural, one {WEEK} other {WEEKS}}' translate only uppercase words.",
+        "limit": 0
+    },
+    "filters.interval.weeks.future.sameValue": {
+        "value": "Dentro de {value} {value, plural, one {semana} other {semanas}}",
+        "comment": "Example: '5 weeks ahead'. Don't translate placeholder '{value}'. In '{value, plural, one {WEEK} other {WEEKS}}' translate only uppercase words.",
+        "limit": 0
+    },
+    "filters.interval.weeks.mixed": {
+        "value": "Hace de {from} {from, plural, one {semana} other {semanas}} a dentro de {to} {to, plural, one {semana} other {semanas}}",
+        "comment": "Example: 'From 5 weeks ago to 3 weeks ahead'. Don't translate placeholders '{from}', '{to}'. In '{to, plural, one {WEEK} other {WEEKS}}' translate only uppercase words.",
+        "limit": 0
+    },
+    "filters.interval.months.past": {
+        "value": "Hace de {from} a {to} {to, plural, one {mes} other {meses}}",
+        "comment": "Example: 'From 5 to 3 months ago'. Don't translate placeholders '{from}', '{to}'. In '{to, plural, one {MONTH} other {MONTHS}}' translate only uppercase words.",
+        "limit": 0
+    },
+    "filters.interval.months.past.sameValue": {
+        "value": "Hace {value} {value, plural, one {mes} other {meses}}",
+        "comment": "Example: '5 months ago'. Don't translate placeholder '{value}'. In '{value, plural, one {MONTH} other {MONTHS}}' translate only uppercase words.",
+        "limit": 0
+    },
+    "filters.interval.months.future": {
+        "value": "Dentro de {from} a {to} {to, plural, one {mes} other {meses}}",
+        "comment": "Example: 'From 3 to 5 months ahead'. Don't translate placeholders '{from}', '{to}'. In '{to, plural, one {MONTH} other {MONTHS}}' translate only uppercase words.",
+        "limit": 0
+    },
+    "filters.interval.months.future.sameValue": {
+        "value": "Dentro de {value} {value, plural, one {mes} other {meses}}",
+        "comment": "Example: '5 months ahead'. Don't translate placeholder '{value}'. In '{value, plural, one {MONTH} other {MONTHS}}' translate only uppercase words.",
+        "limit": 0
+    },
+    "filters.interval.months.mixed": {
+        "value": "Hace de {from} {from, plural, one {mes} other {meses}} a dentro de {to} {to, plural, one {mes} other {meses}}",
+        "comment": "Example: 'From 5 months ago to 3 months ahead'. Don't translate placeholders '{from}', '{to}'. In '{to, plural, one {MONTH} other {MONTHS}}' translate only uppercase words.",
+        "limit": 0
+    },
+    "filters.interval.quarters.past": {
+        "value": "Hace de {from} a {to} {to, plural, one {trimestre} other {trimestres}}",
+        "comment": "Example: 'From 5 to 3 quarters ago'. Don't translate placeholders '{from}', '{to}'. In '{to, plural, one {QUARTER} other {QUARTERS}}' translate only uppercase words.",
+        "limit": 0
+    },
+    "filters.interval.quarters.past.sameValue": {
+        "value": "Hace {value} {value, plural, one {trimestre} other {trimestres}}",
+        "comment": "Example: '5 quarters ago'. Don't translate placeholder '{value}'. In '{value, plural, one {QUARTER} other {QUARTERS}}' translate only uppercase words.",
+        "limit": 0
+    },
+    "filters.interval.quarters.future": {
+        "value": "Dentro de {from} a {to} {to, plural, one {trimestre} other {trimestres}}",
+        "comment": "Example: 'From 3 to 5 quarters ahead'. Don't translate placeholders '{from}', '{to}'. In '{to, plural, one {QUARTER} other {QUARTERS}}' translate only uppercase words.",
+        "limit": 0
+    },
+    "filters.interval.quarters.future.sameValue": {
+        "value": "Dentro de {value} {value, plural, one {trimestre} other {trimestres}}",
+        "comment": "Example: '5 quarters ahead'. Don't translate placeholder '{value}'. In '{value, plural, one {QUARTER} other {QUARTERS}}' translate only uppercase words.",
+        "limit": 0
+    },
+    "filters.interval.quarters.mixed": {
+        "value": "Hace de {from} {from, plural, one {trimestre} other {trimestres}} a dentro de {to} {to, plural, one {trimestre} other {trimestres}}",
+        "comment": "Example: 'From 5 quarters ago to 3 quarters ahead'. Don't translate placeholders '{from}', '{to}'. In '{to, plural, one {QUARTER} other {QUARTERS}}' translate only uppercase words.",
+        "limit": 0
+    },
+    "filters.interval.years.past": {
+        "value": "Hace de {from} a {to} {to, plural, one {año} other {años}}",
+        "comment": "Example: 'From 5 to 3 years ago'. Don't translate placeholders '{from}', '{to}'. In '{to, plural, one {YEAR} other {YEARS}}' translate only uppercase words.",
+        "limit": 0
+    },
+    "filters.interval.years.past.sameValue": {
+        "value": "Hace {value} {value, plural, one {año} other {años}}",
+        "comment": "Example: '5 years ago'. Don't translate placeholder '{value}'. In '{value, plural, one {YEAR} other {YEARS}}' translate only uppercase words.",
+        "limit": 0
+    },
+    "filters.interval.years.future": {
+        "value": "Dentro de {from} a {to} {to, plural, one {año} other {años}}",
+        "comment": "Example: 'From 3 to 5 years ahead'. Don't translate placeholders '{from}', '{to}'. In '{to, plural, one {YEAR} other {YEARS}}' translate only uppercase words.",
+        "limit": 0
+    },
+    "filters.interval.years.future.sameValue": {
+        "value": "Dentro de {value} {value, plural, one {año} other {años}}",
+        "comment": "Example: '5 years ahead'. Don't translate placeholder '{value}'. In '{value, plural, one {YEAR} other {YEARS}}' translate only uppercase words.",
+        "limit": 0
+    },
+    "filters.interval.years.mixed": {
+        "value": "Hace de {from} {from, plural, one {año} other {años}} a dentro de {to} {to, plural, one {año} other {años}}",
+        "comment": "Example: 'From 5 years ago to 3 years ahead'. Don't translate placeholders '{from}', '{to}'. In '{to, plural, one {YEAR} other {YEARS}}' translate only uppercase words.",
+        "limit": 0
+    },
+    "filters.granularity.minutes": {
+        "value": "Minutos",
+        "comment": "",
+        "limit": 0
+    },
+    "filters.granularity.hours": {
+        "value": "Horas",
+        "comment": "",
+        "limit": 0
+    },
+    "filters.granularity.days": {
+        "value": "Días",
+        "comment": "",
+        "limit": 0
+    },
+    "filters.granularity.weeks": {
+        "value": "Semanas",
+        "comment": "",
+        "limit": 0
+    },
+    "filters.granularity.months": {
+        "value": "Meses",
+        "comment": "",
+        "limit": 0
+    },
+    "filters.granularity.quarters": {
+        "value": "Trimestres",
+        "comment": "",
+        "limit": 0
+    },
+    "filters.granularity.years": {
+        "value": "Años",
+        "comment": "",
+        "limit": 0
+    },
+    "filters.from": {
+        "value": "de",
+        "comment": "Displayed as placeholder in static period inputs where user enters date",
+        "limit": 0
+    },
+    "filters.to": {
+        "value": "para",
+        "comment": "Displayed as placeholder in static period inputs where user enters date",
+        "limit": 0
+    },
+    "filters.date.accessibility.label.from": {
+        "value": "Seleccione fecha desde",
+        "comment": "",
+        "limit": 0
+    },
+    "filters.date.accessibility.label.to": {
+        "value": "Seleccione fecha hasta",
+        "comment": "",
+        "limit": 0
+    },
+    "filters.time.accessibility.label.from": {
+        "value": "Seleccione la hora desde",
+        "comment": "",
+        "limit": 0
+    },
+    "filters.time.accessibility.label.to": {
+        "value": "Seleccione hora hasta",
+        "comment": "",
+        "limit": 0
+    },
+    "filters.relative.placeholder": {
+        "value": "Type or select",
+        "comment": "",
+        "limit": 0
+    },
+    "filters.relative.from.label": {
+        "value": "Period start",
+        "comment": "",
+        "limit": 0
+    },
+    "filters.relative.from.invalid.value": {
+        "value": "Error: Invalid period start - enter a valid period or select it from the list.",
+        "comment": "",
+        "limit": 0
+    },
+    "filters.relative.from.empty.value": {
+        "value": "Error: Period start is empty - enter a valid period or select it from the list.",
+        "comment": "",
+        "limit": 0
+    },
+    "filters.relative.to.label": {
+        "value": "Period end",
+        "comment": "",
+        "limit": 0
+    },
+    "filters.relative.to.invalid.value": {
+        "value": "Error: Invalid period end - enter a valid period or select it from the list.",
+        "comment": "",
+        "limit": 0
+    },
+    "filters.relative.to.empty.value": {
+        "value": "Error: Period end is empty - enter a valid period or select it from the list.",
+        "comment": "",
+        "limit": 0
+    },
+    "filters.floatingRange": {
+        "value": "Periodo relativo",
+        "comment": "",
+        "limit": 0
+    },
+    "filters.floatingRange.tooltip": {
+        "value": "El rango de fechas es relativo a hoy y se ajusta en el tiempo.",
+        "comment": "",
+        "limit": 0
+    },
+    "filters.floatingRange.noMatch": {
+        "value": "No se encontró ninguna coincidencia",
+        "comment": "",
+        "limit": 0
+    },
+    "filters.floatingRange.tooBig": {
+        "value": "Valor máximo: {limit}",
+        "comment": "This string should be as short as possible to fit in the container. Don't translate placeholder '{limit}'.",
+        "limit": 32
+    },
+    "filters.floatingRange.option.minute.offset.history": {
+        "value": "{n, plural, one {el minuto pasado} other {hace # minutos}}",
+        "comment": "In '{n, plural, one {LAST MINUTE} other {# MINUTES AGO}}' translate only uppercase words. Do not translate the numeric placeholder '#'. Add missing plural forms if your language has any: ask if you need any help.",
+        "limit": 0
+    },
+    "filters.floatingRange.option.minute.offset.today": {
+        "value": "este minuto",
+        "comment": "",
+        "limit": 0
+    },
+    "filters.floatingRange.option.minute.offset.future": {
+        "value": "{n, plural, one {el próximo minuto} other {dentro de # minutos}}",
+        "comment": "In '{n, plural, one {NEXT MINUTE} other {# MINUTES AHEAD}}' translate only uppercase words. Do not translate the numeric placeholder '#'. Add missing plural forms if your language has any: ask if you need any help.",
+        "limit": 0
+    },
+    "filters.floatingRange.option.hour.offset.history": {
+        "value": "{n, plural, one {la hora pasada} other {hace # horas}}",
+        "comment": "In '{n, plural, one {LAST HOUR} other {# HOURS AGO}}' translate only uppercase words. Do not translate the numeric placeholder '#'. Add missing plural forms if your language has any: ask if you need any help.",
+        "limit": 0
+    },
+    "filters.floatingRange.option.hour.offset.today": {
+        "value": "esta hora",
+        "comment": "",
+        "limit": 0
+    },
+    "filters.floatingRange.option.hour.offset.future": {
+        "value": "{n, plural, one {la próxima hora} other {dentro de # horas}}",
+        "comment": "In '{n, plural, one {NEXT HOUR} other {# HOURS AHEAD}}' translate only uppercase words. Do not translate the numeric placeholder '#'. Add missing plural forms if your language has any: ask if you need any help.",
+        "limit": 0
+    },
+    "filters.floatingRange.option.day.offset.history": {
+        "value": "{n, plural, one {ayer} other {hace # días}}",
+        "comment": "In '{n, plural, one {YESTERDAY} other {# DAYS AGO}}' translate only uppercase words. Do not translate the numeric placeholder '#'. Add missing plural forms if your language has any: ask if you need any help.",
+        "limit": 0
+    },
+    "filters.floatingRange.option.day.offset.today": {
+        "value": "hoy",
+        "comment": "",
+        "limit": 0
+    },
+    "filters.floatingRange.option.day.offset.future": {
+        "value": "{n, plural, one {mañana} other {dentro de # días}}",
+        "comment": "In '{n, plural, one {TOMORROW} other {# DAYS AHEAD}}' translate only uppercase words. Do not translate the numeric placeholder '#'. Add missing plural forms if your language has any: ask if you need any help.",
+        "limit": 0
+    },
+    "filters.floatingRange.option.week.offset.history": {
+        "value": "{n, plural, one {la semana pasada} other {hace # semanas}}",
+        "comment": "In '{n, plural, one {LAST WEEK} other {# WEEKS AGO}}' translate only uppercase words. Do not translate the numeric placeholder '#'. Add missing plural forms if your language has any: ask if you need any help.",
+        "limit": 0
+    },
+    "filters.floatingRange.option.week.offset.today": {
+        "value": "esta semana",
+        "comment": "",
+        "limit": 0
+    },
+    "filters.floatingRange.option.week.offset.future": {
+        "value": "{n, plural, one {la próxima semana} other {dentro de # semanas}}",
+        "comment": "In '{n, plural, one {NEXT WEEK} other {# WEEKS AHEAD}}' translate only uppercase words. Do not translate the numeric placeholder '#'. Add missing plural forms if your language has any: ask if you need any help.",
+        "limit": 0
+    },
+    "filters.floatingRange.option.month.offset.history": {
+        "value": "{n, plural, one {el mes pasado} other {hace # meses}}",
+        "comment": "In '{n, plural, one {LAST MONTH} other {# MONTHS AGO}}' translate only uppercase words. Do not translate the numeric placeholder '#'. Add missing plural forms if your language has any: ask if you need any help.",
+        "limit": 0
+    },
+    "filters.floatingRange.option.month.offset.today": {
+        "value": "este mes",
+        "comment": "",
+        "limit": 0
+    },
+    "filters.floatingRange.option.month.offset.future": {
+        "value": "{n, plural, one {el próximo mes} other {dentro de # meses}}",
+        "comment": "In '{n, plural, one {NEXT MONTH} other {# MONTHS AHEAD}}' translate only uppercase words. Do not translate the numeric placeholder '#'. Add missing plural forms if your language has any: ask if you need any help.",
+        "limit": 0
+    },
+    "filters.floatingRange.option.quarter.offset.history": {
+        "value": "{n, plural, one {el trimestre pasado} other {hace # trimestres}}",
+        "comment": "In '{n, plural, one {LAST QUARTER} other {# QUARTERS AGO}}' translate only uppercase words. Do not translate the numeric placeholder '#'. Add missing plural forms if your language has any: ask if you need any help.",
+        "limit": 0
+    },
+    "filters.floatingRange.option.quarter.offset.today": {
+        "value": "este trimestre",
+        "comment": "",
+        "limit": 0
+    },
+    "filters.floatingRange.option.quarter.offset.future": {
+        "value": "{n, plural, one {el próximo trimestre} other {dentro de # trimestres}}",
+        "comment": "In '{n, plural, one {NEXT QUARTER} other {# QUARTERS AHEAD}}' translate only uppercase words. Do not translate the numeric placeholder '#'. Add missing plural forms if your language has any: ask if you need any help.",
+        "limit": 0
+    },
+    "filters.floatingRange.option.year.offset.history": {
+        "value": "{n, plural, one {el año pasado} other {hace # años}}",
+        "comment": "In '{n, plural, one {LAST YEAR} other {# YEARS AGO}}' translate only uppercase words. Do not translate the numeric placeholder '#'. Add missing plural forms if your language has any: ask if you need any help.",
+        "limit": 0
+    },
+    "filters.floatingRange.option.year.offset.today": {
+        "value": "este año",
+        "comment": "",
+        "limit": 0
+    },
+    "filters.floatingRange.option.year.offset.future": {
+        "value": "{n, plural, one {el próximo año} other {dentro de # años}}",
+        "comment": "In '{n, plural, one {NEXT YEAR} other {# YEARS AHEAD}}' translate only uppercase words. Do not translate the numeric placeholder '#'. Add missing plural forms if your language has any: ask if you need any help.",
+        "limit": 0
+    },
+    "filters.allTime.title": {
+        "value": "De todo el tiempo",
+        "comment": "",
+        "limit": 0
+    },
+    "filters.allTime.excludeCurrentPeriod": {
+        "value": "Excluir periodo abierto",
+        "comment": "",
+        "limit": 0
+    },
+    "filters.minute.title": {
+        "value": "MINUTO",
+        "comment": "",
+        "limit": 0
+    },
+    "filters.minute.excludeCurrentPeriod": {
+        "value": "Excluir este minuto",
+        "comment": "",
+        "limit": 0
+    },
+    "filters.hour.title": {
+        "value": "HORA",
+        "comment": "",
+        "limit": 0
+    },
+    "filters.hour.excludeCurrentPeriod": {
+        "value": "Excluir esta hora",
+        "comment": "",
+        "limit": 0
+    },
+    "filters.day.title": {
+        "value": "DÍA",
+        "comment": "",
+        "limit": 0
+    },
+    "filters.day.excludeCurrentPeriod": {
+        "value": "Excluir hoy",
+        "comment": "",
+        "limit": 0
+    },
+    "filters.week.title": {
+        "value": "SEMANA",
+        "comment": "",
+        "limit": 0
+    },
+    "filters.week.excludeCurrentPeriod": {
+        "value": "Excluir esta semana",
+        "comment": "",
+        "limit": 0
+    },
+    "filters.month.title": {
+        "value": "MES",
+        "comment": "",
+        "limit": 0
+    },
+    "filters.month.excludeCurrentPeriod": {
+        "value": "Excluir este mes",
+        "comment": "",
+        "limit": 0
+    },
+    "filters.quarter.title": {
+        "value": "TRIMESTRE",
+        "comment": "",
+        "limit": 0
+    },
+    "filters.quarter.excludeCurrentPeriod": {
+        "value": "Excluir este trimestre",
+        "comment": "",
+        "limit": 0
+    },
+    "filters.year.title": {
+        "value": "AÑO",
+        "comment": "",
+        "limit": 0
+    },
+    "filters.year.excludeCurrentPeriod": {
+        "value": "Excluir este año",
+        "comment": "",
+        "limit": 0
+    },
+    "filters.excludeCurrentPeriod.unavailable": {
+        "value": "No disponible para el intervalo de fechas seleccionado",
+        "comment": "",
+        "limit": 0
+    },
+    "filters.staticPeriod": {
+        "value": "Período estático",
+        "comment": "",
+        "limit": 0
+    },
+    "filters.staticPeriod.incorrectFormat": {
+        "value": "La fecha debe estar en formato {format}",
+        "comment": "Placeholder '{format}' is used for showing date format. Example 'The date must be in the MM/dd/yyyy format'. Don't translate placeholder '{format}'.",
+        "limit": 0
+    },
+    "filters.staticPeriod.endDateBeforeStartDate": {
+        "value": "La hora de fin debe ser posterior a la hora de inicio",
+        "comment": "This error is displayed once there is a datetime range and End time is before To time",
+        "limit": 0
+    },
+    "mvf.operator.all": {
+        "value": "todo",
+        "comment": "Covers all the operators like 'Greater than', 'Less than', etc.",
+        "limit": 0
+    },
+    "mvf.operator.greaterThan": {
+        "value": "mayor que",
+        "comment": "",
+        "limit": 0
+    },
+    "mvf.operator.greaterThanOrEqualTo": {
+        "value": "mayor o igual que",
+        "comment": "",
+        "limit": 0
+    },
+    "mvf.operator.lessThan": {
+        "value": "menor que",
+        "comment": "",
+        "limit": 0
+    },
+    "mvf.operator.lessThanOrEqualTo": {
+        "value": "menor o igual que",
+        "comment": "",
+        "limit": 0
+    },
+    "mvf.operator.equalTo": {
+        "value": "igual a",
+        "comment": "",
+        "limit": 0
+    },
+    "mvf.operator.notEqualTo": {
+        "value": "no igual a",
+        "comment": "",
+        "limit": 0
+    },
+    "mvf.operator.between": {
+        "value": "entre",
+        "comment": "",
+        "limit": 0
+    },
+    "mvf.operator.notBetween": {
+        "value": "no entre",
+        "comment": "",
+        "limit": 0
+    },
+    "mvf.operator.between.tooltip.bubble": {
+        "value": "Se incluyen los valores de inicio y fin.",
+        "comment": "",
+        "limit": 0
+    },
+    "mvf.operator.notBetween.tooltip.bubble": {
+        "value": "No se incluyen los valores de inicio y fin.",
+        "comment": "",
+        "limit": 0
+    },
+    "mvf.treatNullValuesAsZeroLabel": {
+        "value": "Tratar valores en blanco como 0",
+        "comment": "Checkbox label. 'blank values' are data rows without any value (empty), which can be considered to be 0 in calculations.",
+        "limit": 0
+    },
+    "mvf.treatNullValuesAsZeroTooltip": {
+        "value": "Si la condición del filtro incluye 0, los valores en blanco se tratarán como 0 y se incluirán en los cálculos.",
+        "comment": "Checkbox label tooltip. 'blank values' are data rows without any value (empty), which can be considered to be 0 during calculations. If the filter is set to '< 1' for example, it includes values of 0 (less than one) and therefore all the blank (empty) values are going to be considered to be 0 in calculations.",
+        "limit": 0
+    },
+    "measureNumberFormat.custom.optionLabel": {
+        "value": "Personalizado",
+        "comment": "An item in list of presets. Denotes a custom preset",
+        "limit": 0
+    },
+    "measureNumberFormat.buttonLabel": {
+        "value": "Formato: {selectedFormatPresetName}",
+        "comment": "A label informing the user about the currently selected format. The values of selectedFormatPresetName can be for instance 'Whole number', 'Decimal number', or 'Custom'",
+        "limit": 0
+    },
+    "measureNumberCustomFormatDialog.title": {
+        "value": "Personalizar formato",
+        "comment": "Title of the dialog for setting a custom measure format.",
+        "limit": 0
+    },
+    "measureNumberCustomFormatDialog.template.preview.title": {
+        "value": "Vista previa del formato",
+        "comment": "The title of the help bubble for custom measure format template",
+        "limit": 0
+    },
+    "measureNumberCustomFormatDialog.template.title": {
+        "value": "Plantillas",
+        "comment": "Title of the list of templates",
+        "limit": 0
+    },
+    "measureNumberCustomFormatDialog.extendedPreview.button": {
+        "value": "Mostrar más",
+        "comment": "The title of button which will display more examples",
+        "limit": 0
+    },
+    "measureNumberCustomFormatDialog.howToFormat": {
+        "value": "¿Cómo dar formato?",
+        "comment": "Link to help",
+        "limit": 0
+    },
+    "measureNumberCustomFormatDialog.definition": {
+        "value": "Definición",
+        "comment": "Header of format definition field.",
+        "limit": 0
+    },
+    "measureNumberCustomFormatDialog.preview": {
+        "value": "Vista previa",
+        "comment": "Header of a preview section",
+        "limit": 0
+    },
+    "properties.legend.title": {
+        "value": "Leyenda",
+        "comment": "",
+        "limit": 0
+    },
+    "attrf.all": {
+        "value": "Todo",
+        "comment": "",
+        "limit": 0
+    },
+    "attrf.all_except": {
+        "value": "Todo excepto",
+        "comment": "",
+        "limit": 0
+    },
+    "rankingFilter.topBottom": {
+        "value": "Valores superiores/inferiores",
+        "comment": "Filter title",
+        "limit": 0
+    },
+    "rankingFilter.top": {
+        "value": "Arriba",
+        "comment": "Top ranking operator option.",
+        "limit": 0
+    },
+    "rankingFilter.bottom": {
+        "value": "Abajo",
+        "comment": "Bottom ranking operator option.",
+        "limit": 0
+    },
+    "rankingFilter.allRecords": {
+        "value": "Todo",
+        "comment": "Option describing all records.",
+        "limit": 0
+    },
+    "rankingFilter.allRecords.tooltip|insight": {
+        "value": "Aplicar el filtro a todos los atributos de la visualización.",
+        "comment": "Explanation of 'All' option.",
+        "limit": 0
+    },
+    "rankingFilter.allRecords.tooltip|report": {
+        "value": "Apply the filter to all attributes in the report.",
+        "comment": "Explanation of 'All' option.",
+        "limit": 0,
+        "translate": false
+    },
+    "rankingFilter.attributeDropdown.oneAttributeTooltip|insight": {
+        "value": "La visualización se corta sólo por un atributo. El filtro se aplicará a todos sus valores.",
+        "comment": "Tooltip when no options are available for attribute dropdown.",
+        "limit": 0
+    },
+    "rankingFilter.attributeDropdown.oneAttributeTooltip|report": {
+        "value": "The report is sliced only by one attribute. The filter will apply to all its values.",
+        "comment": "Tooltip when no options are available for attribute dropdown.",
+        "limit": 0,
+        "translate": false
+    },
+    "rankingFilter.outOf": {
+        "value": "De",
+        "comment": "Section title to specify ranking attribute.",
+        "limit": 0
+    },
+    "rankingFilter.basedOn": {
+        "value": "Basado en",
+        "comment": "Section title to specify ranking by measure.",
+        "limit": 0
+    },
+    "rankingFilter.valueTooSmall": {
+        "value": "El valor de entrada debe ser un número positivo.",
+        "comment": "Warning message when value is lower than 1.",
+        "limit": 0
+    },
+    "rankingFilter.valueTooLarge": {
+        "value": "El valor de entrada es muy largo.",
+        "comment": "Warning message when value is too large.",
+        "limit": 0
+    },
+    "rankingFilter.preview": {
+        "value": "Vista previa:",
+        "comment": "Section title that shows ranking filter preview.",
+        "limit": 0
+    },
+    "rankingFilter.preview.top_without_attribute": {
+        "value": "{value} superiores de <strong>{measure}</strong>",
+        "comment": "Do not translate placeholder {value} and {measure} or HTML markup enclosed in <>. Text describes ranking filter. Example: 'Top 3 of Revenue'",
+        "limit": 0
+    },
+    "rankingFilter.preview.bottom_without_attribute": {
+        "value": "{value} inferiores de <strong>{measure}</strong>",
+        "comment": "Do not translate placeholder {value} and {measure} or HTML markup enclosed in <>. Title describing ranking direction and number of values. Example: 'Bottom 5 of Revenue'",
+        "limit": 0
+    },
+    "rankingFilter.preview.top_with_attribute": {
+        "value": "{value} superiores de <strong>{attribute}</strong> según <strong>{measure}</strong>",
+        "comment": "Do not translate placeholder {value}, {attribute}, and {measure} or HTML markup enclosed in <>. Title describing ranking direction, number of values, attribute granularity, and measure ranking is based on. Example: 'Top 3 out of Product based on Revenue'",
+        "limit": 0
+    },
+    "rankingFilter.preview.bottom_with_attribute": {
+        "value": "{value} inferiores de <strong>{attribute}</strong> según <strong>{measure}</strong>",
+        "comment": "Do not translate placeholder {value}, {attribute}, and {measure} or HTML markup enclosed in <>. Title describing ranking direction, number of values, attribute granularity, and measure ranking is based on. Example: 'Bottom 5 out of Product based on Revenue'",
+        "limit": 0
+    },
+    "rankingFilter.valueTooltip|insight": {
+        "value": "Si varios elementos tienen el mismo valor, el filtro muestra todos los elementos con este valor. La visualización puede mostrar entonces más elementos que el número establecido.",
+        "comment": "Tooltip with explanation of why ranking filter can return more rows than the number user entered in the filter.",
+        "limit": 0
+    },
+    "rankingFilter.valueTooltip|report": {
+        "value": "If multiple items have the same value, the filter shows all items with this value. The report may then display more items than the number set.",
+        "comment": "Tooltip with explanation of why ranking filter can return more rows than the number user entered in the filter.",
+        "limit": 0,
+        "translate": false
+    },
+    "attributesDropdown.itemsFiltered.tooltip": {
+        "value": "Los valores se filtran por: <strong>{filters}</strong>",
+        "comment": "Do not translate HTML markup enclosed in <> and {filters} placeholder as it will be replaced by list of filter names.",
+        "limit": 0
+    },
+    "attributesDropdown.itemsFiltered": {
+        "value": "Los elementos se han filtrado",
+        "comment": "This message is displayed when attribute elements are being filtered out by parent filters",
+        "limit": 0
+    },
+    "attributeFilterDropdown.emptyValue": {
+        "value": "valor vacío",
+        "comment": "",
+        "limit": 0
+    },
+    "attributesDropdown.noData": {
+        "value": "Este atributo no tiene valores.",
+        "comment": "This message is displayed when when there are no items available because the attribute has no elements.",
+        "limit": 0
+    },
+    "attributesDropdown.noResultsMatch": {
+        "value": "Ningún resultado coincide.",
+        "comment": "This message is displayed when when there are no items available because they were filtered out by search.",
+        "limit": 0
+    },
+    "attributesDropdown.allItemsFiltered": {
+        "value": "Todos los valores se han filtrado.",
+        "comment": "This message is displayed when there are no items available because they were filtered out by parent filters.",
+        "limit": 0
+    },
+    "attributesDropdown.configuration": {
+        "value": "Configuración",
+        "comment": "Configuration button label in attribute filter dropdown",
+        "limit": 0
+    },
+    "attributesDropdown.removeTooltip": {
+        "value": "Quitar del panel",
+        "comment": "Tooltip text of button for deleting filter",
+        "limit": 0
+    },
+    "attributesDropdown.display_as": {
+        "value": "Mostrar como: {title}",
+        "comment": "Label shown on dropdown button that changes form of the attribute used in visualization. For example 'Display as: Shortened name'",
+        "limit": 0
+    },
+    "attributesDropdown.empty.item.tooltip": {
+        "value": "Incluir valores que faltan (null) y vacíos (\"\").",
+        "comment": "Tooltip text of how selecting an (empty value) item affects the values shown.",
+        "limit": 0
+    },
+    "attributesDropdown.filterConfiguredMessage": {
+        "value": "<strong>{parentTitle}</strong> ya se ha filtrado por el filtro <strong>{childTitle}</strong> directamente o mediante otros filtros.",
+        "comment": "Do not translate HTML markup enclosed in <> and placeholders enclosed in {}.",
+        "limit": 0
+    },
+    "attributesDropdown.attributeNameWithData": {
+        "value": "con datos de",
+        "comment": "Will be used in sentence between two nouns. For instance 'Filter by AttributeX with data of MetricY'",
+        "limit": 0
+    },
+    "attributesDropdown.noConnectionMessage": {
+        "value": "<strong>{childTitle}</strong> no se puede filtrar por <strong>{parentTitle}</strong>. No hay ninguna conexión entre los atributos de filtro en el modelo de datos.",
+        "comment": "Do not translate HTML markup enclosed in <> and placeholders enclosed in {}.",
+        "limit": 0
+    },
+    "attributesDropdown.details.type": {
+        "value": "Atributo",
+        "comment": "",
+        "limit": 0
+    },
+    "attributesDropdown.details.dataset": {
+        "value": "Conjunto de datos",
+        "comment": "",
+        "limit": 0
+    },
+    "attributesDropdown.relevantValues": {
+        "value": "Solo valores relevantes.{nbsp}",
+        "comment": "Do not translate non-breakable space '{nbsp}'",
+        "limit": 0
+    },
+    "attributesDropdown.relevantValues.tooltip.parentFilters": {
+        "value": "Los valores disponibles para <strong>{child}</strong> se filtran por la selección de <strong>{parents}</strong>.",
+        "comment": "Do not translate HTML markup enclosed in <> and {child}, {parents} placeholders as it will be replaced by list of filter names.",
+        "limit": 0
+    },
+    "attributesDropdown.relevantValues.tooltip.limits": {
+        "value": "Los valores para <strong>{child}</strong> se filtran por un ajuste de filtro adicional.",
+        "comment": "Do not translate HTML markup enclosed in <> and {child} placeholder as it will be replaced by a filter name.",
+        "limit": 0
+    },
+    "attributesDropdown.relevantValues.tooltip.parentFiltersLimits": {
+        "value": "Los valores para <strong>{child}</strong> se filtran por los <strong>{parents}</strong> seleccionados y un ajuste de filtro adicional.",
+        "comment": "Do not translate HTML markup enclosed in <> and {child}, {parents} placeholders as it will be replaced by list of filter names.",
+        "limit": 0
+    },
+    "attributesDropdown.noRelevantValues": {
+        "value": "Sin valores relevantes",
+        "comment": "",
+        "limit": 0
+    },
+    "attributesDropdown.noRelevantValues.tooltip": {
+        "value": "Su selección en el filtro dependiente ha dado como resultado que no haya valores coincidentes para este filtro.{break}Haga clic en \"Mostrar todo\" para ver todas las opciones disponibles.",
+        "comment": "Do not translate '{break}' variable.",
+        "limit": 0
+    },
+    "attributesDropdown.irrelevantValues": {
+        "value": "Valor irrelevante seleccionado.{nbsp}",
+        "comment": "Do not translate non-breakable space '{nbsp}'",
+        "limit": 0
+    },
+    "attributesDropdown.irrelevantValues.tooltip": {
+        "value": "Los valores seleccionados ya no son relevantes debido a los cambios en <strong>{parents}</strong>.",
+        "comment": "Do not translate HTML markup enclosed in <> and {parents} placeholder as it will be replaced by list of filter names.",
+        "limit": 0
+    },
+    "attributesDropdown.irrelevantValues.clear": {
+        "value": "Borrar",
+        "comment": "",
+        "limit": 0
+    },
+    "attributesDropdown.showAll": {
+        "value": "Mostrar todo",
+        "comment": "",
+        "limit": 0
+    },
+    "shareDialog.share.grantee.title": {
+        "value": "Compartir con usuarios y grupos",
+        "comment": "Title of dialog used for sharing of private dashboard with other users or user groups.",
+        "limit": 0
+    },
+    "shareDialog.share.grantee.share": {
+        "value": "Compartir",
+        "comment": "Title of confirm button of share dialog",
+        "limit": 0
+    },
+    "shareDialog.share.grantee.list.title": {
+        "value": "Compartido con",
+        "comment": "Title shown above list of grantees in share dialog.",
+        "limit": 0
+    },
+    "shareDialog.share.grantee.add": {
+        "value": "Agregar",
+        "comment": "Label of button than adds a new grantee in share dialog.",
+        "limit": 0
+    },
+    "shareDialog.share.grantee.add.empty.selection": {
+        "value": "Ningún usuario o grupo seleccionado.",
+        "comment": "Information message shown when there is no user or group in grantees list in share dialog.",
+        "limit": 0
+    },
+    "shareDialog.share.grantee.add.info": {
+        "value": "Añadir usuarios y grupos",
+        "comment": "Title of dialog used for sharing of private dashboard with other users or user groups.",
+        "limit": 0
+    },
+    "shareDialog.share.grantee.add.search.placeholder": {
+        "value": "Buscar usuarios y grupos",
+        "comment": "Placeholder of empty share dialog search input.",
+        "limit": 0
+    },
+    "shareDialog.share.grantee.add.search.error.message": {
+        "value": "Error al cargar usuarios y grupos. Inténtelo de nuevo más tarde.",
+        "comment": "Error message shown to the user when query in search input failed",
+        "limit": 0
+    },
+    "shareDialog.share.grantee.add.label.user": {
+        "value": "Usuarios",
+        "comment": "Label shown to the user when query in search input matches an user",
+        "limit": 0
+    },
+    "shareDialog.share.grantee.add.label.group": {
+        "value": "Grupos",
+        "comment": "Label shown to the user when query in search input matches a group of users",
+        "limit": 0
+    },
+    "shareDialog.share.grantee.add.search.no.matching.items": {
+        "value": "No coincide ningún usuario o grupo.",
+        "comment": "Information shown to the user when query in search input does no match any user or group.",
+        "limit": 0
+    },
+    "shareDialog.share.grantee.item.you": {
+        "value": "{userName} (Usted)",
+        "comment": "Text used for currently logged user in the list of grantees in share dialog. '{userName}' placeholder is replaced with logged use name, for example, 'John Doe (You)'. Do not translate '{userName}' placeholder.",
+        "limit": 0
+    },
+    "shareDialog.share.grantee.item.users.count": {
+        "value": "{granteeCount} usuarios",
+        "comment": "Description of grantee user group in share dialog that informs about how many users are in the group. {granteeCount} placeholder will be replaced with a number, for example '110 users'. Do not translate '{granteeCount}' placeholder.",
+        "limit": 0
+    },
+    "shareDialog.share.grantee.item.creator": {
+        "value": "Creador",
+        "comment": "Tag rendered next to the name of a user in grantees list in share dialog that marks user as creator of the shared dashboard. The text is rendered in a 'pill' component.",
+        "limit": 0
+    },
+    "shareDialog.share.grantee.item.user.all": {
+        "value": "Todos los usuarios",
+        "comment": "Title of user group that contains all the users in the system.",
+        "limit": 0
+    },
+    "shareDialog.share.grantee.item.user.inactive": {
+        "value": "Usuario inactivo",
+        "comment": "Title of user that is inactive or deleted in workspace",
+        "limit": 0
+    },
+    "shareDialog.share.grantee.item.user.inactive.description": {
+        "value": "Se eliminó al usuario de este espacio de trabajo",
+        "comment": "Description of inactive user",
+        "limit": 0
+    },
+    "shareDialog.share.grantee.item.remove.selection": {
+        "value": "Eliminar de la selección.",
+        "comment": "Text of the tooltip shown above button that removes user or group from unsaved selection of newly added grantees that will gain access right to the dashboard after changes in share dialog are saved.",
+        "limit": 0
+    },
+    "shareDialog.share.granular.grantee.permission.edit": {
+        "value": "Puede editar y compartir",
+        "comment": "",
+        "limit": 0
+    },
+    "shareDialog.share.granular.grantee.permission.share": {
+        "value": "Puede ver y compartir",
+        "comment": "",
+        "limit": 0
+    },
+    "shareDialog.share.granular.grantee.permission.view": {
+        "value": "Puede ver",
+        "comment": "",
+        "limit": 0
+    },
+    "shareDialog.share.granular.grantee.permission.remove": {
+        "value": "Quitar",
+        "comment": "",
+        "limit": 0
+    },
+    "shareDialog.share.granular.granularUser.tooltip.cannotChangeHigher": {
+        "value": "No puede eliminar o modificar los permisos de usuarios con permisos más altos que los suyos.",
+        "comment": "",
+        "limit": 0
+    },
+    "shareDialog.share.granular.granularGroup.tooltip.cannotChangeHigher": {
+        "value": "No puede eliminar o modificar los permisos de grupos con permisos más altos que los suyos.",
+        "comment": "",
+        "limit": 0
+    },
+    "shareDialog.share.granular.grantee.tooltip.cannotGrantHigher": {
+        "value": "No puede establecer permisos más altos que los que tiene.",
+        "comment": "",
+        "limit": 0
+    },
+    "shareDialog.share.granular.granularUser.tooltip.cannotGrantLower": {
+        "value": "No puede establecer permisos más bajos que los permisos de grupos de usuarios con este usuario.",
+        "comment": "",
+        "limit": 0
+    },
+    "shareDialog.share.granular.granularGroup.tooltip.cannotGrantLower": {
+        "value": "No puede establecer permisos más bajos que los permisos de grupos de usuarios que incluyen este grupo.",
+        "comment": "",
+        "limit": 0
+    },
+    "shareDialog.share.granular.granularUser.tooltip.cannotRemoveFromParent": {
+        "value": "No puede eliminar los permisos de este usuario en este espacio de trabajo. Para eliminar los permisos, hágalo desde el espacio de trabajo principal.",
+        "comment": "",
+        "limit": 0
+    },
+    "shareDialog.share.granular.granularGroup.tooltip.cannotRemoveFromParent": {
+        "value": "No puede eliminar los permisos de este grupo de usuarios en este espacio de trabajo. Para eliminar los permisos, hágalo desde el espacio de trabajo principal.",
+        "comment": "",
+        "limit": 0
+    },
+    "shareDialog.share.granular.granularUser.tooltip.noChangeAvailable": {
+        "value": "No puede eliminar o modificar los permisos de este usuario en este espacio de trabajo. Para editar los permisos, hágalo desde el espacio de trabajo principal.",
+        "comment": "",
+        "limit": 0
+    },
+    "shareDialog.share.granular.granularGroup.tooltip.noChangeAvailable": {
+        "value": "No puede eliminar o modificar los permisos de este grupo de usuarios en este espacio de trabajo. Para editar los permisos, hágalo desde el espacio de trabajo principal.",
+        "comment": "",
+        "limit": 0
+    },
+    "shareDialog.share.granular.administrator.info": {
+        "value": "<b>Nota.</b> Otros administradores y usted tienen un acceso completo a todos los paneles.",
+        "comment": "",
+        "limit": 0
+    },
+    "sorting.dropdown.header|insight": {
+        "value": "Ordenar visualización",
+        "comment": "The title of sorting dropdown where you can choose which sort options you want to use. For example sort by attribute A1.",
+        "limit": 0
+    },
+    "sorting.dropdown.header|report": {
+        "value": "Sort report",
+        "comment": "The title of sorting dropdown where you can choose which sort options you want to use. For example sort by attribute A1.",
+        "limit": 0,
+        "translate": false
+    },
+    "sorting.type.alphabetical.asc": {
+        "value": "De la A a la Z",
+        "comment": "Title of sort option when visualization is sorted alphabetically and in ascending order.",
+        "limit": 0
+    },
+    "sorting.type.alphabetical.desc": {
+        "value": "De la Z a la A",
+        "comment": "Title of sort option when visualization is sorted alphabetically and in descending order.",
+        "limit": 0
+    },
+    "sorting.type.date.asc": {
+        "value": "De más antiguo a más reciente",
+        "comment": "Title of sort option when visualization is sorted by date and in ascending order.",
+        "limit": 0
+    },
+    "sorting.type.date.desc": {
+        "value": "De más reciente a más antiguo",
+        "comment": "Title of sort option when visualization is sorted by date and in descending order.",
+        "limit": 0
+    },
+    "sorting.type.default": {
+        "value": "Predeterminado",
+        "comment": "Title of sort option when visualization is sorted by default order.",
+        "limit": 0
+    },
+    "sorting.type.numerical.asc": {
+        "value": "De menor a mayor",
+        "comment": "Title of sort option when visualization is sorted numerically and in ascending order.",
+        "limit": 0
+    },
+    "sorting.type.numerical.desc": {
+        "value": "De mayor a menor",
+        "comment": "Title of sort option when visualization is sorted numerically and in descending order.",
+        "limit": 0
+    },
+    "sorting.by": {
+        "value": "por",
+        "comment": "Text that will appear before the measures from which attribute will be sorted.",
+        "limit": 0
+    },
+    "sorting.sum.of.all.measure": {
+        "value": "Total",
+        "comment": "Title of sort option when is sorted by sum of all measures.",
+        "limit": 0
+    },
+    "sorting.default.tooltip": {
+        "value": "Use el orden definido en el atributo.",
+        "comment": "Tooltip that explains user that default sorting of the selected attribute will be applied on the visualization.",
+        "limit": 0
+    },
+    "embedInsightDialog.actions.close": {
+        "value": "Cerrar",
+        "comment": "",
+        "limit": 0
+    },
+    "embedInsightDialog.actions.copyCode": {
+        "value": "Copiar código",
+        "comment": "Label of confirm button, copy code to clipboard.",
+        "limit": 0
+    },
+    "embedInsightDialog.component.type": {
+        "value": "Tipo de componente",
+        "comment": "Selector that define the component type of generated code Referential or Programmatic",
+        "limit": 0
+    },
+    "embedInsightDialog.code.language.codeAs": {
+        "value": "Codificar como",
+        "comment": "Selector that define language of generated code Typescript or Javascript",
+        "limit": 0
+    },
+    "embedInsightDialog.react.options": {
+        "value": "Otras opciones",
+        "comment": "Options of generated code. Include component specific item, define height etc.",
+        "limit": 0
+    },
+    "embedInsightDialog.webComponents.options": {
+        "value": "Opciones",
+        "comment": "Options of generated code. Include component specific item, define height etc.",
+        "limit": 0
+    },
+    "embedInsightDialog.webComponents.options.displayTitle": {
+        "value": "Mostrar título",
+        "comment": "",
+        "limit": 0
+    },
+    "embedInsightDialog.webComponents.options.customTitle": {
+        "value": "Título personalizado",
+        "comment": "Options of generated code. Include component specific item, define height etc.",
+        "limit": 0
+    },
+    "embedInsightDialog.webComponents.options.locale": {
+        "value": "Lugar",
+        "comment": "Options of generated code. Include component specific item, define height etc.",
+        "limit": 0
+    },
+    "embedInsightDialog.webComponents.locale.tooltip": {
+        "value": "Elija una localización del idioma específica. Si se desactiva, la visualización adoptará por defecto la configuración actual del idioma de visualización.",
+        "comment": "Tooltip for the web components locale",
+        "limit": 0
+    },
+    "embedInsightDialog.code.options.include.config.info|insight": {
+        "value": "Incluya la configuración de visualización de colores, ejes, leyenda y lienzo si está disponible.",
+        "comment": "Tool tip that explain Include configuration",
+        "limit": 0
+    },
+    "embedInsightDialog.code.options.include.config.info|report": {
+        "value": "Include the report configuration of colors, axes, legend, and canvas if available.",
+        "comment": "Tool tip that explain Include configuration",
+        "limit": 0,
+        "translate": false
+    },
+    "embedInsightDialog.code.options.custom.height": {
+        "value": "Personalizar altura",
+        "comment": "",
+        "limit": 0
+    },
+    "embedInsightDialog.code.options.display.configuration": {
+        "value": "Incluir configuración",
+        "comment": "",
+        "limit": 0
+    },
+    "embedInsightDialog.headLine.embedInsight|insight": {
+        "value": "Insertar visualización",
+        "comment": "",
+        "limit": 0
+    },
+    "embedInsightDialog.headLine.embedInsight|report": {
+        "value": "Embed report",
+        "comment": "",
+        "limit": 0,
+        "translate": false
+    },
+    "embedInsightDialog.componentType.byReference.tooltip|insight": {
+        "value": "Insertar como referencia a una visualización guardada en un componente genérico GD.UI react. Cualquier cambio futuro en la visualización (como el tipo de visualización, las métricas o los atributos) se reflejará en la versión insertada.",
+        "comment": "Tooltip that explain what Embed as a live visualization means",
+        "limit": 0
+    },
+    "embedInsightDialog.componentType.byReference.tooltip|report": {
+        "value": "Embed as a reference to a saved report in a generic GD.UI react component. Any future changes to the report (such as visualization type, metrics, attributes) will be reflected in the embedded version.",
+        "comment": "Tooltip that explain what Embed as a live visualization means",
+        "limit": 0,
+        "translate": false
+    },
+    "embedInsightDialog.componentType.byDefinition.tooltip|insight": {
+        "value": "Insertar como una definición de visualización en un componente GD.UI react específico basado en el tipo de visualización seleccionado actualmente. Ningún cambio futuro en la visualización (como el tipo de visualización, las métricas o los atributos) realizado en esta aplicación se reflejará en la versión insertada.",
+        "comment": "Tooltip that explain what Embed as a a permanent report",
+        "limit": 0
+    },
+    "embedInsightDialog.componentType.byDefinition.tooltip|report": {
+        "value": "Embed as an report definition in a specific GD.UI react component based on the currently selected visualization type. No future changes to the report (such as visualization type, metrics, attributes) made in this application will be reflected in the embedded version.",
+        "comment": "Tooltip that explain what Embed as a a permanent report",
+        "limit": 0,
+        "translate": false
+    },
+    "embedInsightDialog.webComponents.customTitle.tooltip": {
+        "value": "Defina el texto del título directamente en el fragmento de código.",
+        "comment": "Tooltip for the web components custom title",
+        "limit": 0
+    },
+    "embedInsightDialog.webComponents.customTitle.disabled.tooltip": {
+        "value": "Activar Mostrar título primero.",
+        "comment": "Tooltip for the web components custom title when it is disabled",
+        "limit": 0
+    },
+    "embedInsightDialog.prepareEnvironmentMessage": {
+        "value": "<b>Nota.</b> Para que este fragmento de código funcione, prepare su entorno.",
+        "comment": "Do not translate html tags <b>, </b>",
+        "limit": 0
+    },
+    "embedInsightDialog.prepareEnvironmentMessage.link": {
+        "value": "Más información",
+        "comment": "Link with additional info",
+        "limit": 0
+    },
+    "embed.dialog.numeric.input.validation": {
+        "value": "El valor debe ser un número mayor que 0",
+        "comment": "Validation of custom embedded dashboard height",
+        "limit": 0
+    },
+    "embed.dialog.numeric.input.warning": {
+        "value": "Esta entrada acepta solo dígitos mayores que 0",
+        "comment": "Validation of custom embedded dashboard height",
+        "limit": 0
+    },
+    "embedInsightDialog.complete.list.props.message": {
+        "value": "Lista completa de las propiedades de incrustación",
+        "comment": "Link to documentation of used component and all component properties",
+        "limit": 0
+    },
+    "embedInsightDialog.emptyInsight.byReference|insight": {
+        "value": "El código recortado se mostrará aquí una vez que <a>guarde la visualización</a>.",
+        "comment": "The disabled message for code area. Do not translate html tags <a>, </a>",
+        "limit": 0
+    },
+    "embedInsightDialog.emptyInsight.byReference|report": {
+        "value": "Code snipped will be displayed here once you <a>save the report</a>.",
+        "comment": "The disabled message for code area. Do not translate html tags <a>, </a>",
+        "limit": 0,
+        "translate": false
+    },
+    "embedInsightDialog.emptyInsight.byDefinition|insight": {
+        "value": "Este tipo de visualización no puede insertarse como componente de tipo programático.",
+        "comment": "The disabled message for code area",
+        "limit": 0
+    },
+    "embedInsightDialog.emptyInsight.byDefinition|report": {
+        "value": "This report type cannot be embedded as programmatic type component.",
+        "comment": "The disabled message for code area",
+        "limit": 0,
+        "translate": false
+    },
+    "embedDialog.tab.react": {
+        "value": "React",
+        "comment": "The tab title",
+        "limit": 0
+    },
+    "embedDialog.tab.webComponents": {
+        "value": "Componentes web",
+        "comment": "The tab title",
+        "limit": 0
+    },
+    "error.overlay.login": {
+        "value": "Iniciar sesión",
+        "comment": "",
+        "limit": 0
+    },
+    "error.overlay.title": {
+        "value": "Se ha cerrado la sesión",
+        "comment": "",
+        "limit": 0
+    },
+    "error.overlay.text": {
+        "value": "Iníciela de nuevo para continuar su trabajo.",
+        "comment": "",
+        "limit": 0
+    },
+    "stylingPicker.title.basic": {
+        "value": "Predeterminado",
+        "comment": "",
+        "limit": 0
+    },
+    "stylingPicker.title.custom": {
+        "value": "Personalizado",
+        "comment": "",
+        "limit": 0
+    },
+    "stylingPicker.title.create": {
+        "value": "Crear",
+        "comment": "",
+        "limit": 0
+    },
+    "stylingEditor.dialog.name": {
+        "value": "Nombre",
+        "comment": "",
+        "limit": 0
+    },
+    "stylingEditor.dialog.name.required": {
+        "value": "No se puede guardar. Especifique un nombre.",
+        "comment": "",
+        "limit": 0
+    },
+    "stylingEditor.dialog.definition": {
+        "value": "Definición",
+        "comment": "Name of the text field to describe an object.",
+        "limit": 0
+    },
+    "stylingEditor.dialog.definition.required": {
+        "value": "No se puede guardar. Especifique una definición.",
+        "comment": "",
+        "limit": 0
+    },
+    "stylingEditor.dialog.definition.invalid": {
+        "value": "No se puede guardar. La definición no es un objeto JSON válido.",
+        "comment": "",
+        "limit": 0
+    },
+    "stylingEditor.dialog.examples": {
+        "value": "Plantillas",
+        "comment": "",
+        "limit": 0
+    },
+    "stylingEditor.dialog.example.paste": {
+        "value": "Pegar",
+        "comment": "Button text to paste content into text field.",
+        "limit": 0
+    },
+    "stylingPicker.item.edit": {
+        "value": "Editar",
+        "comment": "",
+        "limit": 0
+    },
+    "stylingPicker.item.delete": {
+        "value": "Eliminar",
+        "comment": "",
+        "limit": 0
+    },
+    "stylingPicker.item.delete.tooltip": {
+        "value": "El elemento aplicado no se puede eliminar.",
+        "comment": "",
+        "limit": 0
+    },
+    "descriptionPanel.button.more": {
+        "value": "Mostrar más",
+        "comment": "The button title which will display more description text",
+        "limit": 0
+    },
+    "descriptionPanel.button.less": {
+        "value": "Mostrar menos",
+        "comment": "The button title which will display less description text.",
+        "limit": 0
+    },
+    "configurationPanel.drillConfig.learn.more.link": {
+        "value": "Más información",
+        "comment": "Link with additional info",
+        "limit": 0
+    },
+    "configurationPanel.drillConfig.drillToDashboard.tooltip": {
+        "value": "Abra un panel de control relacionado para obtener una vista ampliada del punto de datos seleccionado, con los filtros y el contexto relevantes. <a>Más información</a>",
+        "comment": "Tooltip that explain what happens when drilling to dashboard. Do not translate html tags <a>, </a>.",
+        "limit": 0
+    },
+    "configurationPanel.drillConfig.drillToInsight.tooltip": {
+        "value": "Abra una visualización relacionada, manteniendo los filtros aplicados de la vista original. <a>Más información</a>",
+        "comment": "Tooltip that explain what happens when drilling to visualization. Do not translate html tags <a>, </a>.",
+        "limit": 0
+    },
+    "configurationPanel.drillConfig.drillToUrl.tooltip": {
+        "value": "Abra una URL personalizada con parámetros dinámicos en función del punto de datos seleccionado. <a>Más información</a>",
+        "comment": "Tooltip that explain what happens when drilling to custom URL. Do not translate html tags <a>, </a>.",
+        "limit": 0
+    },
+    "configurationPanel.drillConfig.drilldown": {
+        "value": "Exploración vertical",
+        "comment": "The title of the drill down action.",
+        "limit": 0
+    },
+    "configurationPanel.drillConfig.drilldown.tooltip": {
+        "value": "Profundice en la visualización actual, siguiendo jerarquías de atributos predefinidas para ver sus datos a un nivel cada vez más granular. <a>Más información</a>",
+        "comment": "Tooltip that explain what happens when drilling down. Do not translate html tags <a>, </a>.",
+        "limit": 0
+    },
+    "configurationPanel.drillConfig.drilldown.tooltip.disabled.insight": {
+        "value": "La exploración está desactivada en la configuración de esta visualización.",
+        "comment": "Tooltip that explain drill down is disabled by visualization's configuration",
+        "limit": 0
+    },
+    "configurationPanel.drillConfig.drilldown.tooltip.disabled.metric": {
+        "value": "La exploración solo se puede configurar para atributos, no para métricas.",
+        "comment": "Tooltip that explain drill down is disabled for metrics",
+        "limit": 0
+    },
+    "configurationPanel.drillConfig.drilldown.emtpy.hierarchy.info": {
+        "value": "El atributo debe estar en una jerarquía para permitir la exploración vertical.",
+        "comment": "Label show on drill down configuration that there is no hierarchy defined for the attribute",
+        "limit": 0
+    },
+    "configurationPanel.drillConfig.selectHierarchy": {
+        "value": "Elija jerarquía…",
+        "comment": "Hint guiding users that attribute hierarchy in select box has to be selected. Use '…' as one character, not 3 dots ('...').",
+        "limit": 0
+    },
+    "configurationPanel.drillConfig.drilldown.create.hierarchy": {
+        "value": "Crear jerarquía de atributo",
+        "comment": "Link to create attribute hierarchy",
+        "limit": 0
+    },
+    "attributeHierarchyEditor.untitled": {
+        "value": "Jerarquía de atributo sin título",
+        "comment": "Default title in attribute hierarchy editor",
+        "limit": 0
+    },
+    "attributeHierarchyEditor.hierarchy.levels": {
+        "value": "Niveles de jerarquía",
+        "comment": "Label show hierarchy levels",
+        "limit": 0
+    },
+    "attributeHierarchyEditor.button.cancel": {
+        "value": "Cancelar",
+        "comment": "Text of cancel button",
+        "limit": 0
+    },
+    "attributeHierarchyEditor.button.create": {
+        "value": "Crear jerarquía",
+        "comment": "Text of create button",
+        "limit": 0
+    },
+    "attributeHierarchyEditor.button.save": {
+        "value": "Guardar cambios",
+        "comment": "Text of save button",
+        "limit": 0
+    },
+    "attributeHierarchyEditor.button.delete": {
+        "value": "Eliminar",
+        "comment": "Text of delete button",
+        "limit": 0
+    },
+    "attributeHierarchyEditor.delete.confirm.title": {
+        "value": "¿Eliminar jerarquía de atributo?",
+        "comment": "Title in confirm dialog when deleting hierarchy",
+        "limit": 0
+    },
+    "attributeHierarchyEditor.delete.confirm.message": {
+        "value": "Se eliminarán todas las interacciones existentes de exploración vertical que usen esta jerarquía.",
+        "comment": "Text in confirm dialog when deleting hierarchy",
+        "limit": 0
+    },
+    "attributeHierarchyEditor.remove.attribute": {
+        "value": "Quitar",
+        "comment": "Tooltip for button remove attribute in hierarchy",
+        "limit": 0
+    },
+    "attributeHierarchyEditor.add.attribute": {
+        "value": "Añadir atributo",
+        "comment": "Text for button add attribute in hierarchy",
+        "limit": 0
+    },
+    "attributeHierarchyEditor.add.attribute.above": {
+        "value": "Añadir atributo por encima",
+        "comment": "Text for button add attribute above the current item",
+        "limit": 0
+    },
+    "attributeHierarchyEditor.add.attribute.bellow": {
+        "value": "Añadir atributo por debajo",
+        "comment": "Text for button add attribute bellow the current item",
+        "limit": 0
+    },
+    "attributeHierarchyEditor.howToWork.link": {
+        "value": "Cómo trabajar con jerarquías",
+        "comment": "Link to document describe how attribute hierarchy works",
+        "limit": 0
+    },
+    "attributeHierarchyEditor.attribute.dropdown.title": {
+        "value": "Elija atributo…",
+        "comment": "Use '…' as one character, not 3 dots ('...').",
+        "limit": 0
+    },
+    "attributeHierarchyEditor.attribute.dropdown.search": {
+        "value": "Buscar…",
+        "comment": "Use '…' as one character, not 3 dots ('...').",
+        "limit": 0
+    },
+    "attributeHierarchyEditor.note.title": {
+        "value": "Nota:",
+        "comment": "Label for a note title",
+        "limit": 0
+    },
+    "attributeHierarchyEditor.note.message": {
+        "value": "<b>Nota:</b> La jerarquía de atributos que defina se aplica globalmente a todas las visualizaciones. Esto permite las interacciones verticales no solo para la visualización {br}actual, sino para todas las visualizaciones que incluyen alguno de los atributos de la jerarquía.",
+        "comment": "Information shown in create hierarchy editor. Do not translate html tags <b>, </b> and {br}.",
+        "limit": 0
+    },
+    "attributeHierarchyEditor.howItWorks.title": {
+        "value": "Cómo funciona",
+        "comment": "Title of description section",
+        "limit": 0
+    },
+    "attributeHierarchyEditor.howItWorks.message.heading": {
+        "value": "La jerarquía se aplica a todas las visualizaciones.",
+        "comment": "Text in description section",
+        "limit": 0
+    },
+    "attributeHierarchyEditor.message.create.success": {
+        "value": "¡Genial! ¡Hemos creado la jerarquía de atributos!",
+        "comment": "The toast message will be shown when the attribute hierarchy is created successfully.",
+        "limit": 0
+    },
+    "attributeHierarchyEditor.message.update.success": {
+        "value": "¡Genial! ¡Hemos guardado la jerarquía de atributos!",
+        "comment": "The toast message will be shown when the attribute hierarchy is updated successfully.",
+        "limit": 0
+    },
+    "attributeHierarchyEditor.message.delete.success": {
+        "value": "¡Genial! ¡Hemos eliminado la jerarquía de atributos!",
+        "comment": "The toast message will be shown when the attribute hierarchy is deleted successfully.",
+        "limit": 0
+    },
+    "attributeHierarchyEditor.message.create.failed": {
+        "value": "Error al crear. Inténtelo de nuevo más tarde.",
+        "comment": "The toast message will be shown when create the attribute hierarchy is failed.",
+        "limit": 0
+    },
+    "attributeHierarchyEditor.message.update.failed": {
+        "value": "Error al guardar. Inténtelo de nuevo más tarde.",
+        "comment": "The toast message will be shown when save the attribute hierarchy is failed.",
+        "limit": 0
+    },
+    "attributeHierarchyEditor.message.delete.failed": {
+        "value": "Error al eliminar. Inténtelo de nuevo más tarde.",
+        "comment": "The toast message will be shown when delete the attribute hierarchy is failed.",
+        "limit": 0
+    },
+    "attributeHierarchyEditor.howItWorks.message.content": {
+        "value": "La interacción de la exploración vertical se activará no solo para esta visualización, sino para todas las visualizaciones que tengan uno de los atributos en jerarquía.",
+        "comment": "Text in description section",
+        "limit": 0
+    },
+    "attributeHierarchyList.tooltip.generic.date.title": {
+        "value": "Fecha genérica",
+        "comment": "Title of hierarchy for date",
+        "limit": 0
+    },
+    "attributeHierarchyList.tooltip.generic.date.info": {
+        "value": "Esta jerarquía se genera automáticamente y se aplica a cualquier dimensión de fecha.",
+        "comment": "Text show in date hierarchy",
+        "limit": 0
+    },
+    "attributeHierarchyList.tooltip.hierarchy.levels": {
+        "value": "Niveles de jerarquía",
+        "comment": "Label show hierarchy levels",
+        "limit": 0
+    },
+    "attributeHierarchyList.tooltip.button.edit": {
+        "value": "Editar",
+        "comment": "Text for edit button",
+        "limit": 0
+    },
+    "catalog.attribute.tooltip.hierarchy.title": {
+        "value": "Jerarquía",
+        "comment": "Title of hierarchy section",
+        "limit": 0
+    },
+    "visualizationConfig.interactions.section.title": {
+        "value": "Interacciones",
+        "comment": "Title of interactions section",
+        "limit": 0
+    },
+    "visualizationConfig.interactions.section.drilldown": {
+        "value": "Exploración vertical",
+        "comment": "Text of drill down option",
+        "limit": 0
+    },
+    "workspaceHierarchy.lockedInsight|insight": {
+        "value": "Sólo los administradores pueden guardar cambios en esta visualización.",
+        "comment": "Shown when hovering over lock indicator.",
+        "limit": 0
+    },
+    "workspaceHierarchy.lockedInsight|report": {
+        "value": "Only Admins can save changes to this report.",
+        "comment": "Shown when hovering over lock indicator.",
+        "translate": false,
+        "limit": 0
+    },
+    "workspaceHierarchy.inheritedInsight|insight": {
+        "value": "No se puede editar ni borrar esta visualización.{br}Se administra y certifica de forma centralizada.",
+        "comment": "Shown when hovering over lock indicator. Dont translate html tag placeholder {br}.",
+        "limit": 0
+    },
+    "workspaceHierarchy.inheritedInsight|report": {
+        "value": "You cannot edit or delete this report.{br}It is centrally managed and certified.",
+        "comment": "Shown when hovering over lock indicator. Dont translate html tag placeholder {br}.",
+        "translate": false,
+        "limit": 0
+    },
+    "userManagement.workspace.noMatchingItems": {
+        "value": "No hay espacios de trabajo que coincidan.",
+        "comment": "Information shown to the user when query in search input does no match any workspace.",
+        "limit": 0
+    },
+    "userManagement.workspace.searchPlaceholder": {
+        "value": "Buscar espacios de trabajo",
+        "comment": "Placeholder of empty workspace dialog search input.",
+        "limit": 0
+    },
+    "userManagement.workspace.searchError": {
+        "value": "Error al cargar los espacios de trabajo. Inténtelo de nuevo más tarde.",
+        "comment": "Error message shown to the user when query in search input failed",
+        "limit": 0
+    },
+    "userManagement.dataSource.searchError": {
+        "value": "Error al cargar las fuentes de datos. Inténtelo más tarde.",
+        "comment": "Error message shown to the user when query in search input failed",
+        "limit": 0
+    },
+    "userManagement.workspace.emptySelection.user.view": {
+        "value": "Este usuario no tiene permisos para ningún espacio de trabajo.",
+        "comment": "Information shown when no workspaces were selected yet.",
+        "limit": 0
+    },
+    "userManagement.workspace.emptySelection.userGroup.view": {
+        "value": "Este grupo no tiene permisos para ningún espacio de trabajo.",
+        "comment": "Information shown when no workspaces were selected yet.",
+        "limit": 0
+    },
+    "userManagement.workspace.emptySelection.edit": {
+        "value": "Ningún espacio de trabajo seleccionado.",
+        "comment": "Shown when user did not typed anything to the search dialog.",
+        "limit": 0
+    },
+    "userManagement.workspace.title": {
+        "value": "Añadir permiso del espacio de trabajo",
+        "comment": "Title of dialog used for granting workspace permission to users or groups.",
+        "limit": 0
+    },
+    "userManagement.workspace.edit.title": {
+        "value": "Permiso para editar el espacio de trabajo",
+        "comment": "Title of dialog used for granting workspace permission to users or groups.",
+        "limit": 0
+    },
+    "userManagement.dataSource.searchPlaceholder": {
+        "value": "Buscar fuentes de datos",
+        "comment": "Placeholder of empty data source dialog search input.",
+        "limit": 0
+    },
+    "userManagement.workspace.addButton": {
+        "value": "Agregar",
+        "comment": "Title of confirm button that adds new items to the list.",
+        "limit": 0
+    },
+    "userManagement.userGroups.addButton": {
+        "value": "Agregar",
+        "comment": "Title of confirm button that adds new items to the list.",
+        "limit": 0
+    },
+    "userManagement.userGroups.cancelButton": {
+        "value": "Cancelar",
+        "comment": "Button that closes the current dialog.",
+        "limit": 0
+    },
+    "userManagement.tab.workspaces": {
+        "value": "Espacios de trabajo ({count})",
+        "comment": "Label of tab that lists user permissions to workspaces. Do not translate placeholder {count}. It will be replaced by number of assigned permissions in runtime.",
+        "limit": 0
+    },
+    "userManagement.tab.groups": {
+        "value": "Grupos ({count})",
+        "comment": "Label of tab that lists user groups user is member of. Do not translate placeholder {count}. It will be replaced by number of assigned groups in runtime.",
+        "limit": 0
+    },
+    "userManagement.tab.users": {
+        "value": "Miembros ({count})",
+        "comment": "Label of tab that lists user members of a user group. Do not translate placeholder {count}. It will be replaced by number of group members in runtime.",
+        "limit": 0
+    },
+    "userManagement.tab.details": {
+        "value": "Detalles",
+        "comment": "Label of tab that lists user details (name, surname, etc.)",
+        "limit": 0
+    },
+    "userManagement.buttons.addWorkspace": {
+        "value": "Añadir permiso del espacio de trabajo",
+        "comment": "Label of button that opens selection of workspaces user can get permissions to.",
+        "limit": 0
+    },
+    "userManagement.buttons.addToGroup": {
+        "value": "Añadir a grupo",
+        "comment": "Label of button that opens selection of groups user can be assigned into to.",
+        "limit": 0
+    },
+    "userManagement.buttons.addUser": {
+        "value": "Añadir miembros",
+        "comment": "Label of button that opens selection of users that can be assigned into the group.",
+        "limit": 0
+    },
+    "userManagement.buttons.edit": {
+        "value": "Editar",
+        "comment": "Label of button that edit user's details (name, surname, etc.)",
+        "limit": 0
+    },
+    "userManagement.dataSource.title": {
+        "value": "Añadir permiso de fuente de datos",
+        "comment": "Title of dialog used for granting data source permission to users or groups.",
+        "limit": 0
+    },
+    "userManagement.tab.dataSources": {
+        "value": "Fuentes de datos ({count})",
+        "comment": "Label of tab that lists data sources assigned to a user. Do not translate placeholder {count}. It will be replaced by number of data sources in runtime.",
+        "limit": 0
+    },
+    "userManagement.buttons.addDataSourcePermission": {
+        "value": "Añadir permiso de fuente de datos",
+        "comment": "Label of button that opens selection of users that can be assigned into the group.",
+        "limit": 0
+    },
+    "userManagement.dataSources.emptySelection.view": {
+        "value": "Este usuario no tiene permisos para ninguna fuente de datos.",
+        "comment": "Information shown when no data sources were selected yet.",
+        "limit": 0
+    },
+    "userManagement.dataSources.emptySelection.userGroup.view": {
+        "value": "Este grupo no tiene permisos para ninguna fuente de datos.",
+        "comment": "Information shown when no data sources were selected yet.",
+        "limit": 0
+    },
+    "userManagement.dataSources.emptySelection.edit": {
+        "value": "Ninguna fuente de datos seleccionada.",
+        "comment": "Shown when user did not typed anything to the search dialog.",
+        "limit": 0
+    },
+    "userManagement.dataSources.permission.manage": {
+        "value": "Gestión",
+        "comment": "Name of the data source permission that allows user to fully manage data in data source.",
+        "limit": 0
+    },
+    "userManagement.dataSources.permission.use": {
+        "value": "Utilizar",
+        "comment": "Name of the data source permission that allows user to use data in data source.",
+        "limit": 0
+    },
+    "userManagement.dataSources.permission.remove": {
+        "value": "Quitar",
+        "comment": "Label of option that removes data source permission from user and user group.",
+        "limit": 0
+    },
+    "userManagement.dataSources.noMatchingItems": {
+        "value": "Ninguna fuente de datos coincide.",
+        "comment": "Message shown when no data source matches search criteria.",
+        "limit": 0
+    },
+    "userManagement.users.multipleDataSources.addSuccess": {
+        "value": "¡Genial! Ha añadido correctamente los permisos a los usuarios.",
+        "comment": "Confirmation message shown to the user when data source permission was added successfully to multiple users.",
+        "limit": 0
+    },
+    "userManagement.userGroups.multipleDataSources.addSuccess": {
+        "value": "¡Genial! Ha añadido correctamente los permisos a los grupos.",
+        "comment": "Confirmation message shown to the user when data source permissions were added to multiple user groups successfully.",
+        "limit": 0
+    },
+    "userManagement.users.multipleDataSources.addError": {
+        "value": "Error al añadir el permiso a los usuarios.",
+        "comment": "Error message shown to user when addition of data source permission to multiple users failed.",
+        "limit": 0
+    },
+    "userManagement.userGroups.multipleDataSources.addError": {
+        "value": "Error al añadir el permiso a los grupos.",
+        "comment": "Error message shown to user when addition of data source permission to multiple user groups failed.",
+        "limit": 0
+    },
+    "userManagement.dataSources.removeSuccess": {
+        "value": "¡Genial! Ha eliminado correctamente el permiso de la fuente de datos.",
+        "comment": "Confirm message shown to user when data source permission was successfully deleted.",
+        "limit": 0
+    },
+    "userManagement.dataSources.removeError": {
+        "value": "Error al eliminar el permiso de la fuente de datos.",
+        "comment": "Error message shown to user when data source permission deletion failed.",
+        "limit": 0
+    },
+    "userManagement.dataSources.changeSuccess": {
+        "value": "¡Genial! Ha cambiado correctamente el(los) permiso(s) de la fuente de datos.",
+        "comment": "Confirmation message shown to the user when change of one or more data source permission succeeded.",
+        "limit": 0
+    },
+    "userManagement.dataSources.changeError": {
+        "value": "Error al cambiar el(los) permiso(s) de la fuente de datos.",
+        "comment": "Error message shown to the user when change of one or more data source permissions failed.",
+        "limit": 0
+    },
+    "userManagement.users.deleteLink": {
+        "value": "Eliminar usuario",
+        "comment": "Label of link that deletes the user.",
+        "limit": 0
+    },
+    "userManagement.userGroups.deleteLink": {
+        "value": "Eliminar grupo",
+        "comment": "Label of link that deletes the user grouo.",
+        "limit": 0
+    },
+    "userManagement.closeButton": {
+        "value": "Cerrar",
+        "comment": "Label of button that closes the dialog",
+        "limit": 0
+    },
+    "userManagement.workspace.removeSuccess": {
+        "value": "¡Genial! Ha eliminado correctamente el permiso.",
+        "comment": "Confirm message shown to user when workspace permission was successfully deleted.",
+        "limit": 0
+    },
+    "userManagement.workspace.removeError": {
+        "value": "Error al eliminar el permiso.",
+        "comment": "Error message shown to user when workspace permission deletion failed.",
+        "limit": 0
+    },
+    "userManagement.workspace.addSuccess": {
+        "value": "¡Genial! Ha añadido correctamente el(los) permiso(s) del espacio de trabajo.",
+        "comment": "Confirm message shown to user when one or more workspace permissions were successfully added to a single user.",
+        "limit": 0
+    },
+    "userManagement.workspace.addError": {
+        "value": "Error al añadir el(los) permiso(s) del espacio de trabajo.",
+        "comment": "Error message shown to user when workspace permission addition failed.",
+        "limit": 0
+    },
+    "userManagement.dataSource.addSuccess": {
+        "value": "¡Genial! Ha añadido correctamente el(los) permiso(s) de la fuente de datos.",
+        "comment": "Confirm message shown to user when one or more workspace permissions were successfully added to a single user.",
+        "limit": 0
+    },
+    "userManagement.dataSource.addError": {
+        "value": "Error al añadir el(los) permiso(s) de la fuente de datos.",
+        "comment": "Error message shown to user when workspace permission addition failed.",
+        "limit": 0
+    },
+    "userManagement.users.multipleWorkspaces.addSuccess": {
+        "value": "¡Genial! Ha añadido correctamente los permisos del espacio de trabajo a los usuarios.",
+        "comment": "Confirmation message shown to the user when workspace permission was added successfully to multiple users.",
+        "limit": 0
+    },
+    "userManagement.users.multipleWorkspaces.addError": {
+        "value": "Error al añadir el permiso del espacio de trabajo a los usuarios.",
+        "comment": "Error message shown to user when addition of workspace permission to multiple users failed.",
+        "limit": 0
+    },
+    "userManagement.userGroups.multipleWorkspaces.addSuccess": {
+        "value": "¡Genial! Ha añadido correctamente los permisos del espacio de trabajo a los grupos.",
+        "comment": "Confirmation message shown to the user when workspace permissions were added to multiple user groups successfully.",
+        "limit": 0
+    },
+    "userManagement.userGroups.multipleWorkspaces.addError": {
+        "value": "Error al añadir el permiso del espacio de trabajo a los grupos.",
+        "comment": "Error message shown to user when addition of workspace permission to multiple user groups failed.",
+        "limit": 0
+    },
+    "userManagement.workspace.changeSuccess": {
+        "value": "¡Genial! Ha cambiado correctamente el(los) permiso(s) del espacio de trabajo.",
+        "comment": "Confirmation message shown to the user when change of one or more workspace permission succeeded.",
+        "limit": 0
+    },
+    "userManagement.workspace.changeError": {
+        "value": "Error al cambiar el(los) permiso(s) del espacio de trabajo.",
+        "comment": "Error message shown to the user when change of one or more workspace permissions failed.",
+        "limit": 0
+    },
+    "userManagement.workspace.hierarchicalPermission.yes": {
+        "value": "Incluir subjerarquía",
+        "comment": "Label of option that states that selected permission will be added to the selected workspace and to all workspaces in tree hierarchy of workspaces under it.",
+        "limit": 0
+    },
+    "userManagement.workspace.hierarchicalPermission.yes.tooltip": {
+        "value": "Se aplica el permiso a este espacio de trabajo y a todos sus espacios de trabajo secundarios.",
+        "comment": "Tooltip that explains option that adds permission to workspace and all the child workpaces in the tree hierarchy.",
+        "limit": 0
+    },
+    "userManagement.workspace.hierarchicalPermission.no": {
+        "value": "Este espacio de trabajo",
+        "comment": "Label of option that states that selected permission will be added just to the selected workspace and not to workspace in tree hierarchy of workspaces under it.",
+        "limit": 0
+    },
+    "userManagement.workspace.hierarchicalPermission.no.tooltip": {
+        "value": "Se aplica el permiso solo a este espacio de trabajo.",
+        "comment": "Tooltip that explains option that adds permission to only the selected workspace and not to any of the child workpaces in the tree hierarchy.",
+        "limit": 0
+    },
+    "userManagement.workspace.permission.view": {
+        "value": "Ver",
+        "comment": "Name of the workspace permission that allows user view workspace objects.",
+        "limit": 0
+    },
+    "userManagement.workspace.permissionUser.view.tooltip": {
+        "value": "El usuario puede ver los paneles de control que hayan compartido con él.",
+        "comment": "Tooltip of the workspace permission that allows user view workspace objects.",
+        "limit": 0
+    },
+    "userManagement.workspace.permissionGroup.view.tooltip": {
+        "value": "Los miembros del grupo pueden ver los paneles de control que hayan compartido con el grupo.",
+        "comment": "Tooltip of the workspace permission that allows user group view workspace objects.",
+        "limit": 0
+    },
+    "userManagement.workspace.permission.viewSaveViews": {
+        "value": "Ver y guardar vistas",
+        "comment": "Name of the workspace permission that allows user view workspace objects.",
+        "limit": 0
+    },
+    "userManagement.workspace.permissionUser.viewSaveViews.tooltip": {
+        "value": "El usuario puede ver los cuadros de mando que se han compartido con él y guardar el estado de los filtros del cuadro de mando como vistas personales para su uso futuro.",
+        "comment": "Tooltip of the workspace permission that allows user view workspace objects.",
+        "limit": 0
+    },
+    "userManagement.workspace.permissionGroup.viewSaveViews.tooltip": {
+        "value": "Los miembros del grupo pueden ver los cuadros de mando que se han compartido con ellos y guardar el estado de los filtros de los cuadros de mando como vistas personales para su uso futuro.",
+        "comment": "Tooltip of the workspace permission that allows user group view workspace objects.",
+        "limit": 0
+    },
+    "userManagement.dataSources.permissionUser.use.tooltip": {
+        "value": "El usuario puede utilizar las fuentes de datos que le hayan compartido.",
+        "comment": "Tooltip of the data source permission that allows user use data source objects.",
+        "limit": 0
+    },
+    "userManagement.dataSources.permissionGroup.use.tooltip": {
+        "value": "Los miembros del grupo pueden utilizar las fuentes de datos que se hayan compartido con el grupo.",
+        "comment": "Tooltip of the data source permission that allows user group use data source objects.",
+        "limit": 0
+    },
+    "userManagement.workspace.permission.viewExport": {
+        "value": "Ver y exportar",
+        "comment": "Name of the workspace permission that allows user view and export workspace objects.",
+        "limit": 0
+    },
+    "userManagement.workspace.permissionUser.viewExport.tooltip": {
+        "value": "Cubre el permiso Ver. De forma adicional, el usuario puede exportar paneles de control a archivos PDF y los datos tabulares de las visualizaciones a archivos XLSX y CSV. ",
+        "comment": "Tooltip of the workspace permission that allows user view and export workspace objects.",
+        "limit": 0
+    },
+    "userManagement.workspace.permissionGroup.viewExport.tooltip": {
+        "value": "Cubre el permiso Ver. De forma adicional, los miembros del grupo pueden exportar paneles de control a archivos PDF y datos tabulares de visualizaciones a archivos XLSX y CSV.",
+        "comment": "Tooltip of the workspace permission that allows user group view and export workspace objects.",
+        "limit": 0
+    },
+    "userManagement.workspace.permission.viewExportSaveViews": {
+        "value": "Ver, exportar y guardar vistas",
+        "comment": "Name of the workspace permission that allows user view and export workspace objects and save filter view objects.",
+        "limit": 0
+    },
+    "userManagement.workspace.permissionUser.viewExportSaveViews.tooltip": {
+        "value": "Cubre el permiso Ver. Además, el usuario puede crear, editar o eliminar cuadros de mando y visualizaciones, y ver el LDM y las métricas. También puede exportar cuadros de mando a archivos PDF y datos tabulares de visualizaciones a archivos XLSX y CSV, y guardar el estado de los filtros de cuadros de mando como vistas personales para su uso futuro.",
+        "comment": "Tooltip of the workspace permission that allows user view and export workspace objects.",
+        "limit": 0
+    },
+    "userManagement.workspace.permissionGroup.viewExportSaveViews.tooltip": {
+        "value": "Cubre el permiso Ver. Además, los miembros del grupo pueden crear, editar o eliminar cuadros de mando y visualizaciones, y ver el LDM y las métricas. También pueden exportar cuadros de mando a archivos PDF y datos tabulares de visualizaciones a archivos XLSX y CSV, y guardar el estado de los filtros de cuadros de mando como vistas personales para su uso futuro.",
+        "comment": "Tooltip of the workspace permission that allows user group view and export workspace objects.",
+        "limit": 0
+    },
+    "userManagement.workspace.permission.analyze": {
+        "value": "Analizar",
+        "comment": "Name of the workspace permission that allows user analyze data in workspace.",
+        "limit": 0
+    },
+    "userManagement.workspace.permissionUser.analyze.tooltip": {
+        "value": "Covers the View and Save Views permissions. Additionally, the user can create, edit, or delete dashboards and visualizations, and view the LDM and metrics.",
+        "comment": "Tooltip of the workspace permission that allows user analyze data in workspace.",
+        "limit": 0
+    },
+    "userManagement.workspace.permissionGroup.analyze.tooltip": {
+        "value": "Covers the View and Save Views permissions. Additionally, the group members can create, edit, or delete dashboards and visualizations, and view the LDM and metrics.",
+        "comment": "Tooltip of the workspace permission that allows user group analyze data in workspace.",
+        "limit": 0
+    },
+    "userManagement.workspace.permission.analyzeExport": {
+        "value": "Analizar y exportar",
+        "comment": "Name of the workspace permission that allows user analyze and export data in workspace.",
+        "limit": 0
+    },
+    "userManagement.workspace.permissionUser.analyzeExport.tooltip": {
+        "value": "Covers the View and Save Views permissions. Additionally, the user can create, edit, or delete dashboards and visualizations, and view the LDM and metrics. They can also export dashboards to PDF files and tabular data from visualizations to XLSX and CSV files.",
+        "comment": "Tooltip of the workspace permission that allows user analyze and export data in workspace.",
+        "limit": 0
+    },
+    "userManagement.workspace.permissionGroup.analyzeExport.tooltip": {
+        "value": "Covers the View and Save Views permissions. Additionally, the group members can create, edit, or delete dashboards and visualizations, and view the LDM and metrics. They can also export dashboards to PDF files and tabular data from visualizations to XLSX and CSV files.",
+        "comment": "Tooltip of the workspace permission that allows user analyze and export and analyze data in workspace.",
+        "limit": 0
+    },
+    "userManagement.workspace.permission.manage": {
+        "value": "Gestión",
+        "comment": "Name of the workspace permission that allows user to fully manage data in workspace.",
+        "limit": 0
+    },
+    "userManagement.workspace.permissionUser.manage.tooltip": {
+        "value": "Covers the View, Analyze, Export, and Save Views permissions. Additionally, the user can create, edit, or delete the logical data model and metrics, and gets unrestricted access to all dashboards and their permissions.",
+        "comment": "Tooltip of the workspace permission that allows user to fully manage data in workspace.",
+        "limit": 0
+    },
+    "userManagement.workspace.permissionGroup.manage.tooltip": {
+        "value": "Covers the View, Analyze, Export, and Save Views permissions. Additionally, the group members can create, edit, or delete the logical data model and metrics, and gets unrestricted access to all dashboards and their permissions.",
+        "comment": "Tooltip of the workspace permission that allows user group to fully manage data in workspace.",
+        "limit": 0
+    },
+    "userManagement.dataSources.permissionUser.manage.tooltip": {
+        "value": "El usuario puede crear, editar o eliminar las fuentes de datos.",
+        "comment": "Tooltip of the data source permission that allows user to fully manage data sources.",
+        "limit": 0
+    },
+    "userManagement.dataSources.permissionGroup.manage.tooltip": {
+        "value": "Los miembros del grupo pueden crear, editar o eliminar las fuentes de datos.",
+        "comment": "Tooltip of the data source permission that allows user group to fully manage data sources.",
+        "limit": 0
+    },
+    "userManagement.workspace.permission.export": {
+        "value": "Exportaciones",
+        "comment": "Name of the workspace permission that allows user to export data in workspace.",
+        "limit": 0
+    },
+    "userManagement.workspace.permission.export.tooltip": {
+        "value": "Añade permiso de EXPORTACIÓN para exportar cuadros de mando y visualizaciones en varios formatos.",
+        "comment": "Export permission tooltip",
+        "limit": 0
+    },
+    "userManagement.workspace.permission.exportTabular": {
+        "value": "Exportar XLSX y CSV",
+        "comment": "Name of the workspace permission that allows user to export data in workspace.",
+        "limit": 0
+    },
+    "userManagement.workspace.permission.exportTabular.tooltip": {
+        "value": "Añade el permiso EXPORT_TABULAR para exportar cuadros de mando y visualizaciones en formatos CSV y XLSX.",
+        "comment": "Export tabular permission tooltip",
+        "limit": 0
+    },
+    "userManagement.workspace.permission.exportPdf": {
+        "value": "Exportar PDF",
+        "comment": "Name of the workspace permission that allows user to export data in workspace.",
+        "limit": 0
+    },
+    "userManagement.workspace.permission.exportPdf.tooltip": {
+        "value": "Añade el permiso EXPORT_PDF para exportar cuadros de mando y visualizaciones como archivos PDF.",
+        "comment": "Export PDF permission tooltip",
+        "limit": 0
+    },
+    "userManagement.workspace.permission.createFilterView": {
+        "value": "Vistas de filtro guardadas",
+        "comment": "Name of the workspace permission that allows user to create filter views in workspace.",
+        "limit": 0
+    },
+    "userManagement.workspace.permission.createFilterView.tooltip": {
+        "value": "Añade el permiso CREATE_FILTER_VIEW para crear y guardar combinaciones de filtros de cuadros de mando para reutilizarlos rápidamente.",
+        "comment": "Create saved filter view permission tooltip",
+        "limit": 0
+    },
+    "userManagement.workspace.permission.createAutomation": {
+        "value": "Alertas y exportaciones programadas",
+        "comment": "Name of the workspace permission that allows user to create automations in workspace.",
+        "limit": 0
+    },
+    "userManagement.workspace.permission.createAutomation.tooltip": {
+        "value": "Añade el permiso CREATE_AUTOMATIONS para crear alertas automáticas y exportaciones programadas.",
+        "comment": "Create automation permission tooltip",
+        "limit": 0
+    },
+    "userManagement.workspace.granularPermission.noWorkspace": {
+        "value": "No hay espacio de trabajo seleccionado",
+        "comment": "Empty content message",
+        "limit": 0
+    },
+    "userManagement.workspace.granularPermission.hierarchy": {
+        "value": "Incluir espacios de trabajo secundarios",
+        "comment": "Label of option that states that selected permission will be added to the selected workspace and to all workspaces in tree hierarchy of workspaces under it.",
+        "limit": 0
+    },
+    "userManagement.workspace.granularPermission.hierarchy.tooltip": {
+        "value": "Aplica el permiso a este espacio de trabajo y a todos sus espacios de trabajo hijos.",
+        "comment": "Tooltip that explains option that adds permission to workspace and children.",
+        "limit": 0
+    },
+    "userManagement.workspace.granularPermission.workspaceAccess.title": {
+        "value": "Acceso al espacio de trabajo",
+        "comment": "Label of workspace subsection of permissions",
+        "limit": 0
+    },
+    "userManagement.workspace.granularPermission.additionalAccess.title": {
+        "value": "Permisos adicionales",
+        "comment": "Label of additional subsection of permissions",
+        "limit": 0
+    },
+    "userManagement.workspace.granularPermission.help": {
+        "value": "Más información sobre los permisos del espacio de trabajo",
+        "comment": "Label of help button for permissions",
+        "limit": 0
+    },
+    "userManagement.workspace.granularPermission.view.description": {
+        "value": "Permite a los usuarios ver los cuadros de mando que se han compartido con ellos o con su grupo de usuarios.",
+        "comment": "Description of permission",
+        "limit": 0
+    },
+    "userManagement.workspace.granularPermission.analyze.description": {
+        "value": "Permite a los usuarios crear, editar o eliminar cuadros de mando y visualizaciones, además de visualizar el Modelo Lógico de Datos (LDM) y las métricas.",
+        "comment": "Description of permission",
+        "limit": 0
+    },
+    "userManagement.workspace.granularPermission.manage.description": {
+        "value": "Permite a los usuarios acceder, editar o eliminar el modelo lógico de datos y métricas, así como acceder a todos los cuadros de mando y editar sus permisos sin limitaciones.",
+        "comment": "Description of permission",
+        "limit": 0
+    },
+    "userManagement.workspace.granularPermission.warning": {
+        "value": "<b>Precaución:</b> Esta acción eliminará cualquier combinación redundante.",
+        "comment": "Warning message shown when user tries to add 'Manage' permission to user or user group.",
+        "limit": 0
+    },
+    "userManagement.workspace.permission.remove": {
+        "value": "Quitar",
+        "comment": "Label of option that removes workspace permission from user and user group.",
+        "limit": 0
+    },
+    "userManagement.workspace.permission.and": {
+        "value": "y",
+        "comment": "Connection word when concatenating permissions",
+        "limit": 0
+    },
+    "userManagement.groupDetail.id.label": {
+        "value": "ID",
+        "comment": "Label of input that contains ID of the user group.",
+        "limit": 0
+    },
+    "userManagement.groupDetail.name.label": {
+        "value": "Nombre",
+        "comment": "Label of input that contains name of the user group.",
+        "limit": 0
+    },
+    "userManagement.userDetail.firstName.label": {
+        "value": "Nombre",
+        "comment": "Label of input that contains first name of the user.",
+        "limit": 0
+    },
+    "userManagement.userDetail.lastName.label": {
+        "value": "Apellidos",
+        "comment": "Label of input that contains last name of the user.",
+        "limit": 0
+    },
+    "userManagement.userDetail.email.label": {
+        "value": "Correo electrónico",
+        "comment": "Label of input that contains e-mail of the user.",
+        "limit": 0
+    },
+    "userManagement.userDetail.orgPermission.label": {
+        "value": "Permiso de org.",
+        "comment": "Label of input that contains state of the user organization permissions. The possible values are 'admin' or 'member'.",
+        "limit": 0
+    },
+    "userManagement.detail.orgPermission.admin": {
+        "value": "Administrador",
+        "comment": "One of the possible types of user's organization permissions. It states user is organization administrator.",
+        "limit": 0
+    },
+    "userManagement.detail.orgPermission.admin.tooltip": {
+        "value": "Administrador de la organización. Este usuario tiene acceso a cualquier acción o recurso protegido.",
+        "comment": "Tooltip that explains what does it mean if user is organization administrator. Displayed over option called 'Admin'",
+        "limit": 0
+    },
+    "userManagement.detail.orgPermission.member": {
+        "value": "Miembro",
+        "comment": "One of the possible types of user's organization permissions. It states user is standard member without any elevated permissions.",
+        "limit": 0
+    },
+    "userManagement.detail.orgPermission.member.tooltip": {
+        "value": "Miembro de la organización. Este usuario tiene acceso a la acción o recurso al que tiene permiso.",
+        "comment": "Tooltip that explains what does it mean if user is organization member. Displayed over option called 'Member'",
+        "limit": 0
+    },
+    "userManagement.userDetail.id.label": {
+        "value": "ID",
+        "comment": "Label of input that contains ID of the user.",
+        "limit": 0
+    },
+    "userManagement.userDetail.emptyValue": {
+        "value": "no establecido",
+        "comment": "Value displayed in user form when user detail does not have value (for example he does not have first name, last name, etc.)",
+        "limit": 0
+    },
+    "userManagement.userGroups.emptySelection.view": {
+        "value": "Este usuario no es miembro de ningún grupo.",
+        "comment": "Information message shown when lst of user's user groups is empty.",
+        "limit": 0
+    },
+    "userManagement.userGroups.emptySelection.edit": {
+        "value": "Ningún grupo seleccionado.",
+        "comment": "Information is displayed in user groups selectbox when user did not type anything yet.",
+        "limit": 0
+    },
+    "userManagement.userDetail.saveButton": {
+        "value": "Guardar",
+        "comment": "Label of button that saves the changed user details.",
+        "limit": 0
+    },
+    "userManagement.userDetail.cancelButton": {
+        "value": "Cancelar",
+        "comment": "Label of button that cancels the changes to user details.",
+        "limit": 0
+    },
+    "userManagement.groupDetail.saveButton": {
+        "value": "Guardar",
+        "comment": "Label of button that saves the changed user group details.",
+        "limit": 0
+    },
+    "userManagement.groupDetail.cancelButton": {
+        "value": "Cancelar",
+        "comment": "Label of button that cancels the changes to user group details.",
+        "limit": 0
+    },
+    "userManagement.userDetails.updatedSuccess": {
+        "value": "¡Genial! Ha cambiado correctamente los detalles del usuario.",
+        "comment": "Confirmation message shown when user saved changes to user details (name, login, etc.) successfully.",
+        "limit": 0
+    },
+    "userManagement.userDetails.updatedFailure": {
+        "value": "Error al cambiar los detalles del usuario.",
+        "comment": "Error message shown when user tried to save changes to user details (name, login, etc.) but the action failed.",
+        "limit": 0
+    },
+    "userManagement.groupDetails.updatedSuccess": {
+        "value": "¡Genial! Ha cambiado correctamente los detalles del grupo.",
+        "comment": "Confirmation message shown when user saved changes to user group details (name, login, etc.) successfully.",
+        "limit": 0
+    },
+    "userManagement.groupDetails.updatedFailure": {
+        "value": "Error al cambiar los detalles del grupo de usuarios.",
+        "comment": "Error message shown when user tried to save changes to user group details (name, login, etc.) but the operation failed.",
+        "limit": 0
+    },
+    "userManagement.userGroup.addSuccess": {
+        "value": "¡Genial! Grupo(s) añadido(s) correctamente.",
+        "comment": "Confirmation message shown when user added one or more user groups to another user successfully.",
+        "limit": 0
+    },
+    "userManagement.userGroup.addError": {
+        "value": "Error al añadir el(los) grupo(s).",
+        "comment": "Error message shown when user tried add one or more user groups to another user but the action failed.",
+        "limit": 0
+    },
+    "userManagement.multipleUserGroup.addSuccess": {
+        "value": "¡Genial! Usuarios añadidos correctamente al grupo.",
+        "comment": "Confirmation message shown when user added one or more user groups to multiple users successfully.",
+        "limit": 0
+    },
+    "userManagement.multipleUserGroup.addError": {
+        "value": "Error al añadir los usuarios a los grupos.",
+        "comment": "Error message shown when user tried to add one or more user groups to multiple users successfully but action failed.",
+        "limit": 0
+    },
+    "userManagement.userGroups.title": {
+        "value": "Añadir a grupo",
+        "comment": "Title of dialog that allows to add user groups to the user.",
+        "limit": 0
+    },
+    "userManagement.userGroups.noMatchingItems": {
+        "value": "Ningún grupo coincide.",
+        "comment": "Message shown when no user group matches search criteria.",
+        "limit": 0
+    },
+    "userManagement.userGroups.searchPlaceholder": {
+        "value": "Buscar grupos",
+        "comment": "Placeholder in the input box that is used to search user groups.",
+        "limit": 0
+    },
+    "userManagement.userGroups.searchError": {
+        "value": "Error al cargar los grupos. Inténtelo de nuevo más tarde.",
+        "comment": "Message shown when fetching of user groups from server failed.",
+        "limit": 0
+    },
+    "userManagement.userGroup.removeSuccess": {
+        "value": "¡Genial! Grupo eliminado correctamente.",
+        "comment": "Confirmation message shown when user group was successfully deleted.",
+        "limit": 0
+    },
+    "userManagement.userGroup.removeFailure": {
+        "value": "Error al eliminar el grupo.",
+        "comment": "Error message shown when deletion of user group failed.",
+        "limit": 0
+    },
+    "userManagement.userGroups.removeSuccess": {
+        "value": "¡Genial! Grupo eliminado correctamente.",
+        "comment": "Confirmation message shown when user group was successfully deleted.",
+        "limit": 0
+    },
+    "userManagement.userGroups.removeFailure": {
+        "value": "Error al eliminar el grupo.",
+        "comment": "Error message shown when deletion of user group failed.",
+        "limit": 0
+    },
+    "userManagement.userGroups.removeTooltip": {
+        "value": "Eliminar grupo del usuario.",
+        "comment": "Tooltip shown over button that remove user group from the user.",
+        "limit": 0
+    },
+    "userManagement.userGroups.removeDisabledTooltip": {
+        "value": "No se puede eliminar el grupo del usuario.",
+        "comment": "Tooltip shown over button that remove user group from the user if the action is disabled.",
+        "limit": 0
+    },
+    "userManagement.deleteDialog.user.title": {
+        "value": "¿Eliminar usuario?",
+        "comment": "Title of dialog that deletes a user.",
+        "limit": 0
+    },
+    "userManagement.deleteDialog.user.body": {
+        "value": "El usuario será eliminado irreversiblemente, pero sus visualizaciones y paneles de control no se verán afectados.",
+        "comment": "Body of dialog that deletes a users",
+        "limit": 0
+    },
+    "userManagement.deleteDialog.user.disabledTooltip": {
+        "value": "El usuario no se puede eliminar.",
+        "comment": "Tooltip shown over disabled delete button.",
+        "limit": 0
+    },
+    "userManagement.deleteDialog.userGroup.adminDisabledTooltip": {
+        "value": "Este grupo no se puede eliminar.",
+        "comment": "Tooltip shown over disabled delete button.",
+        "limit": 0
+    },
+    "userManagement.deleteDialog.userGroup.nonEmptyDisabledTooltip": {
+        "value": "Este grupo no se puede eliminar porque contiene miembros.",
+        "comment": "Tooltip shown over disabled delete button.",
+        "limit": 0
+    },
+    "userManagement.deleteDialog.multipleUsers.title": {
+        "value": "¿Eliminar usuarios?",
+        "comment": "Title of dialog that deletes multiple users.",
+        "limit": 0
+    },
+    "userManagement.deleteDialog.multipleUsers.body": {
+        "value": "<b>{count} usuarios</b> se eliminarán de forma irreversible, pero sus visualizaciones y paneles de control no se verán afectados.",
+        "comment": "Body of dialog that deletes multiple users. Do not translate placeholder {count}. It will be replaced with number of selected users in runtime.",
+        "limit": 0
+    },
+    "userManagement.deleteDialog.group.title": {
+        "value": "¿Eliminar grupo?",
+        "comment": "Title of dialog that deletes a user group.",
+        "limit": 0
+    },
+    "userManagement.deleteDialog.group.body": {
+        "value": "Este grupo se eliminará de forma irreversible. Todos sus miembros perderán los derechos definidos en los permisos del grupo.",
+        "comment": "Body of dialog that deletes a user group.",
+        "limit": 0
+    },
+    "userManagement.deleteDialog.multipleGroups.title": {
+        "value": "¿Eliminar grupos?",
+        "comment": "Title of dialog that deletes multiple user groups.",
+        "limit": 0
+    },
+    "userManagement.deleteDialog.multipleGroups.body": {
+        "value": "<b>{count} grupos</b> se eliminarán de forma irreversible. Todos sus miembros perderán los derechos definidos en los permisos específicos del grupo.",
+        "comment": "Body of dialog that deletes multiple user group. Do not translate placeholder {count}. It will be replaced with number of selected user groups in runtime.",
+        "limit": 0
+    },
+    "userManagement.deleteDialog.cancelButton": {
+        "value": "Cancelar",
+        "comment": "Label of button that cancels delete action.",
+        "limit": 0
+    },
+    "userManagement.deleteDialog.confirmButton": {
+        "value": "Eliminar",
+        "comment": "Label of button that confirms delete action.",
+        "limit": 0
+    },
+    "userManagement.userGroups.deleteSuccess": {
+        "value": "¡Genial! Grupo eliminado correctamente.",
+        "comment": "Confirmation message shown when user group was successfully deleted.",
+        "limit": 0
+    },
+    "userManagement.userGroups.deleteFailure": {
+        "value": "Error al eliminar el grupo.",
+        "comment": "Error message shown when deletion of user group failed.",
+        "limit": 0
+    },
+    "userManagement.multipleUserGroups.deleteSuccess": {
+        "value": "¡Genial! Grupos eliminados correctamente.",
+        "comment": "Confirmation message shown when multiple user groups were successfully deleted.",
+        "limit": 0
+    },
+    "userManagement.multipleUserGroups.deleteFailure": {
+        "value": "Error al eliminar los grupos.",
+        "comment": "Error message shown when deletion of multiple user group failed.",
+        "limit": 0
+    },
+    "userManagement.createUserGroup.createSuccess": {
+        "value": "¡Genial! Grupo creado correctamente.",
+        "comment": "Confirmation message shown when user group was successfully created.",
+        "limit": 0
+    },
+    "userManagement.createUserGroup.createFailure": {
+        "value": "Error al crear el grupo.",
+        "comment": "Error message shown when creation of user group failed.",
+        "limit": 0
+    },
+    "userManagement.users.loadingError.title": {
+        "value": "No se puede acceder al usuario",
+        "comment": "Error title shown when user detail loading ended up with error.",
+        "limit": 0
+    },
+    "userManagement.users.loadingError.notExist": {
+        "value": "El usuario al que intenta ver no existe.",
+        "comment": "Error shown when user detail loading ended up with 404 error.",
+        "limit": 0
+    },
+    "userManagement.users.loadingError.unknown": {
+        "value": "El usuario al que intenta ver no se puede cargar.",
+        "comment": "Error shown when user detail loading ended up with error.",
+        "limit": 0
+    },
+    "userManagement.userGroups.loadingError.title": {
+        "value": "No se puede acceder al grupo",
+        "comment": "Error title shown when user group detail loading ended up with error.",
+        "limit": 0
+    },
+    "userManagement.userGroups.loadingError.notExist": {
+        "value": "El grupo que intenta ver no existe.",
+        "comment": "Error shown when user group detail loading ended up with 404 error.",
+        "limit": 0
+    },
+    "userManagement.userGroups.loadingError.unknown": {
+        "value": "El grupo que intenta ver no se puede cargar.",
+        "comment": "Error shown when user group detail loading ended up with error.",
+        "limit": 0
+    },
+    "userManagement.users.deleteSuccess": {
+        "value": "¡Genial! Grupo eliminado correctamente.",
+        "comment": "Confirmation message shown when user was successfully deleted.",
+        "limit": 0
+    },
+    "userManagement.users.deleteFailure": {
+        "value": "Error al eliminar al usuario.",
+        "comment": "Error message shown when deletion of user failed.",
+        "limit": 0
+    },
+    "userManagement.multipleUsers.deleteSuccess": {
+        "value": "¡Genial! Usuarios eliminados correctamente.",
+        "comment": "Confirmation message shown when multiple users were successfully deleted.",
+        "limit": 0
+    },
+    "userManagement.multipleUsers.deleteFailure": {
+        "value": "Error al eliminar a los usuarios.",
+        "comment": "Error message shown when deletion of multiple users failed.",
+        "limit": 0
+    },
+    "userManagement.users.searchError": {
+        "value": "Error al cargar a los usuarios. Inténtelo de nuevo más tarde.",
+        "comment": "Error shown when user list was not fetched from server.",
+        "limit": 0
+    },
+    "userManagement.users.emptySelection.view": {
+        "value": "Este grupo no tiene ningún miembro.",
+        "comment": "Message shown when there are no users in the user group.",
+        "limit": 0
+    },
+    "userManagement.users.emptySelection.edit": {
+        "value": "Ningún usuario seleccionado.",
+        "comment": "Shown when no user has been added to selection yet.",
+        "limit": 0
+    },
+    "userManagement.users.removeUserFromGroup": {
+        "value": "Eliminar al usuario del grupo.",
+        "comment": "Tooltip on button that removes particular user from the user group.",
+        "limit": 0
+    },
+    "userManagement.users.removeUserFromGroupDisabledTooltip": {
+        "value": "No se puede eliminar al usuario del grupo.",
+        "comment": "Tooltip shown over button that remove user from the user group if the action is disabled.",
+        "limit": 0
+    },
+    "userManagement.users.removeUserFromSelection": {
+        "value": "Eliminar.",
+        "comment": "Label of action that removes selected user.",
+        "limit": 0
+    },
+    "userManagement.userGroups.removeUserGroupFromSelection": {
+        "value": "Eliminar.",
+        "comment": "Label of action that removes selected user group.",
+        "limit": 0
+    },
+    "userManagement.users.noMatchingItems": {
+        "value": "Ningún usuario coincide.",
+        "comment": "Message shown when no user matches the entered search criteria.",
+        "limit": 0
+    },
+    "userManagement.users.searchPlaceholder": {
+        "value": "Buscar usuarios",
+        "comment": "Placeholder of input box that is used to search for users.",
+        "limit": 0
+    },
+    "userManagement.users.title": {
+        "value": "Añadir miembros al grupo",
+        "comment": "Title of dialog that adds users to user group.",
+        "limit": 0
+    },
+    "userManagement.users.cancelButton": {
+        "value": "Cancelar",
+        "comment": "Label of button that cancels the unsaved changes in the dialog.",
+        "limit": 0
+    },
+    "userManagement.users.addButton": {
+        "value": "Agregar",
+        "comment": "Label of button that adds users to user group.",
+        "limit": 0
+    },
+    "userManagement.users.addSuccess": {
+        "value": "¡Genial! Usuarios añadidos correctamente al grupo.",
+        "comment": "Confirmation message shown when users were successfully added to the user group.",
+        "limit": 0
+    },
+    "userManagement.users.addFailure": {
+        "value": "Error al añadir usuarios al grupo.",
+        "comment": "Error message shown when addition of users to the user group failed.",
+        "limit": 0
+    },
+    "userManagement.users.addToUserGroupsSuccess": {
+        "value": "¡Genial! Usuarios añadidos correctamente a los grupos.",
+        "comment": "Confirmation message shown when multiple users were successfully added to the multiple user group.",
+        "limit": 0
+    },
+    "userManagement.users.addToUserGroupsFailure": {
+        "value": "Error al añadir los usuarios a los grupos.",
+        "comment": "Error message shown when trying to add multiple users to the multiple user group failed.",
+        "limit": 0
+    },
+    "userManagement.users.removeSuccess": {
+        "value": "¡Genial! Usuario(s) eliminado(s) correctamente.",
+        "comment": "Confirmation message shown when one or more users were sucessfuly removed from the user group.",
+        "limit": 0
+    },
+    "userManagement.users.removeFailure": {
+        "value": "Error al eliminar usuario(s).",
+        "comment": "Error message shown when removal of one or more users were from the user group failed.",
+        "limit": 0
+    },
+    "userManagement.buttons.close": {
+        "value": "Cerrar",
+        "comment": "Label of button that closes the dialog.",
+        "limit": 0
+    },
+    "userManagement.admin.alert": {
+        "value": "Los administradores tienen un acceso completo a todos los espacios de trabajo, recursos y acciones.",
+        "comment": "Text shown in user dialog that explains that user is organization administrator and has full access to everything.",
+        "limit": 0
+    },
+    "userManagement.adminGroup.alert": {
+        "value": "Los miembros tienen un acceso completo a todos los espacios de trabajo, recursos y acciones.",
+        "comment": "Text shown in user group dialog that explains that user group has organization administrator rights and its members has full access to everything.",
+        "limit": 0
+    },
+    "userManagement.admin.pill": {
+        "value": "Administrador",
+        "comment": "Text shown in pill component next to the user name. The information states that user is organization administrator.",
+        "limit": 0
+    },
+    "userManagement.createUserGroup.createButton": {
+        "value": "Crear",
+        "comment": "Label of button that creates a new user group.",
+        "limit": 0
+    },
+    "userManagement.createUserGroup.cancelButton": {
+        "value": "Cancelar",
+        "comment": "Label of button that closes dialog.",
+        "limit": 0
+    },
+    "userManagement.createUserGroup.dialogTitle": {
+        "value": "Crear grupo",
+        "comment": "Title of dialog that creates new user group.",
+        "limit": 0
+    },
+    "userManagement.createUserGroup.inputPlaceholder": {
+        "value": "Nombre",
+        "comment": "Placeholder shown in input box where user types name of a new user group.",
+        "limit": 0
+    },
+    "richText.placeholder": {
+        "value": "Añada aquí el texto markdown...",
+        "comment": "Do not translate word 'Markdown'",
+        "limit": 0
+    },
+    "richText.tooltip": {
+        "value": "Puede utilizar la sintaxis Markdown para dar estilo a la descripción:",
+        "comment": "Do not translate word 'Markdown'",
+        "limit": 0
+    },
+    "richText.no_data": {
+        "value": "No hay datos",
+        "comment": "No data retrieved from the server",
+        "limit": 0
+    },
+    "richText.multiple_data": {
+        "value": "Multiple items",
+        "comment": "Error when multiple items are retrieved from server for attribute",
+        "limit": 0
+    },
+    "richText.no_fetch": {
+        "value": "Data could not be retrieved",
+        "comment": "Data could not be retrieved from the server",
+        "limit": 0
+    },
+    "recurrence.starts": {
+        "value": "Comienza el",
+        "comment": "Describes when recurrence starts.",
+        "limit": 0
+    },
+    "recurrence.repeats": {
+        "value": "Repite",
+        "comment": "Describes how recurrence repeats.",
+        "limit": 0
+    },
+    "recurrence.types.hourly": {
+        "value": "Cada hora",
+        "comment": "Repeats the schedule hourly.",
+        "limit": 0
+    },
+    "recurrence.types.daily": {
+        "value": "A diario",
+        "comment": "Repeats the schedule daily.",
+        "limit": 0
+    },
+    "recurrence.types.weekly": {
+        "value": "Semanalmente el {day}",
+        "comment": "Example: 'Weekly on Friday'. Placeholder '{day}' refers to a day of a week. Don't translate placeholder '{day}'.",
+        "limit": 0
+    },
+    "recurrence.types.monthly.last": {
+        "value": "Mensualmente en el último {day}",
+        "comment": "Example: 'Monthly on the last Friday'. Do not translate placeholder {day}'",
+        "limit": 0
+    },
+    "recurrence.types.monthly.first": {
+        "value": "Mensualmente el primer día",
+        "comment": "Example: 'Monthly on the first day'.",
+        "limit": 0
+    },
+    "recurrence.types.weekly.first": {
+        "value": "Semanal el primer día",
+        "comment": "Example: 'Weekly on the first day'.",
+        "limit": 0
+    },
+    "recurrence.types.monthly": {
+        "value": "Mensualmente el {week, select, 1 {primer} 2 {segundo} 3 {tercer} 4 {cuarto} other {último}} {day}",
+        "comment": "Example: 'Monthly on the first Friday'. Translate only uppercase in 'MONTHLY ON THE {week, select, 1 {FIRST} 2 {SECOND} 3 {THIRD} 4 {FOURTH} other {LAST}} {day}'",
+        "limit": 0
+    },
+    "recurrence.types.cron": {
+        "value": "Expresión Cron",
+        "comment": "Repeats the schedule email using custom cron expression defined by the user. Do not translate word 'Cron' as it is a name of technical specification.",
+        "limit": 0
+    },
+    "recurrence.types.inherit": {
+        "value": "Heredado",
+        "comment": "Repeats the schedule email using the same recurrence as the setup in parent.",
+        "limit": 0
+    },
+    "recurrence.description.hourly": {
+        "value": "Al comienzo de cada hora",
+        "comment": "",
+        "limit": 0
+    },
+    "recurrence.description.daily": {
+        "value": "En {hour} todos los días",
+        "comment": "Do not translate placeholder {hour}.",
+        "limit": 0
+    },
+    "recurrence.description.weekly_first": {
+        "value": "En {hour} cada inicio de semana",
+        "comment": "Do not translate placeholder {hour}.",
+        "limit": 0
+    },
+    "recurrence.description.weekly": {
+        "value": "En {hour} en {dayOfWeekName} todas las semanas",
+        "comment": "Do not translate placeholders {hour} and {dayOfWeekName}.",
+        "limit": 0
+    },
+    "recurrence.description.monthly_first": {
+        "value": "En {hour} al principio de cada mes",
+        "comment": "Do not translate placeholder {hour}.",
+        "limit": 0
+    },
+    "recurrence.description.monthly": {
+        "value": "En {hour} en {dayOfWeekName} cada {weekNumber}. semana en el mes",
+        "comment": "Do not translate placeholders {hour}, {dayOfWeekName} and {weekNumber}.",
+        "limit": 0
+    },
+    "recurrence.error.too_often": {
+        "value": "Frecuencia demasiado alta",
+        "comment": "Invalid frequency recurrence.",
+        "limit": 0
+    },
+    "recurrence.cron.tooltip": {
+        "value": "Use the <a>unix-cron</a> string format.",
+        "comment": "Do not translate html tags <a>, </a>. Do not translate 'unix-cron' as it is a name of specific tech.",
+        "limit": 0
+    },
+    "message.accessibility.dismiss.notification": {
+        "value": "Notificación de despido",
+        "comment": "",
+        "limit": 0
+    },
+    "datePicker.accessibility.label": {
+        "value": "Select start date",
+        "comment": "",
+        "limit": 0
+    },
+    "timePicker.accessibility.label": {
+        "value": "Seleccione la hora de inicio",
+        "comment": "",
+        "limit": 0
+    }
+}
