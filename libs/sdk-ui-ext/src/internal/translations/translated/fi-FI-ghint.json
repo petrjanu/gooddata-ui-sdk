@@ -1,0 +1,2121 @@
+{
+    "or": {
+        "value": "tai",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.measures_title.column._measure": {
+        "value": "Toimenpiteet",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.measures_title.column._metric": {
+        "value": "Mittarit",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.measures_title.bar._measure": {
+        "value": "Toimenpiteet",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.measures_title.bar._metric": {
+        "value": "Mittarit",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.measures_title.line._measure": {
+        "value": "Toimenpiteet",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.measures_title.line._metric": {
+        "value": "Mittarit",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.measures_title.area._measure": {
+        "value": "Toimenpiteet",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.measures_title.area._metric": {
+        "value": "Mittarit",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.measures_title.pie._measure": {
+        "value": "Toimenpiteet",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.measures_title.pie._metric": {
+        "value": "Mittarit",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.measures_title.funnel._measure": {
+        "value": "Toimenpiteet",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.measures_title.funnel._metric": {
+        "value": "Mittarit",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.measures_title.pyramid._measure": {
+        "value": "Toimenpiteet",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.measures_title.pyramid._metric": {
+        "value": "Mittarit",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.measures_title.treemap._measure": {
+        "value": "Toimenpiteet",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.measures_title.treemap._metric": {
+        "value": "Mittarit",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.measures_title.donut._measure": {
+        "value": "Toimenpiteet",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.measures_title.donut._metric": {
+        "value": "Mittarit",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.measures_title.heatmap._measure": {
+        "value": "Mittari",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.measures_title.heatmap._metric": {
+        "value": "Metriikka",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.measures_title.headline._measure": {
+        "value": "Mittari",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.measures_title.headline._metric": {
+        "value": "Metriikka",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.measures_subtitle.headline": {
+        "value": "ensisijainen",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.secondary_measures_title.headline._measure": {
+        "value": "Mittari",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.secondary_measures_title.headline._metric": {
+        "value": "Metriikka",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.secondary_measures_subtitle.headline": {
+        "value": "toissijainen",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.measures_title.scatter._measure": {
+        "value": "Mittari",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.measures_title.scatter._metric": {
+        "value": "Metriikka",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.secondary_measures_title.scatter._measure": {
+        "value": "Mittari",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.secondary_measures_title.scatter._metric": {
+        "value": "Metriikka",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.measures_subtitle.scatter": {
+        "value": "X-akseli",
+        "comment": "Horizontal axis of a scatter plot.",
+        "limit": 0
+    },
+    "dashboard.bucket.secondary_measures_subtitle.scatter": {
+        "value": "Y-akseli",
+        "comment": "Vertical axis of a scatter plot.",
+        "limit": 0
+    },
+    "dashboard.bucket.attribute_title.scatter": {
+        "value": "Näytä",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.segment_title.scatter": {
+        "value": "Segmentoi",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.measures_title.combo._measure": {
+        "value": "Toimenpiteet",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.measures_title.combo._metric": {
+        "value": "Mittarit",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.measures_subtitle.combo": {
+        "value": "Sarake",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.secondary_measures_title.combo._measure": {
+        "value": "Toimenpiteet",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.secondary_measures_title.combo._metric": {
+        "value": "Mittarit",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.secondary_measures_subtitle.combo": {
+        "value": "Viiva",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.measures_title.xirr._measure": {
+        "value": "Mittari",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.measures_title.xirr._metric": {
+        "value": "Metriikka",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.measures_title.waterfall._measure": {
+        "value": "Toimenpiteet",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.measures_title.waterfall._metric": {
+        "value": "Mittarit",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.attribute_title.xirr": {
+        "value": "Päivämääräattribuutti",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.attribute_from_title.sankey": {
+        "value": "Attribuutti",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.attribute_from_subtitle.sankey": {
+        "value": "alkaen",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.attribute_to_title.sankey": {
+        "value": "Attribuutti",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.attribute_to_subtitle.sankey": {
+        "value": "kohti",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.attribute_from_title.dependencywheel": {
+        "value": "Attribuutti",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.attribute_from_subtitle.dependencywheel": {
+        "value": "alkaen",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.attribute_to_title.dependencywheel": {
+        "value": "Attribuutti",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.attribute_to_subtitle.dependencywheel": {
+        "value": "kohti",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.combo.subtitle.column": {
+        "value": "sarakeina",
+        "comment": "Display measures in column chart = 'as columns'.",
+        "limit": 0
+    },
+    "dashboard.bucket.combo.subtitle.line": {
+        "value": "viivoina",
+        "comment": "Display measures in line chart = 'as lines'.",
+        "limit": 0
+    },
+    "dashboard.bucket.combo.subtitle.area": {
+        "value": "alueina",
+        "comment": "Display measures in area chart = 'as areas'.",
+        "limit": 0
+    },
+    "dashboard.bucket.measures_title.bubble._measure": {
+        "value": "Mittari",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.measures_title.bubble._metric": {
+        "value": "Metriikka",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.secondary_measures_title.bubble._measure": {
+        "value": "Mittari",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.secondary_measures_title.bubble._metric": {
+        "value": "Metriikka",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.tertiary_measures_title.bubble._measure": {
+        "value": "Mittari",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.tertiary_measures_title.bubble._metric": {
+        "value": "Metriikka",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.measures_subtitle.bubble": {
+        "value": "X-akseli",
+        "comment": "Horizontal axis of a bubble plot.",
+        "limit": 0
+    },
+    "dashboard.bucket.secondary_measures_subtitle.bubble": {
+        "value": "Y-akseli",
+        "comment": "Vertical axis of a bubble plot.",
+        "limit": 0
+    },
+    "dashboard.bucket.tertiary_measures_subtitle.bubble": {
+        "value": "Koko",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.location_title.pushpin": {
+        "value": "Sijainti",
+        "comment": "Position of a pin pushed to a map.",
+        "limit": 0
+    },
+    "dashboard.bucket.size_title.pushpin._measure": {
+        "value": "Mittari",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.size_title.pushpin._metric": {
+        "value": "Metriikka",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.size_subtitle.pushpin": {
+        "value": "Koko",
+        "comment": "Size of a pin pushed to a map",
+        "limit": 0
+    },
+    "dashboard.bucket.color_title.pushpin._measure": {
+        "value": "Mittari",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.color_title.pushpin._metric": {
+        "value": "Metriikka",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.color_subtitle.pushpin": {
+        "value": "Väri",
+        "comment": "Color of a pin pushed to a map",
+        "limit": 0
+    },
+    "dashboard.bucket.view_title.bubble": {
+        "value": "Näytä",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.view_title.pie": {
+        "value": "Näytä",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.view_title.treemap": {
+        "value": "Näytä",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.view_title.donut": {
+        "value": "Näytä",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.view_title.funnel": {
+        "value": "Näytä",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.view_title.pyramid": {
+        "value": "Näytä",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.view_title.column": {
+        "value": "Näytä",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.view_title.bar": {
+        "value": "Näytä",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.view_title.area": {
+        "value": "Näytä",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.view_title.bullet": {
+        "value": "Näytä",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.view_title.waterfall": {
+        "value": "Näytä",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.view_title.heatmap": {
+        "value": "Rivit",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.trend_title.line": {
+        "value": "Seuraa trendiä",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.view_title.combo": {
+        "value": "Näytä",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.stack_title.column": {
+        "value": "Pinota",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.stack_title.bar": {
+        "value": "Pinota",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.stack_title.area": {
+        "value": "Pinota",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.stack_title.heatmap": {
+        "value": "Sarakkeet",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.segment_title.line": {
+        "value": "Segmentoi",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.segment_title.treemap": {
+        "value": "Segmentoi",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.segment_title.pushpin": {
+        "value": "Segmentoi",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.metric_segment_by_warning._measure": {
+        "value": "Lisätäksesi lisää mittareita, poista {icons} kohdasta '<span class=\"stack-by\">'segmentoi'</span>'",
+        "comment": "Do not translate HTML markup enclosed in '<>'. Do not translate {icons}. Translate words 'segment by'.",
+        "limit": 0
+    },
+    "dashboard.bucket.metric_segment_by_warning._metric": {
+        "value": "Lisätäksesi lisää metriikkoja, poista {icons} kohdasta '<span class=\"stack-by\">'segmentoi'</span>'",
+        "comment": "Do not translate HTML markup enclosed in '<>'. Do not translate {icons}. Translate words 'segment by'.",
+        "limit": 0
+    },
+    "dashboard.bucket.metric_stack_by_warning._measure": {
+        "value": "Lisätäksesi lisää mittareita, poista {icons} kohdasta '<span class=\"stack-by\">'pinota'</span>'",
+        "comment": "Do not translate HTML markup enclosed in '<>'. Do not translate {icons}. Translate words 'stack by'.",
+        "limit": 0
+    },
+    "dashboard.bucket.metric_stack_by_warning._metric": {
+        "value": "Lisätäksesi lisää metriikkoja, poista {icons} kohdasta '<span class=\"stack-by\">'pinota'</span>'",
+        "comment": "Do not translate HTML markup enclosed in '<>'. Do not translate {icons}. Translate words 'stack by'.",
+        "limit": 0
+    },
+    "dashboard.bucket.metric_view_by_warning._measure": {
+        "value": "Lisätäksesi lisää mittareita, poista {icons} kohdasta '<span class=\"stack-by\">'näytä'</span>'",
+        "comment": "Do not translate HTML markup enclosed in '<>'. Do not translate {icons}. Translate words 'view by'.",
+        "limit": 0
+    },
+    "dashboard.bucket.metric_view_by_warning._metric": {
+        "value": "Lisätäksesi lisää metriikkoja, poista {icons} kohdasta '<span class=\"stack-by\">'näytä'</span>'",
+        "comment": "Do not translate HTML markup enclosed in '<>'. Do not translate {icons}. Translate words 'view by'.",
+        "limit": 0
+    },
+    "dashboard.bucket.category_view_by_warning._measure|insight": {
+        "value": "Jos haluat tarkastella toisella ominaisuudella, visualisoinnilla voi olla vain yksi mitta.",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.category_view_by_warning._metric|insight": {
+        "value": "Jos haluat tarkastella toisella ominaisuudella, visualisoinnilla voi olla vain yksi mittari.",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.category_view_by_warning._measure|report": {
+        "value": "To view by another attribute, a report can have only one measure",
+        "comment": "",
+        "limit": 0,
+        "translate": false
+    },
+    "dashboard.bucket.category_view_by_warning._metric|report": {
+        "value": "To view by another attribute, a report can have only one metric",
+        "comment": "",
+        "limit": 0,
+        "translate": false
+    },
+    "dashboard.bucket.view_stack_by_warning": {
+        "value": "Lisätäksesi attribuutin, poista {icons} kohdasta '<span class=\"stack-by\">'pinota'</span>'",
+        "comment": "Do not translate HTML markup enclosed in '<>'. Do not translate {icons}. Translate words 'stack by'.",
+        "limit": 0
+    },
+    "dashboard.bucket.category_stack_by_warning._measure|insight": {
+        "value": "Jos haluat pinota, visualisoinnilla voi olla vain yksi mitta",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.category_stack_by_warning._metric|insight": {
+        "value": "Jos haluat pinota, visualisoinnilla voi olla vain yksi mittari",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.category_stack_by_warning._measure|report": {
+        "value": "To stack by, a report can have only one measure",
+        "comment": "",
+        "limit": 0,
+        "translate": false
+    },
+    "dashboard.bucket.category_stack_by_warning._metric|report": {
+        "value": "To stack by, a report can have only one metric",
+        "comment": "",
+        "limit": 0,
+        "translate": false
+    },
+    "dashboard.bucket.stack_view_by_warning|insight": {
+        "value": "Jos haluat pinota, visualisoinnilla voi olla vain yksi attribuutti näkyvissä seuraavasti:",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.stack_view_by_warning|report": {
+        "value": "To stack by, a report can have only one attribute in view by",
+        "comment": "",
+        "limit": 0,
+        "translate": false
+    },
+    "dashboard.bucket.measure_stack_by_warning._measure|insight": {
+        "value": "Jos haluat pinota attribuutin mukaan, visualisoinnissa voi olla vain yksi mittari.",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.measure_stack_by_warning._metric|insight": {
+        "value": "Jos haluat pinota attribuutin mukaan, visualisoinnilla voi olla vain yksi mittari.",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.measure_stack_by_warning._measure|report": {
+        "value": "To stack by an attribute, a report can have only one measure",
+        "comment": "",
+        "limit": 0,
+        "translate": false
+    },
+    "dashboard.bucket.measure_stack_by_warning._metric|report": {
+        "value": "To stack by an attribute, a report can have only one metric",
+        "comment": "",
+        "limit": 0,
+        "translate": false
+    },
+    "dashboard.bucket.category_columns_warning._measure": {
+        "value": "Sarakkeita ei voi lisätä: raja on {oldLimit} mittaria ja {oldRowsLimit} riviä. Noudata rajoituksia lisätäksesi lisää",
+        "comment": "Do not translate {oldLimit} and {oldRowsLimit}.",
+        "limit": 0
+    },
+    "dashboard.bucket.category_columns_warning._metric": {
+        "value": "Sarakkeita ei voi lisätä: raja on {oldLimit} metriikkaa ja {oldRowsLimit} riviä. Noudata rajoituksia lisätäksesi lisää",
+        "comment": "Do not translate {oldLimit} and {oldRowsLimit}.",
+        "limit": 0
+    },
+    "dashboard.bucket.category_measures_rows_warning": {
+        "value": "Lisätäksesi enintään {limit} lisää, poista kaikki kohteet sarakkeiden osiosta",
+        "comment": "Do not translate {limit}.",
+        "limit": 0
+    },
+    "dashboard.bucket.category_category_by_warning._measure|insight": {
+        "value": "Jos haluat tarkastella mennessä, visualisoinnilla voi olla vain yksi mittari",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.category_category_by_warning._metric|insight": {
+        "value": "Jos haluat tarkastella mennessä, visualisoinnilla voi olla vain yksi mittari",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.category_category_by_warning._measure|report": {
+        "value": "To view by, a report can have only one measure",
+        "comment": "",
+        "limit": 0,
+        "translate": false
+    },
+    "dashboard.bucket.category_category_by_warning._metric|report": {
+        "value": "To view by, a report can have only one metric",
+        "comment": "",
+        "limit": 0,
+        "translate": false
+    },
+    "dashboard.bucket.category_segment_by_warning._measure|insight": {
+        "value": "Segmentoitaessa visualisoinnilla voi olla vain yksi mitta",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.category_segment_by_warning._metric|insight": {
+        "value": "Segmentoitaessa visualisoinnilla voi olla vain yksi mittari",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.category_segment_by_warning._measure|report": {
+        "value": "To segment by, a report can have only one measure",
+        "comment": "",
+        "limit": 0,
+        "translate": false
+    },
+    "dashboard.bucket.category_segment_by_warning._metric|report": {
+        "value": "To segment by, a report can have only one metric",
+        "comment": "",
+        "limit": 0,
+        "translate": false
+    },
+    "dashboard.bucket.measures_title.table._measure": {
+        "value": "Toimenpiteet",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.measures_title.table._metric": {
+        "value": "Mittarit",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.measures_title.sankey._measure": {
+        "value": "TOIMENPIDE",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.measures_title.sankey._metric": {
+        "value": "METRINEN",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.measures_title.dependencywheel._measure": {
+        "value": "TOIMENPIDE",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.measures_title.dependencywheel._metric": {
+        "value": "METRINEN",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.attribute_title.table": {
+        "value": "Rivit",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.columns_title.table": {
+        "value": "Sarakkeet",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.attribute_title.repeater": {
+        "value": "Rivit",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.view_title.repeater": {
+        "value": "Näytä",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.columns_title.repeater": {
+        "value": "Sarakkeet",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.error.missing_primary_bucket_item.heading._measure|insight": {
+        "value": "Visualisoinnissasi ei ole ensisijaista toimenpidettä",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.error.missing_primary_bucket_item.heading._metric|insight": {
+        "value": "Visualisoinnissasi ei ole ensisijaista mittaria",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.error.missing_primary_bucket_item.heading._measure|report": {
+        "value": "No primary measure in your report",
+        "comment": "",
+        "limit": 0,
+        "translate": false
+    },
+    "dashboard.error.missing_primary_bucket_item.heading._metric|report": {
+        "value": "No primary metric in your report",
+        "comment": "",
+        "limit": 0,
+        "translate": false
+    },
+    "dashboard.error.missing_primary_bucket_item.text._measure|insight": {
+        "value": "Lisää päämittari näkemykseesi tai vaihda taulukkonäkymään.\\nKun olet valmis, voit tallentaa sen.",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.error.missing_primary_bucket_item.text._metric|insight": {
+        "value": "Lisää päämetriikka näkemykseesi tai vaihda taulukkonäkymään.\\nKun olet valmis, voit tallentaa sen.",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.error.missing_primary_bucket_item.text._measure|report": {
+        "value": "Add a primary measure to your report, or switch to table.\nOnce done, you'll be able to save it.",
+        "comment": "",
+        "limit": 0,
+        "translate": false
+    },
+    "dashboard.error.missing_primary_bucket_item.text._metric|report": {
+        "value": "Add a primary metric to your report, or switch to table.\nOnce done, you'll be able to save it.",
+        "comment": "",
+        "limit": 0,
+        "translate": false
+    },
+    "dashboard.xirr.error.invalid_buckets.heading": {
+        "value": "Kesken oleva asetus",
+        "comment": "Informs the user that they have not provided all the necessary configuration items (one measure and one date attribute)",
+        "limit": 0
+    },
+    "dashboard.xirr.error.invalid_buckets.text._measure": {
+        "value": "Varmista, että olet valinnut yhden mittarin ja yhden päivämääräattribuutin",
+        "comment": "The user should be instructed to review that they have added one measure and one date attribute to the visualization",
+        "limit": 0
+    },
+    "dashboard.xirr.error.invalid_buckets.text._metric": {
+        "value": "Varmista, että olet valinnut yhden metriikan ja yhden päivämääräattribuutin",
+        "comment": "The user should be instructed to review that they have added one metric and one date attribute to the visualization",
+        "limit": 0
+    },
+    "properties.unsupported": {
+        "value": "Tämä visualisointi ei tue asetusta",
+        "comment": "",
+        "limit": 0
+    },
+    "properties.config.not_applicable|insight": {
+        "value": "Konfigurointipaneeli ei sovellu tähän visualisoinnin konfigurointiin",
+        "comment": "",
+        "limit": 0
+    },
+    "properties.config.not_applicable|report": {
+        "value": "Configuration Panel is not applicable for this configuration of the report",
+        "comment": "",
+        "limit": 0,
+        "translate": false
+    },
+    "properties.not_applicable|insight": {
+        "value": "Ominaisuus ei ole sovellettavissa tähän visualisoinnin määritykseen",
+        "comment": "",
+        "limit": 0
+    },
+    "properties.not_applicable|report": {
+        "value": "Property is not applicable for this configuration of the report",
+        "comment": "",
+        "limit": 0,
+        "translate": false
+    },
+    "properties.auto_placeholder": {
+        "value": "auto",
+        "comment": "",
+        "limit": 0
+    },
+    "properties.auto_default": {
+        "value": "auto (oletus)",
+        "comment": "",
+        "limit": 0
+    },
+    "properties.legend.title": {
+        "value": "Selite",
+        "comment": "",
+        "limit": 0
+    },
+    "properties.legend.position": {
+        "value": "Sijainti",
+        "comment": "",
+        "limit": 0
+    },
+    "properties.total.title": {
+        "value": "Yhteensä",
+        "comment": "",
+        "limit": 0
+    },
+    "properties.total.name": {
+        "value": "Nimi",
+        "comment": "",
+        "limit": 0
+    },
+    "properties.total.tooltip": {
+        "value": "Lisää kaikkien arvojen summa sarakkeena loppuun.",
+        "comment": "",
+        "limit": 0
+    },
+    "properties.total.measures.tooltip": {
+        "value": "Poista käytöstä “on yhteensä” -vaihtoehdot metriikassa lisätäksesi kaikkien arvojen summan sarakkeena loppuun.",
+        "comment": "The tooltip for the toggle total section when there is any metric set to total metric",
+        "limit": 0
+    },
+    "properties.color.total": {
+        "value": "Yhteensä",
+        "comment": "",
+        "limit": 0
+    },
+    "properties.color.positive": {
+        "value": "Positiivinen",
+        "comment": "",
+        "limit": 0
+    },
+    "properties.color.negative": {
+        "value": "Negatiivinen",
+        "comment": "",
+        "limit": 0
+    },
+    "properties.canvas.title": {
+        "value": "Kangas",
+        "comment": "",
+        "limit": 0
+    },
+    "properties.canvas.gridline": {
+        "value": "Ruudukkoviiva",
+        "comment": "",
+        "limit": 0
+    },
+    "properties.canvas.labels.percentages": {
+        "value": "Prosentti",
+        "comment": "applicable for funnel chart special data labels which can include percentages",
+        "limit": 0
+    },
+    "properties.canvas.labels.percentages.info": {
+        "value": "Näytä prosenttiosuudet kustakin viipaleesta, ylin viipale 100%:na ja muut sen osuuksina.",
+        "comment": "this is an explanation tooltip for the Percentage option for funnel chart (properties.canvas.labels.percentages)",
+        "limit": 0
+    },
+    "properties.canvas.labels.percentages.disabled": {
+        "value": "Prosenttiosuudet piilotettu piilotettujen datalabelien takia.",
+        "comment": "this is an explanation tooltip when the Percentage option for funnel chart is disabled (properties.canvas.labels.percentages)",
+        "limit": 0
+    },
+    "properties.canvas.continuousLine.label": {
+        "value": "Jatkuva viiva",
+        "comment": "",
+        "limit": 0
+    },
+    "properties.canvas.continuousLine.tooltip": {
+        "value": "Piirrä viiva puuttuvien arvojen välille.",
+        "comment": "",
+        "limit": 0
+    },
+    "properties.canvas.dataLabels": {
+        "value": "Datalabelit",
+        "comment": "",
+        "limit": 0
+    },
+    "properties.canvas.dataLabels.auto": {
+        "value": "auto (oletus)",
+        "comment": "",
+        "limit": 0
+    },
+    "properties.canvas.dataLabels.show": {
+        "value": "näytä",
+        "comment": "",
+        "limit": 0
+    },
+    "properties.canvas.dataLabels.hide": {
+        "value": "piilota",
+        "comment": "",
+        "limit": 0
+    },
+    "properties.canvas.rowHeight": {
+        "value": "Rivin korkeus",
+        "comment": "Label of the dropdown for configuring the row height of the chart",
+        "limit": 0
+    },
+    "properties.canvas.rowHeight.small": {
+        "value": "pieni",
+        "comment": "Option of the dropdown for configuring the row height of the chart (small)",
+        "limit": 0
+    },
+    "properties.canvas.rowHeight.medium": {
+        "value": "keskinkertainen",
+        "comment": "Option of the dropdown for configuring the row height of the chart (medium)",
+        "limit": 0
+    },
+    "properties.canvas.rowHeight.large": {
+        "value": "suuri",
+        "comment": "Option of the dropdown for configuring the row height of the chart (large)",
+        "limit": 0
+    },
+    "properties.canvas.verticalAlign": {
+        "value": "Pystysuuntainen tasaus",
+        "comment": "Label of the dropdown for configuring vertical alignment of the chart cells",
+        "limit": 0
+    },
+    "properties.canvas.verticalAlign.top": {
+        "value": "ylhäällä",
+        "comment": "Option of the dropdown for configuring the vertical alignment of the chart cell (top)",
+        "limit": 0
+    },
+    "properties.canvas.verticalAlign.middle": {
+        "value": "keskellä",
+        "comment": "Option of the dropdown for configuring the vertical alignment of the chart cell (middle)",
+        "limit": 0
+    },
+    "properties.canvas.verticalAlign.bottom": {
+        "value": "Alin",
+        "comment": "Option of the dropdown for configuring the vertical alignment of the chart cell (bottom)",
+        "limit": 0
+    },
+    "properties.canvas.textWrapping": {
+        "value": "Tekstin kääriminen",
+        "comment": "Label of the dropdown for configuring text wrapping of the chart cells",
+        "limit": 0
+    },
+    "properties.canvas.textWrapping.clip": {
+        "value": "klipsi",
+        "comment": "Option of the dropdown for configuring the text wrapping of the chart cell (clip)",
+        "limit": 0
+    },
+    "properties.canvas.textWrapping.wrap": {
+        "value": "kääri",
+        "comment": "Option of the dropdown for configuring the text wrapping of the chart cell (wrap)",
+        "limit": 0
+    },
+    "properties.canvas.image": {
+        "value": "Kuva",
+        "comment": "Label of the dropdown for configuring image sizing of the chart cells",
+        "limit": 0
+    },
+    "properties.canvas.image.fit": {
+        "value": "sovita",
+        "comment": "Option of the dropdown for configuring the image sizing of the chart cell (fit)",
+        "limit": 0
+    },
+    "properties.canvas.image.fill": {
+        "value": "täytä",
+        "comment": "Option of the dropdown for configuring the image sizing of the chart cell (fill)",
+        "limit": 0
+    },
+    "properties.forecast.title": {
+        "value": "Ennuste",
+        "comment": "",
+        "limit": 0
+    },
+    "properties.forecastDisabled.title": {
+        "value": "Ennuste ei ole käytettävissä tälle sankojen yhdistelmälle",
+        "comment": "",
+        "limit": 0
+    },
+    "properties.forecastPeriod.title": {
+        "value": "Jakso",
+        "comment": "",
+        "limit": 0
+    },
+    "properties.forecastPeriod.placeholder": {
+        "value": "Jakso",
+        "comment": "",
+        "limit": 0
+    },
+    "properties.forecastSeasonal.title": {
+        "value": "Kausiluonteisuus",
+        "comment": "",
+        "limit": 0
+    },
+    "properties.forecastConfidence.title": {
+        "value": "Luottamus",
+        "comment": "",
+        "limit": 0
+    },
+    "properties.forecastConfidence.70": {
+        "value": "70%",
+        "comment": "",
+        "limit": 0
+    },
+    "properties.forecastConfidence.75": {
+        "value": "75%",
+        "comment": "",
+        "limit": 0
+    },
+    "properties.forecastConfidence.80": {
+        "value": "80%",
+        "comment": "",
+        "limit": 0
+    },
+    "properties.forecastConfidence.85": {
+        "value": "85%",
+        "comment": "",
+        "limit": 0
+    },
+    "properties.forecastConfidence.90": {
+        "value": "90%",
+        "comment": "",
+        "limit": 0
+    },
+    "properties.forecastConfidence.95": {
+        "value": "95%",
+        "comment": "",
+        "limit": 0
+    },
+    "properties.forecastSliced.title": {
+        "value": "Näytetään osittainen ennuste.",
+        "comment": "",
+        "limit": 0
+    },
+    "properties.forecastSliced.description": {
+        "value": "Käytettävissä oleva tietopiste ei kata koko valittua ajanjaksoa.",
+        "comment": "",
+        "limit": 0
+    },
+    "properties.clustering.title": {
+        "value": "Klusteri",
+        "comment": "Title of the clustering configuration section.",
+        "limit": 0
+    },
+    "properties.clustering.amount": {
+        "value": "Summa",
+        "comment": "Label of the input for configuring the number of clusters.",
+        "limit": 0
+    },
+    "properties.clustering.amount.placeholder": {
+        "value": "3",
+        "comment": "Placeholder of the input for configuring the number of clusters.",
+        "limit": 0
+    },
+    "properties.clustering.threshold": {
+        "value": "Kynnysarvo",
+        "comment": "Label of the input for configuring the clustering threshold.",
+        "limit": 0
+    },
+    "properties.clustering.threshold.placeholder": {
+        "value": "0.03",
+        "comment": "Placeholder of the input for configuring the clustering threshold.",
+        "limit": 0
+    },
+    "properties.clustering.threshold.tooltip": {
+        "value": "Kynnysarvo määrittää, milloin tietoja ryhmitellään. <link>Lisätietoja</link>",
+        "comment": "Tooltip message of the clustering threshold input. Do not translate <link> and </link> tags",
+        "limit": 0
+    },
+    "properties.clustering.amount.partial.title": {
+        "value": "Näytetään osittaiset klusterit",
+        "comment": "Message title that is shown when clustering amount is higher than the number of visualization data points.",
+        "limit": 0
+    },
+    "properties.clustering.amount.partial.description": {
+        "value": "Käytettävissä olevat tietopisteet eivät kata koko valittua summaa.",
+        "comment": "Message description that is shown when clustering amount is higher than the number of visualization data points.",
+        "limit": 0
+    },
+    "properties.clustering.disabled": {
+        "value": "Clustering requires 2 Metrics and View by, without Segment by.",
+        "comment": "Tooltip message of the disabled toggle that enables clustering",
+        "limit": 0
+    },
+    "properties.canvas.totalLabels": {
+        "value": "Yhteensä labelit",
+        "comment": "",
+        "limit": 0
+    },
+    "properties.canvas.totalLabels.auto": {
+        "value": "auto (oletus)",
+        "comment": "",
+        "limit": 0
+    },
+    "properties.canvas.totalLabels.show": {
+        "value": "näytä",
+        "comment": "",
+        "limit": 0
+    },
+    "properties.canvas.totalLabels.hide": {
+        "value": "piilota",
+        "comment": "",
+        "limit": 0
+    },
+    "properties.canvas.dataPoints": {
+        "value": "Data pisteet",
+        "comment": "",
+        "limit": 0
+    },
+    "properties.canvas.dataPoints.auto": {
+        "value": "auto (oletus)",
+        "comment": "",
+        "limit": 0
+    },
+    "properties.canvas.dataPoints.show": {
+        "value": "näytä",
+        "comment": "",
+        "limit": 0
+    },
+    "properties.canvas.dataPoints.hide": {
+        "value": "piilota",
+        "comment": "",
+        "limit": 0
+    },
+    "properties.yaxis.title": {
+        "value": "Y-akseli",
+        "comment": "Vertical axis of a plot.",
+        "limit": 0
+    },
+    "properties.axis.labels": {
+        "value": "tunnisteet",
+        "comment": "",
+        "limit": 0
+    },
+    "properties.axis.rotation": {
+        "value": "Kierto",
+        "comment": "",
+        "limit": 0
+    },
+    "properties.axis.format": {
+        "value": "Muoto",
+        "comment": "",
+        "limit": 0
+    },
+    "properties.axis.format.inherit": {
+        "value": "peritty",
+        "comment": "Axis format option to inherit formatting from used measure.",
+        "limit": 0
+    },
+    "properties.axis.format.info.inherit._measure|insight": {
+        "value": "Muoto periytyy visualisoinnin ensimmäisestä toimenpiteestä.",
+        "comment": "Info text for axis format option.",
+        "limit": 0
+    },
+    "properties.axis.format.info.inherit._metric|insight": {
+        "value": "Muoto periytyy visualisoinnin ensimmäisestä mittarista.",
+        "comment": "Info text for axis format option.",
+        "limit": 0
+    },
+    "properties.axis.format.info.inherit._measure|report": {
+        "value": "The format is inherited from the first measure in the report.",
+        "comment": "",
+        "limit": 0,
+        "translate": false
+    },
+    "properties.axis.format.info.inherit._metric|report": {
+        "value": "The format is inherited from the first metric in the report.",
+        "comment": "",
+        "limit": 0,
+        "translate": false
+    },
+    "properties.axis.name": {
+        "value": "nimi",
+        "comment": "Name of the axis of a chart",
+        "limit": 0
+    },
+    "properties.axis.name.position": {
+        "value": "Sijainti",
+        "comment": "Position of the axis of a chart",
+        "limit": 0
+    },
+    "properties.axis.name.position.left": {
+        "value": "vasen",
+        "comment": "",
+        "limit": 0
+    },
+    "properties.axis.name.position.center": {
+        "value": "keskellä",
+        "comment": "Horizontal center (between left and right)",
+        "limit": 0
+    },
+    "properties.axis.name.position.right": {
+        "value": "oikea",
+        "comment": "",
+        "limit": 0
+    },
+    "properties.axis.name.position.top": {
+        "value": "ylhäällä",
+        "comment": "",
+        "limit": 0
+    },
+    "properties.axis.name.position.middle": {
+        "value": "keskellä",
+        "comment": "Vertical center (between top and bottom)",
+        "limit": 0
+    },
+    "properties.axis.name.position.bottom": {
+        "value": "Alin",
+        "comment": "",
+        "limit": 0
+    },
+    "properties.axis.min": {
+        "value": "Min",
+        "comment": "",
+        "limit": 0
+    },
+    "properties.axis.min.warning": {
+        "value": "Minimiarvo ei voi olla suurempi kuin maksimiarvo",
+        "comment": "",
+        "limit": 0
+    },
+    "properties.axis.max": {
+        "value": "Maksimi",
+        "comment": "",
+        "limit": 0
+    },
+    "properties.axis.max.warning": {
+        "value": "Maksimiarvo ei voi olla pienempi kuin minimiarvo",
+        "comment": "",
+        "limit": 0
+    },
+    "properties.xaxis.title": {
+        "value": "X-akseli",
+        "comment": "Horizontal axis of a plot.",
+        "limit": 0
+    },
+    "properties.axis.scale": {
+        "value": "asteikko",
+        "comment": "",
+        "limit": 0
+    },
+    "properties.axis.left": {
+        "value": "Vasen",
+        "comment": "",
+        "limit": 0
+    },
+    "properties.axis.right": {
+        "value": "Oikea",
+        "comment": "",
+        "limit": 0
+    },
+    "properties.axis.top": {
+        "value": "Ylin",
+        "comment": "",
+        "limit": 0
+    },
+    "properties.axis.bottom": {
+        "value": "Alin",
+        "comment": "",
+        "limit": 0
+    },
+    "properties.rotation.0": {
+        "value": "0°",
+        "comment": "",
+        "limit": 0
+    },
+    "properties.rotation.30": {
+        "value": "30°",
+        "comment": "",
+        "limit": 0
+    },
+    "properties.rotation.60": {
+        "value": "60°",
+        "comment": "",
+        "limit": 0
+    },
+    "properties.rotation.90": {
+        "value": "90°",
+        "comment": "",
+        "limit": 0
+    },
+    "properties.legend.position.up": {
+        "value": "ylhäällä",
+        "comment": "",
+        "limit": 0
+    },
+    "properties.legend.position.down": {
+        "value": "Alin",
+        "comment": "",
+        "limit": 0
+    },
+    "properties.legend.position.right": {
+        "value": "oikea",
+        "comment": "",
+        "limit": 0
+    },
+    "properties.legend.position.left": {
+        "value": "vasen",
+        "comment": "",
+        "limit": 0
+    },
+    "properties.orientation.title": {
+        "value": "Suunta",
+        "comment": "The title for the orientation configuration section",
+        "limit": 0
+    },
+    "properties.orientation.horizontal": {
+        "value": "Vaakasuora (oletus)",
+        "comment": "The chart orientation configuration",
+        "limit": 0
+    },
+    "properties.orientation.vertical": {
+        "value": "Pystysuora",
+        "comment": "The chart orientation configuration",
+        "limit": 0
+    },
+    "properties.points.title": {
+        "value": "Pisteet",
+        "comment": "Points on map",
+        "limit": 0
+    },
+    "properties.points.groupNearbyPoints": {
+        "value": "Ryhmittele lähellä olevat pisteet",
+        "comment": "",
+        "limit": 0
+    },
+    "properties.points.size.title": {
+        "value": "Pisteen koko",
+        "comment": "Size of a point on a map",
+        "limit": 0
+    },
+    "properties.points.size.extra_small": {
+        "value": "0,5x",
+        "comment": "Multiplicator of size of a point on map. Means 50% of size.",
+        "limit": 0
+    },
+    "properties.points.size.small": {
+        "value": "0,75x",
+        "comment": "Multiplicator of size of a point on map. Means 75% of size.",
+        "limit": 0
+    },
+    "properties.points.size.normal": {
+        "value": "normaali",
+        "comment": "Multiplicator of size of a point on map. Means 100% of size.",
+        "limit": 0
+    },
+    "properties.points.size.large": {
+        "value": "1,25x",
+        "comment": "Multiplicator of size of a point on map. Means 125% of size.",
+        "limit": 0
+    },
+    "properties.points.size.extra_large": {
+        "value": "1,5x",
+        "comment": "Multiplicator of size of a point on map. Means 150% of size.",
+        "limit": 0
+    },
+    "properties.points.size.min.title": {
+        "value": "Pienin",
+        "comment": "Smallest size of a point on a map",
+        "limit": 0
+    },
+    "properties.points.size.max.title": {
+        "value": "Suurin",
+        "comment": "Largest size of a point on a map",
+        "limit": 0
+    },
+    "properties.map.title": {
+        "value": "Kartta",
+        "comment": "Map configuration",
+        "limit": 0
+    },
+    "properties.viewport.area.title": {
+        "value": "Oletusnäkymä",
+        "comment": "Default viewport configuration",
+        "limit": 0
+    },
+    "properties.viewport.area.auto_default": {
+        "value": "Sisällytä kaikki tiedot",
+        "comment": "All data will be visibled on the map",
+        "limit": 0
+    },
+    "properties.viewport.area.continents": {
+        "value": "maanosat",
+        "comment": "",
+        "limit": 0
+    },
+    "properties.viewport.area.continent_af": {
+        "value": "Afrikka",
+        "comment": "Continent Africa",
+        "limit": 0
+    },
+    "properties.viewport.area.continent_as": {
+        "value": "Aasia",
+        "comment": "Continent Asia",
+        "limit": 0
+    },
+    "properties.viewport.area.continent_au": {
+        "value": "Australia",
+        "comment": "Continent Australia",
+        "limit": 0
+    },
+    "properties.viewport.area.continent_eu": {
+        "value": "Eurooppa",
+        "comment": "Continent Europe",
+        "limit": 0
+    },
+    "properties.viewport.area.continent_na": {
+        "value": "Amerikka (Pohjoinen)",
+        "comment": "Continent North America",
+        "limit": 0
+    },
+    "properties.viewport.area.continent_sa": {
+        "value": "Amerikka (Etelä)",
+        "comment": "Continent South America",
+        "limit": 0
+    },
+    "properties.viewport.area.world": {
+        "value": "Maailma",
+        "comment": "",
+        "limit": 0
+    },
+    "gs.color-dropdown.custom-color": {
+        "value": "Mukautettu väri",
+        "comment": "",
+        "limit": 0
+    },
+    "properties.colors.reset-colors": {
+        "value": "Nollaa värit",
+        "comment": "",
+        "limit": 0
+    },
+    "properties.colors": {
+        "value": "Värit",
+        "comment": "",
+        "limit": 0
+    },
+    "properties.colors.unsupported|insight": {
+        "value": "Tälle visualisoinnin konfiguraatiolle ei ole värejä",
+        "comment": "",
+        "limit": 0
+    },
+    "properties.colors.unsupported|report": {
+        "value": "There are no colors for this configuration of the report",
+        "comment": "",
+        "limit": 0,
+        "translate": false
+    },
+    "export_unsupported.colors|insight": {
+        "value": "Visualisointi ei ole yhteensopiva mukautettujen värien kanssa. Avaa visualisointi raporttina napsauttamalla Reset Colors (Palauta värit) kohdassa Configuration (Kokoonpano) —> Colors (Värit).",
+        "comment": "",
+        "limit": 0
+    },
+    "export_unsupported.colors|report": {
+        "value": "The report is not compatible with custom colors. Click Reset Colors in Configuration —> Colors.",
+        "comment": "",
+        "limit": 0,
+        "translate": false
+    },
+    "dashboard.bucket.measures_title.bullet._measure": {
+        "value": "Mittari",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.measures_title.bullet._metric": {
+        "value": "Metriikka",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.secondary_measures_title.bullet._measure": {
+        "value": "Mittari",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.secondary_measures_title.bullet._metric": {
+        "value": "Metriikka",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.tertiary_measures_title.bullet._measure": {
+        "value": "Mittari",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.tertiary_measures_title.bullet._metric": {
+        "value": "Metriikka",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.measures_subtitle.bullet": {
+        "value": "Ensisijainen",
+        "comment": "Primary measure of a bullet chart.",
+        "limit": 0
+    },
+    "dashboard.bucket.secondary_measures_subtitle.bullet": {
+        "value": "Kohde",
+        "comment": "Target of a bullet chart.",
+        "limit": 0
+    },
+    "dashboard.bucket.tertiary_measures_subtitle.bullet": {
+        "value": "Vertaileva",
+        "comment": "Comparative measures of a bullet chart",
+        "limit": 0
+    },
+    "sorting.disabled.explanation.attribute|insight": {
+        "value": "Lajittelu ei ole mahdollista tässä visualisointikonfiguraatiossa.",
+        "comment": "Explains why sort button is disabled. Shown as tooltip",
+        "limit": 0
+    },
+    "sorting.disabled.explanation.attribute|report": {
+        "value": "Sorting is not possible for this report configuration.",
+        "comment": "Explains why sort button is disabled. Shown as tooltip",
+        "limit": 0,
+        "translate": false
+    },
+    "sorting.disabled.explanation.measure._measure|insight": {
+        "value": "Sinun on lisättävä vähintään yksi attribuutti visualisoinnin lajittelemiseksi. Voit myös säätää Mitat-osiossa olevien kohteiden sijaintia muuttaaksesi niiden sijoittelua visualisoinnissa.",
+        "comment": "Explains why sort button is disabled. Shown as tooltip",
+        "limit": 0
+    },
+    "sorting.disabled.explanation.measure._measure|report": {
+        "value": "You must add at least one attribute to sort the report. You can also adjust the position of items in the Measures section to change their position in the report.",
+        "comment": "Explains why sort button is disabled. Shown as tooltip",
+        "limit": 0,
+        "translate": false
+    },
+    "sorting.disabled.explanation.measure._metric|insight": {
+        "value": "Sinun on lisättävä vähintään yksi attribuutti visualisoinnin lajittelemiseksi. Voit myös säätää kohteiden sijaintia Mittaustiedot-osiossa muuttaaksesi niiden sijoittelua visualisoinnissa.",
+        "comment": "Explains why sort button is disabled. Shown as tooltip",
+        "limit": 0
+    },
+    "sorting.disabled.explanation.measure._metric|report": {
+        "value": "You must add at least one attribute to sort the report. You can also adjust the position of items in the Metrics section to change their position in the report.",
+        "comment": "Explains why sort button is disabled. Shown as tooltip",
+        "limit": 0,
+        "translate": false
+    },
+    "properties.metrics.title._measure": {
+        "value": "Toimenpiteet",
+        "comment": "",
+        "limit": 0
+    },
+    "properties.metrics.title._metric": {
+        "value": "Mittarit",
+        "comment": "",
+        "limit": 0
+    },
+    "properties.metrics.position": {
+        "value": "Sijainti",
+        "comment": "",
+        "limit": 0
+    },
+    "properties.metrics.position.columns": {
+        "value": "sarakkeet (oletus)",
+        "comment": "",
+        "limit": 0
+    },
+    "properties.metrics.position.rows": {
+        "value": "rivit",
+        "comment": "",
+        "limit": 0
+    },
+    "properties.column.headers.title": {
+        "value": "Sarakeotsikot",
+        "comment": "",
+        "limit": 0
+    },
+    "properties.column.headers.position": {
+        "value": "Sijainti",
+        "comment": "",
+        "limit": 0
+    },
+    "properties.column.headers.position.top": {
+        "value": "Ylin (oletus)",
+        "comment": "",
+        "limit": 0
+    },
+    "properties.column.headers.position.left": {
+        "value": "vasen",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.table.subtitle.columns": {
+        "value": "sarakkeissa",
+        "comment": "",
+        "limit": 0
+    },
+    "dashboard.bucket.table.subtitle.rows": {
+        "value": "riveissä",
+        "comment": "",
+        "limit": 0
+    },
+    "properties.interactions.title": {
+        "value": "Vuorovaikutukset",
+        "comment": "The title for the interactions configuration section",
+        "limit": 0
+    },
+    "properties.advanced.title": {
+        "value": "Edistyneet mukautukset",
+        "comment": "The title for the advanced configuration section",
+        "limit": 0
+    },
+    "properties.advanced.chartConfigOverride.noValueLabel": {
+        "value": "Ei vielä mukautuksia.",
+        "comment": "Text show when user did not define any customization yet.",
+        "limit": 0
+    },
+    "properties.advanced.chartConfigOverride.link": {
+        "value": "Lue lisää",
+        "comment": "Text of link that leads to feature documentation.",
+        "limit": 0
+    },
+    "properties.advanced.chartConfigOverride.editorButton": {
+        "value": "Avaa editori",
+        "comment": "Text of button that opens editor of configuration.",
+        "limit": 0
+    },
+    "properties.advanced.chartConfigOverride.title": {
+        "value": "Edistynyt mukautus",
+        "comment": "Text of dialog that defines advanced customization of visualization.",
+        "limit": 0
+    },
+    "properties.advanced.chartConfigOverride.snippets.header": {
+        "value": "Katkelmat",
+        "comment": "The header of list that contains snippets (recipes) of various charts configurations.",
+        "limit": 0
+    },
+    "properties.advanced.chartConfigOverride.button.apply": {
+        "value": "Sovella",
+        "comment": "The label of button in dialog that applies the dialog value.",
+        "limit": 0
+    },
+    "properties.advanced.chartConfigOverride.button.cancel": {
+        "value": "Peruuta",
+        "comment": "The label of button in dialog that closes the dialog.",
+        "limit": 0
+    },
+    "properties.interactions.drillDown": {
+        "value": "Poraa alas",
+        "comment": "The text for the drill down checkbox",
+        "limit": 0
+    },
+    "properties.interactions.alerts": {
+        "value": "Hälytys",
+        "comment": "Label of the checkbox that enables/disables alerts configuration for particular visualization.",
+        "limit": 0
+    },
+    "properties.interactions.alerts.tooltip": {
+        "value": "Salli käyttäjien luoda ilmoituksia tälle visualisoinnille dashboardeilla.",
+        "comment": "Tooltip for the checkbox that enables/disables alerts configuration for particular visualization.",
+        "limit": 0
+    },
+    "properties.interactions.scheduledExports": {
+        "value": "Aikataulutetut viennit",
+        "comment": "Label of the checkbox that enables/disables scheduled exports configuration for particular visualization.",
+        "limit": 0
+    },
+    "properties.interactions.scheduledExports.tooltip": {
+        "value": "Salli käyttäjien luoda ajoitetut viennit tälle visualisoinnille dashboardeissa.",
+        "comment": "Tooltip for the checkbox that enables/disables scheduled exports configuration for particular visualization.",
+        "limit": 0
+    },
+    "properties.comparison.title": {
+        "value": "Vertailu",
+        "comment": "The title of comparison section",
+        "limit": 0
+    },
+    "properties.comparison.calculationType.title": {
+        "value": "Laskett",
+        "comment": "The label of calculation type dropdown",
+        "limit": 0
+    },
+    "properties.comparison.calculationType.as.change": {
+        "value": "Muutos",
+        "comment": "The title of the dropdown option that specifies the arithmetic operation to calculate the change between two values.",
+        "limit": 0
+    },
+    "properties.comparison.calculationType.as.ratio": {
+        "value": "Suhde",
+        "comment": "The title of the dropdown option that specifies the arithmetic operation to calculate the ratio between two values.",
+        "limit": 0
+    },
+    "properties.comparison.calculationType.as.difference": {
+        "value": "Erotus",
+        "comment": "The title of the dropdown option that specifies the arithmetic operation to calculate the difference between two values.",
+        "limit": 0
+    },
+    "properties.comparison.calculationType.as.changeDifference": {
+        "value": "Muutos (ero)",
+        "comment": "The title of the dropdown option that specifies the arithmetic operation to calculate the change and difference between two values.",
+        "limit": 0
+    },
+    "properties.comparison.calculationType.as.change.tooltip.useIn._metric": {
+        "value": "Laskee ensisijaisen ja toissijaisen metriikan arvojen suhteellisen muutoksen.",
+        "comment": "The content describes the pertinent scenarios for the change calculation.",
+        "limit": 0
+    },
+    "properties.comparison.calculationType.as.change.tooltip.useIn._measure": {
+        "value": "Laskee ensisijaisen ja toissijaisen mittarin arvojen suhteellisen muutoksen.",
+        "comment": "The content describes the pertinent scenarios for the change calculation.",
+        "limit": 0
+    },
+    "properties.comparison.calculationType.as.ratio.tooltip.useIn._metric": {
+        "value": "Määrittää ensisijaisen metriikan arvon osuuden toissijaisesta metriikasta.",
+        "comment": "The content describes the pertinent scenarios for the ratio calculation.",
+        "limit": 0
+    },
+    "properties.comparison.calculationType.as.ratio.tooltip.useIn._measure": {
+        "value": "Määrittää ensisijaisen mittarin arvon osuuden toissijaisesta mittarista.",
+        "comment": "The content describes the pertinent scenarios for the ratio calculation.",
+        "limit": 0
+    },
+    "properties.comparison.calculationType.as.difference.tooltip.useIn._metric": {
+        "value": "Laskee ensisijaisen ja toissijaisen metriikan arvojen absoluuttisen eron.",
+        "comment": "The content describes the pertinent scenarios for the difference calculation.",
+        "limit": 0
+    },
+    "properties.comparison.calculationType.as.difference.tooltip.useIn._measure": {
+        "value": "Laskee ensisijaisen ja toissijaisen mittarin arvojen absoluuttisen eron.",
+        "comment": "The content describes the pertinent scenarios for the difference calculation.",
+        "limit": 0
+    },
+    "properties.comparison.calculationType.as.changeDifference.tooltip.useIn._metric": {
+        "value": "Laskee sekä ensisijaisen että toissijaisen metriikan arvojen suhteellisen muutoksen että absoluuttisen eron.",
+        "comment": "The content describes the pertinent scenarios for the change (difference) calculation.",
+        "limit": 0
+    },
+    "properties.comparison.calculationType.as.changeDifference.tooltip.useIn._measure": {
+        "value": "Laskee sekä ensisijaisen että toissijaisen mittarin arvojen suhteellisen muutoksen että absoluuttisen eron.",
+        "comment": "The content describes the pertinent scenarios for the change (difference) calculation.",
+        "limit": 0
+    },
+    "properties.comparison.calculationType.tooltip.formula.section": {
+        "value": "Kaava",
+        "comment": "The title of the section that describes the formula for the calculation",
+        "limit": 0
+    },
+    "properties.comparison.calculationType.tooltip.formulaChange.section": {
+        "value": "Kaava (suhteellinen muutos)",
+        "comment": "The title of the section that describes the formula for the change calculation",
+        "limit": 0
+    },
+    "properties.comparison.calculationType.tooltip.formulaDifference.section": {
+        "value": "Kaava (absoluuttinen ero)",
+        "comment": "The title of the section that describes the formula for the difference calculation",
+        "limit": 0
+    },
+    "properties.comparison.calculationType.as.change.tooltip.formula": {
+        "value": "(Ensisijainen - Toissijainen) / Toissijainen",
+        "comment": "The content describes the formula of the change calculation.",
+        "limit": 0
+    },
+    "properties.comparison.calculationType.as.ratio.tooltip.formula": {
+        "value": "Ensisijainen / Toissijainen",
+        "comment": "The content describes the formula of the ratio calculation.",
+        "limit": 0
+    },
+    "properties.comparison.calculationType.as.difference.tooltip.formula": {
+        "value": "Ensisijainen - Toissijainen",
+        "comment": "The content describes the formula of the difference calculation.",
+        "limit": 0
+    },
+    "properties.comparison.calculationType.tooltip.example.section": {
+        "value": "Esimerkki",
+        "comment": "The title of the section that provides an example for the calculation",
+        "limit": 0
+    },
+    "properties.comparison.calculationType.as.change.tooltip.example": {
+        "value": "Vuoden myyntimuutos = (tämän vuoden myynti - viime vuoden myynti) / viime vuoden myynti",
+        "comment": "The example illustrating the change calculation.",
+        "limit": 0
+    },
+    "properties.comparison.calculationType.as.ratio.tooltip.example": {
+        "value": "Nykyinen myynti verrattuna kiintiöön = nykyinen myynti / kiintiö",
+        "comment": "The example illustrating the ratio calculation.",
+        "limit": 0
+    },
+    "properties.comparison.calculationType.as.difference.tooltip.example": {
+        "value": "Vuoden myyntiero = tämän vuoden myynti - viime vuoden myynti",
+        "comment": "The example illustrating the difference calculation.",
+        "limit": 0
+    },
+    "properties.comparison.calculationType.as.changeDifference.tooltip.example": {
+        "value": "Vuoden myyntimuutos = [(tämän vuoden myynti - viime vuoden myynti) / viime vuoden myynti] JA [tämän vuoden myynti - viime vuoden myynti]",
+        "comment": "The example illustrating the change (difference) calculation.",
+        "limit": 0
+    },
+    "properties.comparison.measureNumber.format.preset.inherit": {
+        "value": "Peri",
+        "comment": "An item in list of formatting presets. Means: use inherited measure format",
+        "limit": 0
+    },
+    "properties.comparison.measureNumber.format.preset.rounded": {
+        "value": "Pyöristetty",
+        "comment": "An item in list of formatting presets. Whole number without decimal numbers.",
+        "limit": 0
+    },
+    "properties.comparison.measureNumber.format.preset.decimal1": {
+        "value": "Desimaali (1)",
+        "comment": "An item in list of formatting presets. Decimal number measure format with one decimal number.",
+        "limit": 0
+    },
+    "properties.comparison.measureNumber.format.preset.decimal2": {
+        "value": "Desimaali (2)",
+        "comment": "An item in list of formatting presets. Decimal number measure format with two decimal numbers.",
+        "limit": 0
+    },
+    "properties.comparison.measureNumber.format.preset.percentRounded": {
+        "value": "Prosentti (pyöristetty)",
+        "comment": "An item in list of formatting presets. Whole number without decimal numbers and with % sign at the end.",
+        "limit": 0
+    },
+    "properties.comparison.measureNumber.format.preset.percent1": {
+        "value": "Prosentti (1)",
+        "comment": "An item in list of formatting presets. Decimal number with one decimal number and % sign at the end.",
+        "limit": 0
+    },
+    "properties.comparison.measureNumber.format.preset.percent2": {
+        "value": "Prosentti (2)",
+        "comment": "An item in list of formatting presets. Decimal number with two decimal numbers and % sign at the end.",
+        "limit": 0
+    },
+    "properties.comparison.measureNumber.format.template.rounded": {
+        "value": "Pyöristetty",
+        "comment": "An item in list of formatting templates. Whole number without decimal numbers.",
+        "limit": 0
+    },
+    "properties.comparison.measureNumber.format.template.decimal1": {
+        "value": "Desimaali (1)",
+        "comment": "An item in list of formatting templates. Decimal number measure format with one decimal number.",
+        "limit": 0
+    },
+    "properties.comparison.measureNumber.format.template.decimal2": {
+        "value": "Desimaali (2)",
+        "comment": "An item in list of formatting templates. Decimal number measure format with two decimal numbers.",
+        "limit": 0
+    },
+    "properties.comparison.measureNumber.format.template.percentRounded": {
+        "value": "Prosentti (pyöristetty)",
+        "comment": "An item in list of formatting templates. Whole number without decimal numbers and with % sign at the end.",
+        "limit": 0
+    },
+    "properties.comparison.measureNumber.format.template.percent1": {
+        "value": "Prosentti (1)",
+        "comment": "An item in list of formatting templates. Decimal number with one decimal number and % sign at the end.",
+        "limit": 0
+    },
+    "properties.comparison.measureNumber.format.template.percent2": {
+        "value": "Prosentti (2)",
+        "comment": "An item in list of formatting templates. Decimal number with two decimal numbers and % sign at the end.",
+        "limit": 0
+    },
+    "properties.comparison.measureNumber.format.template.currency": {
+        "value": "Valuutta",
+        "comment": "An item in list of formatting templates. Number with currency sign.",
+        "limit": 0
+    },
+    "properties.comparison.measureNumber.format.template.currencyShortened": {
+        "value": "Lyhennetty valuutta",
+        "comment": "An item in list of formatting templates. Number with currency sign shortened with K, M, B and T characters.",
+        "limit": 0
+    },
+    "properties.comparison.measureNumber.format.template.largeNumbersShortened": {
+        "value": "Lyhennetyt suuret numerot",
+        "comment": "An item in list of formatting templates. Number shortened with K, M, B and T characters.",
+        "limit": 0
+    },
+    "properties.comparison.measureNumber.format.template.largeNumbersShortenedWithColors": {
+        "value": "Värikoodatut lyhennetyt suuret numerot",
+        "comment": "An item in list of formatting templates. Colored number shortened with K, M, B and T characters.",
+        "limit": 0
+    },
+    "properties.comparison.measureNumber.format.template.negativeNumbersRed": {
+        "value": "Negatiiviset numerot punaisella",
+        "comment": "An item in list of formatting templates. Number is formatted in red color if negative.",
+        "limit": 0
+    },
+    "properties.comparison.measureNumber.format.template.financial": {
+        "value": "Taloudellinen",
+        "comment": "An item in list of formatting templates. Number is in brackets if negative.",
+        "limit": 0
+    },
+    "properties.comparison.measureNumber.format.template.decimalWithoutThousandsSeparator": {
+        "value": "Desimaali (2) ilman tuhaterotinta",
+        "comment": "An item in list of formatting templates.",
+        "limit": 0
+    },
+    "properties.comparison.measureNumber.format.template.conditionalColors": {
+        "value": "Ehdolliset värit",
+        "comment": "An item in list of formatting templates. Numbers is formatted in different colors based on its value.",
+        "limit": 0
+    },
+    "properties.comparison.measureNumber.format.template.trendSymbols": {
+        "value": "Trendisymbolit",
+        "comment": "An item in list of formatting templates. Numbers is formatted in different colors prefixed with arrow symbol based on its value.",
+        "limit": 0
+    },
+    "properties.comparison.measureNumber.format.template.timeFromSeconds": {
+        "value": "Aika (sekunneista)",
+        "comment": "An item in list of formatting templates. Seconds are formatted properly in hours, minutes and seconds.",
+        "limit": 0
+    },
+    "properties.comparison.measureNumber.format.template.zeroInsteadOfNull": {
+        "value": "Nolla tyhjän arvon sijaan",
+        "comment": "An item in list of formatting templates. Null value is replaced with 0.",
+        "limit": 0
+    },
+    "properties.comparison.valueSubSection.title": {
+        "value": "Arvo",
+        "comment": "The label of comparison value sub section.",
+        "limit": 0
+    },
+    "properties.comparison.format.title": {
+        "value": "Muoto",
+        "comment": "The label of comparison format control.",
+        "limit": 0
+    },
+    "properties.comparison.subFormat.title": {
+        "value": "(Muoto)",
+        "comment": "The label of comparison sub format control.",
+        "limit": 0
+    },
+    "properties.comparison.indicator.title": {
+        "value": "Indikaattori",
+        "comment": "The label of comparison indicator sub section",
+        "limit": 0
+    },
+    "properties.comparison.indicator.arrow.title": {
+        "value": "Nuoli",
+        "comment": "The label of the checkbox that controls whether to use the arrow indicator or not.",
+        "limit": 0
+    },
+    "properties.comparison.indicator.colorConfig.title": {
+        "value": "Väri",
+        "comment": "The label of the checkbox that controls whether to use the color or not.",
+        "limit": 0
+    },
+    "properties.comparison.indicator.colorConfig.equals": {
+        "value": "Ensisijainen = Toissijainen",
+        "comment": "The label of the color item will be set when the primary value is equal to the secondary value.",
+        "limit": 0
+    },
+    "properties.comparison.indicator.colorConfig.positive": {
+        "value": "Ensisijainen > Toissijainen",
+        "comment": "The label of the color item will be set when the primary value is greater than the secondary value.",
+        "limit": 0
+    },
+    "properties.comparison.indicator.colorConfig.negative": {
+        "value": "Ensisijainen < Toissijainen",
+        "comment": "The label of the color item will be set when the primary value is less than the secondary value.",
+        "limit": 0
+    },
+    "properties.comparison.labelSubSection.title": {
+        "value": "Tunniste",
+        "comment": "The label of comparison label sub section.",
+        "limit": 0
+    },
+    "properties.comparison.labelSubSection.positionOnTop.disabled": {
+        "value": "Tunnisteet eivät sovellu arvon sijainnille Ylin.",
+        "comment": "Disable tooltip message when the comparison position is set to top.",
+        "limit": 0
+    },
+    "properties.comparison.labelSubSection.conditional.disabled": {
+        "value": "Ehdolliset tunnisteet eivät sovellu suhdelaskelmiin.",
+        "comment": "Disable tooltip message when the calculation is ratio.",
+        "limit": 0
+    },
+    "properties.comparison.labelName.title": {
+        "value": "Nimi",
+        "comment": "The label of name input control.",
+        "limit": 0
+    },
+    "properties.comparison.labelConditional.title": {
+        "value": "Ehdollinen",
+        "comment": "The label of conditional checkbox control.",
+        "limit": 0
+    },
+    "properties.comparison.labelPositive.title": {
+        "value": "Ensisijainen > Toissijainen",
+        "comment": "The label of the input control will be set when the primary value is greater than the secondary value.",
+        "limit": 0
+    },
+    "properties.comparison.labelNegative.title": {
+        "value": "Ensisijainen < Toissijainen",
+        "comment": "The label of the input control will be set when the primary value is less than the secondary value.",
+        "limit": 0
+    },
+    "properties.comparison.labelEquals.title": {
+        "value": "Ensisijainen = Toissijainen",
+        "comment": "The label of the input control will be set when the primary value is equal the secondary value.",
+        "limit": 0
+    },
+    "properties.comparison.position.title": {
+        "value": "Sijainti",
+        "comment": "The label of comparison position control.",
+        "limit": 0
+    },
+    "properties.comparison.position.top": {
+        "value": "ylhäällä",
+        "comment": "The title of dropdown option that specifies the position of comparison to be on top.",
+        "limit": 0
+    },
+    "properties.comparison.position.right": {
+        "value": "oikea",
+        "comment": "The title of dropdown option that specifies the position of comparison to be on right.",
+        "limit": 0
+    },
+    "properties.comparison.position.left": {
+        "value": "vasen",
+        "comment": "The title of dropdown option that specifies the position of comparison to be on left.",
+        "limit": 0
+    },
+    "visualizations.headline.tertiary.title": {
+        "value": "Verrattuna",
+        "comment": "Means comparison of two values - for example '100 (this week) VERSUS 10 (last week)'.",
+        "limit": 0
+    },
+    "gs.date.yesterday": {
+        "value": "Eilen",
+        "comment": "",
+        "limit": 0
+    },
+    "notifications.panel.button.label": {
+        "value": "Ilmoitukset",
+        "comment": "A global notifications button label in the main menu",
+        "limit": 0
+    },
+    "notifications.panel.notifications.list.label": {
+        "value": "Ilmoitukset",
+        "comment": "",
+        "limit": 0
+    },
+    "notifications.panel.tab.unread": {
+        "value": "Lukematon ({count})",
+        "comment": "",
+        "limit": 0
+    },
+    "notifications.panel.tab.all": {
+        "value": "Kaikki",
+        "comment": "",
+        "limit": 0
+    },
+    "notifications.panel.markAllAsRead": {
+        "value": "Merkitse kaikki luetuksi",
+        "comment": "",
+        "limit": 0
+    },
+    "notifications.panel.error.loading": {
+        "value": "Virhe ilmoitusten lataamisessa",
+        "comment": "",
+        "limit": 0
+    },
+    "notifications.panel.empty.all": {
+        "value": "Ei ilmoituksia",
+        "comment": "",
+        "limit": 0
+    },
+    "notifications.panel.empty.unread": {
+        "value": "Ei lukemattomia ilmoituksia",
+        "comment": "",
+        "limit": 0
+    },
+    "notifications.panel.unsupported.notification.type": {
+        "value": "Ilmoitustyyppiä ei tueta",
+        "comment": "",
+        "limit": 0
+    },
+    "notifications.panel.markAsRead": {
+        "value": "Merkitse luetuksi",
+        "comment": "",
+        "limit": 0
+    },
+    "notifications.panel.alert.notification.type.label": {
+        "value": "Hälytysilmoitus",
+        "comment": "",
+        "limit": 0
+    },
+    "notifications.filters.buttonLabel": {
+        "value": "Näytä suodattimet",
+        "comment": "",
+        "limit": 0
+    },
+    "notifications.filters.dialog.title": {
+        "value": "Käytetyt suodattimet",
+        "comment": "",
+        "limit": 0
+    },
+    "notifications.filters.dialog.dateRange": {
+        "value": "Ajanjakso",
+        "comment": "",
+        "limit": 0
+    },
+    "notifications.panel.triggers.title": {
+        "value": "kohteelle {triggeredCount}/{totalCount}items",
+        "comment": "",
+        "limit": 0
+    },
+    "notifications.panel.triggers.dialog.newValue": {
+        "value": "Uusi arvo",
+        "comment": "",
+        "limit": 0
+    },
+    "close": {
+        "value": "Sulje",
+        "comment": "Label of a button for closing a dialog window",
+        "limit": 0
+    },
+    "notifications.panel.triggers.dialog.title": {
+        "value": "Laukaistu kohteelle",
+        "comment": "",
+        "limit": 0
+    },
+    "notifications.panel.error.learnMore": {
+        "value": "Lue lisää",
+        "comment": "",
+        "limit": 0
+    },
+    "notifications.panel.error.traceId": {
+        "value": "Jäljitystunnus",
+        "comment": "",
+        "limit": 0
+    },
+    "notifications.panel.error.message": {
+        "value": "Hälytystä ei voitu käsitellä.",
+        "comment": "",
+        "limit": 0
+    }
+}
