@@ -1,0 +1,3551 @@
+{
+    "empty_value": {
+        "value": "lege waarde",
+        "comment": "",
+        "limit": 0
+    },
+    "gs.date.at": {
+        "value": "bij",
+        "comment": "",
+        "limit": 0
+    },
+    "gs.header.help": {
+        "value": "Help",
+        "comment": "",
+        "limit": 0
+    },
+    "gs.header.help.label": {
+        "value": "Help links",
+        "comment": "",
+        "limit": 0
+    },
+    "gs.header.search": {
+        "value": "Zoeken",
+        "comment": "A global semantic search button label in the main menu",
+        "limit": 0
+    },
+    "gs.header.logo.title.accessibility": {
+        "value": "Toepassingslogo",
+        "comment": "",
+        "limit": 0
+    },
+    "gs.header.href.accessibility": {
+        "value": "Ga naar de startpagina",
+        "comment": "",
+        "limit": 0
+    },
+    "gs.header.accessibility.label": {
+        "value": "Globale applicatieheader",
+        "comment": "",
+        "limit": 0
+    },
+    "gs.header.menu.accessibility.label": {
+        "value": "Globale navigatie",
+        "comment": "",
+        "limit": 0
+    },
+    "gs.header.notifications": {
+        "value": "Meldingen",
+        "comment": "A global notifications button label in the main menu",
+        "limit": 0
+    },
+    "gs.header.logout": {
+        "value": "Afmelden",
+        "comment": "",
+        "limit": 0
+    },
+    "gs.header.account.title": {
+        "value": "Account",
+        "comment": "",
+        "limit": 0
+    },
+    "gs.list.all": {
+        "value": "Alle",
+        "comment": "",
+        "limit": 0
+    },
+    "gs.list.except": {
+        "value": "behalve",
+        "comment": "",
+        "limit": 0
+    },
+    "gs.list.is": {
+        "value": "is",
+        "comment": "",
+        "limit": 0
+    },
+    "gs.list.search.placeholder": {
+        "value": "Bezig met zoeken…",
+        "comment": "Use '…' as one character, not 3 dots ('...').",
+        "limit": 0
+    },
+    "gs.list.acessibility.search.label": {
+        "value": "Waarden van eigenschappen zoeken",
+        "comment": "",
+        "limit": 0
+    },
+    "gs.list.notAvailableAbbreviation": {
+        "value": "Nvt",
+        "comment": "Stands for 'Not Available",
+        "limit": 0
+    },
+    "gs.list.searchResults": {
+        "value": "zoekresultaten",
+        "comment": "",
+        "limit": 0
+    },
+    "gs.visualizationsList.loading": {
+        "value": "Wordt geladen…",
+        "comment": "Use '…' as one character, not 3 dots ('...').",
+        "limit": 0
+    },
+    "gs.color-picker.inputPlaceholder": {
+        "value": "#color",
+        "comment": "Character '#' means user should input color code as hexadecimal value, e.g. #C0D6E4",
+        "limit": 0
+    },
+    "gs.color-picker.currentColor": {
+        "value": "huidig",
+        "comment": "",
+        "limit": 0
+    },
+    "gs.color-picker.newColor": {
+        "value": "nieuw",
+        "comment": "",
+        "limit": 0
+    },
+    "gs.color-picker.cancelButton": {
+        "value": "Annuleren",
+        "comment": "",
+        "limit": 0
+    },
+    "gs.color-picker.okButton": {
+        "value": "OK",
+        "comment": "",
+        "limit": 0
+    },
+    "gs.color-picker.hex": {
+        "value": "hex",
+        "comment": "label dat aangeeft dat de gebruiker een hexadecimale kleurwaarde moet invoeren, bijvoorbeeld #C0D6E4",
+        "limit": 0
+    },
+    "gs.noData.noMatchingData": {
+        "value": "Geen overeenkomstige gegevens",
+        "comment": "",
+        "limit": 0
+    },
+    "gs.noData.noDataAvailable": {
+        "value": "Geen overeenkomstige gegevens",
+        "comment": "",
+        "limit": 0
+    },
+    "geochart.scroll.zoom.blocker": {
+        "value": "Gebruik {button} + scroll om in te zoomen op de kaart",
+        "comment": "This message will appear when map zooming on GeoChart is disabled and available only, while the button is pressed.",
+        "limit": 0
+    },
+    "geochart.touch.pan.blocker": {
+        "value": "Gebruik twee vingers om de kaart te verplaatsen",
+        "comment": "This message will appear when moving map on GeoChart is disabled by one finger and available only with two.",
+        "limit": 0
+    },
+    "visualizations.of": {
+        "value": "{page} van {pagesCount}",
+        "comment": "Don't translate placeholders '{page}', '{pagesCount}'",
+        "limit": 0
+    },
+    "visualizations.totals.dropdown.title.sum": {
+        "value": "Som",
+        "comment": "Total of type 'Sum'. Showed in menu before adding to table.",
+        "limit": 0
+    },
+    "visualizations.totals.dropdown.title.avg": {
+        "value": "Gem",
+        "comment": "Total of type 'Avg'. Showed in menu before adding to table.",
+        "limit": 0
+    },
+    "visualizations.totals.dropdown.title.min": {
+        "value": "Min",
+        "comment": "Total of type 'Min'. Showed in menu before adding to table.",
+        "limit": 0
+    },
+    "visualizations.totals.dropdown.title.max": {
+        "value": "Max",
+        "comment": "Total of type 'Max'. Showed in menu before adding to table.",
+        "limit": 0
+    },
+    "visualizations.totals.dropdown.title.nat": {
+        "value": "Groot (Totaal)",
+        "comment": "Total of type 'Rollup' where 'Total' is hint and synonym. Showed in menu before adding to table.",
+        "limit": 0
+    },
+    "visualizations.totals.dropdown.tooltip.nat.disabled.mvf._measure|insight": {
+        "value": "Oprolaggregatie (totaal) is niet beschikbaar bij het filteren van de visualisatie op maatregelwaarde. Om Oprol(Totaal) te gebruiken, verwijdert u alle maatregelwaardefilters uit de filterbalk.",
+        "comment": "The tooltip that is shown in pivot's table totals menu when rollup (native) total is disabled because measure value filters are configured for the pivot.",
+        "limit": 0
+    },
+    "visualizations.totals.dropdown.tooltip.nat.disabled.mvf._metric|insight": {
+        "value": "Oprolaggregatie (totaal) is niet beschikbaar als u de visualisatie filtert op metrische waarde. Om Oprol(Totaal) te gebruiken, verwijdert u alle metrische waardefilters uit de filterbalk.",
+        "comment": "The tooltip that is shown in pivot's table totals menu when rollup (native) total is disabled because metric value filters are configured for the pivot.",
+        "limit": 0
+    },
+    "visualizations.totals.dropdown.tooltip.nat.disabled.mvf._measure|report": {
+        "value": "Rollup (Total) aggregation is not available when filtering the report by measure value. To use Rollup (Total), remove all measure value filters from the filter bar.",
+        "comment": "The tooltip that is shown in pivot's table totals menu when rollup (native) total is disabled because measure value filters are configured for the pivot.",
+        "limit": 0,
+        "translate": false
+    },
+    "visualizations.totals.dropdown.tooltip.nat.disabled.mvf._metric|report": {
+        "value": "Rollup (Total) aggregation is not available when filtering the report by metric value. To use Rollup (Total), remove all metric value filters from the filter bar.",
+        "comment": "The tooltip that is shown in pivot's table totals menu when rollup (native) total is disabled because metric value filters are configured for the pivot.",
+        "limit": 0,
+        "translate": false
+    },
+    "visualizations.totals.dropdown.tooltip.nat.disabled.ranking|insight": {
+        "value": "Oprolaggregatie (totaal) is niet beschikbaar als u de visualisatie filtert op ranking filter. Als u Oprol(Totaal) wilt gebruiken, verwijdert u de rangschikkingsfilter uit de filterbalk.",
+        "comment": "The tooltip that is shown in pivot's table totals menu when rollup (native) total is disabled because ranking filters are configured for the pivot.",
+        "limit": 0
+    },
+    "visualizations.totals.dropdown.tooltip.nat.disabled.ranking|report": {
+        "value": "Rollup (Total) aggregation is not available when filtering the report by ranking filter. To use Rollup (Total), remove ranking filter from the filter bar.",
+        "comment": "The tooltip that is shown in pivot's table totals menu when rollup (native) total is disabled because ranking filters are configured for the pivot.",
+        "limit": 0,
+        "translate": false
+    },
+    "visualizations.totals.dropdown.title.med": {
+        "value": "Mediaan",
+        "comment": "Total of type 'Median'. Showed in menu before adding to table.",
+        "limit": 0
+    },
+    "visualizations.headline.tertiary.title": {
+        "value": "Versus",
+        "comment": "Means comparison of two values - for example '100 (this week) VERSUS 10 (last week)'.",
+        "limit": 0
+    },
+    "visualizations.headline.comparison.title.change": {
+        "value": "Wijzigen",
+        "comment": "The label of the dropdown option that specifies the arithmetic operation to calculate the change between two values.",
+        "limit": 0
+    },
+    "visualizations.headline.comparison.title.change.positive": {
+        "value": "Hoger",
+        "comment": "The label will be used when the arithmetic operation is `change` and primary value is greater then secondary value.",
+        "limit": 0
+    },
+    "visualizations.headline.comparison.title.change.negative": {
+        "value": "Lager",
+        "comment": "The label will be used when the arithmetic operation is `change` and primary value is less then secondary value.",
+        "limit": 0
+    },
+    "visualizations.headline.comparison.title.change.equals": {
+        "value": "Geen verandering",
+        "comment": "The label will be used when the arithmetic operation is `change` and primary value is equals secondary value.",
+        "limit": 0
+    },
+    "visualizations.headline.comparison.title.ratio": {
+        "value": "van",
+        "comment": "The label of the dropdown option that specifies the arithmetic operation to calculate the the ratio between two values.",
+        "limit": 0
+    },
+    "visualizations.headline.comparison.title.difference": {
+        "value": "Verschil",
+        "comment": "The label of the dropdown option that specifies the arithmetic operation to calculate the difference between two values.",
+        "limit": 0
+    },
+    "visualizations.headline.comparison.title.difference.positive": {
+        "value": "Hoger",
+        "comment": "The label will be used when the arithmetic operation is `difference` and primary value is greater then secondary value.",
+        "limit": 0
+    },
+    "visualizations.headline.comparison.title.difference.negative": {
+        "value": "Lager",
+        "comment": "The label will be used when the arithmetic operation is `difference` and primary value is less then secondary value.",
+        "limit": 0
+    },
+    "visualizations.headline.comparison.title.difference.equals": {
+        "value": "Geen verschil",
+        "comment": "The label will be used when the arithmetic operation is `difference` and primary value is equals secondary value.",
+        "limit": 0
+    },
+    "visualization.numericValues.k": {
+        "value": "k",
+        "comment": "Character 'k' stands for metric prefix kilo (1.000).",
+        "limit": 0
+    },
+    "visualization.numericValues.m": {
+        "value": "M",
+        "comment": "Character 'M' stands for metric prefix mega (1.000.000).",
+        "limit": 0
+    },
+    "visualization.numericValues.g": {
+        "value": "G",
+        "comment": "Character 'G' stands for metric prefix giga (1.000.000.000).",
+        "limit": 0
+    },
+    "visualization.numericValues.t": {
+        "value": "T",
+        "comment": "Character 'T' stands for metric prefix tera (1.000.000.000.000).",
+        "limit": 0
+    },
+    "visualization.numericValues.p": {
+        "value": "P",
+        "comment": "Character 'P' stands for metric prefix peta (1.000.000.000.000.000).",
+        "limit": 0
+    },
+    "visualization.numericValues.e": {
+        "value": "E",
+        "comment": "Character 'E' stands for metric prefix exa (1.000.000.000.000.000.000).",
+        "limit": 0
+    },
+    "visualization.emptyValue": {
+        "value": "lege waarde",
+        "comment": "",
+        "limit": 0
+    },
+    "visualization.waterfall.total": {
+        "value": "Totaal",
+        "comment": "The default name for the waterfall total column",
+        "limit": 0
+    },
+    "visualization.cluster": {
+        "value": "Cluster",
+        "comment": "The default title for the cluster group",
+        "limit": 0
+    },
+    "visualization.ErrorMessageGeneric|insight": {
+        "value": "Sorry, we kunnen deze visualisatie niet tonen",
+        "comment": "",
+        "limit": 0
+    },
+    "visualization.ErrorMessageGeneric|report": {
+        "value": "Sorry, we can't display this report",
+        "comment": "",
+        "limit": 0,
+        "translate": false
+    },
+    "visualization.ErrorDescriptionGeneric": {
+        "value": "Neem contact op met uw beheerder.",
+        "comment": "",
+        "limit": 0
+    },
+    "visualization.ErrorMessageDataTooLarge": {
+        "value": "Te veel datapunten om weer te geven",
+        "comment": "",
+        "limit": 0
+    },
+    "visualization.ErrorDescriptionDataTooLarge": {
+        "value": "Probeer om filters toe te passen.",
+        "comment": "",
+        "limit": 0
+    },
+    "visualization.ErrorMessageNoData": {
+        "value": "Geen gegevens",
+        "comment": "",
+        "limit": 0
+    },
+    "visualization.ErrorDescriptionNoData": {
+        "value": "Geen gegevens voor uw filterselectie.",
+        "comment": "",
+        "limit": 0
+    },
+    "visualization.ErrorMessageKpi": {
+        "value": "Fout",
+        "comment": "",
+        "limit": 0
+    },
+    "visualization.ErrorMessageUnauthorized": {
+        "value": "Niet-geauthoriseerd",
+        "comment": "",
+        "limit": 0
+    },
+    "visualization.ErrorDescriptionUnauthorized|insight": {
+        "value": "Sorry, u hebt geen toegang tot deze visualisatie. Log in of vraag uw beheerder om u rechten te geven.",
+        "comment": "",
+        "limit": 0
+    },
+    "visualization.ErrorDescriptionUnauthorized|report": {
+        "value": "Sorry you don't have access to this report. Login or ask your administrator to grant you permissions.",
+        "comment": "",
+        "limit": 0,
+        "translate": false
+    },
+    "visualization.ErrorMessageNotFound|insight": {
+        "value": "Sorry, we kunnen deze visualisatie niet vinden",
+        "comment": "",
+        "limit": 0
+    },
+    "visualization.ErrorMessageNotFound|report": {
+        "value": "Sorry, we can't find this report",
+        "comment": "",
+        "limit": 0,
+        "translate": false
+    },
+    "visualization.ErrorDescriptionNotFound|insight": {
+        "value": "De visualisatie met deze URL bestaat niet.",
+        "comment": "",
+        "limit": 0
+    },
+    "visualization.ErrorDescriptionNotFound|report": {
+        "value": "The report with this URL does not exist.",
+        "comment": "",
+        "limit": 0,
+        "translate": false
+    },
+    "visualization.ErrorDescriptionMissingMapboxToken": {
+        "value": "U hebt een API-toegangstoken nodig voor de configuratie met de geografische kaart.",
+        "comment": "",
+        "limit": 0
+    },
+    "visualization.tooltip.resetZoom": {
+        "value": "Zoomen resetten",
+        "comment": "",
+        "limit": 0
+    },
+    "visualization.tooltip.interaction": {
+        "value": "Klik op grafiek om in te zoomen",
+        "comment": "",
+        "limit": 0
+    },
+    "visualization.tooltip.generic.interaction": {
+        "value": "Klik of zoom of filter",
+        "comment": "",
+        "limit": 0
+    },
+    "gs.filterLabel.all": {
+        "value": "Alle",
+        "comment": "",
+        "limit": 0
+    },
+    "gs.filterLabel.none": {
+        "value": "Geen",
+        "comment": "",
+        "limit": 0
+    },
+    "gs.filter.loading": {
+        "value": "Filter wordt ingelezen…",
+        "comment": "Use '…' as one character, not 3 dots ('...').",
+        "limit": 0
+    },
+    "gs.filter.error": {
+        "value": "Fout bij het laden van filter.",
+        "comment": "",
+        "limit": 0
+    },
+    "gs.filter.error.tooltip": {
+        "value": "Fout. Waarden kunnen niet worden geladen.",
+        "comment": "",
+        "limit": 0
+    },
+    "gs.list.clear": {
+        "value": "Wissen",
+        "comment": "",
+        "limit": 0
+    },
+    "gs.list.cancel": {
+        "value": "Annuleren",
+        "comment": "",
+        "limit": 0
+    },
+    "gs.list.apply": {
+        "value": "Toepassen",
+        "comment": "",
+        "limit": 0
+    },
+    "gs.list.only": {
+        "value": "Alleen",
+        "comment": "",
+        "limit": 0
+    },
+    "gs.list.selectAll": {
+        "value": "Selecteer alles",
+        "comment": "",
+        "limit": 0
+    },
+    "gs.list.limitExceeded": {
+        "value": "Sorry, u hebt de limiet ({limit}) overschreden.",
+        "comment": "Don't translate placeholder '{limit}'.",
+        "limit": 0
+    },
+    "gs.list.limitReached": {
+        "value": "U hebt de limiet van {limit} geselecteerde waarden overschreden.",
+        "comment": "Don't translate placeholder '{limit}'.",
+        "limit": 0
+    },
+    "gs.list.cannotSelectMoreValues": {
+        "value": "U kunt niet meer dan {limit} waarden selecteren.",
+        "comment": "Don't translate placeholder '{limit}'.",
+        "limit": 0
+    },
+    "gs.list.noItemsFound": {
+        "value": "Geen items gevonden.",
+        "comment": "",
+        "limit": 0
+    },
+    "gs.list.noResultsMatch": {
+        "value": "Geen overeenkomende resultaten",
+        "comment": "",
+        "limit": 0
+    },
+    "gs.list.error": {
+        "value": "Fout bij het uploaden van filterwaarden.",
+        "comment": "",
+        "limit": 0
+    },
+    "gs.header.upsellButtonText": {
+        "value": "Upgrade",
+        "comment": "",
+        "limit": 0
+    },
+    "gs.header.invite": {
+        "value": "Uitnodigen",
+        "comment": "",
+        "limit": 0
+    },
+    "gs.header.countdown.numberOfDaysLeft": {
+        "value": "Nog {number} dagen over",
+        "comment": "",
+        "limit": 0
+    },
+    "gs.header.countdown.numberOfMonthsLeft": {
+        "value": "Nog {number} maanden over",
+        "comment": "",
+        "limit": 0
+    },
+    "gs.header.countdown.oneMonthLeft": {
+        "value": "Nog 1 maand",
+        "comment": "",
+        "limit": 0
+    },
+    "gs.header.countdown.lastDay": {
+        "value": "Dit is uw laatste dag",
+        "comment": "",
+        "limit": 0
+    },
+    "measure.title.suffix.same_period_year_ago": {
+        "value": "ZP jaar geleden",
+        "comment": "",
+        "limit": 0
+    },
+    "measure.title.suffix.previous_period": {
+        "value": "periode geleden",
+        "comment": "",
+        "limit": 0
+    },
+    "visualizations.measure.arithmetic.sum.title": {
+        "value": "Som van {firstMeasureTitle} en {secondMeasureTitle}",
+        "comment": "Title of an arithmetic measure of type Sum. Don't translate placeholders '{firstMeasureTitle}', '{secondMeasureTitle}'.",
+        "limit": 0
+    },
+    "visualizations.measure.arithmetic.difference.title": {
+        "value": "Verschil van {firstMeasureTitle} en {secondMeasureTitle}",
+        "comment": "Title of an arithmetic measure of type Difference. Don't translate placeholders '{firstMeasureTitle}', '{secondMeasureTitle}'.",
+        "limit": 0
+    },
+    "visualizations.measure.arithmetic.multiplication.title": {
+        "value": "Product van {firstMeasureTitle} en {secondMeasureTitle}",
+        "comment": "Title of an arithmetic measure of type Product. Don't translate placeholders '{firstMeasureTitle}', '{secondMeasureTitle}'.",
+        "limit": 0
+    },
+    "visualizations.measure.arithmetic.ratio.title": {
+        "value": "Verhouding van {firstMeasureTitle} en {secondMeasureTitle}",
+        "comment": "Title of an arithmetic measure of type Ratio. Don't translate placeholders '{firstMeasureTitle}', '{secondMeasureTitle}'.",
+        "limit": 0
+    },
+    "visualizations.measure.arithmetic.change.title": {
+        "value": "Wijzigen van {secondMeasureTitle} naar {firstMeasureTitle}",
+        "comment": "Title of an arithmetic measure of type Change. Don't translate placeholders '{firstMeasureTitle}', '{secondMeasureTitle}'.",
+        "limit": 0
+    },
+    "visualizations.legend.text.top": {
+        "value": "Boven",
+        "comment": "",
+        "limit": 0
+    },
+    "visualizations.legend.text.bottom": {
+        "value": "Onder",
+        "comment": "",
+        "limit": 0
+    },
+    "visualizations.legend.text.left": {
+        "value": "Links",
+        "comment": "",
+        "limit": 0
+    },
+    "visualizations.legend.text.right": {
+        "value": "Rechts",
+        "comment": "",
+        "limit": 0
+    },
+    "visualizations.legend.text.colon": {
+        "value": ":",
+        "comment": "A colon character stands right after legend. eg: 'Left:'",
+        "limit": 0
+    },
+    "visualizations.legend.text.column": {
+        "value": "Kolom",
+        "comment": "column chart",
+        "limit": 0
+    },
+    "visualizations.legend.text.line": {
+        "value": "Lijn",
+        "comment": "line chart",
+        "limit": 0
+    },
+    "visualizations.legend.text.area": {
+        "value": "Gebied",
+        "comment": "area chart",
+        "limit": 0
+    },
+    "visualizations.legend.text.combo": {
+        "value": "{0} ({1})",
+        "comment": "Combination of chart type & y-axis position. eg: 'Legend settings: Column (Left)' where 'Column' is '{0}' and '(Left)' is '({1})'. You can switch order of placeholders '{0}' and '({1})' for right-to-left languages if makes more sense.",
+        "limit": 0
+    },
+    "visualizations.pagination.previous": {
+        "value": "Previous page",
+        "comment": "",
+        "limit": 0
+    },
+    "visualizations.pagination.next": {
+        "value": "Next page",
+        "comment": "",
+        "limit": 0
+    },
+    "visualizations.menu.aggregations": {
+        "value": "Aggregeer",
+        "comment": "Heading showed above menu listing possible aggregations (totals). Use imperative.",
+        "limit": 50
+    },
+    "visualizations.menu.aggregations.rows": {
+        "value": "Rijen",
+        "comment": "Heading showed above row attributes of the table you may apply one of aggregation (total) on.",
+        "limit": 50
+    },
+    "visualizations.menu.aggregations.columns": {
+        "value": "Kolommen",
+        "comment": "Heading showed above columns attributes of the table you may apply one of aggregation (total) on.",
+        "limit": 50
+    },
+    "visualizations.menu.aggregations.all-rows": {
+        "value": "van alle rijen",
+        "comment": "Menu option that adds row aggregation (grand total) to the table. Example: 'Sum of all rows'",
+        "limit": 50
+    },
+    "visualizations.menu.aggregations.all-columns": {
+        "value": "van alle kolommen",
+        "comment": "Menu option that adds column aggregation (grand total) to the table. Example: 'Sum of all columns'",
+        "limit": 50
+    },
+    "visualizations.menu.aggregations.within-attribute": {
+        "value": "binnen {attributeName}",
+        "comment": "Menu option that adds row aggregation (sub-total) for specific attribute to the table. Example: 'Sum within Attribute A'. Don't translate placeholder '{attributeName}'.",
+        "limit": 50
+    },
+    "apply": {
+        "value": "Toepassen",
+        "comment": "",
+        "limit": 0
+    },
+    "cancel": {
+        "value": "Annuleren",
+        "comment": "",
+        "limit": 0
+    },
+    "close": {
+        "value": "Sluiten",
+        "comment": "Button for closing the popup without triggering any action.",
+        "limit": 0
+    },
+    "save": {
+        "value": "Opslaan",
+        "comment": "Label of save button or visual element",
+        "limit": 0
+    },
+    "loading": {
+        "value": "Wordt geladen…",
+        "comment": "Use '…' as one character, not 3 dots ('...').",
+        "limit": 0
+    },
+    "filtering": {
+        "value": "Wordt gefilterd…",
+        "comment": "Use '…' as one character, not 3 dots ('...').",
+        "limit": 0
+    },
+    "dateFilterDropdown.title": {
+        "value": "Datumbereik",
+        "comment": "",
+        "limit": 0
+    },
+    "dateFilterDropdown.setDefault": {
+        "value": "Standaard datumfilter instellen voor{nbsp}kijkers:",
+        "comment": "Do not translate non-breakable space '{nbsp}'",
+        "limit": 0
+    },
+    "dateFilterDropdown.configuration": {
+        "value": "Configuratie",
+        "comment": "Configuration button label in date filter dropdown",
+        "limit": 0
+    },
+    "filters.thisMinute.title": {
+        "value": "Deze minuut",
+        "comment": "",
+        "limit": 0
+    },
+    "filters.lastMinute.title": {
+        "value": "Afgelopen minuut",
+        "comment": "",
+        "limit": 0
+    },
+    "filters.nextMinute.title": {
+        "value": "Volgende minuut",
+        "comment": "",
+        "limit": 0
+    },
+    "filters.thisHour.title": {
+        "value": "Dit uur",
+        "comment": "",
+        "limit": 0
+    },
+    "filters.lastHour.title": {
+        "value": "Afgelopen uur",
+        "comment": "",
+        "limit": 0
+    },
+    "filters.nextHour.title": {
+        "value": "Volgend uur",
+        "comment": "",
+        "limit": 0
+    },
+    "filters.thisDay.title": {
+        "value": "Vandaag",
+        "comment": "",
+        "limit": 0
+    },
+    "filters.lastDay.title": {
+        "value": "Gisteren",
+        "comment": "",
+        "limit": 0
+    },
+    "filters.nextDay.title": {
+        "value": "Morgen",
+        "comment": "",
+        "limit": 0
+    },
+    "filters.thisWeek.title": {
+        "value": "Deze week",
+        "comment": "",
+        "limit": 0
+    },
+    "filters.lastWeek.title": {
+        "value": "Afgelopen week",
+        "comment": "",
+        "limit": 0
+    },
+    "filters.nextWeek.title": {
+        "value": "Volgende week",
+        "comment": "",
+        "limit": 0
+    },
+    "filters.thisMonth.title": {
+        "value": "Deze maand",
+        "comment": "",
+        "limit": 0
+    },
+    "filters.lastMonth.title": {
+        "value": "Laatste maand",
+        "comment": "",
+        "limit": 0
+    },
+    "filters.nextMonth.title": {
+        "value": "Volgende maand",
+        "comment": "",
+        "limit": 0
+    },
+    "filters.thisQuarter.title": {
+        "value": "Dit kwartaal",
+        "comment": "",
+        "limit": 0
+    },
+    "filters.lastQuarter.title": {
+        "value": "Laatste kwartaal",
+        "comment": "",
+        "limit": 0
+    },
+    "filters.nextQuarter.title": {
+        "value": "Volgend kwartaal",
+        "comment": "",
+        "limit": 0
+    },
+    "filters.thisYear.title": {
+        "value": "Dit jaar",
+        "comment": "",
+        "limit": 0
+    },
+    "filters.lastYear.title": {
+        "value": "Vorig jaar",
+        "comment": "",
+        "limit": 0
+    },
+    "filters.nextYear.title": {
+        "value": "Volgend jaar",
+        "comment": "",
+        "limit": 0
+    },
+    "filters.lastNMinutes": {
+        "value": "{n, plural, one {afglopen # minuut} other {afgelopen # minuten}}",
+        "comment": "In '{n, plural, one {LAST # MINUTE} other {LAST # MINUTES}}' translate only uppercase words. Do not translate the numeric placeholder '#'. Add missing plural forms if your language has any: ask if you need any help.",
+        "limit": 0
+    },
+    "filters.lastNHours": {
+        "value": "{n, plural, one {afgelopen # uur} other {afgelopen # uur}}",
+        "comment": "In '{n, plural, one {LAST # HOUR} other {LAST # HOURS}}' translate only uppercase words. Do not translate the numeric placeholder '#'. Add missing plural forms if your language has any: ask if you need any help.",
+        "limit": 0
+    },
+    "filters.lastNDays": {
+        "value": "{n, plural, one {afgelopen # dag} other {afgelopen # dagen}}",
+        "comment": "In '{n, plural, one {LAST # DAY} other {LAST # DAYS}}' translate only uppercase words. Do not translate the numeric placeholder '#'. Add missing plural forms if your language has any: ask if you need any help.",
+        "limit": 0
+    },
+    "filters.lastNWeeks": {
+        "value": "{n, plural, one {afgelopen # week} other {afgelopen # weken}}",
+        "comment": "In '{n, plural, one {LAST # WEEK} other {LAST # WEEKS}}' translate only uppercase words. Do not translate the numeric placeholder '#'. Add missing plural forms if your language has any: ask if you need any help.",
+        "limit": 0
+    },
+    "filters.lastNMonths": {
+        "value": "{n, plural, one {afgelopen # maand} other {afgelopen # maanden}}",
+        "comment": "In '{n, plural, one {LAST # MONTH} other {LAST # MONTHS}}' translate only uppercase words. Do not translate the numeric placeholder '#'. Add missing plural forms if your language has any: ask if you need any help.",
+        "limit": 0
+    },
+    "filters.lastNQuarters": {
+        "value": "{n, plural, one {afgelopen # kwartaal} other {afgelopen # kwartalen}}",
+        "comment": "In '{n, plural, one {LAST # QUARTER} other {LAST # QUARTERS}}' translate only uppercase words. Do not translate the numeric placeholder '#'. Add missing plural forms if your language has any: ask if you need any help.",
+        "limit": 0
+    },
+    "filters.lastNYears": {
+        "value": "{n, plural, one {afgelopen # jaar} other {afgelopen # jaren}}",
+        "comment": "In '{n, plural, one {LAST # YEAR} other {LAST # YEARS}}' translate only uppercase words. Do not translate the numeric placeholder '#'. Add missing plural forms if your language has any: ask if you need any help.",
+        "limit": 0
+    },
+    "filters.nextNMinutes": {
+        "value": "{n, plural, one {volgende # minuut} other {volgende # minuten}}",
+        "comment": "In '{n, plural, one {NEXT # MINUTE} other {NEXT # MINUTES}}' translate only uppercase words. Do not translate the numeric placeholder '#'. Add missing plural forms if your language has any: ask if you need any help.",
+        "limit": 0
+    },
+    "filters.nextNHours": {
+        "value": "{n, plural, one {volgend # uur} other {volgende # uren}}",
+        "comment": "In '{n, plural, one {NEXT # HOUR} other {NEXT # HOURS}}' translate only uppercase words. Do not translate the numeric placeholder '#'. Add missing plural forms if your language has any: ask if you need any help.",
+        "limit": 0
+    },
+    "filters.nextNDays": {
+        "value": "{n, plural, one {volgende # dag} other {volgende # dagen}}",
+        "comment": "In '{n, plural, one {NEXT # DAY} other {NEXT # DAYS}}' translate only uppercase words. Do not translate the numeric placeholder '#'. Add missing plural forms if your language has any: ask if you need any help.",
+        "limit": 0
+    },
+    "filters.nextNWeeks": {
+        "value": "{n, plural, one {volgende # week} other {volgende # weken}}",
+        "comment": "In '{n, plural, one {NEXT # WEEK} other {NEXT # WEEKS}}' translate only uppercase words. Do not translate the numeric placeholder '#'. Add missing plural forms if your language has any: ask if you need any help.",
+        "limit": 0
+    },
+    "filters.nextNMonths": {
+        "value": "{n, plural, one {volgende # maand} other {volgende # maanden}}",
+        "comment": "In '{n, plural, one {NEXT # MONTH} other {NEXT # MONTHS}}' translate only uppercase words. Do not translate the numeric placeholder '#'. Add missing plural forms if your language has any: ask if you need any help.",
+        "limit": 0
+    },
+    "filters.nextNQuarters": {
+        "value": "{n, plural, one {volgende # kwartaal} other {volgende # kwartalen}}",
+        "comment": "In '{n, plural, one {NEXT # QUARTER} other {NEXT # QUARTERS}}' translate only uppercase words. Do not translate the numeric placeholder '#'. Add missing plural forms if your language has any: ask if you need any help.",
+        "limit": 0
+    },
+    "filters.nextNYears": {
+        "value": "{n, plural, one {volgend # jaar} other {volgende # jaren}}",
+        "comment": "In '{n, plural, one {NEXT # YEAR} other {NEXT # YEARS}}' translate only uppercase words. Do not translate the numeric placeholder '#'. Add missing plural forms if your language has any: ask if you need any help.",
+        "limit": 0
+    },
+    "filters.interval.minutes.past": {
+        "value": "Van {from} tot {to} {to, plural, one {minuut} other {minuten}} geleden",
+        "comment": "Example: 'From 5 to 3 minutes ago'. Don't translate placeholders '{from}', '{to}'. In '{to, plural, one {MINUTE} other {MINUTES}}' translate only uppercase words.",
+        "limit": 0
+    },
+    "filters.interval.minutes.past.sameValue": {
+        "value": "{value} {value, plural, one {minuut} other {minuten}} geleden",
+        "comment": "Example: '5 minutes ago'. Don't translate placeholder '{value}'. In '{value, plural, one {MINUTE} other {MINUTES}}' translate only uppercase words.",
+        "limit": 0
+    },
+    "filters.interval.minutes.future": {
+        "value": "Van {from} tot {to} {to, plural, one {minuut} other {minuten}} vooruit",
+        "comment": "Example: 'From 3 to 5 minutes ahead'. Don't translate placeholders '{from}', '{to}'. In '{to, plural, one {MINUTE} other {MINUTES}}' translate only uppercase words.",
+        "limit": 0
+    },
+    "filters.interval.minutes.future.sameValue": {
+        "value": "{value} {value, plural, one {minuut} other {minuten}} vooruit",
+        "comment": "Example: '5 minutes ahead'. Don't translate placeholder '{value}'. In '{value, plural, one {MINUTE} other {MINUTES}}' translate only uppercase words.",
+        "limit": 0
+    },
+    "filters.interval.minutes.mixed": {
+        "value": "Van {from} {from, plural, one {minuut} other {minuten}} geleden tot {to} {to, plural, one {minuut} other {minuten}} vooruit",
+        "comment": "Example: 'From 5 minutes ago to 3 minutes ahead'. Don't translate placeholders '{from}', '{to}'. In '{to, plural, one {MINUTE} other {MINUTES}}' translate only uppercase words.",
+        "limit": 0
+    },
+    "filters.interval.hours.past": {
+        "value": "Van {from} tot {to} {to, plural, one {uur} other {uren}} geleden",
+        "comment": "Example: 'From 5 to 3 hours ago'. Don't translate placeholders '{from}', '{to}'. In '{to, plural, one {HOUR} other {HOURS}}' translate only uppercase words.",
+        "limit": 0
+    },
+    "filters.interval.hours.past.sameValue": {
+        "value": "{value} {value, plural, one {uur} other {uren}} geleden",
+        "comment": "Example: '5 hours ago'. Don't translate placeholder '{value}'. In '{value, plural, one {HOUR} other {HOURS}}' translate only uppercase words.",
+        "limit": 0
+    },
+    "filters.interval.hours.future": {
+        "value": "Van {from} tot {to} {to, plural, one {uur} other {uren}} vooruit",
+        "comment": "Example: 'From 3 to 5 hours ahead'. Don't translate placeholders '{from}', '{to}'. In '{to, plural, one {HOUR} other {HOURS}}' translate only uppercase words.",
+        "limit": 0
+    },
+    "filters.interval.hours.future.sameValue": {
+        "value": "{value} {value, plural, one {uur} other {uren}} vooruit",
+        "comment": "Example: '5 hours ahead'. Don't translate placeholder '{value}'. In '{value, plural, one {HOUR} other {HOURS}}' translate only uppercase words.",
+        "limit": 0
+    },
+    "filters.interval.hours.mixed": {
+        "value": "Van {from} {from, plural, one {uur} other {uur}} geleden tot {to} {to, plural, one {uur} other {uur}} vooruit",
+        "comment": "Example: 'From 5 hours ago to 3 hours ahead'. Don't translate placeholders '{from}', '{to}'. In '{to, plural, one {HOUR} other {HOURS}}' translate only uppercase words.",
+        "limit": 0
+    },
+    "filters.interval.days.past": {
+        "value": "Van {from} tot {to} {to, plural, one {dag} other {dagen}} geleden",
+        "comment": "Example: 'From 5 to 3 days ago'. Don't translate placeholders '{from}', '{to}'. In '{to, plural, one {DAY} other {DAYS}}' translate only uppercase words.",
+        "limit": 0
+    },
+    "filters.interval.days.past.sameValue": {
+        "value": "{value} {value, plural, one {dag} other {dagen}} geleden",
+        "comment": "Example: '5 days ago'. Don't translate placeholder '{value}'. In '{value, plural, one {DAY} other {DAYS}}' translate only uppercase words.",
+        "limit": 0
+    },
+    "filters.interval.days.future": {
+        "value": "Van {from} tot {to} {to, plural, one {dag} other {dagen}} in de toekomst",
+        "comment": "Example: 'From 3 to 5 days ahead'. Don't translate placeholders '{from}', '{to}'. In '{to, plural, one {DAY} other {DAYS}}' translate only uppercase words.",
+        "limit": 0
+    },
+    "filters.interval.days.future.sameValue": {
+        "value": "{value} {value, plural, one {dag} other {dagen}} in de toekomst",
+        "comment": "Example: '5 days ahead'. Don't translate placeholder '{value}'. In '{value, plural, one {DAY} other {DAYS}}' translate only uppercase words.",
+        "limit": 0
+    },
+    "filters.interval.days.mixed": {
+        "value": "Van {from} {from, plural, one {dag} other {dagen}} geleden tot {to} {to, plural, one {dag} other {dagen}} in de toekomst",
+        "comment": "Example: 'From 5 days ago to 3 days ahead'. Don't translate placeholders '{from}', '{to}'. In '{to, plural, one {DAY} other {DAYS}}' translate only uppercase words.",
+        "limit": 0
+    },
+    "filters.interval.weeks.past": {
+        "value": "Van {from} tot {to} {to, plural, one {week} other {weken}} geleden",
+        "comment": "Example: 'From 5 to 3 weeks ago'. Don't translate placeholders '{from}', '{to}'. In '{to, plural, one {WEEK} other {WEEKS}}' translate only uppercase words.",
+        "limit": 0
+    },
+    "filters.interval.weeks.past.sameValue": {
+        "value": "{value} {value, plural, one {week} other {weken}} geleden",
+        "comment": "Example: '5 weeks ago'. Don't translate placeholder '{value}'. In '{value, plural, one {WEEK} other {WEEKS}}' translate only uppercase words.",
+        "limit": 0
+    },
+    "filters.interval.weeks.future": {
+        "value": "Van {from} tot {to} {to, plural, one {week} other {weken}} in de toekomst",
+        "comment": "Example: 'From 3 to 5 weeks ahead'. Don't translate placeholders '{from}', '{to}'. In '{to, plural, one {WEEK} other {WEEKS}}' translate only uppercase words.",
+        "limit": 0
+    },
+    "filters.interval.weeks.future.sameValue": {
+        "value": "{value} {value, plural, one {week} other {weken}} in de toekomst",
+        "comment": "Example: '5 weeks ahead'. Don't translate placeholder '{value}'. In '{value, plural, one {WEEK} other {WEEKS}}' translate only uppercase words.",
+        "limit": 0
+    },
+    "filters.interval.weeks.mixed": {
+        "value": "Van {from} {from, plural, one {week} other {weken}} geleden tot {to} {to, plural, one {week} other {weken}} in de toekomst",
+        "comment": "Example: 'From 5 weeks ago to 3 weeks ahead'. Don't translate placeholders '{from}', '{to}'. In '{to, plural, one {WEEK} other {WEEKS}}' translate only uppercase words.",
+        "limit": 0
+    },
+    "filters.interval.months.past": {
+        "value": "Van {from} tot {to} {to, plural, one {maand} other {maanden}} geleden",
+        "comment": "Example: 'From 5 to 3 months ago'. Don't translate placeholders '{from}', '{to}'. In '{to, plural, one {MONTH} other {MONTHS}}' translate only uppercase words.",
+        "limit": 0
+    },
+    "filters.interval.months.past.sameValue": {
+        "value": "{value} {value, plural, one {naabd} other {maanden}} geleden",
+        "comment": "Example: '5 months ago'. Don't translate placeholder '{value}'. In '{value, plural, one {MONTH} other {MONTHS}}' translate only uppercase words.",
+        "limit": 0
+    },
+    "filters.interval.months.future": {
+        "value": "Van {from} tot {to} {to, plural, one {maand} other {maanden}} in de toekomst",
+        "comment": "Example: 'From 3 to 5 months ahead'. Don't translate placeholders '{from}', '{to}'. In '{to, plural, one {MONTH} other {MONTHS}}' translate only uppercase words.",
+        "limit": 0
+    },
+    "filters.interval.months.future.sameValue": {
+        "value": "{value} {value, plural, one {maand} other {maanden}} in de toekomst",
+        "comment": "Example: '5 months ahead'. Don't translate placeholder '{value}'. In '{value, plural, one {MONTH} other {MONTHS}}' translate only uppercase words.",
+        "limit": 0
+    },
+    "filters.interval.months.mixed": {
+        "value": "Van {from} {from, plural, one {maand} other {maanden}} geleden tot {to} {to, plural, one {maand} other {maanden}} in de toekomst",
+        "comment": "Example: 'From 5 months ago to 3 months ahead'. Don't translate placeholders '{from}', '{to}'. In '{to, plural, one {MONTH} other {MONTHS}}' translate only uppercase words.",
+        "limit": 0
+    },
+    "filters.interval.quarters.past": {
+        "value": "Van {from} tot {to} {to, plural, one {kwartaal} other {kwartalen}} geleden",
+        "comment": "Example: 'From 5 to 3 quarters ago'. Don't translate placeholders '{from}', '{to}'. In '{to, plural, one {QUARTER} other {QUARTERS}}' translate only uppercase words.",
+        "limit": 0
+    },
+    "filters.interval.quarters.past.sameValue": {
+        "value": "{value} {value, plural, one {kwartaal} other {kwartalen}} geleden",
+        "comment": "Example: '5 quarters ago'. Don't translate placeholder '{value}'. In '{value, plural, one {QUARTER} other {QUARTERS}}' translate only uppercase words.",
+        "limit": 0
+    },
+    "filters.interval.quarters.future": {
+        "value": "Van {from} tot {to} {to, plural, one {kwartaal} other {kwartalen}} in de toekomst",
+        "comment": "Example: 'From 3 to 5 quarters ahead'. Don't translate placeholders '{from}', '{to}'. In '{to, plural, one {QUARTER} other {QUARTERS}}' translate only uppercase words.",
+        "limit": 0
+    },
+    "filters.interval.quarters.future.sameValue": {
+        "value": "{value} {value, plural, one {kwartaal} other {kwartalen}} in de toekomst",
+        "comment": "Example: '5 quarters ahead'. Don't translate placeholder '{value}'. In '{value, plural, one {QUARTER} other {QUARTERS}}' translate only uppercase words.",
+        "limit": 0
+    },
+    "filters.interval.quarters.mixed": {
+        "value": "Van {from} {from, plural, one {kwartaal} other {kwartalen}} geleden tot {to} {to, plural, one {kwartaal} other {kwartalen}} in de toekomst",
+        "comment": "Example: 'From 5 quarters ago to 3 quarters ahead'. Don't translate placeholders '{from}', '{to}'. In '{to, plural, one {QUARTER} other {QUARTERS}}' translate only uppercase words.",
+        "limit": 0
+    },
+    "filters.interval.years.past": {
+        "value": "Van {from} tot {to} {to, plural, one {jaar} other {jaren}} geleden",
+        "comment": "Example: 'From 5 to 3 years ago'. Don't translate placeholders '{from}', '{to}'. In '{to, plural, one {YEAR} other {YEARS}}' translate only uppercase words.",
+        "limit": 0
+    },
+    "filters.interval.years.past.sameValue": {
+        "value": "{value} {value, plural, one {jaar} other {jaar}} geleden",
+        "comment": "Example: '5 years ago'. Don't translate placeholder '{value}'. In '{value, plural, one {YEAR} other {YEARS}}' translate only uppercase words.",
+        "limit": 0
+    },
+    "filters.interval.years.future": {
+        "value": "Van {from} tot {to} {to, plural, one {jaar} other {jaren}} in de toekomst",
+        "comment": "Example: 'From 3 to 5 years ahead'. Don't translate placeholders '{from}', '{to}'. In '{to, plural, one {YEAR} other {YEARS}}' translate only uppercase words.",
+        "limit": 0
+    },
+    "filters.interval.years.future.sameValue": {
+        "value": "{value} {value, plural, one {jaar} other {jaar}} in de toekomst",
+        "comment": "Example: '5 years ahead'. Don't translate placeholder '{value}'. In '{value, plural, one {YEAR} other {YEARS}}' translate only uppercase words.",
+        "limit": 0
+    },
+    "filters.interval.years.mixed": {
+        "value": "Van {from} {from, plural, one {jaar} other {jaren}} geleden tot {to} {to, plural, one {jaar} other {jaren}} in de toekomst",
+        "comment": "Example: 'From 5 years ago to 3 years ahead'. Don't translate placeholders '{from}', '{to}'. In '{to, plural, one {YEAR} other {YEARS}}' translate only uppercase words.",
+        "limit": 0
+    },
+    "filters.granularity.minutes": {
+        "value": "Minuten",
+        "comment": "",
+        "limit": 0
+    },
+    "filters.granularity.hours": {
+        "value": "Uren",
+        "comment": "",
+        "limit": 0
+    },
+    "filters.granularity.days": {
+        "value": "Dagen",
+        "comment": "",
+        "limit": 0
+    },
+    "filters.granularity.weeks": {
+        "value": "Weken",
+        "comment": "",
+        "limit": 0
+    },
+    "filters.granularity.months": {
+        "value": "Maanden",
+        "comment": "",
+        "limit": 0
+    },
+    "filters.granularity.quarters": {
+        "value": "Kwartalen",
+        "comment": "",
+        "limit": 0
+    },
+    "filters.granularity.years": {
+        "value": "Jaar",
+        "comment": "",
+        "limit": 0
+    },
+    "filters.from": {
+        "value": "van",
+        "comment": "Displayed as placeholder in static period inputs where user enters date",
+        "limit": 0
+    },
+    "filters.to": {
+        "value": "naar",
+        "comment": "Displayed as placeholder in static period inputs where user enters date",
+        "limit": 0
+    },
+    "filters.date.accessibility.label.from": {
+        "value": "Selecteer een datum uit",
+        "comment": "",
+        "limit": 0
+    },
+    "filters.date.accessibility.label.to": {
+        "value": "Selecteer een datum om",
+        "comment": "",
+        "limit": 0
+    },
+    "filters.time.accessibility.label.from": {
+        "value": "Selecteer tijd uit",
+        "comment": "",
+        "limit": 0
+    },
+    "filters.time.accessibility.label.to": {
+        "value": "Selecteer tijd om",
+        "comment": "",
+        "limit": 0
+    },
+    "filters.relative.placeholder": {
+        "value": "Type or select",
+        "comment": "",
+        "limit": 0
+    },
+    "filters.relative.from.label": {
+        "value": "Period start",
+        "comment": "",
+        "limit": 0
+    },
+    "filters.relative.from.invalid.value": {
+        "value": "Error: Invalid period start - enter a valid period or select it from the list.",
+        "comment": "",
+        "limit": 0
+    },
+    "filters.relative.from.empty.value": {
+        "value": "Error: Period start is empty - enter a valid period or select it from the list.",
+        "comment": "",
+        "limit": 0
+    },
+    "filters.relative.to.label": {
+        "value": "Period end",
+        "comment": "",
+        "limit": 0
+    },
+    "filters.relative.to.invalid.value": {
+        "value": "Error: Invalid period end - enter a valid period or select it from the list.",
+        "comment": "",
+        "limit": 0
+    },
+    "filters.relative.to.empty.value": {
+        "value": "Error: Period end is empty - enter a valid period or select it from the list.",
+        "comment": "",
+        "limit": 0
+    },
+    "filters.floatingRange": {
+        "value": "Relatieve periode",
+        "comment": "",
+        "limit": 0
+    },
+    "filters.floatingRange.tooltip": {
+        "value": "Het datumbereik is relatief ten opzichte van vandaag en wordt in de loop der tijd aangepast.",
+        "comment": "",
+        "limit": 0
+    },
+    "filters.floatingRange.noMatch": {
+        "value": "Geen overeenkomst gevonden",
+        "comment": "",
+        "limit": 0
+    },
+    "filters.floatingRange.tooBig": {
+        "value": "Maximumwaarde: {limit}",
+        "comment": "This string should be as short as possible to fit in the container. Don't translate placeholder '{limit}'.",
+        "limit": 32
+    },
+    "filters.floatingRange.option.minute.offset.history": {
+        "value": "{n, plural, one {afgelopen minuut} other {# minuten geleden}}",
+        "comment": "In '{n, plural, one {LAST MINUTE} other {# MINUTES AGO}}' translate only uppercase words. Do not translate the numeric placeholder '#'. Add missing plural forms if your language has any: ask if you need any help.",
+        "limit": 0
+    },
+    "filters.floatingRange.option.minute.offset.today": {
+        "value": "deze minuut",
+        "comment": "",
+        "limit": 0
+    },
+    "filters.floatingRange.option.minute.offset.future": {
+        "value": "{n, plural, one {volgende minuut} other {# minuten vooruit}}",
+        "comment": "In '{n, plural, one {NEXT MINUTE} other {# MINUTES AHEAD}}' translate only uppercase words. Do not translate the numeric placeholder '#'. Add missing plural forms if your language has any: ask if you need any help.",
+        "limit": 0
+    },
+    "filters.floatingRange.option.hour.offset.history": {
+        "value": "{n, plural, one {afgelopen uur} other {# uren geleden}}",
+        "comment": "In '{n, plural, one {LAST HOUR} other {# HOURS AGO}}' translate only uppercase words. Do not translate the numeric placeholder '#'. Add missing plural forms if your language has any: ask if you need any help.",
+        "limit": 0
+    },
+    "filters.floatingRange.option.hour.offset.today": {
+        "value": "dit uur",
+        "comment": "",
+        "limit": 0
+    },
+    "filters.floatingRange.option.hour.offset.future": {
+        "value": "{n, plural, one {volgend uur} other {# uren vooruit}}",
+        "comment": "In '{n, plural, one {NEXT HOUR} other {# HOURS AHEAD}}' translate only uppercase words. Do not translate the numeric placeholder '#'. Add missing plural forms if your language has any: ask if you need any help.",
+        "limit": 0
+    },
+    "filters.floatingRange.option.day.offset.history": {
+        "value": "{n, plural, one {gisteren} other {# dagen geleden}}",
+        "comment": "In '{n, plural, one {YESTERDAY} other {# DAYS AGO}}' translate only uppercase words. Do not translate the numeric placeholder '#'. Add missing plural forms if your language has any: ask if you need any help.",
+        "limit": 0
+    },
+    "filters.floatingRange.option.day.offset.today": {
+        "value": "vandaag",
+        "comment": "",
+        "limit": 0
+    },
+    "filters.floatingRange.option.day.offset.future": {
+        "value": "{n, plural, one {morgen} other {over # dagen}}",
+        "comment": "In '{n, plural, one {TOMORROW} other {# DAYS AHEAD}}' translate only uppercase words. Do not translate the numeric placeholder '#'. Add missing plural forms if your language has any: ask if you need any help.",
+        "limit": 0
+    },
+    "filters.floatingRange.option.week.offset.history": {
+        "value": "{n, plural, one {afgelopen week} other {# weken geleden}}",
+        "comment": "In '{n, plural, one {LAST WEEK} other {# WEEKS AGO}}' translate only uppercase words. Do not translate the numeric placeholder '#'. Add missing plural forms if your language has any: ask if you need any help.",
+        "limit": 0
+    },
+    "filters.floatingRange.option.week.offset.today": {
+        "value": "deze week",
+        "comment": "",
+        "limit": 0
+    },
+    "filters.floatingRange.option.week.offset.future": {
+        "value": "{n, plural, one {volgende week} other {over # weken}}",
+        "comment": "In '{n, plural, one {NEXT WEEK} other {# WEEKS AHEAD}}' translate only uppercase words. Do not translate the numeric placeholder '#'. Add missing plural forms if your language has any: ask if you need any help.",
+        "limit": 0
+    },
+    "filters.floatingRange.option.month.offset.history": {
+        "value": "{n, plural, one {afgelopen maand} other {# maanden geleden}}",
+        "comment": "In '{n, plural, one {LAST MONTH} other {# MONTHS AGO}}' translate only uppercase words. Do not translate the numeric placeholder '#'. Add missing plural forms if your language has any: ask if you need any help.",
+        "limit": 0
+    },
+    "filters.floatingRange.option.month.offset.today": {
+        "value": "deze maand",
+        "comment": "",
+        "limit": 0
+    },
+    "filters.floatingRange.option.month.offset.future": {
+        "value": "{n, plural, one {volgende maand} other {over # maanden}}",
+        "comment": "In '{n, plural, one {NEXT MONTH} other {# MONTHS AHEAD}}' translate only uppercase words. Do not translate the numeric placeholder '#'. Add missing plural forms if your language has any: ask if you need any help.",
+        "limit": 0
+    },
+    "filters.floatingRange.option.quarter.offset.history": {
+        "value": "{n, plural, one {afgelopen kwartaal} other {# kwartalen geleden}}",
+        "comment": "In '{n, plural, one {LAST QUARTER} other {# QUARTERS AGO}}' translate only uppercase words. Do not translate the numeric placeholder '#'. Add missing plural forms if your language has any: ask if you need any help.",
+        "limit": 0
+    },
+    "filters.floatingRange.option.quarter.offset.today": {
+        "value": "dit kwartaal",
+        "comment": "",
+        "limit": 0
+    },
+    "filters.floatingRange.option.quarter.offset.future": {
+        "value": "{n, plural, one {volgend kwartaal} other {over # kwartalen}}",
+        "comment": "In '{n, plural, one {NEXT QUARTER} other {# QUARTERS AHEAD}}' translate only uppercase words. Do not translate the numeric placeholder '#'. Add missing plural forms if your language has any: ask if you need any help.",
+        "limit": 0
+    },
+    "filters.floatingRange.option.year.offset.history": {
+        "value": "{n, plural, one {afgelopen jaar} other {# jaar geleden}}",
+        "comment": "In '{n, plural, one {LAST YEAR} other {# YEARS AGO}}' translate only uppercase words. Do not translate the numeric placeholder '#'. Add missing plural forms if your language has any: ask if you need any help.",
+        "limit": 0
+    },
+    "filters.floatingRange.option.year.offset.today": {
+        "value": "dit jaar",
+        "comment": "",
+        "limit": 0
+    },
+    "filters.floatingRange.option.year.offset.future": {
+        "value": "{n, plural, one {volgend jaar} other {over # jaar}}",
+        "comment": "In '{n, plural, one {NEXT YEAR} other {# YEARS AHEAD}}' translate only uppercase words. Do not translate the numeric placeholder '#'. Add missing plural forms if your language has any: ask if you need any help.",
+        "limit": 0
+    },
+    "filters.allTime.title": {
+        "value": "Altijd",
+        "comment": "",
+        "limit": 0
+    },
+    "filters.allTime.excludeCurrentPeriod": {
+        "value": "Open periode uitsluiten",
+        "comment": "",
+        "limit": 0
+    },
+    "filters.minute.title": {
+        "value": "MINUUT",
+        "comment": "",
+        "limit": 0
+    },
+    "filters.minute.excludeCurrentPeriod": {
+        "value": "Deze minuut uitsluiten",
+        "comment": "",
+        "limit": 0
+    },
+    "filters.hour.title": {
+        "value": "UUR",
+        "comment": "",
+        "limit": 0
+    },
+    "filters.hour.excludeCurrentPeriod": {
+        "value": "Dit uur uitsluiten",
+        "comment": "",
+        "limit": 0
+    },
+    "filters.day.title": {
+        "value": "DAG",
+        "comment": "",
+        "limit": 0
+    },
+    "filters.day.excludeCurrentPeriod": {
+        "value": "Vandaag uitsluiten",
+        "comment": "",
+        "limit": 0
+    },
+    "filters.week.title": {
+        "value": "WEEK",
+        "comment": "",
+        "limit": 0
+    },
+    "filters.week.excludeCurrentPeriod": {
+        "value": "Deze week uitsluiten",
+        "comment": "",
+        "limit": 0
+    },
+    "filters.month.title": {
+        "value": "MAAND",
+        "comment": "",
+        "limit": 0
+    },
+    "filters.month.excludeCurrentPeriod": {
+        "value": "Deze maand uitsluiten",
+        "comment": "",
+        "limit": 0
+    },
+    "filters.quarter.title": {
+        "value": "KWARTAAL",
+        "comment": "",
+        "limit": 0
+    },
+    "filters.quarter.excludeCurrentPeriod": {
+        "value": "Dit kwartaal uitsluiten",
+        "comment": "",
+        "limit": 0
+    },
+    "filters.year.title": {
+        "value": "JAAR",
+        "comment": "",
+        "limit": 0
+    },
+    "filters.year.excludeCurrentPeriod": {
+        "value": "Dit jaar uitsluiten",
+        "comment": "",
+        "limit": 0
+    },
+    "filters.excludeCurrentPeriod.unavailable": {
+        "value": "Niet beschikbaar voor het geselecteerde datumbereik",
+        "comment": "",
+        "limit": 0
+    },
+    "filters.staticPeriod": {
+        "value": "Statische periode",
+        "comment": "",
+        "limit": 0
+    },
+    "filters.staticPeriod.incorrectFormat": {
+        "value": "De datum moet de indeling {format} hebben",
+        "comment": "Placeholder '{format}' is used for showing date format. Example 'The date must be in the MM/dd/yyyy format'. Don't translate placeholder '{format}'.",
+        "limit": 0
+    },
+    "filters.staticPeriod.endDateBeforeStartDate": {
+        "value": "Eindtijd moet later zijn dan begintijd",
+        "comment": "This error is displayed once there is a datetime range and End time is before To time",
+        "limit": 0
+    },
+    "mvf.operator.all": {
+        "value": "alle",
+        "comment": "Covers all the operators like 'Greater than', 'Less than', etc.",
+        "limit": 0
+    },
+    "mvf.operator.greaterThan": {
+        "value": "groter dan",
+        "comment": "",
+        "limit": 0
+    },
+    "mvf.operator.greaterThanOrEqualTo": {
+        "value": "groter dan of gelijk aan",
+        "comment": "",
+        "limit": 0
+    },
+    "mvf.operator.lessThan": {
+        "value": "kleiner dan",
+        "comment": "",
+        "limit": 0
+    },
+    "mvf.operator.lessThanOrEqualTo": {
+        "value": "kleiner dan of gelijk aan",
+        "comment": "",
+        "limit": 0
+    },
+    "mvf.operator.equalTo": {
+        "value": "gelijk aan",
+        "comment": "",
+        "limit": 0
+    },
+    "mvf.operator.notEqualTo": {
+        "value": "niet gelijk aan",
+        "comment": "",
+        "limit": 0
+    },
+    "mvf.operator.between": {
+        "value": "tussen",
+        "comment": "",
+        "limit": 0
+    },
+    "mvf.operator.notBetween": {
+        "value": "niet tussen",
+        "comment": "",
+        "limit": 0
+    },
+    "mvf.operator.between.tooltip.bubble": {
+        "value": "Begin- en eindwaarden zijn inbegrepen.",
+        "comment": "",
+        "limit": 0
+    },
+    "mvf.operator.notBetween.tooltip.bubble": {
+        "value": "Begin- en eindwaarden zijn niet inbegrepen.",
+        "comment": "",
+        "limit": 0
+    },
+    "mvf.treatNullValuesAsZeroLabel": {
+        "value": "Blanco waarden als 0 behandelen",
+        "comment": "Checkbox label. 'blank values' are data rows without any value (empty), which can be considered to be 0 in calculations.",
+        "limit": 0
+    },
+    "mvf.treatNullValuesAsZeroTooltip": {
+        "value": "Als de filtervoorwaarde 0 bevat, worden blanco waarden als 0 behandeld en inbegrepen in berekeningen.",
+        "comment": "Checkbox label tooltip. 'blank values' are data rows without any value (empty), which can be considered to be 0 during calculations. If the filter is set to '< 1' for example, it includes values of 0 (less than one) and therefore all the blank (empty) values are going to be considered to be 0 in calculations.",
+        "limit": 0
+    },
+    "measureNumberFormat.custom.optionLabel": {
+        "value": "Aangepast",
+        "comment": "An item in list of presets. Denotes a custom preset",
+        "limit": 0
+    },
+    "measureNumberFormat.buttonLabel": {
+        "value": "Opmaak: {selectedFormatPresetName}",
+        "comment": "A label informing the user about the currently selected format. The values of selectedFormatPresetName can be for instance 'Whole number', 'Decimal number', or 'Custom'",
+        "limit": 0
+    },
+    "measureNumberCustomFormatDialog.title": {
+        "value": "Aangepaste opmaak",
+        "comment": "Title of the dialog for setting a custom measure format.",
+        "limit": 0
+    },
+    "measureNumberCustomFormatDialog.template.preview.title": {
+        "value": "Opmaakvoorbeeld",
+        "comment": "The title of the help bubble for custom measure format template",
+        "limit": 0
+    },
+    "measureNumberCustomFormatDialog.template.title": {
+        "value": "Sjablonen",
+        "comment": "Title of the list of templates",
+        "limit": 0
+    },
+    "measureNumberCustomFormatDialog.extendedPreview.button": {
+        "value": "Meer tonen",
+        "comment": "The title of button which will display more examples",
+        "limit": 0
+    },
+    "measureNumberCustomFormatDialog.howToFormat": {
+        "value": "Hoe bepaal ik de opmaak?",
+        "comment": "Link to help",
+        "limit": 0
+    },
+    "measureNumberCustomFormatDialog.definition": {
+        "value": "Definitie",
+        "comment": "Header of format definition field.",
+        "limit": 0
+    },
+    "measureNumberCustomFormatDialog.preview": {
+        "value": "Voorbeschouwing",
+        "comment": "Header of a preview section",
+        "limit": 0
+    },
+    "properties.legend.title": {
+        "value": "Legenda",
+        "comment": "",
+        "limit": 0
+    },
+    "attrf.all": {
+        "value": "Alle",
+        "comment": "",
+        "limit": 0
+    },
+    "attrf.all_except": {
+        "value": "Alle behalve",
+        "comment": "",
+        "limit": 0
+    },
+    "rankingFilter.topBottom": {
+        "value": "Boven-/onderwaarden",
+        "comment": "Filter title",
+        "limit": 0
+    },
+    "rankingFilter.top": {
+        "value": "Boven",
+        "comment": "Top ranking operator option.",
+        "limit": 0
+    },
+    "rankingFilter.bottom": {
+        "value": "Onder",
+        "comment": "Bottom ranking operator option.",
+        "limit": 0
+    },
+    "rankingFilter.allRecords": {
+        "value": "Alle",
+        "comment": "Option describing all records.",
+        "limit": 0
+    },
+    "rankingFilter.allRecords.tooltip|insight": {
+        "value": "Pas het filter toe op alle attributen in de visualisatie.",
+        "comment": "Explanation of 'All' option.",
+        "limit": 0
+    },
+    "rankingFilter.allRecords.tooltip|report": {
+        "value": "Apply the filter to all attributes in the report.",
+        "comment": "Explanation of 'All' option.",
+        "limit": 0,
+        "translate": false
+    },
+    "rankingFilter.attributeDropdown.oneAttributeTooltip|insight": {
+        "value": "De visualisatie wordt slechts door één eigenschap gesneden. Het filter is van toepassing op alle waarden.",
+        "comment": "Tooltip when no options are available for attribute dropdown.",
+        "limit": 0
+    },
+    "rankingFilter.attributeDropdown.oneAttributeTooltip|report": {
+        "value": "The report is sliced only by one attribute. The filter will apply to all its values.",
+        "comment": "Tooltip when no options are available for attribute dropdown.",
+        "limit": 0,
+        "translate": false
+    },
+    "rankingFilter.outOf": {
+        "value": "Van",
+        "comment": "Section title to specify ranking attribute.",
+        "limit": 0
+    },
+    "rankingFilter.basedOn": {
+        "value": "Gebaseerd op",
+        "comment": "Section title to specify ranking by measure.",
+        "limit": 0
+    },
+    "rankingFilter.valueTooSmall": {
+        "value": "Invoerwaarde moet een positief getal zijn.",
+        "comment": "Warning message when value is lower than 1.",
+        "limit": 0
+    },
+    "rankingFilter.valueTooLarge": {
+        "value": "Invoerwaarde is te groot.",
+        "comment": "Warning message when value is too large.",
+        "limit": 0
+    },
+    "rankingFilter.preview": {
+        "value": "Preview:",
+        "comment": "Section title that shows ranking filter preview.",
+        "limit": 0
+    },
+    "rankingFilter.preview.top_without_attribute": {
+        "value": "Boven {value} van <strong>{measure}</strong>",
+        "comment": "Do not translate placeholder {value} and {measure} or HTML markup enclosed in <>. Text describes ranking filter. Example: 'Top 3 of Revenue'",
+        "limit": 0
+    },
+    "rankingFilter.preview.bottom_without_attribute": {
+        "value": "Onder {value} van <strong>{measure}</strong>",
+        "comment": "Do not translate placeholder {value} and {measure} or HTML markup enclosed in <>. Title describing ranking direction and number of values. Example: 'Bottom 5 of Revenue'",
+        "limit": 0
+    },
+    "rankingFilter.preview.top_with_attribute": {
+        "value": "Boven {value} van <strong>{attribute}</strong> gebaseerd op <strong>{measure}</strong>",
+        "comment": "Do not translate placeholder {value}, {attribute}, and {measure} or HTML markup enclosed in <>. Title describing ranking direction, number of values, attribute granularity, and measure ranking is based on. Example: 'Top 3 out of Product based on Revenue'",
+        "limit": 0
+    },
+    "rankingFilter.preview.bottom_with_attribute": {
+        "value": "Onder {value} van <strong>{attribute}</strong> gebaseerd op <strong>{measure}</strong>",
+        "comment": "Do not translate placeholder {value}, {attribute}, and {measure} or HTML markup enclosed in <>. Title describing ranking direction, number of values, attribute granularity, and measure ranking is based on. Example: 'Bottom 5 out of Product based on Revenue'",
+        "limit": 0
+    },
+    "rankingFilter.valueTooltip|insight": {
+        "value": "Als meerdere items dezelfde waarde hebben, toont het filter alle items met deze waarde. De visualisatie kan dan meer items tonen dan het ingestelde aantal.",
+        "comment": "Tooltip with explanation of why ranking filter can return more rows than the number user entered in the filter.",
+        "limit": 0
+    },
+    "rankingFilter.valueTooltip|report": {
+        "value": "If multiple items have the same value, the filter shows all items with this value. The report may then display more items than the number set.",
+        "comment": "Tooltip with explanation of why ranking filter can return more rows than the number user entered in the filter.",
+        "limit": 0,
+        "translate": false
+    },
+    "attributesDropdown.itemsFiltered.tooltip": {
+        "value": "Waarden worden gefilterd op: <strong>{filters}</strong>",
+        "comment": "Do not translate HTML markup enclosed in <> and {filters} placeholder as it will be replaced by list of filter names.",
+        "limit": 0
+    },
+    "attributesDropdown.itemsFiltered": {
+        "value": "Items zijn gefilterd",
+        "comment": "This message is displayed when attribute elements are being filtered out by parent filters",
+        "limit": 0
+    },
+    "attributeFilterDropdown.emptyValue": {
+        "value": "lege waarde",
+        "comment": "",
+        "limit": 0
+    },
+    "attributesDropdown.noData": {
+        "value": "Dit attribuut heeft geen waarden.",
+        "comment": "This message is displayed when when there are no items available because the attribute has no elements.",
+        "limit": 0
+    },
+    "attributesDropdown.noResultsMatch": {
+        "value": "Geen resultaten.",
+        "comment": "This message is displayed when when there are no items available because they were filtered out by search.",
+        "limit": 0
+    },
+    "attributesDropdown.allItemsFiltered": {
+        "value": "Alle waarden zijn gefilterd.",
+        "comment": "This message is displayed when there are no items available because they were filtered out by parent filters.",
+        "limit": 0
+    },
+    "attributesDropdown.configuration": {
+        "value": "Configuratie",
+        "comment": "Configuration button label in attribute filter dropdown",
+        "limit": 0
+    },
+    "attributesDropdown.removeTooltip": {
+        "value": "Verwijderen van dashboard",
+        "comment": "Tooltip text of button for deleting filter",
+        "limit": 0
+    },
+    "attributesDropdown.display_as": {
+        "value": "Tonen als: {title}",
+        "comment": "Label shown on dropdown button that changes form of the attribute used in visualization. For example 'Display as: Shortened name'",
+        "limit": 0
+    },
+    "attributesDropdown.empty.item.tooltip": {
+        "value": "Ontbrekende (null) en lege (\"\") waarden.",
+        "comment": "Tooltip text of how selecting an (empty value) item affects the values shown.",
+        "limit": 0
+    },
+    "attributesDropdown.filterConfiguredMessage": {
+        "value": "<strong>{parentTitle}</strong> is al gefilterd op <strong>{childTitle}</strong>, rechtstreeks of via andere filters.",
+        "comment": "Do not translate HTML markup enclosed in <> and placeholders enclosed in {}.",
+        "limit": 0
+    },
+    "attributesDropdown.attributeNameWithData": {
+        "value": "met gegevens van",
+        "comment": "Will be used in sentence between two nouns. For instance 'Filter by AttributeX with data of MetricY'",
+        "limit": 0
+    },
+    "attributesDropdown.noConnectionMessage": {
+        "value": "<strong>{childTitle}</strong> kan niet worden gefilterd op <strong>{parentTitle}</strong>. Er is geen verbinding tussen de filterattributen in het gegevensmodel.",
+        "comment": "Do not translate HTML markup enclosed in <> and placeholders enclosed in {}.",
+        "limit": 0
+    },
+    "attributesDropdown.details.type": {
+        "value": "Attribuut",
+        "comment": "",
+        "limit": 0
+    },
+    "attributesDropdown.details.dataset": {
+        "value": "Dataset",
+        "comment": "",
+        "limit": 0
+    },
+    "attributesDropdown.relevantValues": {
+        "value": "Alleen relevante waarden.{nbsp}",
+        "comment": "Do not translate non-breakable space '{nbsp}'",
+        "limit": 0
+    },
+    "attributesDropdown.relevantValues.tooltip.parentFilters": {
+        "value": "Beschikbare waarden voor <strong>{child}</strong> worden gefilterd op geselecteerde <strong>{parents}</strong>.",
+        "comment": "Do not translate HTML markup enclosed in <> and {child}, {parents} placeholders as it will be replaced by list of filter names.",
+        "limit": 0
+    },
+    "attributesDropdown.relevantValues.tooltip.limits": {
+        "value": "Waarden voor <strong>{child}</strong> worden gefilterd door een aanvullende filterinstelling. ",
+        "comment": "Do not translate HTML markup enclosed in <> and {child} placeholder as it will be replaced by a filter name.",
+        "limit": 0
+    },
+    "attributesDropdown.relevantValues.tooltip.parentFiltersLimits": {
+        "value": "Waarden voor <strong>{child}</strong> worden gefilterd door de geselecteerde <strong>{parents}</strong> en een aanvullende filterinstelling.",
+        "comment": "Do not translate HTML markup enclosed in <> and {child}, {parents} placeholders as it will be replaced by list of filter names.",
+        "limit": 0
+    },
+    "attributesDropdown.noRelevantValues": {
+        "value": "Geen relevange waarden",
+        "comment": "",
+        "limit": 0
+    },
+    "attributesDropdown.noRelevantValues.tooltip": {
+        "value": "Uw selectie in het afhankelijke filter heeft geen overeenkomsten opgeleverd voor dit filter.{break}Klik op 'Alles tonen' om alle beschikbare opties te zien.",
+        "comment": "Do not translate '{break}' variable.",
+        "limit": 0
+    },
+    "attributesDropdown.irrelevantValues": {
+        "value": "Irrelevante waarde geselecteerd.{nbsp}",
+        "comment": "Do not translate non-breakable space '{nbsp}'",
+        "limit": 0
+    },
+    "attributesDropdown.irrelevantValues.tooltip": {
+        "value": "Geselecteerde waarde is niet meer relevant door wijzigingen in <strong>{parents}</strong>.",
+        "comment": "Do not translate HTML markup enclosed in <> and {parents} placeholder as it will be replaced by list of filter names.",
+        "limit": 0
+    },
+    "attributesDropdown.irrelevantValues.clear": {
+        "value": "Wissen",
+        "comment": "",
+        "limit": 0
+    },
+    "attributesDropdown.showAll": {
+        "value": "Alle tonen",
+        "comment": "",
+        "limit": 0
+    },
+    "shareDialog.share.grantee.title": {
+        "value": "Delen met gebruikers en groepen",
+        "comment": "Title of dialog used for sharing of private dashboard with other users or user groups.",
+        "limit": 0
+    },
+    "shareDialog.share.grantee.share": {
+        "value": "Deel",
+        "comment": "Title of confirm button of share dialog",
+        "limit": 0
+    },
+    "shareDialog.share.grantee.list.title": {
+        "value": "Gedeeld met",
+        "comment": "Title shown above list of grantees in share dialog.",
+        "limit": 0
+    },
+    "shareDialog.share.grantee.add": {
+        "value": "Toevoegen",
+        "comment": "Label of button than adds a new grantee in share dialog.",
+        "limit": 0
+    },
+    "shareDialog.share.grantee.add.empty.selection": {
+        "value": "Geen gebruiker of groep geselecteerd.",
+        "comment": "Information message shown when there is no user or group in grantees list in share dialog.",
+        "limit": 0
+    },
+    "shareDialog.share.grantee.add.info": {
+        "value": "Gebruikers en groepen toevoegen",
+        "comment": "Title of dialog used for sharing of private dashboard with other users or user groups.",
+        "limit": 0
+    },
+    "shareDialog.share.grantee.add.search.placeholder": {
+        "value": "Gebruikers en groepen zoeken",
+        "comment": "Placeholder of empty share dialog search input.",
+        "limit": 0
+    },
+    "shareDialog.share.grantee.add.search.error.message": {
+        "value": "Laden van gebruikers en groepen mislukt. Probeer het later opnieuw.",
+        "comment": "Error message shown to the user when query in search input failed",
+        "limit": 0
+    },
+    "shareDialog.share.grantee.add.label.user": {
+        "value": "Gebruikers",
+        "comment": "Label shown to the user when query in search input matches an user",
+        "limit": 0
+    },
+    "shareDialog.share.grantee.add.label.group": {
+        "value": "Groepen",
+        "comment": "Label shown to the user when query in search input matches a group of users",
+        "limit": 0
+    },
+    "shareDialog.share.grantee.add.search.no.matching.items": {
+        "value": "Geen matchende gebruikers of groepen.",
+        "comment": "Information shown to the user when query in search input does no match any user or group.",
+        "limit": 0
+    },
+    "shareDialog.share.grantee.item.you": {
+        "value": "{userName} (u)",
+        "comment": "Text used for currently logged user in the list of grantees in share dialog. '{userName}' placeholder is replaced with logged use name, for example, 'John Doe (You)'. Do not translate '{userName}' placeholder.",
+        "limit": 0
+    },
+    "shareDialog.share.grantee.item.users.count": {
+        "value": "{granteeCount} gebruikers",
+        "comment": "Description of grantee user group in share dialog that informs about how many users are in the group. {granteeCount} placeholder will be replaced with a number, for example '110 users'. Do not translate '{granteeCount}' placeholder.",
+        "limit": 0
+    },
+    "shareDialog.share.grantee.item.creator": {
+        "value": "Creëerder",
+        "comment": "Tag rendered next to the name of a user in grantees list in share dialog that marks user as creator of the shared dashboard. The text is rendered in a 'pill' component.",
+        "limit": 0
+    },
+    "shareDialog.share.grantee.item.user.all": {
+        "value": "Alle gebruikers",
+        "comment": "Title of user group that contains all the users in the system.",
+        "limit": 0
+    },
+    "shareDialog.share.grantee.item.user.inactive": {
+        "value": "Inactieve gebruiker",
+        "comment": "Title of user that is inactive or deleted in workspace",
+        "limit": 0
+    },
+    "shareDialog.share.grantee.item.user.inactive.description": {
+        "value": "Gebruiker is verwijderd uit deze werkruimte",
+        "comment": "Description of inactive user",
+        "limit": 0
+    },
+    "shareDialog.share.grantee.item.remove.selection": {
+        "value": "Verwijderen uit sectie.",
+        "comment": "Text of the tooltip shown above button that removes user or group from unsaved selection of newly added grantees that will gain access right to the dashboard after changes in share dialog are saved.",
+        "limit": 0
+    },
+    "shareDialog.share.granular.grantee.permission.edit": {
+        "value": "Mag bewerken en delen",
+        "comment": "",
+        "limit": 0
+    },
+    "shareDialog.share.granular.grantee.permission.share": {
+        "value": "Mag bekijken en delen",
+        "comment": "",
+        "limit": 0
+    },
+    "shareDialog.share.granular.grantee.permission.view": {
+        "value": "Mag bekijken",
+        "comment": "",
+        "limit": 0
+    },
+    "shareDialog.share.granular.grantee.permission.remove": {
+        "value": "Verwijderen",
+        "comment": "",
+        "limit": 0
+    },
+    "shareDialog.share.granular.granularUser.tooltip.cannotChangeHigher": {
+        "value": "U kunt machtigingen voor gebruikers met hogere machtigingen dan u niet verwijderen of wijzigen.",
+        "comment": "",
+        "limit": 0
+    },
+    "shareDialog.share.granular.granularGroup.tooltip.cannotChangeHigher": {
+        "value": "U kunt machtigingen voor groepen met hogere machtigingen dan u niet verwijderen of wijzigen.",
+        "comment": "",
+        "limit": 0
+    },
+    "shareDialog.share.granular.grantee.tooltip.cannotGrantHigher": {
+        "value": "U kunt geen hogere machtigingen instellen dan u zelf hebt.",
+        "comment": "",
+        "limit": 0
+    },
+    "shareDialog.share.granular.granularUser.tooltip.cannotGrantLower": {
+        "value": "U kunt geen lagere instellingen instellen dan de machtigingen van gebruikersgroepen met deze gebruiker.",
+        "comment": "",
+        "limit": 0
+    },
+    "shareDialog.share.granular.granularGroup.tooltip.cannotGrantLower": {
+        "value": "U kunt geen lagere instellingen instellen dan de machtigingen van gebruikersgroepen met deze groep.",
+        "comment": "",
+        "limit": 0
+    },
+    "shareDialog.share.granular.granularUser.tooltip.cannotRemoveFromParent": {
+        "value": "U kunt geen machtigingen verwijderen voor deze gebruiker in deze werkruimte. Verwijder de machtigingen vanuit de bovenliggende werkruimte.",
+        "comment": "",
+        "limit": 0
+    },
+    "shareDialog.share.granular.granularGroup.tooltip.cannotRemoveFromParent": {
+        "value": "U kunt geen machtigingen voor deze gebruikersgroep in deze werkruimte verwijderen. Verwijder machtigingen vanuit de bovenliggende werkruimte.",
+        "comment": "",
+        "limit": 0
+    },
+    "shareDialog.share.granular.granularUser.tooltip.noChangeAvailable": {
+        "value": "U kunt geen machtigingen verwijderen of wijzigen voor deze gebruiker in deze werkruimte. Bewerk de machtigingen vanuit de bovenliggende werkruimte.",
+        "comment": "",
+        "limit": 0
+    },
+    "shareDialog.share.granular.granularGroup.tooltip.noChangeAvailable": {
+        "value": "U kunt geen machtigingen verwijderen of wijzigen voor deze gebruikersgroep in deze werkruimte. Bewerk de machtigingen vanuit de bovenliggende werkruimte.",
+        "comment": "",
+        "limit": 0
+    },
+    "shareDialog.share.granular.administrator.info": {
+        "value": "<b>Let op.</b> U en andere beheerders hebben volledige toegang tot alle dashboards.",
+        "comment": "",
+        "limit": 0
+    },
+    "sorting.dropdown.header|insight": {
+        "value": "Visualisatie sorteren",
+        "comment": "The title of sorting dropdown where you can choose which sort options you want to use. For example sort by attribute A1.",
+        "limit": 0
+    },
+    "sorting.dropdown.header|report": {
+        "value": "Sort report",
+        "comment": "The title of sorting dropdown where you can choose which sort options you want to use. For example sort by attribute A1.",
+        "limit": 0,
+        "translate": false
+    },
+    "sorting.type.alphabetical.asc": {
+        "value": "A tot Z",
+        "comment": "Title of sort option when visualization is sorted alphabetically and in ascending order.",
+        "limit": 0
+    },
+    "sorting.type.alphabetical.desc": {
+        "value": "Z tot A",
+        "comment": "Title of sort option when visualization is sorted alphabetically and in descending order.",
+        "limit": 0
+    },
+    "sorting.type.date.asc": {
+        "value": "Van oud naar nieuw",
+        "comment": "Title of sort option when visualization is sorted by date and in ascending order.",
+        "limit": 0
+    },
+    "sorting.type.date.desc": {
+        "value": "Van nieuw naar oud",
+        "comment": "Title of sort option when visualization is sorted by date and in descending order.",
+        "limit": 0
+    },
+    "sorting.type.default": {
+        "value": "Standaard",
+        "comment": "Title of sort option when visualization is sorted by default order.",
+        "limit": 0
+    },
+    "sorting.type.numerical.asc": {
+        "value": "Van kleinste naar grootste",
+        "comment": "Title of sort option when visualization is sorted numerically and in ascending order.",
+        "limit": 0
+    },
+    "sorting.type.numerical.desc": {
+        "value": "Van grootste naar kleinste",
+        "comment": "Title of sort option when visualization is sorted numerically and in descending order.",
+        "limit": 0
+    },
+    "sorting.by": {
+        "value": "met",
+        "comment": "Text that will appear before the measures from which attribute will be sorted.",
+        "limit": 0
+    },
+    "sorting.sum.of.all.measure": {
+        "value": "Totaal",
+        "comment": "Title of sort option when is sorted by sum of all measures.",
+        "limit": 0
+    },
+    "sorting.default.tooltip": {
+        "value": "Gebruik de volgorde zoals gedefinieerd in het attribuut.",
+        "comment": "Tooltip that explains user that default sorting of the selected attribute will be applied on the visualization.",
+        "limit": 0
+    },
+    "embedInsightDialog.actions.close": {
+        "value": "Sluiten",
+        "comment": "",
+        "limit": 0
+    },
+    "embedInsightDialog.actions.copyCode": {
+        "value": "Code kopiëren",
+        "comment": "Label of confirm button, copy code to clipboard.",
+        "limit": 0
+    },
+    "embedInsightDialog.component.type": {
+        "value": "Componenttype",
+        "comment": "Selector that define the component type of generated code Referential or Programmatic",
+        "limit": 0
+    },
+    "embedInsightDialog.code.language.codeAs": {
+        "value": "Codeer als",
+        "comment": "Selector that define language of generated code Typescript or Javascript",
+        "limit": 0
+    },
+    "embedInsightDialog.react.options": {
+        "value": "Overige opties",
+        "comment": "Options of generated code. Include component specific item, define height etc.",
+        "limit": 0
+    },
+    "embedInsightDialog.webComponents.options": {
+        "value": "Opties",
+        "comment": "Options of generated code. Include component specific item, define height etc.",
+        "limit": 0
+    },
+    "embedInsightDialog.webComponents.options.displayTitle": {
+        "value": "Titel tonen",
+        "comment": "",
+        "limit": 0
+    },
+    "embedInsightDialog.webComponents.options.customTitle": {
+        "value": "Aangepaste titel",
+        "comment": "Options of generated code. Include component specific item, define height etc.",
+        "limit": 0
+    },
+    "embedInsightDialog.webComponents.options.locale": {
+        "value": "Lokaal",
+        "comment": "Options of generated code. Include component specific item, define height etc.",
+        "limit": 0
+    },
+    "embedInsightDialog.webComponents.locale.tooltip": {
+        "value": "Kies een specifieke taallocatie. Indien uitgeschakeld wordt de weergave ingesteld op de huidige taalinstellingen voor weergave.",
+        "comment": "Tooltip for the web components locale",
+        "limit": 0
+    },
+    "embedInsightDialog.code.options.include.config.info|insight": {
+        "value": "Neem de visualisatieconfiguratie van kleuren, assen, legenda en canvas op, indien beschikbaar.",
+        "comment": "Tool tip that explain Include configuration",
+        "limit": 0
+    },
+    "embedInsightDialog.code.options.include.config.info|report": {
+        "value": "Include the report configuration of colors, axes, legend, and canvas if available.",
+        "comment": "Tool tip that explain Include configuration",
+        "limit": 0,
+        "translate": false
+    },
+    "embedInsightDialog.code.options.custom.height": {
+        "value": "Aangepaste hoogte",
+        "comment": "",
+        "limit": 0
+    },
+    "embedInsightDialog.code.options.display.configuration": {
+        "value": "Inclusief configuratie",
+        "comment": "",
+        "limit": 0
+    },
+    "embedInsightDialog.headLine.embedInsight|insight": {
+        "value": "Visualisatie insluiten",
+        "comment": "",
+        "limit": 0
+    },
+    "embedInsightDialog.headLine.embedInsight|report": {
+        "value": "Embed report",
+        "comment": "",
+        "limit": 0,
+        "translate": false
+    },
+    "embedInsightDialog.componentType.byReference.tooltip|insight": {
+        "value": "Insluiten als een verwijzing naar een opgeslagen visualisatie in een generiek GD.UI react component. Alle toekomstige wijzigingen aan de visualisatie (zoals visualisatietype, metriek, attributen) worden gereflecteerd in de ingesloten versie.",
+        "comment": "Tooltip that explain what Embed as a live visualization means",
+        "limit": 0
+    },
+    "embedInsightDialog.componentType.byReference.tooltip|report": {
+        "value": "Embed as a reference to a saved report in a generic GD.UI react component. Any future changes to the report (such as visualization type, metrics, attributes) will be reflected in the embedded version.",
+        "comment": "Tooltip that explain what Embed as a live visualization means",
+        "limit": 0,
+        "translate": false
+    },
+    "embedInsightDialog.componentType.byDefinition.tooltip|insight": {
+        "value": "Insluiten als een visualisatiedefinitie in een specifiek GD.UI react component op basis van het huidig geselecteerde visualisatietype. Toekomstige wijzigingen aan de visualisatie (zoals visualisatietype, metriek, attributen) die in deze toepassing worden gemaakt, zullen niet worden weerspiegeld in de ingesloten versie.",
+        "comment": "Tooltip that explain what Embed as a a permanent report",
+        "limit": 0
+    },
+    "embedInsightDialog.componentType.byDefinition.tooltip|report": {
+        "value": "Embed as an report definition in a specific GD.UI react component based on the currently selected visualization type. No future changes to the report (such as visualization type, metrics, attributes) made in this application will be reflected in the embedded version.",
+        "comment": "Tooltip that explain what Embed as a a permanent report",
+        "limit": 0,
+        "translate": false
+    },
+    "embedInsightDialog.webComponents.customTitle.tooltip": {
+        "value": "Bepaal de tekst van de titel rechtstreeks in het codefragment.",
+        "comment": "Tooltip for the web components custom title",
+        "limit": 0
+    },
+    "embedInsightDialog.webComponents.customTitle.disabled.tooltip": {
+        "value": "Schakel eerst de titel van de weergave in.",
+        "comment": "Tooltip for the web components custom title when it is disabled",
+        "limit": 0
+    },
+    "embedInsightDialog.prepareEnvironmentMessage": {
+        "value": "<b>Let op.</b> Om dit stukje te laten werken, moet u uw omgeving voorbereiden.",
+        "comment": "Do not translate html tags <b>, </b>",
+        "limit": 0
+    },
+    "embedInsightDialog.prepareEnvironmentMessage.link": {
+        "value": "Meer informatie",
+        "comment": "Link with additional info",
+        "limit": 0
+    },
+    "embed.dialog.numeric.input.validation": {
+        "value": "De waarde moet een getal zijn dat groter is dan 0",
+        "comment": "Validation of custom embedded dashboard height",
+        "limit": 0
+    },
+    "embed.dialog.numeric.input.warning": {
+        "value": "Deze invoer accepteert alleen getallen groter dan 0",
+        "comment": "Validation of custom embedded dashboard height",
+        "limit": 0
+    },
+    "embedInsightDialog.complete.list.props.message": {
+        "value": "Volledig lijst van ingesloten eigenschappen",
+        "comment": "Link to documentation of used component and all component properties",
+        "limit": 0
+    },
+    "embedInsightDialog.emptyInsight.byReference|insight": {
+        "value": "De geknipte code wordt hier weergegeven zodra u <a>de visualisatie opslaat</a>.",
+        "comment": "The disabled message for code area. Do not translate html tags <a>, </a>",
+        "limit": 0
+    },
+    "embedInsightDialog.emptyInsight.byReference|report": {
+        "value": "Code snipped will be displayed here once you <a>save the report</a>.",
+        "comment": "The disabled message for code area. Do not translate html tags <a>, </a>",
+        "limit": 0,
+        "translate": false
+    },
+    "embedInsightDialog.emptyInsight.byDefinition|insight": {
+        "value": "Dit visualisatietype kan niet worden ingesloten als programmatische typecomponent.",
+        "comment": "The disabled message for code area",
+        "limit": 0
+    },
+    "embedInsightDialog.emptyInsight.byDefinition|report": {
+        "value": "This report type cannot be embedded as programmatic type component.",
+        "comment": "The disabled message for code area",
+        "limit": 0,
+        "translate": false
+    },
+    "embedDialog.tab.react": {
+        "value": "Reageren",
+        "comment": "The tab title",
+        "limit": 0
+    },
+    "embedDialog.tab.webComponents": {
+        "value": "Webcomponenten",
+        "comment": "The tab title",
+        "limit": 0
+    },
+    "error.overlay.login": {
+        "value": "Login",
+        "comment": "",
+        "limit": 0
+    },
+    "error.overlay.title": {
+        "value": "U bent afgemeld",
+        "comment": "",
+        "limit": 0
+    },
+    "error.overlay.text": {
+        "value": "Meld u opnieuw aan om verder te werken.",
+        "comment": "",
+        "limit": 0
+    },
+    "stylingPicker.title.basic": {
+        "value": "Standaard",
+        "comment": "",
+        "limit": 0
+    },
+    "stylingPicker.title.custom": {
+        "value": "Aangepast",
+        "comment": "",
+        "limit": 0
+    },
+    "stylingPicker.title.create": {
+        "value": "Creëren",
+        "comment": "",
+        "limit": 0
+    },
+    "stylingEditor.dialog.name": {
+        "value": "Naam",
+        "comment": "",
+        "limit": 0
+    },
+    "stylingEditor.dialog.name.required": {
+        "value": "Opslaan niet mogelijk. Geef een naam op.",
+        "comment": "",
+        "limit": 0
+    },
+    "stylingEditor.dialog.definition": {
+        "value": "Definitie",
+        "comment": "Name of the text field to describe an object.",
+        "limit": 0
+    },
+    "stylingEditor.dialog.definition.required": {
+        "value": "Opslaan niet mogelijk. Geef een definitie op.",
+        "comment": "",
+        "limit": 0
+    },
+    "stylingEditor.dialog.definition.invalid": {
+        "value": "Opslaan niet mogelijk. De definitie is geen geldig JSON-object.",
+        "comment": "",
+        "limit": 0
+    },
+    "stylingEditor.dialog.examples": {
+        "value": "Sjablonen",
+        "comment": "",
+        "limit": 0
+    },
+    "stylingEditor.dialog.example.paste": {
+        "value": "Plakken",
+        "comment": "Button text to paste content into text field.",
+        "limit": 0
+    },
+    "stylingPicker.item.edit": {
+        "value": "Bewerken",
+        "comment": "",
+        "limit": 0
+    },
+    "stylingPicker.item.delete": {
+        "value": "Verwijderen",
+        "comment": "",
+        "limit": 0
+    },
+    "stylingPicker.item.delete.tooltip": {
+        "value": "Toegepast item kan niet worden verwijderd",
+        "comment": "",
+        "limit": 0
+    },
+    "descriptionPanel.button.more": {
+        "value": "Meer tonen",
+        "comment": "The button title which will display more description text",
+        "limit": 0
+    },
+    "descriptionPanel.button.less": {
+        "value": "Minder tonen",
+        "comment": "The button title which will display less description text.",
+        "limit": 0
+    },
+    "configurationPanel.drillConfig.learn.more.link": {
+        "value": "Meer informatie",
+        "comment": "Link with additional info",
+        "limit": 0
+    },
+    "configurationPanel.drillConfig.drillToDashboard.tooltip": {
+        "value": "Open een gerelateerde dashboard voor een uitgebreide weergave van het geselecteerde datapunt, waarbij relevante filters en context worden overgenomen. <a>Meer info</a>",
+        "comment": "Tooltip that explain what happens when drilling to dashboard. Do not translate html tags <a>, </a>.",
+        "limit": 0
+    },
+    "configurationPanel.drillConfig.drillToInsight.tooltip": {
+        "value": "Open een gerelateerde visualisatie, met behoud van de toegepaste filters van de oorspronkelijke weergave. <a>Lees meer</a>",
+        "comment": "Tooltip that explain what happens when drilling to visualization. Do not translate html tags <a>, </a>.",
+        "limit": 0
+    },
+    "configurationPanel.drillConfig.drillToUrl.tooltip": {
+        "value": "Open een aangepaste URL met dynamische parameters op basis van het geselecteerde datapunt. <a>Meer info</a>",
+        "comment": "Tooltip that explain what happens when drilling to custom URL. Do not translate html tags <a>, </a>.",
+        "limit": 0
+    },
+    "configurationPanel.drillConfig.drilldown": {
+        "value": "Inzoomen",
+        "comment": "The title of the drill down action.",
+        "limit": 0
+    },
+    "configurationPanel.drillConfig.drilldown.tooltip": {
+        "value": "Zoom in binnen de huidige visualisatie, volgens vooraf gedefinieerde attribuuthiërarchieën om uw gegevens op een steeds granulairder niveau te bekijken. <a>Lees meer</a>",
+        "comment": "Tooltip that explain what happens when drilling down. Do not translate html tags <a>, </a>.",
+        "limit": 0
+    },
+    "configurationPanel.drillConfig.drilldown.tooltip.disabled.insight": {
+        "value": "Inzoomen is uitgeschakeld in de configuratie van deze visualisatie.",
+        "comment": "Tooltip that explain drill down is disabled by visualization's configuration",
+        "limit": 0
+    },
+    "configurationPanel.drillConfig.drilldown.tooltip.disabled.metric": {
+        "value": "Inzoomen kan alleen worden ingesteld voor attributen, niet voor maatregelgegevens .",
+        "comment": "Tooltip that explain drill down is disabled for metrics",
+        "limit": 0
+    },
+    "configurationPanel.drillConfig.drilldown.emtpy.hierarchy.info": {
+        "value": "Attribuut moet in een hiërarchie aanwezig zijn om inzoomen in te schakelen.",
+        "comment": "Label show on drill down configuration that there is no hierarchy defined for the attribute",
+        "limit": 0
+    },
+    "configurationPanel.drillConfig.selectHierarchy": {
+        "value": "Hiërarchie kiezen...",
+        "comment": "Hint guiding users that attribute hierarchy in select box has to be selected. Use '…' as one character, not 3 dots ('...').",
+        "limit": 0
+    },
+    "configurationPanel.drillConfig.drilldown.create.hierarchy": {
+        "value": "Attribuuthiërachie maken",
+        "comment": "Link to create attribute hierarchy",
+        "limit": 0
+    },
+    "attributeHierarchyEditor.untitled": {
+        "value": "Attribuuthiërarchie zonder titel",
+        "comment": "Default title in attribute hierarchy editor",
+        "limit": 0
+    },
+    "attributeHierarchyEditor.hierarchy.levels": {
+        "value": "Hiërarchieniveaus",
+        "comment": "Label show hierarchy levels",
+        "limit": 0
+    },
+    "attributeHierarchyEditor.button.cancel": {
+        "value": "Annuleren",
+        "comment": "Text of cancel button",
+        "limit": 0
+    },
+    "attributeHierarchyEditor.button.create": {
+        "value": "Hiërarchie maken",
+        "comment": "Text of create button",
+        "limit": 0
+    },
+    "attributeHierarchyEditor.button.save": {
+        "value": "Wijzigingen opslaan",
+        "comment": "Text of save button",
+        "limit": 0
+    },
+    "attributeHierarchyEditor.button.delete": {
+        "value": "Verwijderen",
+        "comment": "Text of delete button",
+        "limit": 0
+    },
+    "attributeHierarchyEditor.delete.confirm.title": {
+        "value": "Attribuuthiërarchie verwijderen?",
+        "comment": "Title in confirm dialog when deleting hierarchy",
+        "limit": 0
+    },
+    "attributeHierarchyEditor.delete.confirm.message": {
+        "value": "Alle bestaande zoominteracties met deze hiërarchie worden verwijderd.",
+        "comment": "Text in confirm dialog when deleting hierarchy",
+        "limit": 0
+    },
+    "attributeHierarchyEditor.remove.attribute": {
+        "value": "Verwijderen",
+        "comment": "Tooltip for button remove attribute in hierarchy",
+        "limit": 0
+    },
+    "attributeHierarchyEditor.add.attribute": {
+        "value": "Attribuut toevoegen",
+        "comment": "Text for button add attribute in hierarchy",
+        "limit": 0
+    },
+    "attributeHierarchyEditor.add.attribute.above": {
+        "value": "Attribuut boven toevoegen",
+        "comment": "Text for button add attribute above the current item",
+        "limit": 0
+    },
+    "attributeHierarchyEditor.add.attribute.bellow": {
+        "value": "Attribuut onder toevoegen",
+        "comment": "Text for button add attribute bellow the current item",
+        "limit": 0
+    },
+    "attributeHierarchyEditor.howToWork.link": {
+        "value": "Zo werkt u met hiërarchieën",
+        "comment": "Link to document describe how attribute hierarchy works",
+        "limit": 0
+    },
+    "attributeHierarchyEditor.attribute.dropdown.title": {
+        "value": "Attribuut kiezen...",
+        "comment": "Use '…' as one character, not 3 dots ('...').",
+        "limit": 0
+    },
+    "attributeHierarchyEditor.attribute.dropdown.search": {
+        "value": "Bezig met zoeken…",
+        "comment": "Use '…' as one character, not 3 dots ('...').",
+        "limit": 0
+    },
+    "attributeHierarchyEditor.note.title": {
+        "value": "Opmerking:",
+        "comment": "Label for a note title",
+        "limit": 0
+    },
+    "attributeHierarchyEditor.note.message": {
+        "value": "<b>Let op:</b> de attribuuthiërarchie die u bepaalt wordt globaal ingesteld voor alle visualisaties. Hiermee kunt u inzoomen op interacties maar niet alleen voor de {br}huidige visualisatie, maar voor alle visualisaties met een van de attributen binnen de hiërarchie.",
+        "comment": "Information shown in create hierarchy editor. Do not translate html tags <b>, </b> and {br}.",
+        "limit": 0
+    },
+    "attributeHierarchyEditor.howItWorks.title": {
+        "value": "Hoe het werkt",
+        "comment": "Title of description section",
+        "limit": 0
+    },
+    "attributeHierarchyEditor.howItWorks.message.heading": {
+        "value": "Hiërarchie wordt toegepast op alle visualisaties.",
+        "comment": "Text in description section",
+        "limit": 0
+    },
+    "attributeHierarchyEditor.message.create.success": {
+        "value": "Heel goed. We hebben de attribuuthiërarchie samengesteld.",
+        "comment": "The toast message will be shown when the attribute hierarchy is created successfully.",
+        "limit": 0
+    },
+    "attributeHierarchyEditor.message.update.success": {
+        "value": "Heel goed. We hebben de attribuuthiërarchie opgeslagen.",
+        "comment": "The toast message will be shown when the attribute hierarchy is updated successfully.",
+        "limit": 0
+    },
+    "attributeHierarchyEditor.message.delete.success": {
+        "value": "Heel goed. We hebben de attribuuthiërarchie verwijderd.",
+        "comment": "The toast message will be shown when the attribute hierarchy is deleted successfully.",
+        "limit": 0
+    },
+    "attributeHierarchyEditor.message.create.failed": {
+        "value": "Maken mislukt. Probeer het later opnieuw.",
+        "comment": "The toast message will be shown when create the attribute hierarchy is failed.",
+        "limit": 0
+    },
+    "attributeHierarchyEditor.message.update.failed": {
+        "value": "Opslaan mislukt. Probeer het later opnieuw.",
+        "comment": "The toast message will be shown when save the attribute hierarchy is failed.",
+        "limit": 0
+    },
+    "attributeHierarchyEditor.message.delete.failed": {
+        "value": "Verwijderen mislukt. Probeer het later opnieuw.",
+        "comment": "The toast message will be shown when delete the attribute hierarchy is failed.",
+        "limit": 0
+    },
+    "attributeHierarchyEditor.howItWorks.message.content": {
+        "value": "Zoominteractie wordt niet alleen voor deze visualisatie ingeschakeld, maar alle visualisaties met een van de attributen in de hiërarchie.",
+        "comment": "Text in description section",
+        "limit": 0
+    },
+    "attributeHierarchyList.tooltip.generic.date.title": {
+        "value": "Algemene datum",
+        "comment": "Title of hierarchy for date",
+        "limit": 0
+    },
+    "attributeHierarchyList.tooltip.generic.date.info": {
+        "value": "Deze hiërarchie wordt automatisch gegenereerd en is van toepassing op elke datumdimensie.",
+        "comment": "Text show in date hierarchy",
+        "limit": 0
+    },
+    "attributeHierarchyList.tooltip.hierarchy.levels": {
+        "value": "Hiërarchieniveaus",
+        "comment": "Label show hierarchy levels",
+        "limit": 0
+    },
+    "attributeHierarchyList.tooltip.button.edit": {
+        "value": "Bewerken",
+        "comment": "Text for edit button",
+        "limit": 0
+    },
+    "catalog.attribute.tooltip.hierarchy.title": {
+        "value": "Hiërarchie",
+        "comment": "Title of hierarchy section",
+        "limit": 0
+    },
+    "visualizationConfig.interactions.section.title": {
+        "value": "Interacties",
+        "comment": "Title of interactions section",
+        "limit": 0
+    },
+    "visualizationConfig.interactions.section.drilldown": {
+        "value": "Inzoomen",
+        "comment": "Text of drill down option",
+        "limit": 0
+    },
+    "workspaceHierarchy.lockedInsight|insight": {
+        "value": "Alleen Admins kunnen wijzigingen in deze visualisatie opslaan.",
+        "comment": "Shown when hovering over lock indicator.",
+        "limit": 0
+    },
+    "workspaceHierarchy.lockedInsight|report": {
+        "value": "Only Admins can save changes to this report.",
+        "comment": "Shown when hovering over lock indicator.",
+        "translate": false,
+        "limit": 0
+    },
+    "workspaceHierarchy.inheritedInsight|insight": {
+        "value": "U kunt deze visualisatie niet bewerken of verwijderen.{br}Het wordt centraal beheerd en gecertificeerd.",
+        "comment": "Shown when hovering over lock indicator. Dont translate html tag placeholder {br}.",
+        "limit": 0
+    },
+    "workspaceHierarchy.inheritedInsight|report": {
+        "value": "You cannot edit or delete this report.{br}It is centrally managed and certified.",
+        "comment": "Shown when hovering over lock indicator. Dont translate html tag placeholder {br}.",
+        "translate": false,
+        "limit": 0
+    },
+    "userManagement.workspace.noMatchingItems": {
+        "value": "Geen overeenkomende werkruimten.",
+        "comment": "Information shown to the user when query in search input does no match any workspace.",
+        "limit": 0
+    },
+    "userManagement.workspace.searchPlaceholder": {
+        "value": "Zoeken in werkruimten",
+        "comment": "Placeholder of empty workspace dialog search input.",
+        "limit": 0
+    },
+    "userManagement.workspace.searchError": {
+        "value": "Laden van werkruimten mislukt. Probeer het later opnieuw.",
+        "comment": "Error message shown to the user when query in search input failed",
+        "limit": 0
+    },
+    "userManagement.dataSource.searchError": {
+        "value": "Laden van gegevensbronnen mislukt. Probeer het later opnieuw.",
+        "comment": "Error message shown to the user when query in search input failed",
+        "limit": 0
+    },
+    "userManagement.workspace.emptySelection.user.view": {
+        "value": "Deze gebruiker heeft geen machtigingen voor werkruimten.",
+        "comment": "Information shown when no workspaces were selected yet.",
+        "limit": 0
+    },
+    "userManagement.workspace.emptySelection.userGroup.view": {
+        "value": "Deze groep heeft geen machtigingen voor werkruimten.",
+        "comment": "Information shown when no workspaces were selected yet.",
+        "limit": 0
+    },
+    "userManagement.workspace.emptySelection.edit": {
+        "value": "Geen werkruimte geselecteerd.",
+        "comment": "Shown when user did not typed anything to the search dialog.",
+        "limit": 0
+    },
+    "userManagement.workspace.title": {
+        "value": "Werkruimtemachtiging toevoegen",
+        "comment": "Title of dialog used for granting workspace permission to users or groups.",
+        "limit": 0
+    },
+    "userManagement.workspace.edit.title": {
+        "value": "Werkruimtetoestemming bewerken",
+        "comment": "Title of dialog used for granting workspace permission to users or groups.",
+        "limit": 0
+    },
+    "userManagement.dataSource.searchPlaceholder": {
+        "value": "Gegevensbronnen zoeken",
+        "comment": "Placeholder of empty data source dialog search input.",
+        "limit": 0
+    },
+    "userManagement.workspace.addButton": {
+        "value": "Toevoegen",
+        "comment": "Title of confirm button that adds new items to the list.",
+        "limit": 0
+    },
+    "userManagement.userGroups.addButton": {
+        "value": "Toevoegen",
+        "comment": "Title of confirm button that adds new items to the list.",
+        "limit": 0
+    },
+    "userManagement.userGroups.cancelButton": {
+        "value": "Annuleren",
+        "comment": "Button that closes the current dialog.",
+        "limit": 0
+    },
+    "userManagement.tab.workspaces": {
+        "value": "Werkruimten ({count})",
+        "comment": "Label of tab that lists user permissions to workspaces. Do not translate placeholder {count}. It will be replaced by number of assigned permissions in runtime.",
+        "limit": 0
+    },
+    "userManagement.tab.groups": {
+        "value": "Groepen ({count})",
+        "comment": "Label of tab that lists user groups user is member of. Do not translate placeholder {count}. It will be replaced by number of assigned groups in runtime.",
+        "limit": 0
+    },
+    "userManagement.tab.users": {
+        "value": "Leden ({count}) ",
+        "comment": "Label of tab that lists user members of a user group. Do not translate placeholder {count}. It will be replaced by number of group members in runtime.",
+        "limit": 0
+    },
+    "userManagement.tab.details": {
+        "value": "Details",
+        "comment": "Label of tab that lists user details (name, surname, etc.)",
+        "limit": 0
+    },
+    "userManagement.buttons.addWorkspace": {
+        "value": "Werkruimtemachtiging toevoegen",
+        "comment": "Label of button that opens selection of workspaces user can get permissions to.",
+        "limit": 0
+    },
+    "userManagement.buttons.addToGroup": {
+        "value": "Toevoegen aan groep",
+        "comment": "Label of button that opens selection of groups user can be assigned into to.",
+        "limit": 0
+    },
+    "userManagement.buttons.addUser": {
+        "value": "Leden toevoegen",
+        "comment": "Label of button that opens selection of users that can be assigned into the group.",
+        "limit": 0
+    },
+    "userManagement.buttons.edit": {
+        "value": "Bewerken",
+        "comment": "Label of button that edit user's details (name, surname, etc.)",
+        "limit": 0
+    },
+    "userManagement.dataSource.title": {
+        "value": "Toestemming gegevensbron toevoegen",
+        "comment": "Title of dialog used for granting data source permission to users or groups.",
+        "limit": 0
+    },
+    "userManagement.tab.dataSources": {
+        "value": "Gegevensbronnen ({count})",
+        "comment": "Label of tab that lists data sources assigned to a user. Do not translate placeholder {count}. It will be replaced by number of data sources in runtime.",
+        "limit": 0
+    },
+    "userManagement.buttons.addDataSourcePermission": {
+        "value": "Toestemming gegevensbron toevoegen",
+        "comment": "Label of button that opens selection of users that can be assigned into the group.",
+        "limit": 0
+    },
+    "userManagement.dataSources.emptySelection.view": {
+        "value": "Deze gebruiker heeft geen toestemming voor gegevensbronnen.",
+        "comment": "Information shown when no data sources were selected yet.",
+        "limit": 0
+    },
+    "userManagement.dataSources.emptySelection.userGroup.view": {
+        "value": "Deze groep heeft geen toestemming voor gegevensbronnen.",
+        "comment": "Information shown when no data sources were selected yet.",
+        "limit": 0
+    },
+    "userManagement.dataSources.emptySelection.edit": {
+        "value": "Geen gegevensbronnen geselecteerd.",
+        "comment": "Shown when user did not typed anything to the search dialog.",
+        "limit": 0
+    },
+    "userManagement.dataSources.permission.manage": {
+        "value": "Beheren",
+        "comment": "Name of the data source permission that allows user to fully manage data in data source.",
+        "limit": 0
+    },
+    "userManagement.dataSources.permission.use": {
+        "value": "Gebruiken",
+        "comment": "Name of the data source permission that allows user to use data in data source.",
+        "limit": 0
+    },
+    "userManagement.dataSources.permission.remove": {
+        "value": "Verwijderen",
+        "comment": "Label of option that removes data source permission from user and user group.",
+        "limit": 0
+    },
+    "userManagement.dataSources.noMatchingItems": {
+        "value": "Geen overeenkomende gegevensbron.",
+        "comment": "Message shown when no data source matches search criteria.",
+        "limit": 0
+    },
+    "userManagement.users.multipleDataSources.addSuccess": {
+        "value": "Heel goed. U hebt machtigingen toegevoegd aan de gebruikers.",
+        "comment": "Confirmation message shown to the user when data source permission was added successfully to multiple users.",
+        "limit": 0
+    },
+    "userManagement.userGroups.multipleDataSources.addSuccess": {
+        "value": "Heel goed. U hebt machtigingen toegevoegd aan de groepen.",
+        "comment": "Confirmation message shown to the user when data source permissions were added to multiple user groups successfully.",
+        "limit": 0
+    },
+    "userManagement.users.multipleDataSources.addError": {
+        "value": "Toevoeging van de machtiging aan de gebruikers mislukt.",
+        "comment": "Error message shown to user when addition of data source permission to multiple users failed.",
+        "limit": 0
+    },
+    "userManagement.userGroups.multipleDataSources.addError": {
+        "value": "Toevoeging van de machtiging aan de groepen mislukt.",
+        "comment": "Error message shown to user when addition of data source permission to multiple user groups failed.",
+        "limit": 0
+    },
+    "userManagement.dataSources.removeSuccess": {
+        "value": "Heel goed. U hebt met succes de toestemming voor de gegevensbron verwijderd.",
+        "comment": "Confirm message shown to user when data source permission was successfully deleted.",
+        "limit": 0
+    },
+    "userManagement.dataSources.removeError": {
+        "value": "Verwijdering van toestemming voor de gegevensbron mislukt.",
+        "comment": "Error message shown to user when data source permission deletion failed.",
+        "limit": 0
+    },
+    "userManagement.dataSources.changeSuccess": {
+        "value": "Heel goed. U hebt met succes de toestemming(en) voor de gegevensbron gewijzigd.",
+        "comment": "Confirmation message shown to the user when change of one or more data source permission succeeded.",
+        "limit": 0
+    },
+    "userManagement.dataSources.changeError": {
+        "value": "Wijziging van toestemming(en) voor gegevensbron mislukt.",
+        "comment": "Error message shown to the user when change of one or more data source permissions failed.",
+        "limit": 0
+    },
+    "userManagement.users.deleteLink": {
+        "value": "Gebruiker verwijderen",
+        "comment": "Label of link that deletes the user.",
+        "limit": 0
+    },
+    "userManagement.userGroups.deleteLink": {
+        "value": "Groep verwijderen",
+        "comment": "Label of link that deletes the user grouo.",
+        "limit": 0
+    },
+    "userManagement.closeButton": {
+        "value": "Sluiten",
+        "comment": "Label of button that closes the dialog",
+        "limit": 0
+    },
+    "userManagement.workspace.removeSuccess": {
+        "value": "Heel goed. U hebt de machtiging verwijderd.",
+        "comment": "Confirm message shown to user when workspace permission was successfully deleted.",
+        "limit": 0
+    },
+    "userManagement.workspace.removeError": {
+        "value": "Verwijdering van machtiging mislukt.",
+        "comment": "Error message shown to user when workspace permission deletion failed.",
+        "limit": 0
+    },
+    "userManagement.workspace.addSuccess": {
+        "value": "Heel goed. U hebt met succes de toestemming(en) voor de werkruimte toegevoegd.",
+        "comment": "Confirm message shown to user when one or more workspace permissions were successfully added to a single user.",
+        "limit": 0
+    },
+    "userManagement.workspace.addError": {
+        "value": "Toevoeging van de toestemming(en) voor de werkruimte mislukt.",
+        "comment": "Error message shown to user when workspace permission addition failed.",
+        "limit": 0
+    },
+    "userManagement.dataSource.addSuccess": {
+        "value": "Heel goed. U hebt met succes de toestemming(en) voor de gegevensbron toegevoegd",
+        "comment": "Confirm message shown to user when one or more workspace permissions were successfully added to a single user.",
+        "limit": 0
+    },
+    "userManagement.dataSource.addError": {
+        "value": "Toevoeging van de toestemming(en) voor de gegevensbron mislukt.",
+        "comment": "Error message shown to user when workspace permission addition failed.",
+        "limit": 0
+    },
+    "userManagement.users.multipleWorkspaces.addSuccess": {
+        "value": "Heel goed. U hebt met succes toestemmingen voor werkruimte toegevoegd aan de gebruikers.",
+        "comment": "Confirmation message shown to the user when workspace permission was added successfully to multiple users.",
+        "limit": 0
+    },
+    "userManagement.users.multipleWorkspaces.addError": {
+        "value": "Toevoeging van toestemming voor werkruimte aan de gebruikers mislukt.",
+        "comment": "Error message shown to user when addition of workspace permission to multiple users failed.",
+        "limit": 0
+    },
+    "userManagement.userGroups.multipleWorkspaces.addSuccess": {
+        "value": "Heel goed. U hebt met succes toestemmingen voor werkruimte toegevoegd aan de groepen.",
+        "comment": "Confirmation message shown to the user when workspace permissions were added to multiple user groups successfully.",
+        "limit": 0
+    },
+    "userManagement.userGroups.multipleWorkspaces.addError": {
+        "value": "Toevoeging van toestemming voor de werkruimte aan de groepen mislukt.",
+        "comment": "Error message shown to user when addition of workspace permission to multiple user groups failed.",
+        "limit": 0
+    },
+    "userManagement.workspace.changeSuccess": {
+        "value": "Heel goed. U hebt met succes toestemming(en) voor de werkruimte gewijzigd.",
+        "comment": "Confirmation message shown to the user when change of one or more workspace permission succeeded.",
+        "limit": 0
+    },
+    "userManagement.workspace.changeError": {
+        "value": "Wijziging van toestemming(en) voor de werkruimte mislukt.",
+        "comment": "Error message shown to the user when change of one or more workspace permissions failed.",
+        "limit": 0
+    },
+    "userManagement.workspace.hierarchicalPermission.yes": {
+        "value": "Subhiërarchie insluiten",
+        "comment": "Label of option that states that selected permission will be added to the selected workspace and to all workspaces in tree hierarchy of workspaces under it.",
+        "limit": 0
+    },
+    "userManagement.workspace.hierarchicalPermission.yes.tooltip": {
+        "value": "Pas de machtiging toe op deze werkruimte en alle onderliggende werkruimten.",
+        "comment": "Tooltip that explains option that adds permission to workspace and all the child workpaces in the tree hierarchy.",
+        "limit": 0
+    },
+    "userManagement.workspace.hierarchicalPermission.no": {
+        "value": "Deze werkruimte",
+        "comment": "Label of option that states that selected permission will be added just to the selected workspace and not to workspace in tree hierarchy of workspaces under it.",
+        "limit": 0
+    },
+    "userManagement.workspace.hierarchicalPermission.no.tooltip": {
+        "value": "Pas de machtiging alleen toe op deze werkruimte.",
+        "comment": "Tooltip that explains option that adds permission to only the selected workspace and not to any of the child workpaces in the tree hierarchy.",
+        "limit": 0
+    },
+    "userManagement.workspace.permission.view": {
+        "value": "Bekijken",
+        "comment": "Name of the workspace permission that allows user view workspace objects.",
+        "limit": 0
+    },
+    "userManagement.workspace.permissionUser.view.tooltip": {
+        "value": "De gebruiker kan dashboards bekijken die met hem of haar zijn gedeeld.",
+        "comment": "Tooltip of the workspace permission that allows user view workspace objects.",
+        "limit": 0
+    },
+    "userManagement.workspace.permissionGroup.view.tooltip": {
+        "value": "De groepsleden kunnen dashboards bekijken die met de groep zijn gedeeld.",
+        "comment": "Tooltip of the workspace permission that allows user group view workspace objects.",
+        "limit": 0
+    },
+    "userManagement.workspace.permission.viewSaveViews": {
+        "value": "Weergaven bekijken en opslaan",
+        "comment": "Name of the workspace permission that allows user view workspace objects.",
+        "limit": 0
+    },
+    "userManagement.workspace.permissionUser.viewSaveViews.tooltip": {
+        "value": "De gebruiker kan dashboards bekijken die met hem zijn gedeeld en de status van dashboardfilters opslaan als persoonlijke weergaven voor toekomstig gebruik.",
+        "comment": "Tooltip of the workspace permission that allows user view workspace objects.",
+        "limit": 0
+    },
+    "userManagement.workspace.permissionGroup.viewSaveViews.tooltip": {
+        "value": "De groepsleden kunnen dashboards bekijken die met hen zijn gedeeld en de status van dashboardfilters opslaan als persoonlijke weergaven voor toekomstig gebruik.",
+        "comment": "Tooltip of the workspace permission that allows user group view workspace objects.",
+        "limit": 0
+    },
+    "userManagement.dataSources.permissionUser.use.tooltip": {
+        "value": "De gebruiker kan gegevensbronnen gebruiken die met hen zijn gedeeld.",
+        "comment": "Tooltip of the data source permission that allows user use data source objects.",
+        "limit": 0
+    },
+    "userManagement.dataSources.permissionGroup.use.tooltip": {
+        "value": "De groepsleden kunnen gegevensbronnen gebruiken die met de groep zijn gedeeld.",
+        "comment": "Tooltip of the data source permission that allows user group use data source objects.",
+        "limit": 0
+    },
+    "userManagement.workspace.permission.viewExport": {
+        "value": "Tonen en exporteren",
+        "comment": "Name of the workspace permission that allows user view and export workspace objects.",
+        "limit": 0
+    },
+    "userManagement.workspace.permissionUser.viewExport.tooltip": {
+        "value": "Dekt de weergavemachtiging. Daarnaast kan de gebruiker dashboards exporteren naar PDF-bestanden en data in tabelvorm vanuit visualisaties naar XLSX- en CSV-bestanden.",
+        "comment": "Tooltip of the workspace permission that allows user view and export workspace objects.",
+        "limit": 0
+    },
+    "userManagement.workspace.permissionGroup.viewExport.tooltip": {
+        "value": "Dekt de weergavemachtiging. Daarnaast kunnen de groepsledendashboards exporteren naar PDF-bestanden en data in tabelvorm vanuit visualisaties naar XLSX- en CSV-bestanden.",
+        "comment": "Tooltip of the workspace permission that allows user group view and export workspace objects.",
+        "limit": 0
+    },
+    "userManagement.workspace.permission.viewExportSaveViews": {
+        "value": "Weergaven bekijken, exporteren en opslaan",
+        "comment": "Name of the workspace permission that allows user view and export workspace objects and save filter view objects.",
+        "limit": 0
+    },
+    "userManagement.workspace.permissionUser.viewExportSaveViews.tooltip": {
+        "value": "Omvat de toestemming Bekijken. Daarnaast kan de gebruiker dashboards en visualisaties maken, bewerken of verwijderen en het LDM en de metriek bekijken. Ze kunnen ook dashboards exporteren naar PDF-bestanden en gegevens in tabelvorm van visualisaties naar XLSX- en CSV-bestanden, en de status van dashboardfilters opslaan als persoonlijke weergaven voor toekomstig gebruik.",
+        "comment": "Tooltip of the workspace permission that allows user view and export workspace objects.",
+        "limit": 0
+    },
+    "userManagement.workspace.permissionGroup.viewExportSaveViews.tooltip": {
+        "value": "Omvat de toestemming Bekijken. Daarnaast kunnen de groepsleden dashboards en visualisaties maken, bewerken of verwijderen en de LDM en metriek bekijken. Ze kunnen ook dashboards exporteren naar PDF-bestanden en gegevens in tabelvorm van visualisaties naar XLSX- en CSV-bestanden, en de status van dashboardfilters opslaan als persoonlijke weergaven voor toekomstig gebruik.",
+        "comment": "Tooltip of the workspace permission that allows user group view and export workspace objects.",
+        "limit": 0
+    },
+    "userManagement.workspace.permission.analyze": {
+        "value": "Analyseren",
+        "comment": "Name of the workspace permission that allows user analyze data in workspace.",
+        "limit": 0
+    },
+    "userManagement.workspace.permissionUser.analyze.tooltip": {
+        "value": "Covers the View and Save Views permissions. Additionally, the user can create, edit, or delete dashboards and visualizations, and view the LDM and metrics.",
+        "comment": "Tooltip of the workspace permission that allows user analyze data in workspace.",
+        "limit": 0
+    },
+    "userManagement.workspace.permissionGroup.analyze.tooltip": {
+        "value": "Covers the View and Save Views permissions. Additionally, the group members can create, edit, or delete dashboards and visualizations, and view the LDM and metrics.",
+        "comment": "Tooltip of the workspace permission that allows user group analyze data in workspace.",
+        "limit": 0
+    },
+    "userManagement.workspace.permission.analyzeExport": {
+        "value": "Analyseren en exporteren",
+        "comment": "Name of the workspace permission that allows user analyze and export data in workspace.",
+        "limit": 0
+    },
+    "userManagement.workspace.permissionUser.analyzeExport.tooltip": {
+        "value": "Covers the View and Save Views permissions. Additionally, the user can create, edit, or delete dashboards and visualizations, and view the LDM and metrics. They can also export dashboards to PDF files and tabular data from visualizations to XLSX and CSV files.",
+        "comment": "Tooltip of the workspace permission that allows user analyze and export data in workspace.",
+        "limit": 0
+    },
+    "userManagement.workspace.permissionGroup.analyzeExport.tooltip": {
+        "value": "Covers the View and Save Views permissions. Additionally, the group members can create, edit, or delete dashboards and visualizations, and view the LDM and metrics. They can also export dashboards to PDF files and tabular data from visualizations to XLSX and CSV files.",
+        "comment": "Tooltip of the workspace permission that allows user analyze and export and analyze data in workspace.",
+        "limit": 0
+    },
+    "userManagement.workspace.permission.manage": {
+        "value": "Beheren",
+        "comment": "Name of the workspace permission that allows user to fully manage data in workspace.",
+        "limit": 0
+    },
+    "userManagement.workspace.permissionUser.manage.tooltip": {
+        "value": "Covers the View, Analyze, Export, and Save Views permissions. Additionally, the user can create, edit, or delete the logical data model and metrics, and gets unrestricted access to all dashboards and their permissions.",
+        "comment": "Tooltip of the workspace permission that allows user to fully manage data in workspace.",
+        "limit": 0
+    },
+    "userManagement.workspace.permissionGroup.manage.tooltip": {
+        "value": "Covers the View, Analyze, Export, and Save Views permissions. Additionally, the group members can create, edit, or delete the logical data model and metrics, and gets unrestricted access to all dashboards and their permissions.",
+        "comment": "Tooltip of the workspace permission that allows user group to fully manage data in workspace.",
+        "limit": 0
+    },
+    "userManagement.dataSources.permissionUser.manage.tooltip": {
+        "value": "Gebruikers kunnen de gegevensbronnen maken, bewerken of verwijderen.",
+        "comment": "Tooltip of the data source permission that allows user to fully manage data sources.",
+        "limit": 0
+    },
+    "userManagement.dataSources.permissionGroup.manage.tooltip": {
+        "value": "Groepsleden kunnen gegevensbronnen maken, bewerken of verwijderen.",
+        "comment": "Tooltip of the data source permission that allows user group to fully manage data sources.",
+        "limit": 0
+    },
+    "userManagement.workspace.permission.export": {
+        "value": "Exporteren",
+        "comment": "Name of the workspace permission that allows user to export data in workspace.",
+        "limit": 0
+    },
+    "userManagement.workspace.permission.export.tooltip": {
+        "value": "EXPORT-toestemming toevoegen om dashboards en visualisaties in verschillende formaatregelen te exporteren.",
+        "comment": "Export permission tooltip",
+        "limit": 0
+    },
+    "userManagement.workspace.permission.exportTabular": {
+        "value": "XLSX en CSV exporteren",
+        "comment": "Name of the workspace permission that allows user to export data in workspace.",
+        "limit": 0
+    },
+    "userManagement.workspace.permission.exportTabular.tooltip": {
+        "value": "EXPORT_TABULAR-toestemming toevoegen om dashboards en visualisaties te exporteren in CSV- en XLSX-indelingen.",
+        "comment": "Export tabular permission tooltip",
+        "limit": 0
+    },
+    "userManagement.workspace.permission.exportPdf": {
+        "value": "PDF exporteren",
+        "comment": "Name of the workspace permission that allows user to export data in workspace.",
+        "limit": 0
+    },
+    "userManagement.workspace.permission.exportPdf.tooltip": {
+        "value": "EXPORT_PDF-toestemming toevoegen om dashboards en visualisaties als PDF-bestanden te exporteren.",
+        "comment": "Export PDF permission tooltip",
+        "limit": 0
+    },
+    "userManagement.workspace.permission.createFilterView": {
+        "value": "Opgeslagen filterweergaven",
+        "comment": "Name of the workspace permission that allows user to create filter views in workspace.",
+        "limit": 0
+    },
+    "userManagement.workspace.permission.createFilterView.tooltip": {
+        "value": "CREATE_FILTER_VIEW-toestemming toevoegen om dashboard filtercombinaties te maken en op te slaan voor snel hergebruik.",
+        "comment": "Create saved filter view permission tooltip",
+        "limit": 0
+    },
+    "userManagement.workspace.permission.createAutomation": {
+        "value": "Waarschuwingen en geplande export",
+        "comment": "Name of the workspace permission that allows user to create automations in workspace.",
+        "limit": 0
+    },
+    "userManagement.workspace.permission.createAutomation.tooltip": {
+        "value": "CREATE_AUTOMATIONS-toestemming toevoegen om geautomatiseerde waarschuwingen en geplande exports te maken.",
+        "comment": "Create automation permission tooltip",
+        "limit": 0
+    },
+    "userManagement.workspace.granularPermission.noWorkspace": {
+        "value": "Geen werkruimte geselecteerd",
+        "comment": "Empty content message",
+        "limit": 0
+    },
+    "userManagement.workspace.granularPermission.hierarchy": {
+        "value": "Kindwerkruimten voor kinderen opnemen",
+        "comment": "Label of option that states that selected permission will be added to the selected workspace and to all workspaces in tree hierarchy of workspaces under it.",
+        "limit": 0
+    },
+    "userManagement.workspace.granularPermission.hierarchy.tooltip": {
+        "value": "De toestemming toepassen op deze werkruimte en al haar kindwerkruimten.",
+        "comment": "Tooltip that explains option that adds permission to workspace and children.",
+        "limit": 0
+    },
+    "userManagement.workspace.granularPermission.workspaceAccess.title": {
+        "value": "Toegang tot werkruimte",
+        "comment": "Label of workspace subsection of permissions",
+        "limit": 0
+    },
+    "userManagement.workspace.granularPermission.additionalAccess.title": {
+        "value": "Extra machtigingen",
+        "comment": "Label of additional subsection of permissions",
+        "limit": 0
+    },
+    "userManagement.workspace.granularPermission.help": {
+        "value": "Meer informatie over machtigingen voor werkruimten",
+        "comment": "Label of help button for permissions",
+        "limit": 0
+    },
+    "userManagement.workspace.granularPermission.view.description": {
+        "value": "Hiermee kunnen gebruikers dashboards bekijken die met hen of hun gebruikersgroep zijn gedeeld.",
+        "comment": "Description of permission",
+        "limit": 0
+    },
+    "userManagement.workspace.granularPermission.analyze.description": {
+        "value": "Hiermee kunnen gebruikers dashboards en visualisaties maken, bewerken of verwijderen, naast het bekijken van het Logical Data Model (LDM) en statistieken.",
+        "comment": "Description of permission",
+        "limit": 0
+    },
+    "userManagement.workspace.granularPermission.manage.description": {
+        "value": "Hiermee kunnen gebruikers het logische datamodel en de statistieken openen, bewerken of verwijderen, en hebben ze toegang tot alle dashboards en kunnen ze hun dashboardtoestemmingen zonder beperkingen bewerken.",
+        "comment": "Description of permission",
+        "limit": 0
+    },
+    "userManagement.workspace.granularPermission.warning": {
+        "value": "<b>Voorzichtig:</b> Deze actie verwijdert overbodige combinaties.",
+        "comment": "Warning message shown when user tries to add 'Manage' permission to user or user group.",
+        "limit": 0
+    },
+    "userManagement.workspace.permission.remove": {
+        "value": "Verwijderen",
+        "comment": "Label of option that removes workspace permission from user and user group.",
+        "limit": 0
+    },
+    "userManagement.workspace.permission.and": {
+        "value": "en",
+        "comment": "Connection word when concatenating permissions",
+        "limit": 0
+    },
+    "userManagement.groupDetail.id.label": {
+        "value": "ID",
+        "comment": "Label of input that contains ID of the user group.",
+        "limit": 0
+    },
+    "userManagement.groupDetail.name.label": {
+        "value": "Naam",
+        "comment": "Label of input that contains name of the user group.",
+        "limit": 0
+    },
+    "userManagement.userDetail.firstName.label": {
+        "value": "Voornaam",
+        "comment": "Label of input that contains first name of the user.",
+        "limit": 0
+    },
+    "userManagement.userDetail.lastName.label": {
+        "value": "Achternaam",
+        "comment": "Label of input that contains last name of the user.",
+        "limit": 0
+    },
+    "userManagement.userDetail.email.label": {
+        "value": "E-mail",
+        "comment": "Label of input that contains e-mail of the user.",
+        "limit": 0
+    },
+    "userManagement.userDetail.orgPermission.label": {
+        "value": "Org. machtiging",
+        "comment": "Label of input that contains state of the user organization permissions. The possible values are 'admin' or 'member'.",
+        "limit": 0
+    },
+    "userManagement.detail.orgPermission.admin": {
+        "value": "Admin",
+        "comment": "One of the possible types of user's organization permissions. It states user is organization administrator.",
+        "limit": 0
+    },
+    "userManagement.detail.orgPermission.admin.tooltip": {
+        "value": "Organisatiebeheerder. Deze gebruiker heeft toegang tot alle beschermde acties en bronnen.",
+        "comment": "Tooltip that explains what does it mean if user is organization administrator. Displayed over option called 'Admin'",
+        "limit": 0
+    },
+    "userManagement.detail.orgPermission.member": {
+        "value": "Lid",
+        "comment": "One of the possible types of user's organization permissions. It states user is standard member without any elevated permissions.",
+        "limit": 0
+    },
+    "userManagement.detail.orgPermission.member.tooltip": {
+        "value": "Organisatiebeheerder. Deze gebruiker heeft toegang tot acties of bronnen waartoe deze is gemachtigd.",
+        "comment": "Tooltip that explains what does it mean if user is organization member. Displayed over option called 'Member'",
+        "limit": 0
+    },
+    "userManagement.userDetail.id.label": {
+        "value": "ID",
+        "comment": "Label of input that contains ID of the user.",
+        "limit": 0
+    },
+    "userManagement.userDetail.emptyValue": {
+        "value": "niet ingesteld",
+        "comment": "Value displayed in user form when user detail does not have value (for example he does not have first name, last name, etc.)",
+        "limit": 0
+    },
+    "userManagement.userGroups.emptySelection.view": {
+        "value": "Deze gebruiker is geen lid van een groep.",
+        "comment": "Information message shown when lst of user's user groups is empty.",
+        "limit": 0
+    },
+    "userManagement.userGroups.emptySelection.edit": {
+        "value": "Geen groepen geselecteerd.",
+        "comment": "Information is displayed in user groups selectbox when user did not type anything yet.",
+        "limit": 0
+    },
+    "userManagement.userDetail.saveButton": {
+        "value": "Opslaan",
+        "comment": "Label of button that saves the changed user details.",
+        "limit": 0
+    },
+    "userManagement.userDetail.cancelButton": {
+        "value": "Annuleren",
+        "comment": "Label of button that cancels the changes to user details.",
+        "limit": 0
+    },
+    "userManagement.groupDetail.saveButton": {
+        "value": "Opslaan",
+        "comment": "Label of button that saves the changed user group details.",
+        "limit": 0
+    },
+    "userManagement.groupDetail.cancelButton": {
+        "value": "Annuleren",
+        "comment": "Label of button that cancels the changes to user group details.",
+        "limit": 0
+    },
+    "userManagement.userDetails.updatedSuccess": {
+        "value": "Heel goed. U hebt de gebruikersgegevens gewijzigd.",
+        "comment": "Confirmation message shown when user saved changes to user details (name, login, etc.) successfully.",
+        "limit": 0
+    },
+    "userManagement.userDetails.updatedFailure": {
+        "value": "Wijziging van gebruikersgegevens mislukt.",
+        "comment": "Error message shown when user tried to save changes to user details (name, login, etc.) but the action failed.",
+        "limit": 0
+    },
+    "userManagement.groupDetails.updatedSuccess": {
+        "value": "Heel goed. U hebt de groepsgegevens gewijzigd.",
+        "comment": "Confirmation message shown when user saved changes to user group details (name, login, etc.) successfully.",
+        "limit": 0
+    },
+    "userManagement.groupDetails.updatedFailure": {
+        "value": "Wijziging van de gebruiksgegevens van de groep mislukt.",
+        "comment": "Error message shown when user tried to save changes to user group details (name, login, etc.) but the operation failed.",
+        "limit": 0
+    },
+    "userManagement.userGroup.addSuccess": {
+        "value": "Heel goed. U hebt de groep(en) toegevoegd.",
+        "comment": "Confirmation message shown when user added one or more user groups to another user successfully.",
+        "limit": 0
+    },
+    "userManagement.userGroup.addError": {
+        "value": "Toevoeging van de groep(en) mislukt.",
+        "comment": "Error message shown when user tried add one or more user groups to another user but the action failed.",
+        "limit": 0
+    },
+    "userManagement.multipleUserGroup.addSuccess": {
+        "value": "Heel goed. U hebt gebruikers aan de groep toegevoegd.",
+        "comment": "Confirmation message shown when user added one or more user groups to multiple users successfully.",
+        "limit": 0
+    },
+    "userManagement.multipleUserGroup.addError": {
+        "value": "Toevoeging van de gebruikers aan de groepen mislukt.",
+        "comment": "Error message shown when user tried to add one or more user groups to multiple users successfully but action failed.",
+        "limit": 0
+    },
+    "userManagement.userGroups.title": {
+        "value": "Toevoegen aan groep",
+        "comment": "Title of dialog that allows to add user groups to the user.",
+        "limit": 0
+    },
+    "userManagement.userGroups.noMatchingItems": {
+        "value": "Geen overeenkomstige groep.",
+        "comment": "Message shown when no user group matches search criteria.",
+        "limit": 0
+    },
+    "userManagement.userGroups.searchPlaceholder": {
+        "value": "Groepen zoeken",
+        "comment": "Placeholder in the input box that is used to search user groups.",
+        "limit": 0
+    },
+    "userManagement.userGroups.searchError": {
+        "value": "Groepen laden mislukt. Probeer het later opnieuw.",
+        "comment": "Message shown when fetching of user groups from server failed.",
+        "limit": 0
+    },
+    "userManagement.userGroup.removeSuccess": {
+        "value": "Heel goed. U hebt de groep verwijderd.",
+        "comment": "Confirmation message shown when user group was successfully deleted.",
+        "limit": 0
+    },
+    "userManagement.userGroup.removeFailure": {
+        "value": "Verwijdering van de groep mislukt.",
+        "comment": "Error message shown when deletion of user group failed.",
+        "limit": 0
+    },
+    "userManagement.userGroups.removeSuccess": {
+        "value": "Heel goed. U hebt de groep verwijderd.",
+        "comment": "Confirmation message shown when user group was successfully deleted.",
+        "limit": 0
+    },
+    "userManagement.userGroups.removeFailure": {
+        "value": "Verwijdering van de groep mislukt.",
+        "comment": "Error message shown when deletion of user group failed.",
+        "limit": 0
+    },
+    "userManagement.userGroups.removeTooltip": {
+        "value": "Verwijder de groep van de gebruiker.",
+        "comment": "Tooltip shown over button that remove user group from the user.",
+        "limit": 0
+    },
+    "userManagement.userGroups.removeDisabledTooltip": {
+        "value": "De groep kan niet worden verwijderd van de gebruiker.",
+        "comment": "Tooltip shown over button that remove user group from the user if the action is disabled.",
+        "limit": 0
+    },
+    "userManagement.deleteDialog.user.title": {
+        "value": "Gebruiker verwijderen?",
+        "comment": "Title of dialog that deletes a user.",
+        "limit": 0
+    },
+    "userManagement.deleteDialog.user.body": {
+        "value": "De gebruiker wordt onherroepelijk verwijderd, maar zijn visualisaties en dashboards blijven onaangetast.",
+        "comment": "Body of dialog that deletes a users",
+        "limit": 0
+    },
+    "userManagement.deleteDialog.user.disabledTooltip": {
+        "value": "Gebruiker kan niet worden verwijderd.",
+        "comment": "Tooltip shown over disabled delete button.",
+        "limit": 0
+    },
+    "userManagement.deleteDialog.userGroup.adminDisabledTooltip": {
+        "value": "Deze groep kan niet worden verwijderd.",
+        "comment": "Tooltip shown over disabled delete button.",
+        "limit": 0
+    },
+    "userManagement.deleteDialog.userGroup.nonEmptyDisabledTooltip": {
+        "value": "Deze groep kan niet worden verwijderd omdat er leden in zitten.",
+        "comment": "Tooltip shown over disabled delete button.",
+        "limit": 0
+    },
+    "userManagement.deleteDialog.multipleUsers.title": {
+        "value": "Gebruikers verwijderen?",
+        "comment": "Title of dialog that deletes multiple users.",
+        "limit": 0
+    },
+    "userManagement.deleteDialog.multipleUsers.body": {
+        "value": "<b>{count} gebruikers</b> worden onherroepelijk verwijderd, maar hun visualisaties en dashboards blijven onaangetast.",
+        "comment": "Body of dialog that deletes multiple users. Do not translate placeholder {count}. It will be replaced with number of selected users in runtime.",
+        "limit": 0
+    },
+    "userManagement.deleteDialog.group.title": {
+        "value": "Groep verwijderen?",
+        "comment": "Title of dialog that deletes a user group.",
+        "limit": 0
+    },
+    "userManagement.deleteDialog.group.body": {
+        "value": "De groep wordt onomkeerbaar verwijderd. Alle gebruikers raken de rechten kwijt zoals bepaald door de groepsmachtigingen.",
+        "comment": "Body of dialog that deletes a user group.",
+        "limit": 0
+    },
+    "userManagement.deleteDialog.multipleGroups.title": {
+        "value": "Groepen verwijderen?",
+        "comment": "Title of dialog that deletes multiple user groups.",
+        "limit": 0
+    },
+    "userManagement.deleteDialog.multipleGroups.body": {
+        "value": "<b>{count} groepen</b> worden onomkeerbaar verwijderd. Alle leden raken hun rechten kwijt zoals bepaald door de groepsspecifieke machtigingen.",
+        "comment": "Body of dialog that deletes multiple user group. Do not translate placeholder {count}. It will be replaced with number of selected user groups in runtime.",
+        "limit": 0
+    },
+    "userManagement.deleteDialog.cancelButton": {
+        "value": "Annuleren",
+        "comment": "Label of button that cancels delete action.",
+        "limit": 0
+    },
+    "userManagement.deleteDialog.confirmButton": {
+        "value": "Verwijderen",
+        "comment": "Label of button that confirms delete action.",
+        "limit": 0
+    },
+    "userManagement.userGroups.deleteSuccess": {
+        "value": "Heel goed. U hebt de groep verwijderd.",
+        "comment": "Confirmation message shown when user group was successfully deleted.",
+        "limit": 0
+    },
+    "userManagement.userGroups.deleteFailure": {
+        "value": "Verwijdering van de groep mislukt.",
+        "comment": "Error message shown when deletion of user group failed.",
+        "limit": 0
+    },
+    "userManagement.multipleUserGroups.deleteSuccess": {
+        "value": "Heel goed. U hebt de groepen verwijderd.",
+        "comment": "Confirmation message shown when multiple user groups were successfully deleted.",
+        "limit": 0
+    },
+    "userManagement.multipleUserGroups.deleteFailure": {
+        "value": "Verwijdering van de groepen mislukt.",
+        "comment": "Error message shown when deletion of multiple user group failed.",
+        "limit": 0
+    },
+    "userManagement.createUserGroup.createSuccess": {
+        "value": "Heel goed. U hebt de groep gemaakt.",
+        "comment": "Confirmation message shown when user group was successfully created.",
+        "limit": 0
+    },
+    "userManagement.createUserGroup.createFailure": {
+        "value": "Maken van de groep mislukt.",
+        "comment": "Error message shown when creation of user group failed.",
+        "limit": 0
+    },
+    "userManagement.users.loadingError.title": {
+        "value": "Gebruiker kan niet worden geopend",
+        "comment": "Error title shown when user detail loading ended up with error.",
+        "limit": 0
+    },
+    "userManagement.users.loadingError.notExist": {
+        "value": "De gebruiker die u probeert te bekijken bestaat niet.",
+        "comment": "Error shown when user detail loading ended up with 404 error.",
+        "limit": 0
+    },
+    "userManagement.users.loadingError.unknown": {
+        "value": "De gebruiker die u probeert te bekijken kan niet worden geladen.",
+        "comment": "Error shown when user detail loading ended up with error.",
+        "limit": 0
+    },
+    "userManagement.userGroups.loadingError.title": {
+        "value": "Groep kan niet worden geopend",
+        "comment": "Error title shown when user group detail loading ended up with error.",
+        "limit": 0
+    },
+    "userManagement.userGroups.loadingError.notExist": {
+        "value": "De groep die u probeert te bekijken bestaat niet.",
+        "comment": "Error shown when user group detail loading ended up with 404 error.",
+        "limit": 0
+    },
+    "userManagement.userGroups.loadingError.unknown": {
+        "value": "De groep die u probeert te bekijken kan niet worden geladen.",
+        "comment": "Error shown when user group detail loading ended up with error.",
+        "limit": 0
+    },
+    "userManagement.users.deleteSuccess": {
+        "value": "Heel goed. U hebt de gebruiker verwijderd.",
+        "comment": "Confirmation message shown when user was successfully deleted.",
+        "limit": 0
+    },
+    "userManagement.users.deleteFailure": {
+        "value": "Verwijdering van de gebruiker mislukt.",
+        "comment": "Error message shown when deletion of user failed.",
+        "limit": 0
+    },
+    "userManagement.multipleUsers.deleteSuccess": {
+        "value": "Heel goed. U hebt de gebruikers verwijderd.",
+        "comment": "Confirmation message shown when multiple users were successfully deleted.",
+        "limit": 0
+    },
+    "userManagement.multipleUsers.deleteFailure": {
+        "value": "Verwijdering van de gebruikers mislukt.",
+        "comment": "Error message shown when deletion of multiple users failed.",
+        "limit": 0
+    },
+    "userManagement.users.searchError": {
+        "value": "Laden van gebruikers mislukt. Probeer het later opnieuw.",
+        "comment": "Error shown when user list was not fetched from server.",
+        "limit": 0
+    },
+    "userManagement.users.emptySelection.view": {
+        "value": "Deze groep heeft geen leden.",
+        "comment": "Message shown when there are no users in the user group.",
+        "limit": 0
+    },
+    "userManagement.users.emptySelection.edit": {
+        "value": "Geen gebruikers geselecteerd.",
+        "comment": "Shown when no user has been added to selection yet.",
+        "limit": 0
+    },
+    "userManagement.users.removeUserFromGroup": {
+        "value": "Verwijder de gebruiker uit de groep.",
+        "comment": "Tooltip on button that removes particular user from the user group.",
+        "limit": 0
+    },
+    "userManagement.users.removeUserFromGroupDisabledTooltip": {
+        "value": "Deze gebruiker kan niet worden verwijderd uit de groep.",
+        "comment": "Tooltip shown over button that remove user from the user group if the action is disabled.",
+        "limit": 0
+    },
+    "userManagement.users.removeUserFromSelection": {
+        "value": "Verwijder.",
+        "comment": "Label of action that removes selected user.",
+        "limit": 0
+    },
+    "userManagement.userGroups.removeUserGroupFromSelection": {
+        "value": "Verwijder.",
+        "comment": "Label of action that removes selected user group.",
+        "limit": 0
+    },
+    "userManagement.users.noMatchingItems": {
+        "value": "Geen overeenkomende gebruiker.",
+        "comment": "Message shown when no user matches the entered search criteria.",
+        "limit": 0
+    },
+    "userManagement.users.searchPlaceholder": {
+        "value": "Gebruikers zoeken",
+        "comment": "Placeholder of input box that is used to search for users.",
+        "limit": 0
+    },
+    "userManagement.users.title": {
+        "value": "Groepsleden toevoegen",
+        "comment": "Title of dialog that adds users to user group.",
+        "limit": 0
+    },
+    "userManagement.users.cancelButton": {
+        "value": "Annuleren",
+        "comment": "Label of button that cancels the unsaved changes in the dialog.",
+        "limit": 0
+    },
+    "userManagement.users.addButton": {
+        "value": "Toevoegen",
+        "comment": "Label of button that adds users to user group.",
+        "limit": 0
+    },
+    "userManagement.users.addSuccess": {
+        "value": "Heel goed. U hebt gebruikers aan de groep toegevoegd.",
+        "comment": "Confirmation message shown when users were successfully added to the user group.",
+        "limit": 0
+    },
+    "userManagement.users.addFailure": {
+        "value": "Toevoeging van gebruikers aan de groep mislukt.",
+        "comment": "Error message shown when addition of users to the user group failed.",
+        "limit": 0
+    },
+    "userManagement.users.addToUserGroupsSuccess": {
+        "value": "Heel goed. U hebt gebruikers toegevoegd aan de groepen.",
+        "comment": "Confirmation message shown when multiple users were successfully added to the multiple user group.",
+        "limit": 0
+    },
+    "userManagement.users.addToUserGroupsFailure": {
+        "value": "Toevoeging van de gebruikers aan de groepen mislukt.",
+        "comment": "Error message shown when trying to add multiple users to the multiple user group failed.",
+        "limit": 0
+    },
+    "userManagement.users.removeSuccess": {
+        "value": "Heel goed. U hebt de gebruiker(s) verwijderd.",
+        "comment": "Confirmation message shown when one or more users were sucessfuly removed from the user group.",
+        "limit": 0
+    },
+    "userManagement.users.removeFailure": {
+        "value": "Verwijdering van de gebruiker(s) mislukt.",
+        "comment": "Error message shown when removal of one or more users were from the user group failed.",
+        "limit": 0
+    },
+    "userManagement.buttons.close": {
+        "value": "Sluiten",
+        "comment": "Label of button that closes the dialog.",
+        "limit": 0
+    },
+    "userManagement.admin.alert": {
+        "value": "Beheerders hebben volledige toegang tot alle werkruimten, bronnen en acties.",
+        "comment": "Text shown in user dialog that explains that user is organization administrator and has full access to everything.",
+        "limit": 0
+    },
+    "userManagement.adminGroup.alert": {
+        "value": "Leden hebben volledige toegang tot alle werkruimten, bronnen en acties.",
+        "comment": "Text shown in user group dialog that explains that user group has organization administrator rights and its members has full access to everything.",
+        "limit": 0
+    },
+    "userManagement.admin.pill": {
+        "value": "Admin",
+        "comment": "Text shown in pill component next to the user name. The information states that user is organization administrator.",
+        "limit": 0
+    },
+    "userManagement.createUserGroup.createButton": {
+        "value": "Creëren",
+        "comment": "Label of button that creates a new user group.",
+        "limit": 0
+    },
+    "userManagement.createUserGroup.cancelButton": {
+        "value": "Annuleren",
+        "comment": "Label of button that closes dialog.",
+        "limit": 0
+    },
+    "userManagement.createUserGroup.dialogTitle": {
+        "value": "Groep maken",
+        "comment": "Title of dialog that creates new user group.",
+        "limit": 0
+    },
+    "userManagement.createUserGroup.inputPlaceholder": {
+        "value": "Naam",
+        "comment": "Placeholder shown in input box where user types name of a new user group.",
+        "limit": 0
+    },
+    "richText.placeholder": {
+        "value": "Markdown-tekst hier toevoegen...",
+        "comment": "Do not translate word 'Markdown'",
+        "limit": 0
+    },
+    "richText.tooltip": {
+        "value": "U kunt markdown-syntaxis gebruiken om de beschrijving op te maken:",
+        "comment": "Do not translate word 'Markdown'",
+        "limit": 0
+    },
+    "richText.no_data": {
+        "value": "Geen gegevens",
+        "comment": "No data retrieved from the server",
+        "limit": 0
+    },
+    "richText.multiple_data": {
+        "value": "Multiple items",
+        "comment": "Error when multiple items are retrieved from server for attribute",
+        "limit": 0
+    },
+    "richText.no_fetch": {
+        "value": "Data could not be retrieved",
+        "comment": "Data could not be retrieved from the server",
+        "limit": 0
+    },
+    "recurrence.starts": {
+        "value": "Begint op",
+        "comment": "Describes when recurrence starts.",
+        "limit": 0
+    },
+    "recurrence.repeats": {
+        "value": "Herhaalt",
+        "comment": "Describes how recurrence repeats.",
+        "limit": 0
+    },
+    "recurrence.types.hourly": {
+        "value": "Uurlijks",
+        "comment": "Repeats the schedule hourly.",
+        "limit": 0
+    },
+    "recurrence.types.daily": {
+        "value": "Dagelijks",
+        "comment": "Repeats the schedule daily.",
+        "limit": 0
+    },
+    "recurrence.types.weekly": {
+        "value": "Wekelijks op {day}",
+        "comment": "Example: 'Weekly on Friday'. Placeholder '{day}' refers to a day of a week. Don't translate placeholder '{day}'.",
+        "limit": 0
+    },
+    "recurrence.types.monthly.last": {
+        "value": "Maandelijks op de laatste {day}",
+        "comment": "Example: 'Monthly on the last Friday'. Do not translate placeholder {day}'",
+        "limit": 0
+    },
+    "recurrence.types.monthly.first": {
+        "value": "Maandelijks op de eerste dag",
+        "comment": "Example: 'Monthly on the first day'.",
+        "limit": 0
+    },
+    "recurrence.types.weekly.first": {
+        "value": "Wekelijks op de eerste dag",
+        "comment": "Example: 'Weekly on the first day'.",
+        "limit": 0
+    },
+    "recurrence.types.monthly": {
+        "value": "Maandelijks op de {week, select, 1 {eerste} 2 {tweede} 3 {derde} 4 {vierde} other {laatste}} {day}",
+        "comment": "Example: 'Monthly on the first Friday'. Translate only uppercase in 'MONTHLY ON THE {week, select, 1 {FIRST} 2 {SECOND} 3 {THIRD} 4 {FOURTH} other {LAST}} {day}'",
+        "limit": 0
+    },
+    "recurrence.types.cron": {
+        "value": "Cron-uitdrukking",
+        "comment": "Repeats the schedule email using custom cron expression defined by the user. Do not translate word 'Cron' as it is a name of technical specification.",
+        "limit": 0
+    },
+    "recurrence.types.inherit": {
+        "value": "Erven",
+        "comment": "Repeats the schedule email using the same recurrence as the setup in parent.",
+        "limit": 0
+    },
+    "recurrence.description.hourly": {
+        "value": "Aan het begin van elk uur",
+        "comment": "",
+        "limit": 0
+    },
+    "recurrence.description.daily": {
+        "value": "Elke dag op {hour}",
+        "comment": "Do not translate placeholder {hour}.",
+        "limit": 0
+    },
+    "recurrence.description.weekly_first": {
+        "value": "Om {hour} aan het begin van elke week",
+        "comment": "Do not translate placeholder {hour}.",
+        "limit": 0
+    },
+    "recurrence.description.weekly": {
+        "value": "Op {dayOfWeekName} om {hour} elke week",
+        "comment": "Do not translate placeholders {hour} and {dayOfWeekName}.",
+        "limit": 0
+    },
+    "recurrence.description.monthly_first": {
+        "value": "Om {hour} aan het begin van elke maand",
+        "comment": "Do not translate placeholder {hour}.",
+        "limit": 0
+    },
+    "recurrence.description.monthly": {
+        "value": "{dayOfWeekName} om {hour} elke {weekNumber}. week in maand",
+        "comment": "Do not translate placeholders {hour}, {dayOfWeekName} and {weekNumber}.",
+        "limit": 0
+    },
+    "recurrence.error.too_often": {
+        "value": "Frequentie te hoog",
+        "comment": "Invalid frequency recurrence.",
+        "limit": 0
+    },
+    "recurrence.cron.tooltip": {
+        "value": "Use the <a>unix-cron</a> string format.",
+        "comment": "Do not translate html tags <a>, </a>. Do not translate 'unix-cron' as it is a name of specific tech.",
+        "limit": 0
+    },
+    "message.accessibility.dismiss.notification": {
+        "value": "Kennisgeving verwijderen",
+        "comment": "",
+        "limit": 0
+    },
+    "datePicker.accessibility.label": {
+        "value": "Select start date",
+        "comment": "",
+        "limit": 0
+    },
+    "timePicker.accessibility.label": {
+        "value": "Selecteer starttijd",
+        "comment": "",
+        "limit": 0
+    }
+}
