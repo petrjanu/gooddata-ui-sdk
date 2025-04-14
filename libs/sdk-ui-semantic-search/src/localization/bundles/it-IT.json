@@ -1,14 +1,14 @@
 {
-    "semantic-search.error.title": "Il nostro servizio di ricerca è temporaneamente inattivo.",
-    "semantic-search.error.text": "Stiamo lavorando per risolvere il problema.",
-    "semantic-search.no-results": "Nessun risultato trovato per ”{query}”.",
-    "semantic-search.placeholder": "Ricerca di cruscotti o visualizzazioni…",
-    "semantic-search.id": "ID",
-    "semantic-search.tags": "Tag",
-    "semantic-search.match": "{score}% di corrispondenza",
-    "semantic-search.previous-search": "Ricerca precedente",
-    "semantic-search.date.at": "alle",
-    "gs.date.today": "Oggi",
-    "gs.date.yesterday": "Ieri",
-    "semantic-search.label": "Ricerca di cruscotti o visualizzazioni"
+    "semantic-search.error.title.value": "Il nostro servizio di ricerca è temporaneamente inattivo.",
+    "semantic-search.error.text.value": "Stiamo lavorando per risolvere il problema.",
+    "semantic-search.no-results.value": "Nessun risultato trovato per ”{query}”.",
+    "semantic-search.label.value": "Search dashboards or visualization",
+    "semantic-search.placeholder.value": "Ricerca di cruscotti o visualizzazioni…",
+    "semantic-search.id.value": "ID",
+    "semantic-search.tags.value": "Tag",
+    "semantic-search.match.value": "{score}% di corrispondenza",
+    "semantic-search.previous-search.value": "Ricerca precedente",
+    "semantic-search.date.at.value": "alle",
+    "gs.date.today.value": "Oggi",
+    "gs.date.yesterday.value": "Ieri"
 }
