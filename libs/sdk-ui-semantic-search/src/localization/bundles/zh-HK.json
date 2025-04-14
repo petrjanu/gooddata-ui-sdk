@@ -1,14 +1,14 @@
 {
-    "semantic-search.error.title.value": "我哋嘅搜索服務暫時關閉。",
-    "semantic-search.error.text.value": "我哋正在努力解決此問題。",
-    "semantic-search.no-results.value": "未搵到與“{query}”相關嘅結果。",
-    "semantic-search.label.value": "搜索儀錶板或可視化",
-    "semantic-search.placeholder.value": "搜索儀錶板或可視化…",
-    "semantic-search.id.value": "識別碼",
-    "semantic-search.tags.value": "標籤",
-    "semantic-search.match.value": "{score}％ 匹配",
-    "semantic-search.previous-search.value": "上一頁搜索",
-    "semantic-search.date.at.value": "在",
-    "gs.date.today.value": "今日",
-    "gs.date.yesterday.value": "昨日"
+    "semantic-search.error.title.text": "Our search service is temporarily down.",
+    "semantic-search.error.text.text": "We are working to resolve the issue.",
+    "semantic-search.no-results.text": "No results found for “{query}”.",
+    "semantic-search.label.text": "Search dashboards or visualization",
+    "semantic-search.placeholder.text": "Search dashboards or visualization…",
+    "semantic-search.id.text": "ID",
+    "semantic-search.tags.text": "Tags",
+    "semantic-search.match.text": "{score}% match",
+    "semantic-search.previous-search.text": "Previous search",
+    "semantic-search.date.at.text": "at",
+    "gs.date.today.text": "Today",
+    "gs.date.yesterday.text": "Yesterday"
 }
