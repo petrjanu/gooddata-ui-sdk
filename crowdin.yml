@@ -3,3 +3,7 @@ files:
     translation: /%original_path%/translated/%locale%-gh-integration-ignore-this.json
 bundles:
   - 2
+  - 4
+  - 6
+  - 8
+  - 10
