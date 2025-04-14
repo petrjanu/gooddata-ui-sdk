@@ -1,14 +1,14 @@
 {
-    "semantic-search.error.title.value": "Onze zoekdienst werkt tijdelijk niet.",
-    "semantic-search.error.text.value": "We werken eraan om het probleem op te lossen.",
-    "semantic-search.no-results.value": "Geen resultaten gevonden voor ”{query}”.",
-    "semantic-search.label.value": "Zoek dashboards of visualisatie",
-    "semantic-search.placeholder.value": "Zoek dashboards of visualisaties…",
-    "semantic-search.id.value": "ID",
-    "semantic-search.tags.value": "Tags",
-    "semantic-search.match.value": "{score}% overeenkomst",
-    "semantic-search.previous-search.value": "Vorige zoekopdracht",
-    "semantic-search.date.at.value": "bij",
-    "gs.date.today.value": "Vandaag",
-    "gs.date.yesterday.value": "Gisteren"
+    "semantic-search.error.title.text": "Our search service is temporarily down.",
+    "semantic-search.error.text.text": "We are working to resolve the issue.",
+    "semantic-search.no-results.text": "No results found for “{query}”.",
+    "semantic-search.label.text": "Search dashboards or visualization",
+    "semantic-search.placeholder.text": "Search dashboards or visualization…",
+    "semantic-search.id.text": "ID",
+    "semantic-search.tags.text": "Tags",
+    "semantic-search.match.text": "{score}% match",
+    "semantic-search.previous-search.text": "Previous search",
+    "semantic-search.date.at.text": "at",
+    "gs.date.today.text": "Today",
+    "gs.date.yesterday.text": "Yesterday"
 }
