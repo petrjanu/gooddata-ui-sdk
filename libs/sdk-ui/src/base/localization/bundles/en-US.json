@@ -1,2846 +1,2846 @@
 {
     "empty_value": {
-        "value": "empty value",
+        "text": "empty value",
         "crowdinContext": ""
     },
     "gs.date.at": {
-        "value": "at",
+        "text": "at",
         "crowdinContext": ""
     },
     "gs.header.help": {
-        "value": "Help",
+        "text": "Help",
         "crowdinContext": ""
     },
     "gs.header.help.label": {
-        "value": "Help links",
+        "text": "Help links",
         "crowdinContext": ""
     },
     "gs.header.search": {
-        "value": "Search",
+        "text": "Search",
         "crowdinContext": "A global semantic search button label in the main menu"
     },
     "gs.header.logo.title.accessibility": {
-        "value": "Application logo",
+        "text": "Application logo",
         "crowdinContext": ""
     },
     "gs.header.href.accessibility": {
-        "value": "Go to homepage",
+        "text": "Go to homepage",
         "crowdinContext": ""
     },
     "gs.header.accessibility.label": {
-        "value": "Global application header",
+        "text": "Global application header",
         "crowdinContext": ""
     },
     "gs.header.menu.accessibility.label": {
-        "value": "Global navigation",
+        "text": "Global navigation",
         "crowdinContext": ""
     },
     "gs.header.notifications": {
-        "value": "Notifications",
+        "text": "Notifications",
         "crowdinContext": "A global notifications button label in the main menu"
     },
     "gs.header.logout": {
-        "value": "Logout",
+        "text": "Logout",
         "crowdinContext": ""
     },
     "gs.header.account.title": {
-        "value": "Account",
+        "text": "Account",
         "crowdinContext": ""
     },
     "gs.list.all": {
-        "value": "All",
+        "text": "All",
         "crowdinContext": ""
     },
     "gs.list.except": {
-        "value": "except",
+        "text": "except",
         "crowdinContext": ""
     },
     "gs.list.is": {
-        "value": "is",
+        "text": "is",
         "crowdinContext": ""
     },
     "gs.list.search.placeholder": {
-        "value": "Search…",
+        "text": "Search…",
         "crowdinContext": "Use '…' as one character, not 3 dots ('...')."
     },
     "gs.list.acessibility.search.label": {
-        "value": "Search attribute values",
+        "text": "Search attribute values",
         "crowdinContext": ""
     },
     "gs.list.notAvailableAbbreviation": {
-        "value": "N/A",
+        "text": "N/A",
         "crowdinContext": "Stands for 'Not Available"
     },
     "gs.list.searchResults": {
-        "value": "search results",
+        "text": "search results",
         "crowdinContext": ""
     },
     "gs.visualizationsList.loading": {
-        "value": "Loading…",
+        "text": "Loading…",
         "crowdinContext": "Use '…' as one character, not 3 dots ('...')."
     },
     "gs.color-picker.inputPlaceholder": {
-        "value": "#color",
+        "text": "#color",
         "crowdinContext": "Character '#' means user should input color code as hexadecimal value, e.g. #C0D6E4"
     },
     "gs.color-picker.currentColor": {
-        "value": "current",
+        "text": "current",
         "crowdinContext": ""
     },
     "gs.color-picker.newColor": {
-        "value": "new",
+        "text": "new",
         "crowdinContext": ""
     },
     "gs.color-picker.cancelButton": {
-        "value": "Cancel",
+        "text": "Cancel",
         "crowdinContext": ""
     },
     "gs.color-picker.okButton": {
-        "value": "OK",
+        "text": "OK",
         "crowdinContext": ""
     },
     "gs.color-picker.hex": {
-        "value": "hex",
+        "text": "hex",
         "crowdinContext": "label that inidicates that user should enter hexadecimal color value, e.g. #C0D6E4"
     },
     "gs.noData.noMatchingData": {
-        "value": "No matching data",
+        "text": "No matching data",
         "crowdinContext": ""
     },
     "gs.noData.noDataAvailable": {
-        "value": "No matching data",
+        "text": "No matching data",
         "crowdinContext": ""
     },
     "geochart.scroll.zoom.blocker": {
-        "value": "Use {button} + scroll to zoom the map",
+        "text": "Use {button} + scroll to zoom the map",
         "crowdinContext": "This message will appear when map zooming on GeoChart is disabled and available only, while the button is pressed."
     },
     "geochart.touch.pan.blocker": {
-        "value": "Use two fingers to move the map",
+        "text": "Use two fingers to move the map",
         "crowdinContext": "This message will appear when moving map on GeoChart is disabled by one finger and available only with two."
     },
     "visualizations.of": {
-        "value": "{page} of {pagesCount}",
+        "text": "{page} of {pagesCount}",
         "crowdinContext": "Don't translate placeholders '{page}', '{pagesCount}'"
     },
     "visualizations.totals.dropdown.title.sum": {
-        "value": "Sum",
+        "text": "Sum",
         "crowdinContext": "Total of type 'Sum'. Showed in menu before adding to table."
     },
     "visualizations.totals.dropdown.title.avg": {
-        "value": "Avg",
+        "text": "Avg",
         "crowdinContext": "Total of type 'Avg'. Showed in menu before adding to table."
     },
     "visualizations.totals.dropdown.title.min": {
-        "value": "Min",
+        "text": "Min",
         "crowdinContext": "Total of type 'Min'. Showed in menu before adding to table."
     },
     "visualizations.totals.dropdown.title.max": {
-        "value": "Max",
+        "text": "Max",
         "crowdinContext": "Total of type 'Max'. Showed in menu before adding to table."
     },
     "visualizations.totals.dropdown.title.nat": {
-        "value": "Rollup (Total)",
+        "text": "Rollup (Total)",
         "crowdinContext": "Total of type 'Rollup' where 'Total' is hint and synonym. Showed in menu before adding to table."
     },
     "visualizations.totals.dropdown.tooltip.nat.disabled.mvf._measure|insight": {
-        "value": "Rollup (Total) aggregation is not available when filtering the visualization by measure value. To use Rollup (Total), remove all measure value filters from the filter bar.",
+        "text": "Rollup (Total) aggregation is not available when filtering the visualization by measure value. To use Rollup (Total), remove all measure value filters from the filter bar.",
         "crowdinContext": "The tooltip that is shown in pivot's table totals menu when rollup (native) total is disabled because measure value filters are configured for the pivot."
     },
     "visualizations.totals.dropdown.tooltip.nat.disabled.mvf._metric|insight": {
-        "value": "Rollup (Total) aggregation is not available when filtering the visualization by metric value. To use Rollup (Total), remove all metric value filters from the filter bar.",
+        "text": "Rollup (Total) aggregation is not available when filtering the visualization by metric value. To use Rollup (Total), remove all metric value filters from the filter bar.",
         "crowdinContext": "The tooltip that is shown in pivot's table totals menu when rollup (native) total is disabled because metric value filters are configured for the pivot."
     },
     "visualizations.totals.dropdown.tooltip.nat.disabled.mvf._measure|report": {
-        "value": "Rollup (Total) aggregation is not available when filtering the report by measure value. To use Rollup (Total), remove all measure value filters from the filter bar.",
+        "text": "Rollup (Total) aggregation is not available when filtering the report by measure value. To use Rollup (Total), remove all measure value filters from the filter bar.",
         "crowdinContext": "The tooltip that is shown in pivot's table totals menu when rollup (native) total is disabled because measure value filters are configured for the pivot.",
         "translate": false
     },
     "visualizations.totals.dropdown.tooltip.nat.disabled.mvf._metric|report": {
-        "value": "Rollup (Total) aggregation is not available when filtering the report by metric value. To use Rollup (Total), remove all metric value filters from the filter bar.",
+        "text": "Rollup (Total) aggregation is not available when filtering the report by metric value. To use Rollup (Total), remove all metric value filters from the filter bar.",
         "crowdinContext": "The tooltip that is shown in pivot's table totals menu when rollup (native) total is disabled because metric value filters are configured for the pivot.",
         "translate": false
     },
     "visualizations.totals.dropdown.tooltip.nat.disabled.ranking|insight": {
-        "value": "Rollup (Total) aggregation is not available when filtering the visualization by ranking filter. To use Rollup (Total), remove ranking filter from the filter bar.",
+        "text": "Rollup (Total) aggregation is not available when filtering the visualization by ranking filter. To use Rollup (Total), remove ranking filter from the filter bar.",
         "crowdinContext": "The tooltip that is shown in pivot's table totals menu when rollup (native) total is disabled because ranking filters are configured for the pivot."
     },
     "visualizations.totals.dropdown.tooltip.nat.disabled.ranking|report": {
-        "value": "Rollup (Total) aggregation is not available when filtering the report by ranking filter. To use Rollup (Total), remove ranking filter from the filter bar.",
+        "text": "Rollup (Total) aggregation is not available when filtering the report by ranking filter. To use Rollup (Total), remove ranking filter from the filter bar.",
         "crowdinContext": "The tooltip that is shown in pivot's table totals menu when rollup (native) total is disabled because ranking filters are configured for the pivot.",
         "translate": false
     },
     "visualizations.totals.dropdown.title.med": {
-        "value": "Median",
+        "text": "Median",
         "crowdinContext": "Total of type 'Median'. Showed in menu before adding to table."
     },
     "visualizations.headline.tertiary.title": {
-        "value": "Versus",
+        "text": "Versus",
         "crowdinContext": "Means comparison of two values - for example '100 (this week) VERSUS 10 (last week)'."
     },
     "visualizations.headline.comparison.title.change": {
-        "value": "Change",
+        "text": "Change",
         "crowdinContext": "The label of the dropdown option that specifies the arithmetic operation to calculate the change between two values."
     },
     "visualizations.headline.comparison.title.change.positive": {
-        "value": "Increase",
+        "text": "Increase",
         "crowdinContext": "The label will be used when the arithmetic operation is `change` and primary value is greater then secondary value."
     },
     "visualizations.headline.comparison.title.change.negative": {
-        "value": "Decrease",
+        "text": "Decrease",
         "crowdinContext": "The label will be used when the arithmetic operation is `change` and primary value is less then secondary value."
     },
     "visualizations.headline.comparison.title.change.equals": {
-        "value": "No change",
+        "text": "No change",
         "crowdinContext": "The label will be used when the arithmetic operation is `change` and primary value is equals secondary value."
     },
     "visualizations.headline.comparison.title.ratio": {
-        "value": "of",
+        "text": "of",
         "crowdinContext": "The label of the dropdown option that specifies the arithmetic operation to calculate the the ratio between two values."
     },
     "visualizations.headline.comparison.title.difference": {
-        "value": "Difference",
+        "text": "Difference",
         "crowdinContext": "The label of the dropdown option that specifies the arithmetic operation to calculate the difference between two values."
     },
     "visualizations.headline.comparison.title.difference.positive": {
-        "value": "Increase",
+        "text": "Increase",
         "crowdinContext": "The label will be used when the arithmetic operation is `difference` and primary value is greater then secondary value."
     },
     "visualizations.headline.comparison.title.difference.negative": {
-        "value": "Decrease",
+        "text": "Decrease",
         "crowdinContext": "The label will be used when the arithmetic operation is `difference` and primary value is less then secondary value."
     },
     "visualizations.headline.comparison.title.difference.equals": {
-        "value": "No difference",
+        "text": "No difference",
         "crowdinContext": "The label will be used when the arithmetic operation is `difference` and primary value is equals secondary value."
     },
     "visualization.numericValues.k": {
-        "value": "k",
+        "text": "k",
         "crowdinContext": "Character 'k' stands for metric prefix kilo (1.000)."
     },
     "visualization.numericValues.m": {
-        "value": "M",
+        "text": "M",
         "crowdinContext": "Character 'M' stands for metric prefix mega (1.000.000)."
     },
     "visualization.numericValues.g": {
-        "value": "G",
+        "text": "G",
         "crowdinContext": "Character 'G' stands for metric prefix giga (1.000.000.000)."
     },
     "visualization.numericValues.t": {
-        "value": "T",
+        "text": "T",
         "crowdinContext": "Character 'T' stands for metric prefix tera (1.000.000.000.000)."
     },
     "visualization.numericValues.p": {
-        "value": "P",
+        "text": "P",
         "crowdinContext": "Character 'P' stands for metric prefix peta (1.000.000.000.000.000)."
     },
     "visualization.numericValues.e": {
-        "value": "E",
+        "text": "E",
         "crowdinContext": "Character 'E' stands for metric prefix exa (1.000.000.000.000.000.000)."
     },
     "visualization.emptyValue": {
-        "value": "empty value",
+        "text": "empty value",
         "crowdinContext": ""
     },
     "visualization.waterfall.total": {
-        "value": "Total",
+        "text": "Total",
         "crowdinContext": "The default name for the waterfall total column"
     },
     "visualization.cluster": {
-        "value": "Cluster",
+        "text": "Cluster",
         "crowdinContext": "The default title for the cluster group"
     },
     "visualization.ErrorMessageGeneric|insight": {
-        "value": "Sorry, we can't display this visualization",
+        "text": "Sorry, we can't display this visualization",
         "crowdinContext": ""
     },
     "visualization.ErrorMessageGeneric|report": {
-        "value": "Sorry, we can't display this report",
+        "text": "Sorry, we can't display this report",
         "crowdinContext": "",
         "translate": false
     },
     "visualization.ErrorDescriptionGeneric": {
-        "value": "Contact your administrator.",
+        "text": "Contact your administrator.",
         "crowdinContext": ""
     },
     "visualization.ErrorMessageDataTooLarge": {
-        "value": "Too many data points to display",
+        "text": "Too many data points to display",
         "crowdinContext": ""
     },
     "visualization.ErrorDescriptionDataTooLarge": {
-        "value": "Try applying filters.",
+        "text": "Try applying filters.",
         "crowdinContext": ""
     },
     "visualization.ErrorMessageNoData": {
-        "value": "No data",
+        "text": "No data",
         "crowdinContext": ""
     },
     "visualization.ErrorDescriptionNoData": {
-        "value": "No data for your filter selection.",
+        "text": "No data for your filter selection.",
         "crowdinContext": ""
     },
     "visualization.ErrorMessageKpi": {
-        "value": "Error",
+        "text": "Error",
         "crowdinContext": ""
     },
     "visualization.ErrorMessageUnauthorized": {
-        "value": "Unauthorized",
+        "text": "Unauthorized",
         "crowdinContext": ""
     },
     "visualization.ErrorDescriptionUnauthorized|insight": {
-        "value": "Sorry you don't have access to this visualization. Login or ask your administrator to grant you permissions.",
+        "text": "Sorry you don't have access to this visualization. Login or ask your administrator to grant you permissions.",
         "crowdinContext": ""
     },
     "visualization.ErrorDescriptionUnauthorized|report": {
-        "value": "Sorry you don't have access to this report. Login or ask your administrator to grant you permissions.",
+        "text": "Sorry you don't have access to this report. Login or ask your administrator to grant you permissions.",
         "crowdinContext": "",
         "translate": false
     },
     "visualization.ErrorMessageNotFound|insight": {
-        "value": "Sorry, we can't find this visualization",
+        "text": "Sorry, we can't find this visualization",
         "crowdinContext": ""
     },
     "visualization.ErrorMessageNotFound|report": {
-        "value": "Sorry, we can't find this report",
+        "text": "Sorry, we can't find this report",
         "crowdinContext": "",
         "translate": false
     },
     "visualization.ErrorDescriptionNotFound|insight": {
-        "value": "The visualization with this URL does not exist.",
+        "text": "The visualization with this URL does not exist.",
         "crowdinContext": ""
     },
     "visualization.ErrorDescriptionNotFound|report": {
-        "value": "The report with this URL does not exist.",
+        "text": "The report with this URL does not exist.",
         "crowdinContext": "",
         "translate": false
     },
     "visualization.ErrorDescriptionMissingMapboxToken": {
-        "value": "The Geochart configuration requires a valid API access token.",
+        "text": "The Geochart configuration requires a valid API access token.",
         "crowdinContext": ""
     },
     "visualization.tooltip.resetZoom": {
-        "value": "Reset zoom",
+        "text": "Reset zoom",
         "crowdinContext": ""
     },
     "visualization.tooltip.interaction": {
-        "value": "Click chart to drill",
+        "text": "Click chart to drill",
         "crowdinContext": ""
     },
     "visualization.tooltip.generic.interaction": {
-        "value": "Click to drill or filter",
+        "text": "Click to drill or filter",
         "crowdinContext": ""
     },
     "gs.filterLabel.all": {
-        "value": "All",
+        "text": "All",
         "crowdinContext": ""
     },
     "gs.filterLabel.none": {
-        "value": "None",
+        "text": "None",
         "crowdinContext": ""
     },
     "gs.filter.loading": {
-        "value": "Loading filter…",
+        "text": "Loading filter…",
         "crowdinContext": "Use '…' as one character, not 3 dots ('...')."
     },
     "gs.filter.error": {
-        "value": "Error when loading filter.",
+        "text": "Error when loading filter.",
         "crowdinContext": ""
     },
     "gs.filter.error.tooltip": {
-        "value": "Error. Values cannot be loaded.",
+        "text": "Error. Values cannot be loaded.",
         "crowdinContext": ""
     },
     "gs.list.clear": {
-        "value": "Clear",
+        "text": "Clear",
         "crowdinContext": ""
     },
     "gs.list.cancel": {
-        "value": "Cancel",
+        "text": "Cancel",
         "crowdinContext": ""
     },
     "gs.list.apply": {
-        "value": "Apply",
+        "text": "Apply",
         "crowdinContext": ""
     },
     "gs.list.only": {
-        "value": "Only",
+        "text": "Only",
         "crowdinContext": ""
     },
     "gs.list.selectAll": {
-        "value": "Select all",
+        "text": "Select all",
         "crowdinContext": ""
     },
     "gs.list.limitExceeded": {
-        "value": "Sorry, you have exceeded the limit ({limit}).",
+        "text": "Sorry, you have exceeded the limit ({limit}).",
         "crowdinContext": "Don't translate placeholder '{limit}'."
     },
     "gs.list.limitReached": {
-        "value": "You have reached the limit of {limit} selected values.",
+        "text": "You have reached the limit of {limit} selected values.",
         "crowdinContext": "Don't translate placeholder '{limit}'."
     },
     "gs.list.cannotSelectMoreValues": {
-        "value": "You cannot select more than {limit} values.",
+        "text": "You cannot select more than {limit} values.",
         "crowdinContext": "Don't translate placeholder '{limit}'."
     },
     "gs.list.noItemsFound": {
-        "value": "No items found.",
+        "text": "No items found.",
         "crowdinContext": ""
     },
     "gs.list.noResultsMatch": {
-        "value": "No results match",
+        "text": "No results match",
         "crowdinContext": ""
     },
     "gs.list.error": {
-        "value": "Error when loading filter values.",
+        "text": "Error when loading filter values.",
         "crowdinContext": ""
     },
     "gs.header.upsellButtonText": {
-        "value": "Upgrade",
+        "text": "Upgrade",
         "crowdinContext": ""
     },
     "gs.header.invite": {
-        "value": "Invite",
+        "text": "Invite",
         "crowdinContext": ""
     },
     "gs.header.countdown.numberOfDaysLeft": {
-        "value": "{number} days left",
+        "text": "{number} days left",
         "crowdinContext": ""
     },
     "gs.header.countdown.numberOfMonthsLeft": {
-        "value": "{number} months left",
+        "text": "{number} months left",
         "crowdinContext": ""
     },
     "gs.header.countdown.oneMonthLeft": {
-        "value": "1 month left",
+        "text": "1 month left",
         "crowdinContext": ""
     },
     "gs.header.countdown.lastDay": {
-        "value": "This is your last day",
+        "text": "This is your last day",
         "crowdinContext": ""
     },
     "measure.title.suffix.same_period_year_ago": {
-        "value": "SP year ago",
+        "text": "SP year ago",
         "crowdinContext": ""
     },
     "measure.title.suffix.previous_period": {
-        "value": "period ago",
+        "text": "period ago",
         "crowdinContext": ""
     },
     "visualizations.measure.arithmetic.sum.title": {
-        "value": "Sum of {firstMeasureTitle} and {secondMeasureTitle}",
+        "text": "Sum of {firstMeasureTitle} and {secondMeasureTitle}",
         "crowdinContext": "Title of an arithmetic measure of type Sum. Don't translate placeholders '{firstMeasureTitle}', '{secondMeasureTitle}'."
     },
     "visualizations.measure.arithmetic.difference.title": {
-        "value": "Difference of {firstMeasureTitle} and {secondMeasureTitle}",
+        "text": "Difference of {firstMeasureTitle} and {secondMeasureTitle}",
         "crowdinContext": "Title of an arithmetic measure of type Difference. Don't translate placeholders '{firstMeasureTitle}', '{secondMeasureTitle}'."
     },
     "visualizations.measure.arithmetic.multiplication.title": {
-        "value": "Product of {firstMeasureTitle} and {secondMeasureTitle}",
+        "text": "Product of {firstMeasureTitle} and {secondMeasureTitle}",
         "crowdinContext": "Title of an arithmetic measure of type Product. Don't translate placeholders '{firstMeasureTitle}', '{secondMeasureTitle}'."
     },
     "visualizations.measure.arithmetic.ratio.title": {
-        "value": "Ratio of {firstMeasureTitle} and {secondMeasureTitle}",
+        "text": "Ratio of {firstMeasureTitle} and {secondMeasureTitle}",
         "crowdinContext": "Title of an arithmetic measure of type Ratio. Don't translate placeholders '{firstMeasureTitle}', '{secondMeasureTitle}'."
     },
     "visualizations.measure.arithmetic.change.title": {
-        "value": "Change from {secondMeasureTitle} to {firstMeasureTitle}",
+        "text": "Change from {secondMeasureTitle} to {firstMeasureTitle}",
         "crowdinContext": "Title of an arithmetic measure of type Change. Don't translate placeholders '{firstMeasureTitle}', '{secondMeasureTitle}'."
     },
     "visualizations.legend.text.top": {
-        "value": "Top",
+        "text": "Top",
         "crowdinContext": ""
     },
     "visualizations.legend.text.bottom": {
-        "value": "Bottom",
+        "text": "Bottom",
         "crowdinContext": ""
     },
     "visualizations.legend.text.left": {
-        "value": "Left",
+        "text": "Left",
         "crowdinContext": ""
     },
     "visualizations.legend.text.right": {
-        "value": "Right",
+        "text": "Right",
         "crowdinContext": ""
     },
     "visualizations.legend.text.colon": {
-        "value": ":",
+        "text": ":",
         "crowdinContext": "A colon character stands right after legend. eg: 'Left:'"
     },
     "visualizations.legend.text.column": {
-        "value": "Column",
+        "text": "Column",
         "crowdinContext": "column chart"
     },
     "visualizations.legend.text.line": {
-        "value": "Line",
+        "text": "Line",
         "crowdinContext": "line chart"
     },
     "visualizations.legend.text.area": {
-        "value": "Area",
+        "text": "Area",
         "crowdinContext": "area chart"
     },
     "visualizations.legend.text.combo": {
-        "value": "{0} ({1})",
+        "text": "{0} ({1})",
         "crowdinContext": "Combination of chart type & y-axis position. eg: 'Legend settings: Column (Left)' where 'Column' is '{0}' and '(Left)' is '({1})'. You can switch order of placeholders '{0}' and '({1})' for right-to-left languages if makes more sense."
     },
     "visualizations.pagination.previous": {
-        "value": "Previous page",
+        "text": "Previous page",
         "crowdinContext": ""
     },
     "visualizations.pagination.next": {
-        "value": "Next page",
+        "text": "Next page",
         "crowdinContext": ""
     },
 
     "visualizations.menu.aggregations": {
-        "value": "Aggregate",
+        "text": "Aggregate",
         "crowdinContext": "Heading showed above menu listing possible aggregations (totals). Use imperative."
     },
     "visualizations.menu.aggregations.rows": {
-        "value": "Rows",
+        "text": "Rows",
         "crowdinContext": "Heading showed above row attributes of the table you may apply one of aggregation (total) on."
     },
     "visualizations.menu.aggregations.columns": {
-        "value": "Columns",
+        "text": "Columns",
         "crowdinContext": "Heading showed above columns attributes of the table you may apply one of aggregation (total) on."
     },
     "visualizations.menu.aggregations.all-rows": {
-        "value": "of all rows",
+        "text": "of all rows",
         "crowdinContext": "Menu option that adds row aggregation (grand total) to the table. Example: 'Sum of all rows'"
     },
     "visualizations.menu.aggregations.all-columns": {
-        "value": "of all columns",
+        "text": "of all columns",
         "crowdinContext": "Menu option that adds column aggregation (grand total) to the table. Example: 'Sum of all columns'"
     },
     "visualizations.menu.aggregations.within-attribute": {
-        "value": "within {attributeName}",
+        "text": "within {attributeName}",
         "crowdinContext": "Menu option that adds row aggregation (sub-total) for specific attribute to the table. Example: 'Sum within Attribute A'. Don't translate placeholder '{attributeName}'."
     },
     "apply": {
-        "value": "Apply",
+        "text": "Apply",
         "crowdinContext": ""
     },
     "cancel": {
-        "value": "Cancel",
+        "text": "Cancel",
         "crowdinContext": ""
     },
     "close": {
-        "value": "Close",
+        "text": "Close",
         "crowdinContext": "Button for closing the popup without triggering any action."
     },
     "save": {
-        "value": "Save",
+        "text": "Save",
         "crowdinContext": "Label of save button or visual element"
     },
     "loading": {
-        "value": "Loading…",
+        "text": "Loading…",
         "crowdinContext": "Use '…' as one character, not 3 dots ('...')."
     },
     "filtering": {
-        "value": "Filtering…",
+        "text": "Filtering…",
         "crowdinContext": "Use '…' as one character, not 3 dots ('...')."
     },
     "dateFilterDropdown.title": {
-        "value": "Date range",
+        "text": "Date range",
         "crowdinContext": ""
     },
     "dateFilterDropdown.setDefault": {
-        "value": "Set default date filter for{nbsp}viewers:",
+        "text": "Set default date filter for{nbsp}viewers:",
         "crowdinContext": "Do not translate non-breakable space '{nbsp}'"
     },
     "dateFilterDropdown.configuration": {
-        "value": "Configuration",
+        "text": "Configuration",
         "crowdinContext": "Configuration button label in date filter dropdown"
     },
     "filters.thisMinute.title": {
-        "value": "This minute",
+        "text": "This minute",
         "crowdinContext": ""
     },
     "filters.lastMinute.title": {
-        "value": "Last minute",
+        "text": "Last minute",
         "crowdinContext": ""
     },
     "filters.nextMinute.title": {
-        "value": "Next minute",
+        "text": "Next minute",
         "crowdinContext": ""
     },
     "filters.thisHour.title": {
-        "value": "This hour",
+        "text": "This hour",
         "crowdinContext": ""
     },
     "filters.lastHour.title": {
-        "value": "Last hour",
+        "text": "Last hour",
         "crowdinContext": ""
     },
     "filters.nextHour.title": {
-        "value": "Next hour",
+        "text": "Next hour",
         "crowdinContext": ""
     },
     "filters.thisDay.title": {
-        "value": "Today",
+        "text": "Today",
         "crowdinContext": ""
     },
     "filters.lastDay.title": {
-        "value": "Yesterday",
+        "text": "Yesterday",
         "crowdinContext": ""
     },
     "filters.nextDay.title": {
-        "value": "Tomorrow",
+        "text": "Tomorrow",
         "crowdinContext": ""
     },
     "filters.thisWeek.title": {
-        "value": "This week",
+        "text": "This week",
         "crowdinContext": ""
     },
     "filters.lastWeek.title": {
-        "value": "Last week",
+        "text": "Last week",
         "crowdinContext": ""
     },
     "filters.nextWeek.title": {
-        "value": "Next week",
+        "text": "Next week",
         "crowdinContext": ""
     },
     "filters.thisMonth.title": {
-        "value": "This month",
+        "text": "This month",
         "crowdinContext": ""
     },
     "filters.lastMonth.title": {
-        "value": "Last month",
+        "text": "Last month",
         "crowdinContext": ""
     },
     "filters.nextMonth.title": {
-        "value": "Next month",
+        "text": "Next month",
         "crowdinContext": ""
     },
     "filters.thisQuarter.title": {
-        "value": "This quarter",
+        "text": "This quarter",
         "crowdinContext": ""
     },
     "filters.lastQuarter.title": {
-        "value": "Last quarter",
+        "text": "Last quarter",
         "crowdinContext": ""
     },
     "filters.nextQuarter.title": {
-        "value": "Next quarter",
+        "text": "Next quarter",
         "crowdinContext": ""
     },
     "filters.thisYear.title": {
-        "value": "This year",
+        "text": "This year",
         "crowdinContext": ""
     },
     "filters.lastYear.title": {
-        "value": "Last year",
+        "text": "Last year",
         "crowdinContext": ""
     },
     "filters.nextYear.title": {
-        "value": "Next year",
+        "text": "Next year",
         "crowdinContext": ""
     },
     "filters.lastNMinutes": {
-        "value": "{n, plural, one {Last # minute} other {Last # minutes}}",
+        "text": "{n, plural, one {Last # minute} other {Last # minutes}}",
         "crowdinContext": "In '{n, plural, one {LAST # MINUTE} other {LAST # MINUTES}}' translate only uppercase words. Do not translate the numeric placeholder '#'. Add missing plural forms if your language has any: ask if you need any help."
     },
     "filters.lastNHours": {
-        "value": "{n, plural, one {Last # hour} other {Last # hours}}",
+        "text": "{n, plural, one {Last # hour} other {Last # hours}}",
         "crowdinContext": "In '{n, plural, one {LAST # HOUR} other {LAST # HOURS}}' translate only uppercase words. Do not translate the numeric placeholder '#'. Add missing plural forms if your language has any: ask if you need any help."
     },
     "filters.lastNDays": {
-        "value": "{n, plural, one {Last # day} other {Last # days}}",
+        "text": "{n, plural, one {Last # day} other {Last # days}}",
         "crowdinContext": "In '{n, plural, one {LAST # DAY} other {LAST # DAYS}}' translate only uppercase words. Do not translate the numeric placeholder '#'. Add missing plural forms if your language has any: ask if you need any help."
     },
     "filters.lastNWeeks": {
-        "value": "{n, plural, one {Last # week} other {Last # weeks}}",
+        "text": "{n, plural, one {Last # week} other {Last # weeks}}",
         "crowdinContext": "In '{n, plural, one {LAST # WEEK} other {LAST # WEEKS}}' translate only uppercase words. Do not translate the numeric placeholder '#'. Add missing plural forms if your language has any: ask if you need any help."
     },
     "filters.lastNMonths": {
-        "value": "{n, plural, one {Last # month} other {Last # months}}",
+        "text": "{n, plural, one {Last # month} other {Last # months}}",
         "crowdinContext": "In '{n, plural, one {LAST # MONTH} other {LAST # MONTHS}}' translate only uppercase words. Do not translate the numeric placeholder '#'. Add missing plural forms if your language has any: ask if you need any help."
     },
     "filters.lastNQuarters": {
-        "value": "{n, plural, one {Last # quarter} other {Last # quarters}}",
+        "text": "{n, plural, one {Last # quarter} other {Last # quarters}}",
         "crowdinContext": "In '{n, plural, one {LAST # QUARTER} other {LAST # QUARTERS}}' translate only uppercase words. Do not translate the numeric placeholder '#'. Add missing plural forms if your language has any: ask if you need any help."
     },
     "filters.lastNYears": {
-        "value": "{n, plural, one {Last # year} other {Last # years}}",
+        "text": "{n, plural, one {Last # year} other {Last # years}}",
         "crowdinContext": "In '{n, plural, one {LAST # YEAR} other {LAST # YEARS}}' translate only uppercase words. Do not translate the numeric placeholder '#'. Add missing plural forms if your language has any: ask if you need any help."
     },
     "filters.nextNMinutes": {
-        "value": "{n, plural, one {Next # minute} other {Next # minutes}}",
+        "text": "{n, plural, one {Next # minute} other {Next # minutes}}",
         "crowdinContext": "In '{n, plural, one {NEXT # MINUTE} other {NEXT # MINUTES}}' translate only uppercase words. Do not translate the numeric placeholder '#'. Add missing plural forms if your language has any: ask if you need any help."
     },
     "filters.nextNHours": {
-        "value": "{n, plural, one {Next # hour} other {Next # hours}}",
+        "text": "{n, plural, one {Next # hour} other {Next # hours}}",
         "crowdinContext": "In '{n, plural, one {NEXT # HOUR} other {NEXT # HOURS}}' translate only uppercase words. Do not translate the numeric placeholder '#'. Add missing plural forms if your language has any: ask if you need any help."
     },
     "filters.nextNDays": {
-        "value": "{n, plural, one {Next # day} other {Next # days}}",
+        "text": "{n, plural, one {Next # day} other {Next # days}}",
         "crowdinContext": "In '{n, plural, one {NEXT # DAY} other {NEXT # DAYS}}' translate only uppercase words. Do not translate the numeric placeholder '#'. Add missing plural forms if your language has any: ask if you need any help."
     },
     "filters.nextNWeeks": {
-        "value": "{n, plural, one {Next # week} other {Next # weeks}}",
+        "text": "{n, plural, one {Next # week} other {Next # weeks}}",
         "crowdinContext": "In '{n, plural, one {NEXT # WEEK} other {NEXT # WEEKS}}' translate only uppercase words. Do not translate the numeric placeholder '#'. Add missing plural forms if your language has any: ask if you need any help."
     },
     "filters.nextNMonths": {
-        "value": "{n, plural, one {Next # month} other {Next # months}}",
+        "text": "{n, plural, one {Next # month} other {Next # months}}",
         "crowdinContext": "In '{n, plural, one {NEXT # MONTH} other {NEXT # MONTHS}}' translate only uppercase words. Do not translate the numeric placeholder '#'. Add missing plural forms if your language has any: ask if you need any help."
     },
     "filters.nextNQuarters": {
-        "value": "{n, plural, one {Next # quarter} other {Next # quarters}}",
+        "text": "{n, plural, one {Next # quarter} other {Next # quarters}}",
         "crowdinContext": "In '{n, plural, one {NEXT # QUARTER} other {NEXT # QUARTERS}}' translate only uppercase words. Do not translate the numeric placeholder '#'. Add missing plural forms if your language has any: ask if you need any help."
     },
     "filters.nextNYears": {
-        "value": "{n, plural, one {Next # year} other {Next # years}}",
+        "text": "{n, plural, one {Next # year} other {Next # years}}",
         "crowdinContext": "In '{n, plural, one {NEXT # YEAR} other {NEXT # YEARS}}' translate only uppercase words. Do not translate the numeric placeholder '#'. Add missing plural forms if your language has any: ask if you need any help."
     },
     "filters.interval.minutes.past": {
-        "value": "From {from} to {to} {to, plural, one {minute} other {minutes}} ago",
+        "text": "From {from} to {to} {to, plural, one {minute} other {minutes}} ago",
         "crowdinContext": "Example: 'From 5 to 3 minutes ago'. Don't translate placeholders '{from}', '{to}'. In '{to, plural, one {MINUTE} other {MINUTES}}' translate only uppercase words."
     },
     "filters.interval.minutes.past.sameValue": {
-        "value": "{value} {value, plural, one {minute} other {minutes}} ago",
+        "text": "{value} {value, plural, one {minute} other {minutes}} ago",
         "crowdinContext": "Example: '5 minutes ago'. Don't translate placeholder '{value}'. In '{value, plural, one {MINUTE} other {MINUTES}}' translate only uppercase words."
     },
     "filters.interval.minutes.future": {
-        "value": "From {from} to {to} {to, plural, one {minute} other {minutes}} ahead",
+        "text": "From {from} to {to} {to, plural, one {minute} other {minutes}} ahead",
         "crowdinContext": "Example: 'From 3 to 5 minutes ahead'. Don't translate placeholders '{from}', '{to}'. In '{to, plural, one {MINUTE} other {MINUTES}}' translate only uppercase words."
     },
     "filters.interval.minutes.future.sameValue": {
-        "value": "{value} {value, plural, one {minute} other {minutes}} ahead",
+        "text": "{value} {value, plural, one {minute} other {minutes}} ahead",
         "crowdinContext": "Example: '5 minutes ahead'. Don't translate placeholder '{value}'. In '{value, plural, one {MINUTE} other {MINUTES}}' translate only uppercase words."
     },
     "filters.interval.minutes.mixed": {
-        "value": "From {from} {from, plural, one {minute} other {minutes}} ago to {to} {to, plural, one {minute} other {minutes}} ahead",
+        "text": "From {from} {from, plural, one {minute} other {minutes}} ago to {to} {to, plural, one {minute} other {minutes}} ahead",
         "crowdinContext": "Example: 'From 5 minutes ago to 3 minutes ahead'. Don't translate placeholders '{from}', '{to}'. In '{to, plural, one {MINUTE} other {MINUTES}}' translate only uppercase words."
     },
     "filters.interval.hours.past": {
-        "value": "From {from} to {to} {to, plural, one {hour} other {hours}} ago",
+        "text": "From {from} to {to} {to, plural, one {hour} other {hours}} ago",
         "crowdinContext": "Example: 'From 5 to 3 hours ago'. Don't translate placeholders '{from}', '{to}'. In '{to, plural, one {HOUR} other {HOURS}}' translate only uppercase words."
     },
     "filters.interval.hours.past.sameValue": {
-        "value": "{value} {value, plural, one {hour} other {hours}} ago",
+        "text": "{value} {value, plural, one {hour} other {hours}} ago",
         "crowdinContext": "Example: '5 hours ago'. Don't translate placeholder '{value}'. In '{value, plural, one {HOUR} other {HOURS}}' translate only uppercase words."
     },
     "filters.interval.hours.future": {
-        "value": "From {from} to {to} {to, plural, one {hour} other {hours}} ahead",
+        "text": "From {from} to {to} {to, plural, one {hour} other {hours}} ahead",
         "crowdinContext": "Example: 'From 3 to 5 hours ahead'. Don't translate placeholders '{from}', '{to}'. In '{to, plural, one {HOUR} other {HOURS}}' translate only uppercase words."
     },
     "filters.interval.hours.future.sameValue": {
-        "value": "{value} {value, plural, one {hour} other {hours}} ahead",
+        "text": "{value} {value, plural, one {hour} other {hours}} ahead",
         "crowdinContext": "Example: '5 hours ahead'. Don't translate placeholder '{value}'. In '{value, plural, one {HOUR} other {HOURS}}' translate only uppercase words."
     },
     "filters.interval.hours.mixed": {
-        "value": "From {from} {from, plural, one {hour} other {hours}} ago to {to} {to, plural, one {hour} other {hours}} ahead",
+        "text": "From {from} {from, plural, one {hour} other {hours}} ago to {to} {to, plural, one {hour} other {hours}} ahead",
         "crowdinContext": "Example: 'From 5 hours ago to 3 hours ahead'. Don't translate placeholders '{from}', '{to}'. In '{to, plural, one {HOUR} other {HOURS}}' translate only uppercase words."
     },
     "filters.interval.days.past": {
-        "value": "From {from} to {to} {to, plural, one {day} other {days}} ago",
+        "text": "From {from} to {to} {to, plural, one {day} other {days}} ago",
         "crowdinContext": "Example: 'From 5 to 3 days ago'. Don't translate placeholders '{from}', '{to}'. In '{to, plural, one {DAY} other {DAYS}}' translate only uppercase words."
     },
     "filters.interval.days.past.sameValue": {
-        "value": "{value} {value, plural, one {day} other {days}} ago",
+        "text": "{value} {value, plural, one {day} other {days}} ago",
         "crowdinContext": "Example: '5 days ago'. Don't translate placeholder '{value}'. In '{value, plural, one {DAY} other {DAYS}}' translate only uppercase words."
     },
     "filters.interval.days.future": {
-        "value": "From {from} to {to} {to, plural, one {day} other {days}} ahead",
+        "text": "From {from} to {to} {to, plural, one {day} other {days}} ahead",
         "crowdinContext": "Example: 'From 3 to 5 days ahead'. Don't translate placeholders '{from}', '{to}'. In '{to, plural, one {DAY} other {DAYS}}' translate only uppercase words."
     },
     "filters.interval.days.future.sameValue": {
-        "value": "{value} {value, plural, one {day} other {days}} ahead",
+        "text": "{value} {value, plural, one {day} other {days}} ahead",
         "crowdinContext": "Example: '5 days ahead'. Don't translate placeholder '{value}'. In '{value, plural, one {DAY} other {DAYS}}' translate only uppercase words."
     },
     "filters.interval.days.mixed": {
-        "value": "From {from} {from, plural, one {day} other {days}} ago to {to} {to, plural, one {day} other {days}} ahead",
+        "text": "From {from} {from, plural, one {day} other {days}} ago to {to} {to, plural, one {day} other {days}} ahead",
         "crowdinContext": "Example: 'From 5 days ago to 3 days ahead'. Don't translate placeholders '{from}', '{to}'. In '{to, plural, one {DAY} other {DAYS}}' translate only uppercase words."
     },
     "filters.interval.weeks.past": {
-        "value": "From {from} to {to} {to, plural, one {week} other {weeks}} ago",
+        "text": "From {from} to {to} {to, plural, one {week} other {weeks}} ago",
         "crowdinContext": "Example: 'From 5 to 3 weeks ago'. Don't translate placeholders '{from}', '{to}'. In '{to, plural, one {WEEK} other {WEEKS}}' translate only uppercase words."
     },
     "filters.interval.weeks.past.sameValue": {
-        "value": "{value} {value, plural, one {week} other {weeks}} ago",
+        "text": "{value} {value, plural, one {week} other {weeks}} ago",
         "crowdinContext": "Example: '5 weeks ago'. Don't translate placeholder '{value}'. In '{value, plural, one {WEEK} other {WEEKS}}' translate only uppercase words."
     },
     "filters.interval.weeks.future": {
-        "value": "From {from} to {to} {to, plural, one {week} other {weeks}} ahead",
+        "text": "From {from} to {to} {to, plural, one {week} other {weeks}} ahead",
         "crowdinContext": "Example: 'From 3 to 5 weeks ahead'. Don't translate placeholders '{from}', '{to}'. In '{to, plural, one {WEEK} other {WEEKS}}' translate only uppercase words."
     },
     "filters.interval.weeks.future.sameValue": {
-        "value": "{value} {value, plural, one {week} other {weeks}} ahead",
+        "text": "{value} {value, plural, one {week} other {weeks}} ahead",
         "crowdinContext": "Example: '5 weeks ahead'. Don't translate placeholder '{value}'. In '{value, plural, one {WEEK} other {WEEKS}}' translate only uppercase words."
     },
     "filters.interval.weeks.mixed": {
-        "value": "From {from} {from, plural, one {week} other {weeks}} ago to {to} {to, plural, one {week} other {weeks}} ahead",
+        "text": "From {from} {from, plural, one {week} other {weeks}} ago to {to} {to, plural, one {week} other {weeks}} ahead",
         "crowdinContext": "Example: 'From 5 weeks ago to 3 weeks ahead'. Don't translate placeholders '{from}', '{to}'. In '{to, plural, one {WEEK} other {WEEKS}}' translate only uppercase words."
     },
     "filters.interval.months.past": {
-        "value": "From {from} to {to} {to, plural, one {month} other {months}} ago",
+        "text": "From {from} to {to} {to, plural, one {month} other {months}} ago",
         "crowdinContext": "Example: 'From 5 to 3 months ago'. Don't translate placeholders '{from}', '{to}'. In '{to, plural, one {MONTH} other {MONTHS}}' translate only uppercase words."
     },
     "filters.interval.months.past.sameValue": {
-        "value": "{value} {value, plural, one {month} other {months}} ago",
+        "text": "{value} {value, plural, one {month} other {months}} ago",
         "crowdinContext": "Example: '5 months ago'. Don't translate placeholder '{value}'. In '{value, plural, one {MONTH} other {MONTHS}}' translate only uppercase words."
     },
     "filters.interval.months.future": {
-        "value": "From {from} to {to} {to, plural, one {month} other {months}} ahead",
+        "text": "From {from} to {to} {to, plural, one {month} other {months}} ahead",
         "crowdinContext": "Example: 'From 3 to 5 months ahead'. Don't translate placeholders '{from}', '{to}'. In '{to, plural, one {MONTH} other {MONTHS}}' translate only uppercase words."
     },
     "filters.interval.months.future.sameValue": {
-        "value": "{value} {value, plural, one {month} other {months}} ahead",
+        "text": "{value} {value, plural, one {month} other {months}} ahead",
         "crowdinContext": "Example: '5 months ahead'. Don't translate placeholder '{value}'. In '{value, plural, one {MONTH} other {MONTHS}}' translate only uppercase words."
     },
     "filters.interval.months.mixed": {
-        "value": "From {from} {from, plural, one {month} other {months}} ago to {to} {to, plural, one {month} other {months}} ahead",
+        "text": "From {from} {from, plural, one {month} other {months}} ago to {to} {to, plural, one {month} other {months}} ahead",
         "crowdinContext": "Example: 'From 5 months ago to 3 months ahead'. Don't translate placeholders '{from}', '{to}'. In '{to, plural, one {MONTH} other {MONTHS}}' translate only uppercase words."
     },
     "filters.interval.quarters.past": {
-        "value": "From {from} to {to} {to, plural, one {quarter} other {quarters}} ago",
+        "text": "From {from} to {to} {to, plural, one {quarter} other {quarters}} ago",
         "crowdinContext": "Example: 'From 5 to 3 quarters ago'. Don't translate placeholders '{from}', '{to}'. In '{to, plural, one {QUARTER} other {QUARTERS}}' translate only uppercase words."
     },
     "filters.interval.quarters.past.sameValue": {
-        "value": "{value} {value, plural, one {quarter} other {quarters}} ago",
+        "text": "{value} {value, plural, one {quarter} other {quarters}} ago",
         "crowdinContext": "Example: '5 quarters ago'. Don't translate placeholder '{value}'. In '{value, plural, one {QUARTER} other {QUARTERS}}' translate only uppercase words."
     },
     "filters.interval.quarters.future": {
-        "value": "From {from} to {to} {to, plural, one {quarter} other {quarters}} ahead",
+        "text": "From {from} to {to} {to, plural, one {quarter} other {quarters}} ahead",
         "crowdinContext": "Example: 'From 3 to 5 quarters ahead'. Don't translate placeholders '{from}', '{to}'. In '{to, plural, one {QUARTER} other {QUARTERS}}' translate only uppercase words."
     },
     "filters.interval.quarters.future.sameValue": {
-        "value": "{value} {value, plural, one {quarter} other {quarters}} ahead",
+        "text": "{value} {value, plural, one {quarter} other {quarters}} ahead",
         "crowdinContext": "Example: '5 quarters ahead'. Don't translate placeholder '{value}'. In '{value, plural, one {QUARTER} other {QUARTERS}}' translate only uppercase words."
     },
     "filters.interval.quarters.mixed": {
-        "value": "From {from} {from, plural, one {quarter} other {quarters}} ago to {to} {to, plural, one {quarter} other {quarters}} ahead",
+        "text": "From {from} {from, plural, one {quarter} other {quarters}} ago to {to} {to, plural, one {quarter} other {quarters}} ahead",
         "crowdinContext": "Example: 'From 5 quarters ago to 3 quarters ahead'. Don't translate placeholders '{from}', '{to}'. In '{to, plural, one {QUARTER} other {QUARTERS}}' translate only uppercase words."
     },
     "filters.interval.years.past": {
-        "value": "From {from} to {to} {to, plural, one {year} other {years}} ago",
+        "text": "From {from} to {to} {to, plural, one {year} other {years}} ago",
         "crowdinContext": "Example: 'From 5 to 3 years ago'. Don't translate placeholders '{from}', '{to}'. In '{to, plural, one {YEAR} other {YEARS}}' translate only uppercase words."
     },
     "filters.interval.years.past.sameValue": {
-        "value": "{value} {value, plural, one {year} other {years}} ago",
+        "text": "{value} {value, plural, one {year} other {years}} ago",
         "crowdinContext": "Example: '5 years ago'. Don't translate placeholder '{value}'. In '{value, plural, one {YEAR} other {YEARS}}' translate only uppercase words."
     },
     "filters.interval.years.future": {
-        "value": "From {from} to {to} {to, plural, one {year} other {years}} ahead",
+        "text": "From {from} to {to} {to, plural, one {year} other {years}} ahead",
         "crowdinContext": "Example: 'From 3 to 5 years ahead'. Don't translate placeholders '{from}', '{to}'. In '{to, plural, one {YEAR} other {YEARS}}' translate only uppercase words."
     },
     "filters.interval.years.future.sameValue": {
-        "value": "{value} {value, plural, one {year} other {years}} ahead",
+        "text": "{value} {value, plural, one {year} other {years}} ahead",
         "crowdinContext": "Example: '5 years ahead'. Don't translate placeholder '{value}'. In '{value, plural, one {YEAR} other {YEARS}}' translate only uppercase words."
     },
     "filters.interval.years.mixed": {
-        "value": "From {from} {from, plural, one {year} other {years}} ago to {to} {to, plural, one {year} other {years}} ahead",
+        "text": "From {from} {from, plural, one {year} other {years}} ago to {to} {to, plural, one {year} other {years}} ahead",
         "crowdinContext": "Example: 'From 5 years ago to 3 years ahead'. Don't translate placeholders '{from}', '{to}'. In '{to, plural, one {YEAR} other {YEARS}}' translate only uppercase words."
     },
     "filters.granularity.minutes": {
-        "value": "Minutes",
+        "text": "Minutes",
         "crowdinContext": ""
     },
     "filters.granularity.hours": {
-        "value": "Hours",
+        "text": "Hours",
         "crowdinContext": ""
     },
     "filters.granularity.days": {
-        "value": "Days",
+        "text": "Days",
         "crowdinContext": ""
     },
     "filters.granularity.weeks": {
-        "value": "Weeks",
+        "text": "Weeks",
         "crowdinContext": ""
     },
     "filters.granularity.months": {
-        "value": "Months",
+        "text": "Months",
         "crowdinContext": ""
     },
     "filters.granularity.quarters": {
-        "value": "Quarters",
+        "text": "Quarters",
         "crowdinContext": ""
     },
     "filters.granularity.years": {
-        "value": "Years",
+        "text": "Years",
         "crowdinContext": ""
     },
     "filters.from": {
-        "value": "from",
+        "text": "from",
         "crowdinContext": "Displayed as placeholder in static period inputs where user enters date"
     },
     "filters.to": {
-        "value": "to",
+        "text": "to",
         "crowdinContext": "Displayed as placeholder in static period inputs where user enters date"
     },
     "filters.date.accessibility.label.from": {
-        "value": "Select date from",
+        "text": "Select date from",
         "crowdinContext": ""
     },
     "filters.date.accessibility.label.to": {
-        "value": "Select date to",
+        "text": "Select date to",
         "crowdinContext": ""
     },
     "filters.time.accessibility.label.from": {
-        "value": "Select time from",
+        "text": "Select time from",
         "crowdinContext": ""
     },
     "filters.time.accessibility.label.to": {
-        "value": "Select time to",
+        "text": "Select time to",
         "crowdinContext": ""
     },
     "filters.relative.placeholder": {
-        "value": "Type or select",
+        "text": "Type or select",
         "crowdinContext": ""
     },
     "filters.relative.from.label": {
-        "value": "Period start",
+        "text": "Period start",
         "crowdinContext": ""
     },
     "filters.relative.from.invalid.value": {
-        "value": "Error: Invalid period start - enter a valid period or select it from the list.",
+        "text": "Error: Invalid period start - enter a valid period or select it from the list.",
         "crowdinContext": ""
     },
     "filters.relative.from.empty.value": {
-        "value": "Error: Period start is empty - enter a valid period or select it from the list.",
+        "text": "Error: Period start is empty - enter a valid period or select it from the list.",
         "crowdinContext": ""
     },
     "filters.relative.to.label": {
-        "value": "Period end",
+        "text": "Period end",
         "crowdinContext": ""
     },
     "filters.relative.to.invalid.value": {
-        "value": "Error: Invalid period end - enter a valid period or select it from the list.",
+        "text": "Error: Invalid period end - enter a valid period or select it from the list.",
         "crowdinContext": ""
     },
     "filters.relative.to.empty.value": {
-        "value": "Error: Period end is empty - enter a valid period or select it from the list.",
+        "text": "Error: Period end is empty - enter a valid period or select it from the list.",
         "crowdinContext": ""
     },
     "filters.floatingRange": {
-        "value": "Relative period",
+        "text": "Relative period",
         "crowdinContext": ""
     },
     "filters.floatingRange.tooltip": {
-        "value": "The date range is relative to today and adjusts in time.",
+        "text": "The date range is relative to today and adjusts in time.",
         "crowdinContext": ""
     },
     "filters.floatingRange.noMatch": {
-        "value": "No match found",
+        "text": "No match found",
         "crowdinContext": ""
     },
     "filters.floatingRange.tooBig": {
-        "value": "Maximum value: {limit}",
+        "text": "Maximum value: {limit}",
         "crowdinContext": "This string should be as short as possible to fit in the container. Don't translate placeholder '{limit}'."
     },
     "filters.floatingRange.option.minute.offset.history": {
-        "value": "{n, plural, one {last minute} other {# minutes ago}}",
+        "text": "{n, plural, one {last minute} other {# minutes ago}}",
         "crowdinContext": "In '{n, plural, one {LAST MINUTE} other {# MINUTES AGO}}' translate only uppercase words. Do not translate the numeric placeholder '#'. Add missing plural forms if your language has any: ask if you need any help."
     },
     "filters.floatingRange.option.minute.offset.today": {
-        "value": "this minute",
+        "text": "this minute",
         "crowdinContext": ""
     },
     "filters.floatingRange.option.minute.offset.future": {
-        "value": "{n, plural, one {next minute} other {# minutes ahead}}",
+        "text": "{n, plural, one {next minute} other {# minutes ahead}}",
         "crowdinContext": "In '{n, plural, one {NEXT MINUTE} other {# MINUTES AHEAD}}' translate only uppercase words. Do not translate the numeric placeholder '#'. Add missing plural forms if your language has any: ask if you need any help."
     },
     "filters.floatingRange.option.hour.offset.history": {
-        "value": "{n, plural, one {last hour} other {# hours ago}}",
+        "text": "{n, plural, one {last hour} other {# hours ago}}",
         "crowdinContext": "In '{n, plural, one {LAST HOUR} other {# HOURS AGO}}' translate only uppercase words. Do not translate the numeric placeholder '#'. Add missing plural forms if your language has any: ask if you need any help."
     },
     "filters.floatingRange.option.hour.offset.today": {
-        "value": "this hour",
+        "text": "this hour",
         "crowdinContext": ""
     },
     "filters.floatingRange.option.hour.offset.future": {
-        "value": "{n, plural, one {next hour} other {# hours ahead}}",
+        "text": "{n, plural, one {next hour} other {# hours ahead}}",
         "crowdinContext": "In '{n, plural, one {NEXT HOUR} other {# HOURS AHEAD}}' translate only uppercase words. Do not translate the numeric placeholder '#'. Add missing plural forms if your language has any: ask if you need any help."
     },
     "filters.floatingRange.option.day.offset.history": {
-        "value": "{n, plural, one {yesterday} other {# days ago}}",
+        "text": "{n, plural, one {yesterday} other {# days ago}}",
         "crowdinContext": "In '{n, plural, one {YESTERDAY} other {# DAYS AGO}}' translate only uppercase words. Do not translate the numeric placeholder '#'. Add missing plural forms if your language has any: ask if you need any help."
     },
     "filters.floatingRange.option.day.offset.today": {
-        "value": "today",
+        "text": "today",
         "crowdinContext": ""
     },
     "filters.floatingRange.option.day.offset.future": {
-        "value": "{n, plural, one {tomorrow} other {# days ahead}}",
+        "text": "{n, plural, one {tomorrow} other {# days ahead}}",
         "crowdinContext": "In '{n, plural, one {TOMORROW} other {# DAYS AHEAD}}' translate only uppercase words. Do not translate the numeric placeholder '#'. Add missing plural forms if your language has any: ask if you need any help."
     },
     "filters.floatingRange.option.week.offset.history": {
-        "value": "{n, plural, one {last week} other {# weeks ago}}",
+        "text": "{n, plural, one {last week} other {# weeks ago}}",
         "crowdinContext": "In '{n, plural, one {LAST WEEK} other {# WEEKS AGO}}' translate only uppercase words. Do not translate the numeric placeholder '#'. Add missing plural forms if your language has any: ask if you need any help."
     },
     "filters.floatingRange.option.week.offset.today": {
-        "value": "this week",
+        "text": "this week",
         "crowdinContext": ""
     },
     "filters.floatingRange.option.week.offset.future": {
-        "value": "{n, plural, one {next week} other {# weeks ahead}}",
+        "text": "{n, plural, one {next week} other {# weeks ahead}}",
         "crowdinContext": "In '{n, plural, one {NEXT WEEK} other {# WEEKS AHEAD}}' translate only uppercase words. Do not translate the numeric placeholder '#'. Add missing plural forms if your language has any: ask if you need any help."
     },
     "filters.floatingRange.option.month.offset.history": {
-        "value": "{n, plural, one {last month} other {# months ago}}",
+        "text": "{n, plural, one {last month} other {# months ago}}",
         "crowdinContext": "In '{n, plural, one {LAST MONTH} other {# MONTHS AGO}}' translate only uppercase words. Do not translate the numeric placeholder '#'. Add missing plural forms if your language has any: ask if you need any help."
     },
     "filters.floatingRange.option.month.offset.today": {
-        "value": "this month",
+        "text": "this month",
         "crowdinContext": ""
     },
     "filters.floatingRange.option.month.offset.future": {
-        "value": "{n, plural, one {next month} other {# months ahead}}",
+        "text": "{n, plural, one {next month} other {# months ahead}}",
         "crowdinContext": "In '{n, plural, one {NEXT MONTH} other {# MONTHS AHEAD}}' translate only uppercase words. Do not translate the numeric placeholder '#'. Add missing plural forms if your language has any: ask if you need any help."
     },
     "filters.floatingRange.option.quarter.offset.history": {
-        "value": "{n, plural, one {last quarter} other {# quarters ago}}",
+        "text": "{n, plural, one {last quarter} other {# quarters ago}}",
         "crowdinContext": "In '{n, plural, one {LAST QUARTER} other {# QUARTERS AGO}}' translate only uppercase words. Do not translate the numeric placeholder '#'. Add missing plural forms if your language has any: ask if you need any help."
     },
     "filters.floatingRange.option.quarter.offset.today": {
-        "value": "this quarter",
+        "text": "this quarter",
         "crowdinContext": ""
     },
     "filters.floatingRange.option.quarter.offset.future": {
-        "value": "{n, plural, one {next quarter} other {# quarters ahead}}",
+        "text": "{n, plural, one {next quarter} other {# quarters ahead}}",
         "crowdinContext": "In '{n, plural, one {NEXT QUARTER} other {# QUARTERS AHEAD}}' translate only uppercase words. Do not translate the numeric placeholder '#'. Add missing plural forms if your language has any: ask if you need any help."
     },
     "filters.floatingRange.option.year.offset.history": {
-        "value": "{n, plural, one {last year} other {# years ago}}",
+        "text": "{n, plural, one {last year} other {# years ago}}",
         "crowdinContext": "In '{n, plural, one {LAST YEAR} other {# YEARS AGO}}' translate only uppercase words. Do not translate the numeric placeholder '#'. Add missing plural forms if your language has any: ask if you need any help."
     },
     "filters.floatingRange.option.year.offset.today": {
-        "value": "this year",
+        "text": "this year",
         "crowdinContext": ""
     },
     "filters.floatingRange.option.year.offset.future": {
-        "value": "{n, plural, one {next year} other {# years ahead}}",
+        "text": "{n, plural, one {next year} other {# years ahead}}",
         "crowdinContext": "In '{n, plural, one {NEXT YEAR} other {# YEARS AHEAD}}' translate only uppercase words. Do not translate the numeric placeholder '#'. Add missing plural forms if your language has any: ask if you need any help."
     },
     "filters.allTime.title": {
-        "value": "All time",
+        "text": "All time",
         "crowdinContext": ""
     },
     "filters.allTime.excludeCurrentPeriod": {
-        "value": "Exclude open period",
+        "text": "Exclude open period",
         "crowdinContext": ""
     },
     "filters.minute.title": {
-        "value": "MINUTE",
+        "text": "MINUTE",
         "crowdinContext": ""
     },
     "filters.minute.excludeCurrentPeriod": {
-        "value": "Exclude this minute",
+        "text": "Exclude this minute",
         "crowdinContext": ""
     },
     "filters.hour.title": {
-        "value": "HOUR",
+        "text": "HOUR",
         "crowdinContext": ""
     },
     "filters.hour.excludeCurrentPeriod": {
-        "value": "Exclude this hour",
+        "text": "Exclude this hour",
         "crowdinContext": ""
     },
     "filters.day.title": {
-        "value": "DAY",
+        "text": "DAY",
         "crowdinContext": ""
     },
     "filters.day.excludeCurrentPeriod": {
-        "value": "Exclude today",
+        "text": "Exclude today",
         "crowdinContext": ""
     },
     "filters.week.title": {
-        "value": "WEEK",
+        "text": "WEEK",
         "crowdinContext": ""
     },
     "filters.week.excludeCurrentPeriod": {
-        "value": "Exclude this week",
+        "text": "Exclude this week",
         "crowdinContext": ""
     },
     "filters.month.title": {
-        "value": "MONTH",
+        "text": "MONTH",
         "crowdinContext": ""
     },
     "filters.month.excludeCurrentPeriod": {
-        "value": "Exclude this month",
+        "text": "Exclude this month",
         "crowdinContext": ""
     },
     "filters.quarter.title": {
-        "value": "QUARTER",
+        "text": "QUARTER",
         "crowdinContext": ""
     },
     "filters.quarter.excludeCurrentPeriod": {
-        "value": "Exclude this quarter",
+        "text": "Exclude this quarter",
         "crowdinContext": ""
     },
     "filters.year.title": {
-        "value": "YEAR",
+        "text": "YEAR",
         "crowdinContext": ""
     },
     "filters.year.excludeCurrentPeriod": {
-        "value": "Exclude this year",
+        "text": "Exclude this year",
         "crowdinContext": ""
     },
     "filters.excludeCurrentPeriod.unavailable": {
-        "value": "Not available for the selected date range",
+        "text": "Not available for the selected date range",
         "crowdinContext": ""
     },
     "filters.staticPeriod": {
-        "value": "Static period",
+        "text": "Static period",
         "crowdinContext": ""
     },
     "filters.staticPeriod.incorrectFormat": {
-        "value": "The date must be in the {format} format",
+        "text": "The date must be in the {format} format",
         "crowdinContext": "Placeholder '{format}' is used for showing date format. Example 'The date must be in the MM/dd/yyyy format'. Don't translate placeholder '{format}'."
     },
     "filters.staticPeriod.endDateBeforeStartDate": {
-        "value": "End time must be later than start time",
+        "text": "End time must be later than start time",
         "crowdinContext": "This error is displayed once there is a datetime range and End time is before To time"
     },
     "mvf.operator.all": {
-        "value": "all",
+        "text": "all",
         "crowdinContext": "Covers all the operators like 'Greater than', 'Less than', etc."
     },
     "mvf.operator.greaterThan": {
-        "value": "greater than",
+        "text": "greater than",
         "crowdinContext": ""
     },
     "mvf.operator.greaterThanOrEqualTo": {
-        "value": "greater than or equal to",
+        "text": "greater than or equal to",
         "crowdinContext": ""
     },
     "mvf.operator.lessThan": {
-        "value": "less than",
+        "text": "less than",
         "crowdinContext": ""
     },
     "mvf.operator.lessThanOrEqualTo": {
-        "value": "less than or equal to",
+        "text": "less than or equal to",
         "crowdinContext": ""
     },
     "mvf.operator.equalTo": {
-        "value": "equal to",
+        "text": "equal to",
         "crowdinContext": ""
     },
     "mvf.operator.notEqualTo": {
-        "value": "not equal to",
+        "text": "not equal to",
         "crowdinContext": ""
     },
     "mvf.operator.between": {
-        "value": "between",
+        "text": "between",
         "crowdinContext": ""
     },
     "mvf.operator.notBetween": {
-        "value": "not between",
+        "text": "not between",
         "crowdinContext": ""
     },
     "mvf.operator.between.tooltip.bubble": {
-        "value": "Start and end values are included.",
+        "text": "Start and end values are included.",
         "crowdinContext": ""
     },
     "mvf.operator.notBetween.tooltip.bubble": {
-        "value": "Start and end values are not included.",
+        "text": "Start and end values are not included.",
         "crowdinContext": ""
     },
     "mvf.treatNullValuesAsZeroLabel": {
-        "value": "Treat blank values as 0",
+        "text": "Treat blank values as 0",
         "crowdinContext": "Checkbox label. 'blank values' are data rows without any value (empty), which can be considered to be 0 in calculations."
     },
     "mvf.treatNullValuesAsZeroTooltip": {
-        "value": "If the filter condition includes 0, blank values will be treated as 0 and included in calculations.",
+        "text": "If the filter condition includes 0, blank values will be treated as 0 and included in calculations.",
         "crowdinContext": "Checkbox label tooltip. 'blank values' are data rows without any value (empty), which can be considered to be 0 during calculations. If the filter is set to '< 1' for example, it includes values of 0 (less than one) and therefore all the blank (empty) values are going to be considered to be 0 in calculations."
     },
     "measureNumberFormat.custom.optionLabel": {
-        "value": "Custom",
+        "text": "Custom",
         "crowdinContext": "An item in list of presets. Denotes a custom preset"
     },
     "measureNumberFormat.buttonLabel": {
-        "value": "Format: {selectedFormatPresetName}",
+        "text": "Format: {selectedFormatPresetName}",
         "crowdinContext": "A label informing the user about the currently selected format. The values of selectedFormatPresetName can be for instance 'Whole number', 'Decimal number', or 'Custom'"
     },
     "measureNumberCustomFormatDialog.title": {
-        "value": "Custom format",
+        "text": "Custom format",
         "crowdinContext": "Title of the dialog for setting a custom measure format."
     },
     "measureNumberCustomFormatDialog.template.preview.title": {
-        "value": "Format preview",
+        "text": "Format preview",
         "crowdinContext": "The title of the help bubble for custom measure format template"
     },
     "measureNumberCustomFormatDialog.template.title": {
-        "value": "Templates",
+        "text": "Templates",
         "crowdinContext": "Title of the list of templates"
     },
     "measureNumberCustomFormatDialog.extendedPreview.button": {
-        "value": "Show more",
+        "text": "Show more",
         "crowdinContext": "The title of button which will display more examples"
     },
     "measureNumberCustomFormatDialog.howToFormat": {
-        "value": "How to format?",
+        "text": "How to format?",
         "crowdinContext": "Link to help"
     },
     "measureNumberCustomFormatDialog.definition": {
-        "value": "Definition",
+        "text": "Definition",
         "crowdinContext": "Header of format definition field."
     },
     "measureNumberCustomFormatDialog.preview": {
-        "value": "Preview",
+        "text": "Preview",
         "crowdinContext": "Header of a preview section"
     },
     "properties.legend.title": {
-        "value": "Legend",
+        "text": "Legend",
         "crowdinContext": ""
     },
     "attrf.all": {
-        "value": "All",
+        "text": "All",
         "crowdinContext": ""
     },
     "attrf.all_except": {
-        "value": "All except",
+        "text": "All except",
         "crowdinContext": ""
     },
     "rankingFilter.topBottom": {
-        "value": "Top/bottom values",
+        "text": "Top/bottom values",
         "crowdinContext": "Filter title"
     },
     "rankingFilter.top": {
-        "value": "Top",
+        "text": "Top",
         "crowdinContext": "Top ranking operator option."
     },
     "rankingFilter.bottom": {
-        "value": "Bottom",
+        "text": "Bottom",
         "crowdinContext": "Bottom ranking operator option."
     },
     "rankingFilter.allRecords": {
-        "value": "All",
+        "text": "All",
         "crowdinContext": "Option describing all records."
     },
     "rankingFilter.allRecords.tooltip|insight": {
-        "value": "Apply the filter to all attributes in the visualization.",
+        "text": "Apply the filter to all attributes in the visualization.",
         "crowdinContext": "Explanation of 'All' option."
     },
     "rankingFilter.allRecords.tooltip|report": {
-        "value": "Apply the filter to all attributes in the report.",
+        "text": "Apply the filter to all attributes in the report.",
         "crowdinContext": "Explanation of 'All' option.",
         "translate": false
     },
     "rankingFilter.attributeDropdown.oneAttributeTooltip|insight": {
-        "value": "The visualization is sliced only by one attribute. The filter will apply to all its values.",
+        "text": "The visualization is sliced only by one attribute. The filter will apply to all its values.",
         "crowdinContext": "Tooltip when no options are available for attribute dropdown."
     },
     "rankingFilter.attributeDropdown.oneAttributeTooltip|report": {
-        "value": "The report is sliced only by one attribute. The filter will apply to all its values.",
+        "text": "The report is sliced only by one attribute. The filter will apply to all its values.",
         "crowdinContext": "Tooltip when no options are available for attribute dropdown.",
         "translate": false
     },
     "rankingFilter.outOf": {
-        "value": "Out of",
+        "text": "Out of",
         "crowdinContext": "Section title to specify ranking attribute."
     },
     "rankingFilter.basedOn": {
-        "value": "Based on",
+        "text": "Based on",
         "crowdinContext": "Section title to specify ranking by measure."
     },
     "rankingFilter.valueTooSmall": {
-        "value": "Input value should be a positive number.",
+        "text": "Input value should be a positive number.",
         "crowdinContext": "Warning message when value is lower than 1."
     },
     "rankingFilter.valueTooLarge": {
-        "value": "Input value too large.",
+        "text": "Input value too large.",
         "crowdinContext": "Warning message when value is too large."
     },
     "rankingFilter.preview": {
-        "value": "Preview:",
+        "text": "Preview:",
         "crowdinContext": "Section title that shows ranking filter preview."
     },
     "rankingFilter.preview.top_without_attribute": {
-        "value": "Top {value} of <strong>{measure}</strong>",
+        "text": "Top {value} of <strong>{measure}</strong>",
         "crowdinContext": "Do not translate placeholder {value} and {measure} or HTML markup enclosed in <>. Text describes ranking filter. Example: 'Top 3 of Revenue'"
     },
     "rankingFilter.preview.bottom_without_attribute": {
-        "value": "Bottom {value} of <strong>{measure}</strong>",
+        "text": "Bottom {value} of <strong>{measure}</strong>",
         "crowdinContext": "Do not translate placeholder {value} and {measure} or HTML markup enclosed in <>. Title describing ranking direction and number of values. Example: 'Bottom 5 of Revenue'"
     },
     "rankingFilter.preview.top_with_attribute": {
-        "value": "Top {value} out of <strong>{attribute}</strong> based on <strong>{measure}</strong>",
+        "text": "Top {value} out of <strong>{attribute}</strong> based on <strong>{measure}</strong>",
         "crowdinContext": "Do not translate placeholder {value}, {attribute}, and {measure} or HTML markup enclosed in <>. Title describing ranking direction, number of values, attribute granularity, and measure ranking is based on. Example: 'Top 3 out of Product based on Revenue'"
     },
     "rankingFilter.preview.bottom_with_attribute": {
-        "value": "Bottom {value} out of <strong>{attribute}</strong> based on <strong>{measure}</strong>",
+        "text": "Bottom {value} out of <strong>{attribute}</strong> based on <strong>{measure}</strong>",
         "crowdinContext": "Do not translate placeholder {value}, {attribute}, and {measure} or HTML markup enclosed in <>. Title describing ranking direction, number of values, attribute granularity, and measure ranking is based on. Example: 'Bottom 5 out of Product based on Revenue'"
     },
     "rankingFilter.valueTooltip|insight": {
-        "value": "If multiple items have the same value, the filter shows all items with this value. The visualization may then display more items than the number set.",
+        "text": "If multiple items have the same value, the filter shows all items with this value. The visualization may then display more items than the number set.",
         "crowdinContext": "Tooltip with explanation of why ranking filter can return more rows than the number user entered in the filter."
     },
     "rankingFilter.valueTooltip|report": {
-        "value": "If multiple items have the same value, the filter shows all items with this value. The report may then display more items than the number set.",
+        "text": "If multiple items have the same value, the filter shows all items with this value. The report may then display more items than the number set.",
         "crowdinContext": "Tooltip with explanation of why ranking filter can return more rows than the number user entered in the filter.",
         "translate": false
     },
     "attributesDropdown.itemsFiltered.tooltip": {
-        "value": "Values are filtered by: <strong>{filters}</strong>",
+        "text": "Values are filtered by: <strong>{filters}</strong>",
         "crowdinContext": "Do not translate HTML markup enclosed in <> and {filters} placeholder as it will be replaced by list of filter names."
     },
     "attributesDropdown.itemsFiltered": {
-        "value": "Items are filtered",
+        "text": "Items are filtered",
         "crowdinContext": "This message is displayed when attribute elements are being filtered out by parent filters"
     },
     "attributeFilterDropdown.emptyValue": {
-        "value": "empty value",
+        "text": "empty value",
         "crowdinContext": ""
     },
     "attributesDropdown.noData": {
-        "value": "This attribute has no values.",
+        "text": "This attribute has no values.",
         "crowdinContext": "This message is displayed when when there are no items available because the attribute has no elements."
     },
     "attributesDropdown.noResultsMatch": {
-        "value": "No results match.",
+        "text": "No results match.",
         "crowdinContext": "This message is displayed when when there are no items available because they were filtered out by search."
     },
     "attributesDropdown.allItemsFiltered": {
-        "value": "All values are filtered out.",
+        "text": "All values are filtered out.",
         "crowdinContext": "This message is displayed when there are no items available because they were filtered out by parent filters."
     },
     "attributesDropdown.configuration": {
-        "value": "Configuration",
+        "text": "Configuration",
         "crowdinContext": "Configuration button label in attribute filter dropdown"
     },
     "attributesDropdown.removeTooltip": {
-        "value": "Remove from dashboard",
+        "text": "Remove from dashboard",
         "crowdinContext": "Tooltip text of button for deleting filter"
     },
     "attributesDropdown.display_as": {
-        "value": "Display as: {title}",
+        "text": "Display as: {title}",
         "crowdinContext": "Label shown on dropdown button that changes form of the attribute used in visualization. For example 'Display as: Shortened name'"
     },
     "attributesDropdown.empty.item.tooltip": {
-        "value": "Include missing (null) and empty (\"\") values.",
+        "text": "Include missing (null) and empty (\"\") values.",
         "crowdinContext": "Tooltip text of how selecting an (empty value) item affects the values shown."
     },
     "attributesDropdown.filterConfiguredMessage": {
-        "value": "<strong>{parentTitle}</strong> is already filtered by <strong>{childTitle}</strong> filter directly or through other filters.",
+        "text": "<strong>{parentTitle}</strong> is already filtered by <strong>{childTitle}</strong> filter directly or through other filters.",
         "crowdinContext": "Do not translate HTML markup enclosed in <> and placeholders enclosed in {}."
     },
     "attributesDropdown.attributeNameWithData": {
-        "value": "with data of",
+        "text": "with data of",
         "crowdinContext": "Will be used in sentence between two nouns. For instance 'Filter by AttributeX with data of MetricY'"
     },
     "attributesDropdown.noConnectionMessage": {
-        "value": "<strong>{childTitle}</strong> cannot be filtered by <strong>{parentTitle}</strong>. There is no connection between the filter attributes in the data model.",
+        "text": "<strong>{childTitle}</strong> cannot be filtered by <strong>{parentTitle}</strong>. There is no connection between the filter attributes in the data model.",
         "crowdinContext": "Do not translate HTML markup enclosed in <> and placeholders enclosed in {}."
     },
     "attributesDropdown.details.type": {
-        "value": "Attribute",
+        "text": "Attribute",
         "crowdinContext": ""
     },
     "attributesDropdown.details.dataset": {
-        "value": "Dataset",
+        "text": "Dataset",
         "crowdinContext": ""
     },
     "attributesDropdown.relevantValues": {
-        "value": "Relevant values only.{nbsp}",
+        "text": "Relevant values only.{nbsp}",
         "crowdinContext": "Do not translate non-breakable space '{nbsp}'"
     },
     "attributesDropdown.relevantValues.tooltip.parentFilters": {
-        "value": "Available values for <strong>{child}</strong> are filtered by selected <strong>{parents}</strong>.",
+        "text": "Available values for <strong>{child}</strong> are filtered by selected <strong>{parents}</strong>.",
         "crowdinContext": "Do not translate HTML markup enclosed in <> and {child}, {parents} placeholders as it will be replaced by list of filter names."
     },
     "attributesDropdown.relevantValues.tooltip.limits": {
-        "value": "Values for <strong>{child}</strong> are filtered by an additional filter setting. ",
+        "text": "Values for <strong>{child}</strong> are filtered by an additional filter setting. ",
         "crowdinContext": "Do not translate HTML markup enclosed in <> and {child} placeholder as it will be replaced by a filter name."
     },
     "attributesDropdown.relevantValues.tooltip.parentFiltersLimits": {
-        "value": "Values for <strong>{child}</strong> are filtered by the selected <strong>{parents}</strong> and an additional filter setting.",
+        "text": "Values for <strong>{child}</strong> are filtered by the selected <strong>{parents}</strong> and an additional filter setting.",
         "crowdinContext": "Do not translate HTML markup enclosed in <> and {child}, {parents} placeholders as it will be replaced by list of filter names."
     },
     "attributesDropdown.noRelevantValues": {
-        "value": "No relevant values",
+        "text": "No relevant values",
         "crowdinContext": ""
     },
     "attributesDropdown.noRelevantValues.tooltip": {
-        "value": "Your selection in the dependent filter has resulted in no matching values for this filter.{break}Click 'Show all' to see all available options.",
+        "text": "Your selection in the dependent filter has resulted in no matching values for this filter.{break}Click 'Show all' to see all available options.",
         "crowdinContext": "Do not translate '{break}' variable."
     },
     "attributesDropdown.irrelevantValues": {
-        "value": "Irrelevant value selected.{nbsp}",
+        "text": "Irrelevant value selected.{nbsp}",
         "crowdinContext": "Do not translate non-breakable space '{nbsp}'"
     },
     "attributesDropdown.irrelevantValues.tooltip": {
-        "value": "Selected value is no longer relevant due to changes in <strong>{parents}</strong>.",
+        "text": "Selected value is no longer relevant due to changes in <strong>{parents}</strong>.",
         "crowdinContext": "Do not translate HTML markup enclosed in <> and {parents} placeholder as it will be replaced by list of filter names."
     },
     "attributesDropdown.irrelevantValues.clear": {
-        "value": "Clear",
+        "text": "Clear",
         "crowdinContext": ""
     },
     "attributesDropdown.showAll": {
-        "value": "Show all",
+        "text": "Show all",
         "crowdinContext": ""
     },
     "shareDialog.share.grantee.title": {
-        "value": "Share with users and groups",
+        "text": "Share with users and groups",
         "crowdinContext": "Title of dialog used for sharing of private dashboard with other users or user groups."
     },
     "shareDialog.share.grantee.share": {
-        "value": "Share",
+        "text": "Share",
         "crowdinContext": "Title of confirm button of share dialog"
     },
     "shareDialog.share.grantee.list.title": {
-        "value": "Shared with",
+        "text": "Shared with",
         "crowdinContext": "Title shown above list of grantees in share dialog."
     },
     "shareDialog.share.grantee.add": {
-        "value": "Add",
+        "text": "Add",
         "crowdinContext": "Label of button than adds a new grantee in share dialog."
     },
     "shareDialog.share.grantee.add.empty.selection": {
-        "value": "No user or group selected.",
+        "text": "No user or group selected.",
         "crowdinContext": "Information message shown when there is no user or group in grantees list in share dialog."
     },
     "shareDialog.share.grantee.add.info": {
-        "value": "Add users and groups",
+        "text": "Add users and groups",
         "crowdinContext": "Title of dialog used for sharing of private dashboard with other users or user groups."
     },
     "shareDialog.share.grantee.add.search.placeholder": {
-        "value": "Search users and groups",
+        "text": "Search users and groups",
         "crowdinContext": "Placeholder of empty share dialog search input."
     },
     "shareDialog.share.grantee.add.search.error.message": {
-        "value": "Failed to load users and groups. Try again later.",
+        "text": "Failed to load users and groups. Try again later.",
         "crowdinContext": "Error message shown to the user when query in search input failed"
     },
     "shareDialog.share.grantee.add.label.user": {
-        "value": "Users",
+        "text": "Users",
         "crowdinContext": "Label shown to the user when query in search input matches an user"
     },
     "shareDialog.share.grantee.add.label.group": {
-        "value": "Groups",
+        "text": "Groups",
         "crowdinContext": "Label shown to the user when query in search input matches a group of users"
     },
     "shareDialog.share.grantee.add.search.no.matching.items": {
-        "value": "No matching users or groups.",
+        "text": "No matching users or groups.",
         "crowdinContext": "Information shown to the user when query in search input does no match any user or group."
     },
     "shareDialog.share.grantee.item.you": {
-        "value": "{userName} (You)",
+        "text": "{userName} (You)",
         "crowdinContext": "Text used for currently logged user in the list of grantees in share dialog. '{userName}' placeholder is replaced with logged use name, for example, 'John Doe (You)'. Do not translate '{userName}' placeholder."
     },
     "shareDialog.share.grantee.item.users.count": {
-        "value": "{granteeCount} users",
+        "text": "{granteeCount} users",
         "crowdinContext": "Description of grantee user group in share dialog that informs about how many users are in the group. {granteeCount} placeholder will be replaced with a number, for example '110 users'. Do not translate '{granteeCount}' placeholder."
     },
     "shareDialog.share.grantee.item.creator": {
-        "value": "Creator",
+        "text": "Creator",
         "crowdinContext": "Tag rendered next to the name of a user in grantees list in share dialog that marks user as creator of the shared dashboard. The text is rendered in a 'pill' component."
     },
     "shareDialog.share.grantee.item.user.all": {
-        "value": "All users",
+        "text": "All users",
         "crowdinContext": "Title of user group that contains all the users in the system."
     },
     "shareDialog.share.grantee.item.user.inactive": {
-        "value": "Inactive user",
+        "text": "Inactive user",
         "crowdinContext": "Title of user that is inactive or deleted in workspace"
     },
     "shareDialog.share.grantee.item.user.inactive.description": {
-        "value": "User was deleted from this workspace",
+        "text": "User was deleted from this workspace",
         "crowdinContext": "Description of inactive user"
     },
     "shareDialog.share.grantee.item.remove.selection": {
-        "value": "Remove from selection.",
+        "text": "Remove from selection.",
         "crowdinContext": "Text of the tooltip shown above button that removes user or group from unsaved selection of newly added grantees that will gain access right to the dashboard after changes in share dialog are saved."
     },
     "shareDialog.share.granular.grantee.permission.edit": {
-        "value": "Can edit & share",
+        "text": "Can edit & share",
         "crowdinContext": ""
     },
     "shareDialog.share.granular.grantee.permission.share": {
-        "value": "Can view & share",
+        "text": "Can view & share",
         "crowdinContext": ""
     },
     "shareDialog.share.granular.grantee.permission.view": {
-        "value": "Can view",
+        "text": "Can view",
         "crowdinContext": ""
     },
     "shareDialog.share.granular.grantee.permission.remove": {
-        "value": "Remove",
+        "text": "Remove",
         "crowdinContext": ""
     },
     "shareDialog.share.granular.granularUser.tooltip.cannotChangeHigher": {
-        "value": "You cannot remove or change permissions for users with higher permissions than you have.",
+        "text": "You cannot remove or change permissions for users with higher permissions than you have.",
         "crowdinContext": ""
     },
     "shareDialog.share.granular.granularGroup.tooltip.cannotChangeHigher": {
-        "value": "You cannot remove or change permissions for groups with higher permissions than you have.",
+        "text": "You cannot remove or change permissions for groups with higher permissions than you have.",
         "crowdinContext": ""
     },
     "shareDialog.share.granular.grantee.tooltip.cannotGrantHigher": {
-        "value": "You cannot set higher permissions than you have.",
+        "text": "You cannot set higher permissions than you have.",
         "crowdinContext": ""
     },
     "shareDialog.share.granular.granularUser.tooltip.cannotGrantLower": {
-        "value": "You cannot set lower permissions than are the permissions from user groups with this user.",
+        "text": "You cannot set lower permissions than are the permissions from user groups with this user.",
         "crowdinContext": ""
     },
     "shareDialog.share.granular.granularGroup.tooltip.cannotGrantLower": {
-        "value": "You cannot set lower permissions than are the permissions from user groups that include this group.",
+        "text": "You cannot set lower permissions than are the permissions from user groups that include this group.",
         "crowdinContext": ""
     },
     "shareDialog.share.granular.granularUser.tooltip.cannotRemoveFromParent": {
-        "value": "You cannot remove permissions for this user in this workspace. To remove the permissions, do so from the parent workspace.",
+        "text": "You cannot remove permissions for this user in this workspace. To remove the permissions, do so from the parent workspace.",
         "crowdinContext": ""
     },
     "shareDialog.share.granular.granularGroup.tooltip.cannotRemoveFromParent": {
-        "value": "You cannot remove permissions for this user group in this workspace. To remove the permissions, do so from the parent workspace.",
+        "text": "You cannot remove permissions for this user group in this workspace. To remove the permissions, do so from the parent workspace.",
         "crowdinContext": ""
     },
     "shareDialog.share.granular.granularUser.tooltip.noChangeAvailable": {
-        "value": "You cannot remove or change permissions for this user in this workspace. To edit the permissions, do so from the parent workspace.",
+        "text": "You cannot remove or change permissions for this user in this workspace. To edit the permissions, do so from the parent workspace.",
         "crowdinContext": ""
     },
     "shareDialog.share.granular.granularGroup.tooltip.noChangeAvailable": {
-        "value": "You cannot remove or change permissions for this user group in this workspace. To edit the permissions, do so from the parent workspace.",
+        "text": "You cannot remove or change permissions for this user group in this workspace. To edit the permissions, do so from the parent workspace.",
         "crowdinContext": ""
     },
     "shareDialog.share.granular.administrator.info": {
-        "value": "<b>Note.</b> You and other administrators have full access to all dashboards.",
+        "text": "<b>Note.</b> You and other administrators have full access to all dashboards.",
         "crowdinContext": ""
     },
     "sorting.dropdown.header|insight": {
-        "value": "Sort visualization",
+        "text": "Sort visualization",
         "crowdinContext": "The title of sorting dropdown where you can choose which sort options you want to use. For example sort by attribute A1."
     },
     "sorting.dropdown.header|report": {
-        "value": "Sort report",
+        "text": "Sort report",
         "crowdinContext": "The title of sorting dropdown where you can choose which sort options you want to use. For example sort by attribute A1.",
         "translate": false
     },
     "sorting.type.alphabetical.asc": {
-        "value": "A to Z",
+        "text": "A to Z",
         "crowdinContext": "Title of sort option when visualization is sorted alphabetically and in ascending order."
     },
     "sorting.type.alphabetical.desc": {
-        "value": "Z to A",
+        "text": "Z to A",
         "crowdinContext": "Title of sort option when visualization is sorted alphabetically and in descending order."
     },
     "sorting.type.date.asc": {
-        "value": "Oldest to newest",
+        "text": "Oldest to newest",
         "crowdinContext": "Title of sort option when visualization is sorted by date and in ascending order."
     },
     "sorting.type.date.desc": {
-        "value": "Newest to oldest",
+        "text": "Newest to oldest",
         "crowdinContext": "Title of sort option when visualization is sorted by date and in descending order."
     },
     "sorting.type.default": {
-        "value": "Default",
+        "text": "Default",
         "crowdinContext": "Title of sort option when visualization is sorted by default order."
     },
     "sorting.type.numerical.asc": {
-        "value": "Smallest to largest",
+        "text": "Smallest to largest",
         "crowdinContext": "Title of sort option when visualization is sorted numerically and in ascending order."
     },
     "sorting.type.numerical.desc": {
-        "value": "Largest to smallest",
+        "text": "Largest to smallest",
         "crowdinContext": "Title of sort option when visualization is sorted numerically and in descending order."
     },
     "sorting.by": {
-        "value": "by",
+        "text": "by",
         "crowdinContext": "Text that will appear before the measures from which attribute will be sorted."
     },
     "sorting.sum.of.all.measure": {
-        "value": "Total",
+        "text": "Total",
         "crowdinContext": "Title of sort option when is sorted by sum of all measures."
     },
     "sorting.default.tooltip": {
-        "value": "Use the order defined in the attribute.",
+        "text": "Use the order defined in the attribute.",
         "crowdinContext": "Tooltip that explains user that default sorting of the selected attribute will be applied on the visualization."
     },
     "embedInsightDialog.actions.close": {
-        "value": "Close",
+        "text": "Close",
         "crowdinContext": ""
     },
     "embedInsightDialog.actions.copyCode": {
-        "value": "Copy code",
+        "text": "Copy code",
         "crowdinContext": "Label of confirm button, copy code to clipboard."
     },
     "embedInsightDialog.component.type": {
-        "value": "Component type",
+        "text": "Component type",
         "crowdinContext": "Selector that define the component type of generated code Referential or Programmatic"
     },
     "embedInsightDialog.code.language.codeAs": {
-        "value": "Code as",
+        "text": "Code as",
         "crowdinContext": "Selector that define language of generated code Typescript or Javascript"
     },
     "embedInsightDialog.react.options": {
-        "value": "Other options",
+        "text": "Other options",
         "crowdinContext": "Options of generated code. Include component specific item, define height etc."
     },
     "embedInsightDialog.webComponents.options": {
-        "value": "Options",
+        "text": "Options",
         "crowdinContext": "Options of generated code. Include component specific item, define height etc."
     },
     "embedInsightDialog.webComponents.options.displayTitle": {
-        "value": "Display title",
+        "text": "Display title",
         "crowdinContext": ""
     },
     "embedInsightDialog.webComponents.options.customTitle": {
-        "value": "Custom title",
+        "text": "Custom title",
         "crowdinContext": "Options of generated code. Include component specific item, define height etc."
     },
     "embedInsightDialog.webComponents.options.locale": {
-        "value": "Locale",
+        "text": "Locale",
         "crowdinContext": "Options of generated code. Include component specific item, define height etc."
     },
     "embedInsightDialog.webComponents.locale.tooltip": {
-        "value": "Choose a specific language localization. If disabled, the visualization defaults to your current display language settings.",
+        "text": "Choose a specific language localization. If disabled, the visualization defaults to your current display language settings.",
         "crowdinContext": "Tooltip for the web components locale"
     },
     "embedInsightDialog.code.options.include.config.info|insight": {
-        "value": "Include the visualization configuration of colors, axes, legend, and canvas if available.",
+        "text": "Include the visualization configuration of colors, axes, legend, and canvas if available.",
         "crowdinContext": "Tool tip that explain Include configuration"
     },
     "embedInsightDialog.code.options.include.config.info|report": {
-        "value": "Include the report configuration of colors, axes, legend, and canvas if available.",
+        "text": "Include the report configuration of colors, axes, legend, and canvas if available.",
         "crowdinContext": "Tool tip that explain Include configuration",
         "translate": false
     },
     "embedInsightDialog.code.options.custom.height": {
-        "value": "Custom height",
+        "text": "Custom height",
         "crowdinContext": ""
     },
     "embedInsightDialog.code.options.display.configuration": {
-        "value": "Include configuration",
+        "text": "Include configuration",
         "crowdinContext": ""
     },
     "embedInsightDialog.headLine.embedInsight|insight": {
-        "value": "Embed visualization",
+        "text": "Embed visualization",
         "crowdinContext": ""
     },
     "embedInsightDialog.headLine.embedInsight|report": {
-        "value": "Embed report",
+        "text": "Embed report",
         "crowdinContext": "",
         "translate": false
     },
     "embedInsightDialog.componentType.byReference.tooltip|insight": {
-        "value": "Embed as a reference to a saved visualization in a generic GD.UI react component. Any future changes to the visualization (such as visualization type, metrics, attributes) will be reflected in the embedded version.",
+        "text": "Embed as a reference to a saved visualization in a generic GD.UI react component. Any future changes to the visualization (such as visualization type, metrics, attributes) will be reflected in the embedded version.",
         "crowdinContext": "Tooltip that explain what Embed as a live visualization means"
     },
     "embedInsightDialog.componentType.byReference.tooltip|report": {
-        "value": "Embed as a reference to a saved report in a generic GD.UI react component. Any future changes to the report (such as visualization type, metrics, attributes) will be reflected in the embedded version.",
+        "text": "Embed as a reference to a saved report in a generic GD.UI react component. Any future changes to the report (such as visualization type, metrics, attributes) will be reflected in the embedded version.",
         "crowdinContext": "Tooltip that explain what Embed as a live visualization means",
         "translate": false
     },
     "embedInsightDialog.componentType.byDefinition.tooltip|insight": {
-        "value": "Embed as an visualization definition in a specific GD.UI react component based on the currently selected visualization type. No future changes to the visualization (such as visualization type, metrics, attributes) made in this application will be reflected in the embedded version.",
+        "text": "Embed as an visualization definition in a specific GD.UI react component based on the currently selected visualization type. No future changes to the visualization (such as visualization type, metrics, attributes) made in this application will be reflected in the embedded version.",
         "crowdinContext": "Tooltip that explain what Embed as a a permanent report"
     },
     "embedInsightDialog.componentType.byDefinition.tooltip|report": {
-        "value": "Embed as an report definition in a specific GD.UI react component based on the currently selected visualization type. No future changes to the report (such as visualization type, metrics, attributes) made in this application will be reflected in the embedded version.",
+        "text": "Embed as an report definition in a specific GD.UI react component based on the currently selected visualization type. No future changes to the report (such as visualization type, metrics, attributes) made in this application will be reflected in the embedded version.",
         "crowdinContext": "Tooltip that explain what Embed as a a permanent report",
         "translate": false
     },
     "embedInsightDialog.webComponents.customTitle.tooltip": {
-        "value": "Define the text of the title directly in the code snippet.",
+        "text": "Define the text of the title directly in the code snippet.",
         "crowdinContext": "Tooltip for the web components custom title"
     },
     "embedInsightDialog.webComponents.customTitle.disabled.tooltip": {
-        "value": "Enable Display title first.",
+        "text": "Enable Display title first.",
         "crowdinContext": "Tooltip for the web components custom title when it is disabled"
     },
     "embedInsightDialog.prepareEnvironmentMessage": {
-        "value": "<b>Note.</b> In order for this snippet to work, prepare your environment.",
+        "text": "<b>Note.</b> In order for this snippet to work, prepare your environment.",
         "crowdinContext": "Do not translate html tags <b>, </b>"
     },
     "embedInsightDialog.prepareEnvironmentMessage.link": {
-        "value": "Learn more",
+        "text": "Learn more",
         "crowdinContext": "Link with additional info"
     },
     "embed.dialog.numeric.input.validation": {
-        "value": "The value must be a number greater than 0",
+        "text": "The value must be a number greater than 0",
         "crowdinContext": "Validation of custom embedded dashboard height"
     },
     "embed.dialog.numeric.input.warning": {
-        "value": "This input accepts only digits greater than 0",
+        "text": "This input accepts only digits greater than 0",
         "crowdinContext": "Validation of custom embedded dashboard height"
     },
     "embedInsightDialog.complete.list.props.message": {
-        "value": "Complete list of embedding properties",
+        "text": "Complete list of embedding properties",
         "crowdinContext": "Link to documentation of used component and all component properties"
     },
     "embedInsightDialog.emptyInsight.byReference|insight": {
-        "value": "Code snipped will be displayed here once you <a>save the visualization</a>.",
+        "text": "Code snipped will be displayed here once you <a>save the visualization</a>.",
         "crowdinContext": "The disabled message for code area. Do not translate html tags <a>, </a>"
     },
     "embedInsightDialog.emptyInsight.byReference|report": {
-        "value": "Code snipped will be displayed here once you <a>save the report</a>.",
+        "text": "Code snipped will be displayed here once you <a>save the report</a>.",
         "crowdinContext": "The disabled message for code area. Do not translate html tags <a>, </a>",
         "translate": false
     },
     "embedInsightDialog.emptyInsight.byDefinition|insight": {
-        "value": "This visualization type cannot be embedded as programmatic type component.",
+        "text": "This visualization type cannot be embedded as programmatic type component.",
         "crowdinContext": "The disabled message for code area"
     },
     "embedInsightDialog.emptyInsight.byDefinition|report": {
-        "value": "This report type cannot be embedded as programmatic type component.",
+        "text": "This report type cannot be embedded as programmatic type component.",
         "crowdinContext": "The disabled message for code area",
         "translate": false
     },
     "embedDialog.tab.react": {
-        "value": "React",
+        "text": "React",
         "crowdinContext": "The tab title"
     },
     "embedDialog.tab.webComponents": {
-        "value": "Web Components",
+        "text": "Web Components",
         "crowdinContext": "The tab title"
     },
     "error.overlay.login": {
-        "value": "Login",
+        "text": "Login",
         "crowdinContext": ""
     },
     "error.overlay.title": {
-        "value": "You have been logged out",
+        "text": "You have been logged out",
         "crowdinContext": ""
     },
     "error.overlay.text": {
-        "value": "Please log back in to continue your work.",
+        "text": "Please log back in to continue your work.",
         "crowdinContext": ""
     },
     "stylingPicker.title.basic": {
-        "value": "Default",
+        "text": "Default",
         "crowdinContext": ""
     },
     "stylingPicker.title.custom": {
-        "value": "Custom",
+        "text": "Custom",
         "crowdinContext": ""
     },
     "stylingPicker.title.create": {
-        "value": "Create",
+        "text": "Create",
         "crowdinContext": ""
     },
     "stylingEditor.dialog.name": {
-        "value": "Name",
+        "text": "Name",
         "crowdinContext": ""
     },
     "stylingEditor.dialog.name.required": {
-        "value": "Cannot save. Specify a name.",
+        "text": "Cannot save. Specify a name.",
         "crowdinContext": ""
     },
     "stylingEditor.dialog.definition": {
-        "value": "Definition",
+        "text": "Definition",
         "crowdinContext": "Name of the text field to describe an object."
     },
     "stylingEditor.dialog.definition.required": {
-        "value": "Cannot save. Specify a definition.",
+        "text": "Cannot save. Specify a definition.",
         "crowdinContext": ""
     },
     "stylingEditor.dialog.definition.invalid": {
-        "value": "Cannot save. The definition is not a valid JSON object.",
+        "text": "Cannot save. The definition is not a valid JSON object.",
         "crowdinContext": ""
     },
     "stylingEditor.dialog.examples": {
-        "value": "Templates",
+        "text": "Templates",
         "crowdinContext": ""
     },
     "stylingEditor.dialog.example.paste": {
-        "value": "Paste",
+        "text": "Paste",
         "crowdinContext": "Button text to paste content into text field."
     },
     "stylingPicker.item.edit": {
-        "value": "Edit",
+        "text": "Edit",
         "crowdinContext": ""
     },
     "stylingPicker.item.delete": {
-        "value": "Delete",
+        "text": "Delete",
         "crowdinContext": ""
     },
     "stylingPicker.item.delete.tooltip": {
-        "value": "Applied item cannot be deleted.",
+        "text": "Applied item cannot be deleted.",
         "crowdinContext": ""
     },
     "descriptionPanel.button.more": {
-        "value": "Show more",
+        "text": "Show more",
         "crowdinContext": "The button title which will display more description text"
     },
     "descriptionPanel.button.less": {
-        "value": "Show less",
+        "text": "Show less",
         "crowdinContext": "The button title which will display less description text."
     },
     "configurationPanel.drillConfig.learn.more.link": {
-        "value": "Learn more",
+        "text": "Learn more",
         "crowdinContext": "Link with additional info"
     },
     "configurationPanel.drillConfig.drillToDashboard.tooltip": {
-        "value": "Open a related dashboard for an expanded view on the selected data point, carrying over relevant filters and context. <a>Learn more</a>",
+        "text": "Open a related dashboard for an expanded view on the selected data point, carrying over relevant filters and context. <a>Learn more</a>",
         "crowdinContext": "Tooltip that explain what happens when drilling to dashboard. Do not translate html tags <a>, </a>."
     },
     "configurationPanel.drillConfig.drillToInsight.tooltip": {
-        "value": "Open a related visualization, maintaining the applied filters from the original view. <a>Learn more</a>",
+        "text": "Open a related visualization, maintaining the applied filters from the original view. <a>Learn more</a>",
         "crowdinContext": "Tooltip that explain what happens when drilling to visualization. Do not translate html tags <a>, </a>."
     },
     "configurationPanel.drillConfig.drillToUrl.tooltip": {
-        "value": "Open a custom URL with dynamic parameters based on the selected data point. <a>Learn more</a>",
+        "text": "Open a custom URL with dynamic parameters based on the selected data point. <a>Learn more</a>",
         "crowdinContext": "Tooltip that explain what happens when drilling to custom URL. Do not translate html tags <a>, </a>."
     },
     "configurationPanel.drillConfig.drilldown": {
-        "value": "Drill down",
+        "text": "Drill down",
         "crowdinContext": "The title of the drill down action."
     },
     "configurationPanel.drillConfig.drilldown.tooltip": {
-        "value": "Drill down within the current visualization, following predefined attribute hierarchies to view your data on an increasingly granular level. <a>Learn more</a>",
+        "text": "Drill down within the current visualization, following predefined attribute hierarchies to view your data on an increasingly granular level. <a>Learn more</a>",
         "crowdinContext": "Tooltip that explain what happens when drilling down. Do not translate html tags <a>, </a>."
     },
     "configurationPanel.drillConfig.drilldown.tooltip.disabled.insight": {
-        "value": "Drill down is turned off in this visualization's configuration.",
+        "text": "Drill down is turned off in this visualization's configuration.",
         "crowdinContext": "Tooltip that explain drill down is disabled by visualization's configuration"
     },
     "configurationPanel.drillConfig.drilldown.tooltip.disabled.metric": {
-        "value": "Drill down can only be set for attributes, not metrics.",
+        "text": "Drill down can only be set for attributes, not metrics.",
         "crowdinContext": "Tooltip that explain drill down is disabled for metrics"
     },
     "configurationPanel.drillConfig.drilldown.emtpy.hierarchy.info": {
-        "value": "Attribute must be in a hierarchy to enable drill down.",
+        "text": "Attribute must be in a hierarchy to enable drill down.",
         "crowdinContext": "Label show on drill down configuration that there is no hierarchy defined for the attribute"
     },
     "configurationPanel.drillConfig.selectHierarchy": {
-        "value": "Choose hierarchy…",
+        "text": "Choose hierarchy…",
         "crowdinContext": "Hint guiding users that attribute hierarchy in select box has to be selected. Use '…' as one character, not 3 dots ('...')."
     },
     "configurationPanel.drillConfig.drilldown.create.hierarchy": {
-        "value": "Create attribute hierarchy",
+        "text": "Create attribute hierarchy",
         "crowdinContext": "Link to create attribute hierarchy"
     },
     "attributeHierarchyEditor.untitled": {
-        "value": "Untitled attribute hierarchy",
+        "text": "Untitled attribute hierarchy",
         "crowdinContext": "Default title in attribute hierarchy editor"
     },
     "attributeHierarchyEditor.hierarchy.levels": {
-        "value": "Hierarchy levels",
+        "text": "Hierarchy levels",
         "crowdinContext": "Label show hierarchy levels"
     },
     "attributeHierarchyEditor.button.cancel": {
-        "value": "Cancel",
+        "text": "Cancel",
         "crowdinContext": "Text of cancel button"
     },
     "attributeHierarchyEditor.button.create": {
-        "value": "Create hierarchy",
+        "text": "Create hierarchy",
         "crowdinContext": "Text of create button"
     },
     "attributeHierarchyEditor.button.save": {
-        "value": "Save changes",
+        "text": "Save changes",
         "crowdinContext": "Text of save button"
     },
     "attributeHierarchyEditor.button.delete": {
-        "value": "Delete",
+        "text": "Delete",
         "crowdinContext": "Text of delete button"
     },
     "attributeHierarchyEditor.delete.confirm.title": {
-        "value": "Delete attribute hierarchy?",
+        "text": "Delete attribute hierarchy?",
         "crowdinContext": "Title in confirm dialog when deleting hierarchy"
     },
     "attributeHierarchyEditor.delete.confirm.message": {
-        "value": "All existing drill down interactions using this hierarchy will be removed.",
+        "text": "All existing drill down interactions using this hierarchy will be removed.",
         "crowdinContext": "Text in confirm dialog when deleting hierarchy"
     },
     "attributeHierarchyEditor.remove.attribute": {
-        "value": "Remove",
+        "text": "Remove",
         "crowdinContext": "Tooltip for button remove attribute in hierarchy"
     },
     "attributeHierarchyEditor.add.attribute": {
-        "value": "Add attribute",
+        "text": "Add attribute",
         "crowdinContext": "Text for button add attribute in hierarchy"
     },
     "attributeHierarchyEditor.add.attribute.above": {
-        "value": "Add attribute above",
+        "text": "Add attribute above",
         "crowdinContext": "Text for button add attribute above the current item"
     },
     "attributeHierarchyEditor.add.attribute.bellow": {
-        "value": "Add attribute bellow",
+        "text": "Add attribute bellow",
         "crowdinContext": "Text for button add attribute bellow the current item"
     },
     "attributeHierarchyEditor.howToWork.link": {
-        "value": "How to work with hierarchies",
+        "text": "How to work with hierarchies",
         "crowdinContext": "Link to document describe how attribute hierarchy works"
     },
     "attributeHierarchyEditor.attribute.dropdown.title": {
-        "value": "Choose attribute…",
+        "text": "Choose attribute…",
         "crowdinContext": "Use '…' as one character, not 3 dots ('...')."
     },
     "attributeHierarchyEditor.attribute.dropdown.search": {
-        "value": "Search…",
+        "text": "Search…",
         "crowdinContext": "Use '…' as one character, not 3 dots ('...')."
     },
     "attributeHierarchyEditor.note.title": {
-        "value": "Note:",
+        "text": "Note:",
         "crowdinContext": "Label for a note title"
     },
     "attributeHierarchyEditor.note.message": {
-        "value": "<b>Note:</b> The attribute hierarchy you define is applied globally to all visualizations. This enables drill down interactions not just for the {br}current visualization, but for all visualizations that include any of the attributes within the hierarchy.",
+        "text": "<b>Note:</b> The attribute hierarchy you define is applied globally to all visualizations. This enables drill down interactions not just for the {br}current visualization, but for all visualizations that include any of the attributes within the hierarchy.",
         "crowdinContext": "Information shown in create hierarchy editor. Do not translate html tags <b>, </b> and {br}."
     },
     "attributeHierarchyEditor.howItWorks.title": {
-        "value": "How it works",
+        "text": "How it works",
         "crowdinContext": "Title of description section"
     },
     "attributeHierarchyEditor.howItWorks.message.heading": {
-        "value": "Hierarchy is applied to all visualizations.",
+        "text": "Hierarchy is applied to all visualizations.",
         "crowdinContext": "Text in description section"
     },
     "attributeHierarchyEditor.message.create.success": {
-        "value": "Great! We created the attribute hierarchy!",
+        "text": "Great! We created the attribute hierarchy!",
         "crowdinContext": "The toast message will be shown when the attribute hierarchy is created successfully."
     },
     "attributeHierarchyEditor.message.update.success": {
-        "value": "Great! We saved the attribute hierarchy!",
+        "text": "Great! We saved the attribute hierarchy!",
         "crowdinContext": "The toast message will be shown when the attribute hierarchy is updated successfully."
     },
     "attributeHierarchyEditor.message.delete.success": {
-        "value": "Great! We deleted the attribute hierarchy!",
+        "text": "Great! We deleted the attribute hierarchy!",
         "crowdinContext": "The toast message will be shown when the attribute hierarchy is deleted successfully."
     },
     "attributeHierarchyEditor.message.create.failed": {
-        "value": "Failed to create. Try again later.",
+        "text": "Failed to create. Try again later.",
         "crowdinContext": "The toast message will be shown when create the attribute hierarchy is failed."
     },
     "attributeHierarchyEditor.message.update.failed": {
-        "value": "Failed to save. Try again later.",
+        "text": "Failed to save. Try again later.",
         "crowdinContext": "The toast message will be shown when save the attribute hierarchy is failed."
     },
     "attributeHierarchyEditor.message.delete.failed": {
-        "value": "Failed to delete. Try again later.",
+        "text": "Failed to delete. Try again later.",
         "crowdinContext": "The toast message will be shown when delete the attribute hierarchy is failed."
     },
     "attributeHierarchyEditor.howItWorks.message.content": {
-        "value": "Drill down interaction will be enabled to not only this visualization, but all visualization containing one of the attributes in hierarchy.",
+        "text": "Drill down interaction will be enabled to not only this visualization, but all visualization containing one of the attributes in hierarchy.",
         "crowdinContext": "Text in description section"
     },
     "attributeHierarchyList.tooltip.generic.date.title": {
-        "value": "Generic date",
+        "text": "Generic date",
         "crowdinContext": "Title of hierarchy for date"
     },
     "attributeHierarchyList.tooltip.generic.date.info": {
-        "value": "This hierarchy is generated automatically and applies to any date dimension.",
+        "text": "This hierarchy is generated automatically and applies to any date dimension.",
         "crowdinContext": "Text show in date hierarchy"
     },
     "attributeHierarchyList.tooltip.hierarchy.levels": {
-        "value": "Hierarchy levels",
+        "text": "Hierarchy levels",
         "crowdinContext": "Label show hierarchy levels"
     },
     "attributeHierarchyList.tooltip.button.edit": {
-        "value": "Edit",
+        "text": "Edit",
         "crowdinContext": "Text for edit button"
     },
     "catalog.attribute.tooltip.hierarchy.title": {
-        "value": "Hierarchy",
+        "text": "Hierarchy",
         "crowdinContext": "Title of hierarchy section"
     },
     "visualizationConfig.interactions.section.title": {
-        "value": "Interactions",
+        "text": "Interactions",
         "crowdinContext": "Title of interactions section"
     },
     "visualizationConfig.interactions.section.drilldown": {
-        "value": "Drill down",
+        "text": "Drill down",
         "crowdinContext": "Text of drill down option"
     },
     "workspaceHierarchy.lockedInsight|insight": {
-        "value": "Only Admins can save changes to this visualization.",
+        "text": "Only Admins can save changes to this visualization.",
         "crowdinContext": "Shown when hovering over lock indicator."
     },
     "workspaceHierarchy.lockedInsight|report": {
-        "value": "Only Admins can save changes to this report.",
+        "text": "Only Admins can save changes to this report.",
         "crowdinContext": "Shown when hovering over lock indicator.",
         "translate": false
     },
     "workspaceHierarchy.inheritedInsight|insight": {
-        "value": "You cannot edit or delete this visualization.{br}It is centrally managed and certified.",
+        "text": "You cannot edit or delete this visualization.{br}It is centrally managed and certified.",
         "crowdinContext": "Shown when hovering over lock indicator. Dont translate html tag placeholder {br}."
     },
     "workspaceHierarchy.inheritedInsight|report": {
-        "value": "You cannot edit or delete this report.{br}It is centrally managed and certified.",
+        "text": "You cannot edit or delete this report.{br}It is centrally managed and certified.",
         "crowdinContext": "Shown when hovering over lock indicator. Dont translate html tag placeholder {br}.",
         "translate": false
     },
     "userManagement.workspace.noMatchingItems": {
-        "value": "No matching workspaces.",
+        "text": "No matching workspaces.",
         "crowdinContext": "Information shown to the user when query in search input does no match any workspace."
     },
     "userManagement.workspace.searchPlaceholder": {
-        "value": "Search workspaces",
+        "text": "Search workspaces",
         "crowdinContext": "Placeholder of empty workspace dialog search input."
     },
     "userManagement.workspace.searchError": {
-        "value": "Failed to load workspaces. Try again later.",
+        "text": "Failed to load workspaces. Try again later.",
         "crowdinContext": "Error message shown to the user when query in search input failed"
     },
     "userManagement.dataSource.searchError": {
-        "value": "Failed to load data sources. Try again later.",
+        "text": "Failed to load data sources. Try again later.",
         "crowdinContext": "Error message shown to the user when query in search input failed"
     },
     "userManagement.workspace.emptySelection.user.view": {
-        "value": "This user does not have permissions for any workspaces.",
+        "text": "This user does not have permissions for any workspaces.",
         "crowdinContext": "Information shown when no workspaces were selected yet."
     },
     "userManagement.workspace.emptySelection.userGroup.view": {
-        "value": "This group does not have permissions for any workspaces.",
+        "text": "This group does not have permissions for any workspaces.",
         "crowdinContext": "Information shown when no workspaces were selected yet."
     },
     "userManagement.workspace.emptySelection.edit": {
-        "value": "No workspace selected.",
+        "text": "No workspace selected.",
         "crowdinContext": "Shown when user did not typed anything to the search dialog."
     },
     "userManagement.workspace.title": {
-        "value": "Add workspace permission",
+        "text": "Add workspace permission",
         "crowdinContext": "Title of dialog used for granting workspace permission to users or groups."
     },
     "userManagement.workspace.edit.title": {
-        "value": "Edit workspace permission",
+        "text": "Edit workspace permission",
         "crowdinContext": "Title of dialog used for granting workspace permission to users or groups."
     },
     "userManagement.dataSource.searchPlaceholder": {
-        "value": "Search data sources",
+        "text": "Search data sources",
         "crowdinContext": "Placeholder of empty data source dialog search input."
     },
     "userManagement.workspace.addButton": {
-        "value": "Add",
+        "text": "Add",
         "crowdinContext": "Title of confirm button that adds new items to the list."
     },
     "userManagement.userGroups.addButton": {
-        "value": "Add",
+        "text": "Add",
         "crowdinContext": "Title of confirm button that adds new items to the list."
     },
     "userManagement.userGroups.cancelButton": {
-        "value": "Cancel",
+        "text": "Cancel",
         "crowdinContext": "Button that closes the current dialog."
     },
     "userManagement.tab.workspaces": {
-        "value": "Workspaces ({count})",
+        "text": "Workspaces ({count})",
         "crowdinContext": "Label of tab that lists user permissions to workspaces. Do not translate placeholder {count}. It will be replaced by number of assigned permissions in runtime."
     },
     "userManagement.tab.groups": {
-        "value": "Groups ({count})",
+        "text": "Groups ({count})",
         "crowdinContext": "Label of tab that lists user groups user is member of. Do not translate placeholder {count}. It will be replaced by number of assigned groups in runtime."
     },
     "userManagement.tab.users": {
-        "value": "Members ({count})",
+        "text": "Members ({count})",
         "crowdinContext": "Label of tab that lists user members of a user group. Do not translate placeholder {count}. It will be replaced by number of group members in runtime."
     },
     "userManagement.tab.details": {
-        "value": "Details",
+        "text": "Details",
         "crowdinContext": "Label of tab that lists user details (name, surname, etc.)"
     },
     "userManagement.buttons.addWorkspace": {
-        "value": "Add workspace permission",
+        "text": "Add workspace permission",
         "crowdinContext": "Label of button that opens selection of workspaces user can get permissions to."
     },
     "userManagement.buttons.addToGroup": {
-        "value": "Add to group",
+        "text": "Add to group",
         "crowdinContext": "Label of button that opens selection of groups user can be assigned into to."
     },
     "userManagement.buttons.addUser": {
-        "value": "Add members",
+        "text": "Add members",
         "crowdinContext": "Label of button that opens selection of users that can be assigned into the group."
     },
     "userManagement.buttons.edit": {
-        "value": "Edit",
+        "text": "Edit",
         "crowdinContext": "Label of button that edit user's details (name, surname, etc.)"
     },
     "userManagement.dataSource.title": {
-        "value": "Add data source permission",
+        "text": "Add data source permission",
         "crowdinContext": "Title of dialog used for granting data source permission to users or groups."
     },
     "userManagement.tab.dataSources": {
-        "value": "Data Sources ({count})",
+        "text": "Data Sources ({count})",
         "crowdinContext": "Label of tab that lists data sources assigned to a user. Do not translate placeholder {count}. It will be replaced by number of data sources in runtime."
     },
     "userManagement.buttons.addDataSourcePermission": {
-        "value": "Add data source permission",
+        "text": "Add data source permission",
         "crowdinContext": "Label of button that opens selection of users that can be assigned into the group."
     },
     "userManagement.dataSources.emptySelection.view": {
-        "value": "This user does not have permissions for any data sources.",
+        "text": "This user does not have permissions for any data sources.",
         "crowdinContext": "Information shown when no data sources were selected yet."
     },
     "userManagement.dataSources.emptySelection.userGroup.view": {
-        "value": "This group does not have permissions for any data sources.",
+        "text": "This group does not have permissions for any data sources.",
         "crowdinContext": "Information shown when no data sources were selected yet."
     },
     "userManagement.dataSources.emptySelection.edit": {
-        "value": "No data sources selected.",
+        "text": "No data sources selected.",
         "crowdinContext": "Shown when user did not typed anything to the search dialog."
     },
     "userManagement.dataSources.permission.manage": {
-        "value": "Manage",
+        "text": "Manage",
         "crowdinContext": "Name of the data source permission that allows user to fully manage data in data source."
     },
     "userManagement.dataSources.permission.use": {
-        "value": "Use",
+        "text": "Use",
         "crowdinContext": "Name of the data source permission that allows user to use data in data source."
     },
     "userManagement.dataSources.permission.remove": {
-        "value": "Remove",
+        "text": "Remove",
         "crowdinContext": "Label of option that removes data source permission from user and user group."
     },
     "userManagement.dataSources.noMatchingItems": {
-        "value": "No matching data source.",
+        "text": "No matching data source.",
         "crowdinContext": "Message shown when no data source matches search criteria."
     },
     "userManagement.users.multipleDataSources.addSuccess": {
-        "value": "Great! You have successfully added permissions to the users.",
+        "text": "Great! You have successfully added permissions to the users.",
         "crowdinContext": "Confirmation message shown to the user when data source permission was added successfully to multiple users."
     },
     "userManagement.userGroups.multipleDataSources.addSuccess": {
-        "value": "Great! You have successfully added permissions to the groups.",
+        "text": "Great! You have successfully added permissions to the groups.",
         "crowdinContext": "Confirmation message shown to the user when data source permissions were added to multiple user groups successfully."
     },
     "userManagement.users.multipleDataSources.addError": {
-        "value": "Addition of the permission to the users failed.",
+        "text": "Addition of the permission to the users failed.",
         "crowdinContext": "Error message shown to user when addition of data source permission to multiple users failed."
     },
     "userManagement.userGroups.multipleDataSources.addError": {
-        "value": "Addition of the permission to the groups failed.",
+        "text": "Addition of the permission to the groups failed.",
         "crowdinContext": "Error message shown to user when addition of data source permission to multiple user groups failed."
     },
     "userManagement.dataSources.removeSuccess": {
-        "value": "Great! You have successfully deleted the data source permission.",
+        "text": "Great! You have successfully deleted the data source permission.",
         "crowdinContext": "Confirm message shown to user when data source permission was successfully deleted."
     },
     "userManagement.dataSources.removeError": {
-        "value": "Deletion of the data source permission failed.",
+        "text": "Deletion of the data source permission failed.",
         "crowdinContext": "Error message shown to user when data source permission deletion failed."
     },
     "userManagement.dataSources.changeSuccess": {
-        "value": "Great! You have successfully changed the data source permission(s).",
+        "text": "Great! You have successfully changed the data source permission(s).",
         "crowdinContext": "Confirmation message shown to the user when change of one or more data source permission succeeded."
     },
     "userManagement.dataSources.changeError": {
-        "value": "Change of the data source permission(s) failed.",
+        "text": "Change of the data source permission(s) failed.",
         "crowdinContext": "Error message shown to the user when change of one or more data source permissions failed."
     },
     "userManagement.users.deleteLink": {
-        "value": "Delete user",
+        "text": "Delete user",
         "crowdinContext": "Label of link that deletes the user."
     },
     "userManagement.userGroups.deleteLink": {
-        "value": "Delete group",
+        "text": "Delete group",
         "crowdinContext": "Label of link that deletes the user grouo."
     },
     "userManagement.closeButton": {
-        "value": "Close",
+        "text": "Close",
         "crowdinContext": "Label of button that closes the dialog"
     },
     "userManagement.workspace.removeSuccess": {
-        "value": "Great! You have successfully deleted the permission.",
+        "text": "Great! You have successfully deleted the permission.",
         "crowdinContext": "Confirm message shown to user when workspace permission was successfully deleted."
     },
     "userManagement.workspace.removeError": {
-        "value": "Deletion of the permission failed.",
+        "text": "Deletion of the permission failed.",
         "crowdinContext": "Error message shown to user when workspace permission deletion failed."
     },
     "userManagement.workspace.addSuccess": {
-        "value": "Great! You have successfully added the workspace permission(s).",
+        "text": "Great! You have successfully added the workspace permission(s).",
         "crowdinContext": "Confirm message shown to user when one or more workspace permissions were successfully added to a single user."
     },
     "userManagement.workspace.addError": {
-        "value": "Addition of the workspace permission(s) failed.",
+        "text": "Addition of the workspace permission(s) failed.",
         "crowdinContext": "Error message shown to user when workspace permission addition failed."
     },
     "userManagement.dataSource.addSuccess": {
-        "value": "Great! You have successfully added the data source permission(s).",
+        "text": "Great! You have successfully added the data source permission(s).",
         "crowdinContext": "Confirm message shown to user when one or more workspace permissions were successfully added to a single user."
     },
     "userManagement.dataSource.addError": {
-        "value": "Addition of the data source permission(s) failed.",
+        "text": "Addition of the data source permission(s) failed.",
         "crowdinContext": "Error message shown to user when workspace permission addition failed."
     },
     "userManagement.users.multipleWorkspaces.addSuccess": {
-        "value": "Great! You have successfully added workspace permissions to the users.",
+        "text": "Great! You have successfully added workspace permissions to the users.",
         "crowdinContext": "Confirmation message shown to the user when workspace permission was added successfully to multiple users."
     },
     "userManagement.users.multipleWorkspaces.addError": {
-        "value": "Addition of the workspace permission to the users failed.",
+        "text": "Addition of the workspace permission to the users failed.",
         "crowdinContext": "Error message shown to user when addition of workspace permission to multiple users failed."
     },
     "userManagement.userGroups.multipleWorkspaces.addSuccess": {
-        "value": "Great! You have successfully added workspace permissions to the groups.",
+        "text": "Great! You have successfully added workspace permissions to the groups.",
         "crowdinContext": "Confirmation message shown to the user when workspace permissions were added to multiple user groups successfully."
     },
     "userManagement.userGroups.multipleWorkspaces.addError": {
-        "value": "Addition of the workspace permission to the groups failed.",
+        "text": "Addition of the workspace permission to the groups failed.",
         "crowdinContext": "Error message shown to user when addition of workspace permission to multiple user groups failed."
     },
     "userManagement.workspace.changeSuccess": {
-        "value": "Great! You have successfully changed the workspace permission(s).",
+        "text": "Great! You have successfully changed the workspace permission(s).",
         "crowdinContext": "Confirmation message shown to the user when change of one or more workspace permission succeeded."
     },
     "userManagement.workspace.changeError": {
-        "value": "Change of the workspace permission(s) failed.",
+        "text": "Change of the workspace permission(s) failed.",
         "crowdinContext": "Error message shown to the user when change of one or more workspace permissions failed."
     },
     "userManagement.workspace.hierarchicalPermission.yes": {
-        "value": "Include sub-hierarchy",
+        "text": "Include sub-hierarchy",
         "crowdinContext": "Label of option that states that selected permission will be added to the selected workspace and to all workspaces in tree hierarchy of workspaces under it."
     },
     "userManagement.workspace.hierarchicalPermission.yes.tooltip": {
-        "value": "Apply the permission to this workspace and all its child workspaces.",
+        "text": "Apply the permission to this workspace and all its child workspaces.",
         "crowdinContext": "Tooltip that explains option that adds permission to workspace and all the child workpaces in the tree hierarchy."
     },
     "userManagement.workspace.hierarchicalPermission.no": {
-        "value": "This workspace",
+        "text": "This workspace",
         "crowdinContext": "Label of option that states that selected permission will be added just to the selected workspace and not to workspace in tree hierarchy of workspaces under it."
     },
     "userManagement.workspace.hierarchicalPermission.no.tooltip": {
-        "value": "Apply the permission only to this workspace.",
+        "text": "Apply the permission only to this workspace.",
         "crowdinContext": "Tooltip that explains option that adds permission to only the selected workspace and not to any of the child workpaces in the tree hierarchy."
     },
     "userManagement.workspace.permission.view": {
-        "value": "View",
+        "text": "View",
         "crowdinContext": "Name of the workspace permission that allows user view workspace objects."
     },
     "userManagement.workspace.permissionUser.view.tooltip": {
-        "value": "The user can view dashboards that have been shared with them.",
+        "text": "The user can view dashboards that have been shared with them.",
         "crowdinContext": "Tooltip of the workspace permission that allows user view workspace objects."
     },
     "userManagement.workspace.permissionGroup.view.tooltip": {
-        "value": "The group members can view dashboards that have been shared with the group.",
+        "text": "The group members can view dashboards that have been shared with the group.",
         "crowdinContext": "Tooltip of the workspace permission that allows user group view workspace objects."
     },
     "userManagement.workspace.permission.viewSaveViews": {
-        "value": "View & Save Views",
+        "text": "View & Save Views",
         "crowdinContext": "Name of the workspace permission that allows user view workspace objects."
     },
     "userManagement.workspace.permissionUser.viewSaveViews.tooltip": {
-        "value": "The user can view dashboards that have been shared with them and save the state of dashboard filters as personal views for future use.",
+        "text": "The user can view dashboards that have been shared with them and save the state of dashboard filters as personal views for future use.",
         "crowdinContext": "Tooltip of the workspace permission that allows user view workspace objects."
     },
     "userManagement.workspace.permissionGroup.viewSaveViews.tooltip": {
-        "value": "The group members can view dashboards that have been shared with them and save the state of dashboard filters as personal views for future use.",
+        "text": "The group members can view dashboards that have been shared with them and save the state of dashboard filters as personal views for future use.",
         "crowdinContext": "Tooltip of the workspace permission that allows user group view workspace objects."
     },
     "userManagement.dataSources.permissionUser.use.tooltip": {
-        "value": "The user can use data sources that have been shared with them.",
+        "text": "The user can use data sources that have been shared with them.",
         "crowdinContext": "Tooltip of the data source permission that allows user use data source objects."
     },
     "userManagement.dataSources.permissionGroup.use.tooltip": {
-        "value": "The group members can use data sources that have been shared with the group.",
+        "text": "The group members can use data sources that have been shared with the group.",
         "crowdinContext": "Tooltip of the data source permission that allows user group use data source objects."
     },
     "userManagement.workspace.permission.viewExport": {
-        "value": "View & Export",
+        "text": "View & Export",
         "crowdinContext": "Name of the workspace permission that allows user view and export workspace objects."
     },
     "userManagement.workspace.permissionUser.viewExport.tooltip": {
-        "value": "Covers the View permission. Additionally, the user can export dashboards to PDF files and tabular data from visualizations to XLSX and CSV files.",
+        "text": "Covers the View permission. Additionally, the user can export dashboards to PDF files and tabular data from visualizations to XLSX and CSV files.",
         "crowdinContext": "Tooltip of the workspace permission that allows user view and export workspace objects."
     },
     "userManagement.workspace.permissionGroup.viewExport.tooltip": {
-        "value": "Covers the View permission. Additionally, the  group members can export dashboards to PDF files and tabular data from visualizations to XLSX and CSV files.",
+        "text": "Covers the View permission. Additionally, the  group members can export dashboards to PDF files and tabular data from visualizations to XLSX and CSV files.",
         "crowdinContext": "Tooltip of the workspace permission that allows user group view and export workspace objects."
     },
     "userManagement.workspace.permission.viewExportSaveViews": {
-        "value": "View, Export & Save Views",
+        "text": "View, Export & Save Views",
         "crowdinContext": "Name of the workspace permission that allows user view and export workspace objects and save filter view objects."
     },
     "userManagement.workspace.permissionUser.viewExportSaveViews.tooltip": {
-        "value": "Covers the View permission. Additionally, the user can create, edit, or delete dashboards and visualizations, and view the LDM and metrics. They can also export dashboards to PDF files and tabular data from visualizations to XLSX and CSV files, and save the state of dashboard filters as personal views for future use.",
+        "text": "Covers the View permission. Additionally, the user can create, edit, or delete dashboards and visualizations, and view the LDM and metrics. They can also export dashboards to PDF files and tabular data from visualizations to XLSX and CSV files, and save the state of dashboard filters as personal views for future use.",
         "crowdinContext": "Tooltip of the workspace permission that allows user view and export workspace objects."
     },
     "userManagement.workspace.permissionGroup.viewExportSaveViews.tooltip": {
-        "value": "Covers the View permission. Additionally, the group members can create, edit, or delete dashboards and visualizations, and view the LDM and metrics. They can also export dashboards to PDF files and tabular data from visualizations to XLSX and CSV files, and save the state of dashboard filters as personal views for future use.",
+        "text": "Covers the View permission. Additionally, the group members can create, edit, or delete dashboards and visualizations, and view the LDM and metrics. They can also export dashboards to PDF files and tabular data from visualizations to XLSX and CSV files, and save the state of dashboard filters as personal views for future use.",
         "crowdinContext": "Tooltip of the workspace permission that allows user group view and export workspace objects."
     },
     "userManagement.workspace.permission.analyze": {
-        "value": "Analyze",
+        "text": "Analyze",
         "crowdinContext": "Name of the workspace permission that allows user analyze data in workspace."
     },
     "userManagement.workspace.permissionUser.analyze.tooltip": {
-        "value": "Covers the View and Save Views permissions. Additionally, the user can create, edit, or delete dashboards and visualizations, and view the LDM and metrics.",
+        "text": "Covers the View and Save Views permissions. Additionally, the user can create, edit, or delete dashboards and visualizations, and view the LDM and metrics.",
         "crowdinContext": "Tooltip of the workspace permission that allows user analyze data in workspace."
     },
     "userManagement.workspace.permissionGroup.analyze.tooltip": {
-        "value": "Covers the View and Save Views permissions. Additionally, the group members can create, edit, or delete dashboards and visualizations, and view the LDM and metrics.",
+        "text": "Covers the View and Save Views permissions. Additionally, the group members can create, edit, or delete dashboards and visualizations, and view the LDM and metrics.",
         "crowdinContext": "Tooltip of the workspace permission that allows user group analyze data in workspace."
     },
     "userManagement.workspace.permission.analyzeExport": {
-        "value": "Analyze & Export",
+        "text": "Analyze & Export",
         "crowdinContext": "Name of the workspace permission that allows user analyze and export data in workspace."
     },
     "userManagement.workspace.permissionUser.analyzeExport.tooltip": {
-        "value": "Covers the View and Save Views permissions. Additionally, the user can create, edit, or delete dashboards and visualizations, and view the LDM and metrics. They can also export dashboards to PDF files and tabular data from visualizations to XLSX and CSV files.",
+        "text": "Covers the View and Save Views permissions. Additionally, the user can create, edit, or delete dashboards and visualizations, and view the LDM and metrics. They can also export dashboards to PDF files and tabular data from visualizations to XLSX and CSV files.",
         "crowdinContext": "Tooltip of the workspace permission that allows user analyze and export data in workspace."
     },
     "userManagement.workspace.permissionGroup.analyzeExport.tooltip": {
-        "value": "Covers the View and Save Views permissions. Additionally, the group members can create, edit, or delete dashboards and visualizations, and view the LDM and metrics. They can also export dashboards to PDF files and tabular data from visualizations to XLSX and CSV files.",
+        "text": "Covers the View and Save Views permissions. Additionally, the group members can create, edit, or delete dashboards and visualizations, and view the LDM and metrics. They can also export dashboards to PDF files and tabular data from visualizations to XLSX and CSV files.",
         "crowdinContext": "Tooltip of the workspace permission that allows user analyze and export and analyze data in workspace."
     },
     "userManagement.workspace.permission.manage": {
-        "value": "Manage",
+        "text": "Manage",
         "crowdinContext": "Name of the workspace permission that allows user to fully manage data in workspace."
     },
     "userManagement.workspace.permissionUser.manage.tooltip": {
-        "value": "Covers the View, Analyze, Export, and Save Views permissions. Additionally, the user can create, edit, or delete the logical data model and metrics, and gets unrestricted access to all dashboards and their permissions.",
+        "text": "Covers the View, Analyze, Export, and Save Views permissions. Additionally, the user can create, edit, or delete the logical data model and metrics, and gets unrestricted access to all dashboards and their permissions.",
         "crowdinContext": "Tooltip of the workspace permission that allows user to fully manage data in workspace."
     },
     "userManagement.workspace.permissionGroup.manage.tooltip": {
-        "value": "Covers the View, Analyze, Export, and Save Views permissions. Additionally, the group members can create, edit, or delete the logical data model and metrics, and gets unrestricted access to all dashboards and their permissions.",
+        "text": "Covers the View, Analyze, Export, and Save Views permissions. Additionally, the group members can create, edit, or delete the logical data model and metrics, and gets unrestricted access to all dashboards and their permissions.",
         "crowdinContext": "Tooltip of the workspace permission that allows user group to fully manage data in workspace."
     },
     "userManagement.dataSources.permissionUser.manage.tooltip": {
-        "value": "User can create, edit or delete the data sources.",
+        "text": "User can create, edit or delete the data sources.",
         "crowdinContext": "Tooltip of the data source permission that allows user to fully manage data sources."
     },
     "userManagement.dataSources.permissionGroup.manage.tooltip": {
-        "value": "Group members can create, edit or delete the data sources.",
+        "text": "Group members can create, edit or delete the data sources.",
         "crowdinContext": "Tooltip of the data source permission that allows user group to fully manage data sources."
     },
     "userManagement.workspace.permission.export": {
-        "value": "Exports",
+        "text": "Exports",
         "crowdinContext": "Name of the workspace permission that allows user to export data in workspace."
     },
     "userManagement.workspace.permission.export.tooltip": {
-        "value": "Adds EXPORT permission to export dashboards and visualizations in various formats.",
+        "text": "Adds EXPORT permission to export dashboards and visualizations in various formats.",
         "crowdinContext": "Export permission tooltip"
     },
     "userManagement.workspace.permission.exportTabular": {
-        "value": "Export XLSX and CSV",
+        "text": "Export XLSX and CSV",
         "crowdinContext": "Name of the workspace permission that allows user to export data in workspace."
     },
     "userManagement.workspace.permission.exportTabular.tooltip": {
-        "value": "Adds EXPORT_TABULAR permission to export dashboards and visualizations in CSV and XLSX formats.",
+        "text": "Adds EXPORT_TABULAR permission to export dashboards and visualizations in CSV and XLSX formats.",
         "crowdinContext": "Export tabular permission tooltip"
     },
     "userManagement.workspace.permission.exportPdf": {
-        "value": "Export PDF",
+        "text": "Export PDF",
         "crowdinContext": "Name of the workspace permission that allows user to export data in workspace."
     },
     "userManagement.workspace.permission.exportPdf.tooltip": {
-        "value": "Adds EXPORT_PDF permission to export dashboards and visualizations as PDF files.",
+        "text": "Adds EXPORT_PDF permission to export dashboards and visualizations as PDF files.",
         "crowdinContext": "Export PDF permission tooltip"
     },
     "userManagement.workspace.permission.createFilterView": {
-        "value": "Saved filter views",
+        "text": "Saved filter views",
         "crowdinContext": "Name of the workspace permission that allows user to create filter views in workspace."
     },
     "userManagement.workspace.permission.createFilterView.tooltip": {
-        "value": "Adds CREATE_FILTER_VIEW permission to create and save dashboard filter combinations for quick reuse.",
+        "text": "Adds CREATE_FILTER_VIEW permission to create and save dashboard filter combinations for quick reuse.",
         "crowdinContext": "Create saved filter view permission tooltip"
     },
     "userManagement.workspace.permission.createAutomation": {
-        "value": "Alerts and scheduled exports",
+        "text": "Alerts and scheduled exports",
         "crowdinContext": "Name of the workspace permission that allows user to create automations in workspace."
     },
     "userManagement.workspace.permission.createAutomation.tooltip": {
-        "value": "Adds CREATE_AUTOMATIONS permission to create automated alerts and scheduled exports.",
+        "text": "Adds CREATE_AUTOMATIONS permission to create automated alerts and scheduled exports.",
         "crowdinContext": "Create automation permission tooltip"
     },
     "userManagement.workspace.granularPermission.noWorkspace": {
-        "value": "No workspace selected",
+        "text": "No workspace selected",
         "crowdinContext": "Empty content message"
     },
     "userManagement.workspace.granularPermission.hierarchy": {
-        "value": "Include child workspaces",
+        "text": "Include child workspaces",
         "crowdinContext": "Label of option that states that selected permission will be added to the selected workspace and to all workspaces in tree hierarchy of workspaces under it."
     },
     "userManagement.workspace.granularPermission.hierarchy.tooltip": {
-        "value": "Applies the permission to this workspace and all its child workspaces.",
+        "text": "Applies the permission to this workspace and all its child workspaces.",
         "crowdinContext": "Tooltip that explains option that adds permission to workspace and children."
     },
     "userManagement.workspace.granularPermission.workspaceAccess.title": {
-        "value": "Workspace access",
+        "text": "Workspace access",
         "crowdinContext": "Label of workspace subsection of permissions"
     },
     "userManagement.workspace.granularPermission.additionalAccess.title": {
-        "value": "Additional permissions",
+        "text": "Additional permissions",
         "crowdinContext": "Label of additional subsection of permissions"
     },
     "userManagement.workspace.granularPermission.help": {
-        "value": "Learn about workspace permissions",
+        "text": "Learn about workspace permissions",
         "crowdinContext": "Label of help button for permissions"
     },
     "userManagement.workspace.granularPermission.view.description": {
-        "value": "Allows users to view dashboards that have been shared with them or their user group.",
+        "text": "Allows users to view dashboards that have been shared with them or their user group.",
         "crowdinContext": "Description of permission"
     },
     "userManagement.workspace.granularPermission.analyze.description": {
-        "value": "Allows users to create, edit, or delete dashboards and visualizations, alongside viewing the Logical Data Model (LDM) and metrics.",
+        "text": "Allows users to create, edit, or delete dashboards and visualizations, alongside viewing the Logical Data Model (LDM) and metrics.",
         "crowdinContext": "Description of permission"
     },
     "userManagement.workspace.granularPermission.manage.description": {
-        "value": "Allows users can to, edit or delete the logical data model and metrics, and access all dashboards and edit their dashboard permissions without limitations.",
+        "text": "Allows users can to, edit or delete the logical data model and metrics, and access all dashboards and edit their dashboard permissions without limitations.",
         "crowdinContext": "Description of permission"
     },
     "userManagement.workspace.granularPermission.warning": {
-        "value": "<b>Caution:</b> This action will remove any redundant combinations.",
+        "text": "<b>Caution:</b> This action will remove any redundant combinations.",
         "crowdinContext": "Warning message shown when user tries to add 'Manage' permission to user or user group."
     },
     "userManagement.workspace.permission.remove": {
-        "value": "Remove",
+        "text": "Remove",
         "crowdinContext": "Label of option that removes workspace permission from user and user group."
     },
     "userManagement.workspace.permission.and": {
-        "value": "and",
+        "text": "and",
         "crowdinContext": "Connection word when concatenating permissions"
     },
     "userManagement.groupDetail.id.label": {
-        "value": "ID",
+        "text": "ID",
         "crowdinContext": "Label of input that contains ID of the user group."
     },
     "userManagement.groupDetail.name.label": {
-        "value": "Name",
+        "text": "Name",
         "crowdinContext": "Label of input that contains name of the user group."
     },
     "userManagement.userDetail.firstName.label": {
-        "value": "First name",
+        "text": "First name",
         "crowdinContext": "Label of input that contains first name of the user."
     },
     "userManagement.userDetail.lastName.label": {
-        "value": "Last name",
+        "text": "Last name",
         "crowdinContext": "Label of input that contains last name of the user."
     },
     "userManagement.userDetail.email.label": {
-        "value": "E-mail",
+        "text": "E-mail",
         "crowdinContext": "Label of input that contains e-mail of the user."
     },
     "userManagement.userDetail.orgPermission.label": {
-        "value": "Org. permission",
+        "text": "Org. permission",
         "crowdinContext": "Label of input that contains state of the user organization permissions. The possible values are 'admin' or 'member'."
     },
     "userManagement.detail.orgPermission.admin": {
-        "value": "Admin",
+        "text": "Admin",
         "crowdinContext": "One of the possible types of user's organization permissions. It states user is organization administrator."
     },
     "userManagement.detail.orgPermission.admin.tooltip": {
-        "value": "Organization administrator. This user has access to any protected action or resource.",
+        "text": "Organization administrator. This user has access to any protected action or resource.",
         "crowdinContext": "Tooltip that explains what does it mean if user is organization administrator. Displayed over option called 'Admin'"
     },
     "userManagement.detail.orgPermission.member": {
-        "value": "Member",
+        "text": "Member",
         "crowdinContext": "One of the possible types of user's organization permissions. It states user is standard member without any elevated permissions."
     },
     "userManagement.detail.orgPermission.member.tooltip": {
-        "value": "Organization member. This user has access to action or resource to which he has permission to.",
+        "text": "Organization member. This user has access to action or resource to which he has permission to.",
         "crowdinContext": "Tooltip that explains what does it mean if user is organization member. Displayed over option called 'Member'"
     },
     "userManagement.userDetail.id.label": {
-        "value": "ID",
+        "text": "ID",
         "crowdinContext": "Label of input that contains ID of the user."
     },
     "userManagement.userDetail.emptyValue": {
-        "value": "not set",
+        "text": "not set",
         "crowdinContext": "Value displayed in user form when user detail does not have value (for example he does not have first name, last name, etc.)"
     },
     "userManagement.userGroups.emptySelection.view": {
-        "value": "This user is not a member of any groups.",
+        "text": "This user is not a member of any groups.",
         "crowdinContext": "Information message shown when lst of user's user groups is empty."
     },
     "userManagement.userGroups.emptySelection.edit": {
-        "value": "No groups selected.",
+        "text": "No groups selected.",
         "crowdinContext": "Information is displayed in user groups selectbox when user did not type anything yet."
     },
     "userManagement.userDetail.saveButton": {
-        "value": "Save",
+        "text": "Save",
         "crowdinContext": "Label of button that saves the changed user details."
     },
     "userManagement.userDetail.cancelButton": {
-        "value": "Cancel",
+        "text": "Cancel",
         "crowdinContext": "Label of button that cancels the changes to user details."
     },
     "userManagement.groupDetail.saveButton": {
-        "value": "Save",
+        "text": "Save",
         "crowdinContext": "Label of button that saves the changed user group details."
     },
     "userManagement.groupDetail.cancelButton": {
-        "value": "Cancel",
+        "text": "Cancel",
         "crowdinContext": "Label of button that cancels the changes to user group details."
     },
     "userManagement.userDetails.updatedSuccess": {
-        "value": "Great! You have successfully changed the user details.",
+        "text": "Great! You have successfully changed the user details.",
         "crowdinContext": "Confirmation message shown when user saved changes to user details (name, login, etc.) successfully."
     },
     "userManagement.userDetails.updatedFailure": {
-        "value": "Change of the user details failed.",
+        "text": "Change of the user details failed.",
         "crowdinContext": "Error message shown when user tried to save changes to user details (name, login, etc.) but the action failed."
     },
     "userManagement.groupDetails.updatedSuccess": {
-        "value": "Great! You have successfully changed the group details.",
+        "text": "Great! You have successfully changed the group details.",
         "crowdinContext": "Confirmation message shown when user saved changes to user group details (name, login, etc.) successfully."
     },
     "userManagement.groupDetails.updatedFailure": {
-        "value": "Change of the user details group failed.",
+        "text": "Change of the user details group failed.",
         "crowdinContext": "Error message shown when user tried to save changes to user group details (name, login, etc.) but the operation failed."
     },
     "userManagement.userGroup.addSuccess": {
-        "value": "Great! You have successfully added the group(s).",
+        "text": "Great! You have successfully added the group(s).",
         "crowdinContext": "Confirmation message shown when user added one or more user groups to another user successfully."
     },
     "userManagement.userGroup.addError": {
-        "value": "Addition of the group(s) failed.",
+        "text": "Addition of the group(s) failed.",
         "crowdinContext": "Error message shown when user tried add one or more user groups to another user but the action failed."
     },
     "userManagement.multipleUserGroup.addSuccess": {
-        "value": "Great! You have successfully added users to the group.",
+        "text": "Great! You have successfully added users to the group.",
         "crowdinContext": "Confirmation message shown when user added one or more user groups to multiple users successfully."
     },
     "userManagement.multipleUserGroup.addError": {
-        "value": "Addition of the users to groups failed.",
+        "text": "Addition of the users to groups failed.",
         "crowdinContext": "Error message shown when user tried to add one or more user groups to multiple users successfully but action failed."
     },
     "userManagement.userGroups.title": {
-        "value": "Add to group",
+        "text": "Add to group",
         "crowdinContext": "Title of dialog that allows to add user groups to the user."
     },
     "userManagement.userGroups.noMatchingItems": {
-        "value": "No matching group.",
+        "text": "No matching group.",
         "crowdinContext": "Message shown when no user group matches search criteria."
     },
     "userManagement.userGroups.searchPlaceholder": {
-        "value": "Search groups",
+        "text": "Search groups",
         "crowdinContext": "Placeholder in the input box that is used to search user groups."
     },
     "userManagement.userGroups.searchError": {
-        "value": "Failed to load groups. Try again later.",
+        "text": "Failed to load groups. Try again later.",
         "crowdinContext": "Message shown when fetching of user groups from server failed."
     },
     "userManagement.userGroup.removeSuccess": {
-        "value": "Great! You have successfully removed the group.",
+        "text": "Great! You have successfully removed the group.",
         "crowdinContext": "Confirmation message shown when user group was successfully deleted."
     },
     "userManagement.userGroup.removeFailure": {
-        "value": "Removal of the group failed.",
+        "text": "Removal of the group failed.",
         "crowdinContext": "Error message shown when deletion of user group failed."
     },
     "userManagement.userGroups.removeSuccess": {
-        "value": "Great! You have successfully deleted the group.",
+        "text": "Great! You have successfully deleted the group.",
         "crowdinContext": "Confirmation message shown when user group was successfully deleted."
     },
     "userManagement.userGroups.removeFailure": {
-        "value": "Deletion of the group failed.",
+        "text": "Deletion of the group failed.",
         "crowdinContext": "Error message shown when deletion of user group failed."
     },
     "userManagement.userGroups.removeTooltip": {
-        "value": "Remove group from the user.",
+        "text": "Remove group from the user.",
         "crowdinContext": "Tooltip shown over button that remove user group from the user."
     },
     "userManagement.userGroups.removeDisabledTooltip": {
-        "value": "The group cannot be removed from the user.",
+        "text": "The group cannot be removed from the user.",
         "crowdinContext": "Tooltip shown over button that remove user group from the user if the action is disabled."
     },
     "userManagement.deleteDialog.user.title": {
-        "value": "Delete user?",
+        "text": "Delete user?",
         "crowdinContext": "Title of dialog that deletes a user."
     },
     "userManagement.deleteDialog.user.body": {
-        "value": "The user will be irreversibly deleted, but their visualizations and dashboards will remain unaffected.",
+        "text": "The user will be irreversibly deleted, but their visualizations and dashboards will remain unaffected.",
         "crowdinContext": "Body of dialog that deletes a users"
     },
     "userManagement.deleteDialog.user.disabledTooltip": {
-        "value": "User cannot be deleted.",
+        "text": "User cannot be deleted.",
         "crowdinContext": "Tooltip shown over disabled delete button."
     },
     "userManagement.deleteDialog.userGroup.adminDisabledTooltip": {
-        "value": "This group cannot be deleted.",
+        "text": "This group cannot be deleted.",
         "crowdinContext": "Tooltip shown over disabled delete button."
     },
     "userManagement.deleteDialog.userGroup.nonEmptyDisabledTooltip": {
-        "value": "This group cannot be deleted, because it contains members. ",
+        "text": "This group cannot be deleted, because it contains members. ",
         "crowdinContext": "Tooltip shown over disabled delete button."
     },
     "userManagement.deleteDialog.multipleUsers.title": {
-        "value": "Delete users?",
+        "text": "Delete users?",
         "crowdinContext": "Title of dialog that deletes multiple users."
     },
     "userManagement.deleteDialog.multipleUsers.body": {
-        "value": "<b>{count} users</b> will be irreversibly deleted, but their visualizations and dashboards will remain unaffected.",
+        "text": "<b>{count} users</b> will be irreversibly deleted, but their visualizations and dashboards will remain unaffected.",
         "crowdinContext": "Body of dialog that deletes multiple users. Do not translate placeholder {count}. It will be replaced with number of selected users in runtime."
     },
     "userManagement.deleteDialog.group.title": {
-        "value": "Delete group?",
+        "text": "Delete group?",
         "crowdinContext": "Title of dialog that deletes a user group."
     },
     "userManagement.deleteDialog.group.body": {
-        "value": "The group will be irreversibly deleted. All its members will lose the rights defined by the group's permissions.",
+        "text": "The group will be irreversibly deleted. All its members will lose the rights defined by the group's permissions.",
         "crowdinContext": "Body of dialog that deletes a user group."
     },
     "userManagement.deleteDialog.multipleGroups.title": {
-        "value": "Delete groups?",
+        "text": "Delete groups?",
         "crowdinContext": "Title of dialog that deletes multiple user groups."
     },
     "userManagement.deleteDialog.multipleGroups.body": {
-        "value": "<b>{count} groups</b> will be irreversibly deleted. All their members will lose the rights defined by the group-specific permissions.",
+        "text": "<b>{count} groups</b> will be irreversibly deleted. All their members will lose the rights defined by the group-specific permissions.",
         "crowdinContext": "Body of dialog that deletes multiple user group. Do not translate placeholder {count}. It will be replaced with number of selected user groups in runtime."
     },
     "userManagement.deleteDialog.cancelButton": {
-        "value": "Cancel",
+        "text": "Cancel",
         "crowdinContext": "Label of button that cancels delete action."
     },
     "userManagement.deleteDialog.confirmButton": {
-        "value": "Delete",
+        "text": "Delete",
         "crowdinContext": "Label of button that confirms delete action."
     },
     "userManagement.userGroups.deleteSuccess": {
-        "value": "Great! You have successfully deleted the group.",
+        "text": "Great! You have successfully deleted the group.",
         "crowdinContext": "Confirmation message shown when user group was successfully deleted."
     },
     "userManagement.userGroups.deleteFailure": {
-        "value": "Deletion of the group failed.",
+        "text": "Deletion of the group failed.",
         "crowdinContext": "Error message shown when deletion of user group failed."
     },
     "userManagement.multipleUserGroups.deleteSuccess": {
-        "value": "Great! You have successfully deleted the groups.",
+        "text": "Great! You have successfully deleted the groups.",
         "crowdinContext": "Confirmation message shown when multiple user groups were successfully deleted."
     },
     "userManagement.multipleUserGroups.deleteFailure": {
-        "value": "Deletion of the groups failed.",
+        "text": "Deletion of the groups failed.",
         "crowdinContext": "Error message shown when deletion of multiple user group failed."
     },
     "userManagement.createUserGroup.createSuccess": {
-        "value": "Great! You have successfully created the group.",
+        "text": "Great! You have successfully created the group.",
         "crowdinContext": "Confirmation message shown when user group was successfully created."
     },
     "userManagement.createUserGroup.createFailure": {
-        "value": "Creation of the group failed.",
+        "text": "Creation of the group failed.",
         "crowdinContext": "Error message shown when creation of user group failed."
     },
     "userManagement.users.loadingError.title": {
-        "value": "Can't open user",
+        "text": "Can't open user",
         "crowdinContext": "Error title shown when user detail loading ended up with error."
     },
     "userManagement.users.loadingError.notExist": {
-        "value": "The user you are trying to view does not exist.",
+        "text": "The user you are trying to view does not exist.",
         "crowdinContext": "Error shown when user detail loading ended up with 404 error."
     },
     "userManagement.users.loadingError.unknown": {
-        "value": "The user you are trying to view cannot be loaded.",
+        "text": "The user you are trying to view cannot be loaded.",
         "crowdinContext": "Error shown when user detail loading ended up with error."
     },
     "userManagement.userGroups.loadingError.title": {
-        "value": "Can't open group",
+        "text": "Can't open group",
         "crowdinContext": "Error title shown when user group detail loading ended up with error."
     },
     "userManagement.userGroups.loadingError.notExist": {
-        "value": "The group you are trying to view does not exist.",
+        "text": "The group you are trying to view does not exist.",
         "crowdinContext": "Error shown when user group detail loading ended up with 404 error."
     },
     "userManagement.userGroups.loadingError.unknown": {
-        "value": "The group you are trying to view cannot be loaded.",
+        "text": "The group you are trying to view cannot be loaded.",
         "crowdinContext": "Error shown when user group detail loading ended up with error."
     },
     "userManagement.users.deleteSuccess": {
-        "value": "Great! You have successfully deleted the user.",
+        "text": "Great! You have successfully deleted the user.",
         "crowdinContext": "Confirmation message shown when user was successfully deleted."
     },
     "userManagement.users.deleteFailure": {
-        "value": "Deletion of the user failed.",
+        "text": "Deletion of the user failed.",
         "crowdinContext": "Error message shown when deletion of user failed."
     },
     "userManagement.multipleUsers.deleteSuccess": {
-        "value": "Great! You have successfully deleted the users.",
+        "text": "Great! You have successfully deleted the users.",
         "crowdinContext": "Confirmation message shown when multiple users were successfully deleted."
     },
     "userManagement.multipleUsers.deleteFailure": {
-        "value": "Deletion of the users failed.",
+        "text": "Deletion of the users failed.",
         "crowdinContext": "Error message shown when deletion of multiple users failed."
     },
     "userManagement.users.searchError": {
-        "value": "Failed to load users. Try again later.",
+        "text": "Failed to load users. Try again later.",
         "crowdinContext": "Error shown when user list was not fetched from server."
     },
     "userManagement.users.emptySelection.view": {
-        "value": "This group does not have any members.",
+        "text": "This group does not have any members.",
         "crowdinContext": "Message shown when there are no users in the user group."
     },
     "userManagement.users.emptySelection.edit": {
-        "value": "No users selected.",
+        "text": "No users selected.",
         "crowdinContext": "Shown when no user has been added to selection yet."
     },
     "userManagement.users.removeUserFromGroup": {
-        "value": "Remove user from the group.",
+        "text": "Remove user from the group.",
         "crowdinContext": "Tooltip on button that removes particular user from the user group."
     },
     "userManagement.users.removeUserFromGroupDisabledTooltip": {
-        "value": "This user cannot be removed the group.",
+        "text": "This user cannot be removed the group.",
         "crowdinContext": "Tooltip shown over button that remove user from the user group if the action is disabled."
     },
     "userManagement.users.removeUserFromSelection": {
-        "value": "Remove.",
+        "text": "Remove.",
         "crowdinContext": "Label of action that removes selected user."
     },
     "userManagement.userGroups.removeUserGroupFromSelection": {
-        "value": "Remove.",
+        "text": "Remove.",
         "crowdinContext": "Label of action that removes selected user group."
     },
     "userManagement.users.noMatchingItems": {
-        "value": "No matching user.",
+        "text": "No matching user.",
         "crowdinContext": "Message shown when no user matches the entered search criteria."
     },
     "userManagement.users.searchPlaceholder": {
-        "value": "Search users",
+        "text": "Search users",
         "crowdinContext": "Placeholder of input box that is used to search for users."
     },
     "userManagement.users.title": {
-        "value": "Add group members",
+        "text": "Add group members",
         "crowdinContext": "Title of dialog that adds users to user group."
     },
     "userManagement.users.cancelButton": {
-        "value": "Cancel",
+        "text": "Cancel",
         "crowdinContext": "Label of button that cancels the unsaved changes in the dialog."
     },
     "userManagement.users.addButton": {
-        "value": "Add",
+        "text": "Add",
         "crowdinContext": "Label of button that adds users to user group."
     },
     "userManagement.users.addSuccess": {
-        "value": "Great! You have successfully added users to the group.",
+        "text": "Great! You have successfully added users to the group.",
         "crowdinContext": "Confirmation message shown when users were successfully added to the user group."
     },
     "userManagement.users.addFailure": {
-        "value": "Addition of the users to the group failed.",
+        "text": "Addition of the users to the group failed.",
         "crowdinContext": "Error message shown when addition of users to the user group failed."
     },
     "userManagement.users.addToUserGroupsSuccess": {
-        "value": "Great! You have successfully added users to the groups.",
+        "text": "Great! You have successfully added users to the groups.",
         "crowdinContext": "Confirmation message shown when multiple users were successfully added to the multiple user group."
     },
     "userManagement.users.addToUserGroupsFailure": {
-        "value": "Addition of the users to groups failed.",
+        "text": "Addition of the users to groups failed.",
         "crowdinContext": "Error message shown when trying to add multiple users to the multiple user group failed."
     },
     "userManagement.users.removeSuccess": {
-        "value": "Great! You have successfully removed the user(s).",
+        "text": "Great! You have successfully removed the user(s).",
         "crowdinContext": "Confirmation message shown when one or more users were sucessfuly removed from the user group."
     },
     "userManagement.users.removeFailure": {
-        "value": "Removal of the user(s) failed.",
+        "text": "Removal of the user(s) failed.",
         "crowdinContext": "Error message shown when removal of one or more users were from the user group failed."
     },
     "userManagement.buttons.close": {
-        "value": "Close",
+        "text": "Close",
         "crowdinContext": "Label of button that closes the dialog."
     },
     "userManagement.admin.alert": {
-        "value": "Admins have full access to all workspaces, resources, and actions.",
+        "text": "Admins have full access to all workspaces, resources, and actions.",
         "crowdinContext": "Text shown in user dialog that explains that user is organization administrator and has full access to everything."
     },
     "userManagement.adminGroup.alert": {
-        "value": "Members have full access to all workspaces, resources, and actions.",
+        "text": "Members have full access to all workspaces, resources, and actions.",
         "crowdinContext": "Text shown in user group dialog that explains that user group has organization administrator rights and its members has full access to everything."
     },
     "userManagement.admin.pill": {
-        "value": "Admin",
+        "text": "Admin",
         "crowdinContext": "Text shown in pill component next to the user name. The information states that user is organization administrator."
     },
     "userManagement.createUserGroup.createButton": {
-        "value": "Create",
+        "text": "Create",
         "crowdinContext": "Label of button that creates a new user group."
     },
     "userManagement.createUserGroup.cancelButton": {
-        "value": "Cancel",
+        "text": "Cancel",
         "crowdinContext": "Label of button that closes dialog."
     },
     "userManagement.createUserGroup.dialogTitle": {
-        "value": "Create group",
+        "text": "Create group",
         "crowdinContext": "Title of dialog that creates new user group."
     },
     "userManagement.createUserGroup.inputPlaceholder": {
-        "value": "Name",
+        "text": "Name",
         "crowdinContext": "Placeholder shown in input box where user types name of a new user group."
     },
     "richText.placeholder": {
-        "value": "Add markdown text here...",
+        "text": "Add markdown text here...",
         "crowdinContext": "Do not translate word 'Markdown'"
     },
     "richText.tooltip": {
-        "value": "You can use Markdown syntax to style the description:",
+        "text": "You can use Markdown syntax to style the description:",
         "crowdinContext": "Do not translate word 'Markdown'"
     },
     "richText.no_data": {
-        "value": "No data",
+        "text": "No data",
         "crowdinContext": "No data retrieved from the server"
     },
     "richText.multiple_data": {
-        "value": "Multiple items",
+        "text": "Multiple items",
         "crowdinContext": "Error when multiple items are retrieved from server for attribute"
     },
     "richText.no_fetch": {
-        "value": "Data could not be retrieved",
+        "text": "Data could not be retrieved",
         "crowdinContext": "Data could not be retrieved from the server"
     },
     "recurrence.starts": {
-        "value": "Starts on",
+        "text": "Starts on",
         "crowdinContext": "Describes when recurrence starts."
     },
     "recurrence.repeats": {
-        "value": "Repeats",
+        "text": "Repeats",
         "crowdinContext": "Describes how recurrence repeats."
     },
     "recurrence.types.hourly": {
-        "value": "Hourly",
+        "text": "Hourly",
         "crowdinContext": "Repeats the schedule hourly."
     },
     "recurrence.types.daily": {
-        "value": "Daily",
+        "text": "Daily",
         "crowdinContext": "Repeats the schedule daily."
     },
     "recurrence.types.weekly": {
-        "value": "Weekly on {day}",
+        "text": "Weekly on {day}",
         "crowdinContext": "Example: 'Weekly on Friday'. Placeholder '{day}' refers to a day of a week. Don't translate placeholder '{day}'."
     },
     "recurrence.types.monthly.last": {
-        "value": "Monthly on the last {day}",
+        "text": "Monthly on the last {day}",
         "crowdinContext": "Example: 'Monthly on the last Friday'. Do not translate placeholder {day}'"
     },
     "recurrence.types.monthly.first": {
-        "value": "Monthly on the first day",
+        "text": "Monthly on the first day",
         "crowdinContext": "Example: 'Monthly on the first day'."
     },
     "recurrence.types.weekly.first": {
-        "value": "Weekly on the first day",
+        "text": "Weekly on the first day",
         "crowdinContext": "Example: 'Weekly on the first day'."
     },
     "recurrence.types.monthly": {
-        "value": "Monthly on the {week, select, 1 {first} 2 {second} 3 {third} 4 {fourth} other {last}} {day}",
+        "text": "Monthly on the {week, select, 1 {first} 2 {second} 3 {third} 4 {fourth} other {last}} {day}",
         "crowdinContext": "Example: 'Monthly on the first Friday'. Translate only uppercase in 'MONTHLY ON THE {week, select, 1 {FIRST} 2 {SECOND} 3 {THIRD} 4 {FOURTH} other {LAST}} {day}'"
     },
     "recurrence.types.cron": {
-        "value": "Cron expression",
+        "text": "Cron expression",
         "crowdinContext": "Repeats the schedule email using custom cron expression defined by the user. Do not translate word 'Cron' as it is a name of technical specification."
     },
     "recurrence.types.inherit": {
-        "value": "Inherit",
+        "text": "Inherit",
         "crowdinContext": "Repeats the schedule email using the same recurrence as the setup in parent."
     },
     "recurrence.description.hourly": {
-        "value": "At start of every hour",
+        "text": "At start of every hour",
         "crowdinContext": ""
     },
     "recurrence.description.daily": {
-        "value": "At {hour} every day",
+        "text": "At {hour} every day",
         "crowdinContext": "Do not translate placeholder {hour}."
     },
     "recurrence.description.weekly_first": {
-        "value": "At {hour} every week start",
+        "text": "At {hour} every week start",
         "crowdinContext": "Do not translate placeholder {hour}."
     },
     "recurrence.description.weekly": {
-        "value": "At {hour} on {dayOfWeekName} every week",
+        "text": "At {hour} on {dayOfWeekName} every week",
         "crowdinContext": "Do not translate placeholders {hour} and {dayOfWeekName}."
     },
     "recurrence.description.monthly_first": {
-        "value": "At {hour} every month start",
+        "text": "At {hour} every month start",
         "crowdinContext": "Do not translate placeholder {hour}."
     },
     "recurrence.description.monthly": {
-        "value": "At {hour} on {dayOfWeekName} every {weekNumber}. week in month",
+        "text": "At {hour} on {dayOfWeekName} every {weekNumber}. week in month",
         "crowdinContext": "Do not translate placeholders {hour}, {dayOfWeekName} and {weekNumber}."
     },
     "recurrence.error.too_often": {
-        "value": "Frequency too high",
+        "text": "Frequency too high",
         "crowdinContext": "Invalid frequency recurrence."
     },
     "recurrence.cron.tooltip": {
-        "value": "Use the <a>unix-cron</a> string format.",
+        "text": "Use the <a>unix-cron</a> string format.",
         "crowdinContext": "Do not translate html tags <a>, </a>. Do not translate 'unix-cron' as it is a name of specific tech."
     },
     "message.accessibility.dismiss.notification": {
-        "value": "Dismiss notification",
+        "text": "Dismiss notification",
         "crowdinContext": ""
     },
     "datePicker.accessibility.label": {
-        "value": "Select start date",
+        "text": "Select start date",
         "crowdinContext": ""
     },
     "timePicker.accessibility.label": {
-        "value": "Select starting time",
+        "text": "Select starting time",
         "crowdinContext": ""
     }
 }

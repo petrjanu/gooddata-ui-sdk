@@ -1,50 +1,50 @@
 {
     "semantic-search.error.title": {
-        "value": "Our search service is temporarily down.",
+        "text": "Our search service is temporarily down.",
         "crowdinContext": "Title for the error message shown when semantic search failed."
     },
     "semantic-search.error.text": {
-        "value": "We are working to resolve the issue.",
+        "text": "We are working to resolve the issue.",
         "crowdinContext": "Body for the error message shown when semantic search failed."
     },
     "semantic-search.no-results": {
-        "value": "No results found for “{query}”.",
+        "text": "No results found for “{query}”.",
         "crowdinContext": "Message shown when semantic search did not return any results. Do not translate placeholder {query}."
     },
     "semantic-search.label": {
-        "value": "Search dashboards or visualization",
+        "text": "Search dashboards or visualization",
         "crowdinContext": "Label for the input box that is used in semantic search."
     },
     "semantic-search.placeholder": {
-        "value": "Search dashboards or visualization…",
+        "text": "Search dashboards or visualization…",
         "crowdinContext": "Placeholder in the input box that is used in semantic search."
     },
     "semantic-search.id": {
-        "value": "ID",
+        "text": "ID",
         "crowdinContext": "Label of column that contains ID of the search results object."
     },
     "semantic-search.tags": {
-        "value": "Tags",
+        "text": "Tags",
         "crowdinContext": "Label of column that contains tags of the search results object."
     },
     "semantic-search.match": {
-        "value": "{score}% match",
+        "text": "{score}% match",
         "crowdinContext": "Label of column that contains match score of the search results object. Do not translate placeholder {score}."
     },
     "semantic-search.previous-search": {
-        "value": "Previous search",
+        "text": "Previous search",
         "crowdinContext": "Area-label for the search history icon."
     },
     "semantic-search.date.at": {
-        "value": "at",
+        "text": "at",
         "crowdinContext": ""
     },
     "gs.date.today": {
-        "value": "Today",
+        "text": "Today",
         "crowdinContext": ""
     },
     "gs.date.yesterday": {
-        "value": "Yesterday",
+        "text": "Yesterday",
         "crowdinContext": ""
     }
 }

@@ -1,1702 +1,1702 @@
 {
     "or": {
-        "value": "or",
+        "text": "or",
         "crowdinContext": ""
     },
     "dashboard.bucket.measures_title.column._measure": {
-        "value": "Measures",
+        "text": "Measures",
         "crowdinContext": ""
     },
     "dashboard.bucket.measures_title.column._metric": {
-        "value": "Metrics",
+        "text": "Metrics",
         "crowdinContext": ""
     },
     "dashboard.bucket.measures_title.bar._measure": {
-        "value": "Measures",
+        "text": "Measures",
         "crowdinContext": ""
     },
     "dashboard.bucket.measures_title.bar._metric": {
-        "value": "Metrics",
+        "text": "Metrics",
         "crowdinContext": ""
     },
     "dashboard.bucket.measures_title.line._measure": {
-        "value": "Measures",
+        "text": "Measures",
         "crowdinContext": ""
     },
     "dashboard.bucket.measures_title.line._metric": {
-        "value": "Metrics",
+        "text": "Metrics",
         "crowdinContext": ""
     },
     "dashboard.bucket.measures_title.area._measure": {
-        "value": "Measures",
+        "text": "Measures",
         "crowdinContext": ""
     },
     "dashboard.bucket.measures_title.area._metric": {
-        "value": "Metrics",
+        "text": "Metrics",
         "crowdinContext": ""
     },
     "dashboard.bucket.measures_title.pie._measure": {
-        "value": "Measures",
+        "text": "Measures",
         "crowdinContext": ""
     },
     "dashboard.bucket.measures_title.pie._metric": {
-        "value": "Metrics",
+        "text": "Metrics",
         "crowdinContext": ""
     },
     "dashboard.bucket.measures_title.funnel._measure": {
-        "value": "Measures",
+        "text": "Measures",
         "crowdinContext": ""
     },
     "dashboard.bucket.measures_title.funnel._metric": {
-        "value": "Metrics",
+        "text": "Metrics",
         "crowdinContext": ""
     },
     "dashboard.bucket.measures_title.pyramid._measure": {
-        "value": "Measures",
+        "text": "Measures",
         "crowdinContext": ""
     },
     "dashboard.bucket.measures_title.pyramid._metric": {
-        "value": "Metrics",
+        "text": "Metrics",
         "crowdinContext": ""
     },
     "dashboard.bucket.measures_title.treemap._measure": {
-        "value": "Measures",
+        "text": "Measures",
         "crowdinContext": ""
     },
     "dashboard.bucket.measures_title.treemap._metric": {
-        "value": "Metrics",
+        "text": "Metrics",
         "crowdinContext": ""
     },
     "dashboard.bucket.measures_title.donut._measure": {
-        "value": "Measures",
+        "text": "Measures",
         "crowdinContext": ""
     },
     "dashboard.bucket.measures_title.donut._metric": {
-        "value": "Metrics",
+        "text": "Metrics",
         "crowdinContext": ""
     },
     "dashboard.bucket.measures_title.heatmap._measure": {
-        "value": "Measure",
+        "text": "Measure",
         "crowdinContext": ""
     },
     "dashboard.bucket.measures_title.heatmap._metric": {
-        "value": "Metric",
+        "text": "Metric",
         "crowdinContext": ""
     },
     "dashboard.bucket.measures_title.headline._measure": {
-        "value": "Measure",
+        "text": "Measure",
         "crowdinContext": ""
     },
     "dashboard.bucket.measures_title.headline._metric": {
-        "value": "Metric",
+        "text": "Metric",
         "crowdinContext": ""
     },
     "dashboard.bucket.measures_subtitle.headline": {
-        "value": "primary",
+        "text": "primary",
         "crowdinContext": ""
     },
     "dashboard.bucket.secondary_measures_title.headline._measure": {
-        "value": "Measure",
+        "text": "Measure",
         "crowdinContext": ""
     },
     "dashboard.bucket.secondary_measures_title.headline._metric": {
-        "value": "Metric",
+        "text": "Metric",
         "crowdinContext": ""
     },
     "dashboard.bucket.secondary_measures_subtitle.headline": {
-        "value": "secondary",
+        "text": "secondary",
         "crowdinContext": ""
     },
     "dashboard.bucket.measures_title.scatter._measure": {
-        "value": "Measure",
+        "text": "Measure",
         "crowdinContext": ""
     },
     "dashboard.bucket.measures_title.scatter._metric": {
-        "value": "Metric",
+        "text": "Metric",
         "crowdinContext": ""
     },
     "dashboard.bucket.secondary_measures_title.scatter._measure": {
-        "value": "Measure",
+        "text": "Measure",
         "crowdinContext": ""
     },
     "dashboard.bucket.secondary_measures_title.scatter._metric": {
-        "value": "Metric",
+        "text": "Metric",
         "crowdinContext": ""
     },
     "dashboard.bucket.measures_subtitle.scatter": {
-        "value": "X-axis",
+        "text": "X-axis",
         "crowdinContext": "Horizontal axis of a scatter plot."
     },
     "dashboard.bucket.secondary_measures_subtitle.scatter": {
-        "value": "Y-axis",
+        "text": "Y-axis",
         "crowdinContext": "Vertical axis of a scatter plot."
     },
     "dashboard.bucket.attribute_title.scatter": {
-        "value": "View by",
+        "text": "View by",
         "crowdinContext": ""
     },
     "dashboard.bucket.segment_title.scatter": {
-        "value": "Segment by",
+        "text": "Segment by",
         "crowdinContext": ""
     },
     "dashboard.bucket.measures_title.combo._measure": {
-        "value": "Measures",
+        "text": "Measures",
         "crowdinContext": ""
     },
     "dashboard.bucket.measures_title.combo._metric": {
-        "value": "Metrics",
+        "text": "Metrics",
         "crowdinContext": ""
     },
     "dashboard.bucket.measures_subtitle.combo": {
-        "value": "Column",
+        "text": "Column",
         "crowdinContext": ""
     },
     "dashboard.bucket.secondary_measures_title.combo._measure": {
-        "value": "Measures",
+        "text": "Measures",
         "crowdinContext": ""
     },
     "dashboard.bucket.secondary_measures_title.combo._metric": {
-        "value": "Metrics",
+        "text": "Metrics",
         "crowdinContext": ""
     },
     "dashboard.bucket.secondary_measures_subtitle.combo": {
-        "value": "Line",
+        "text": "Line",
         "crowdinContext": ""
     },
     "dashboard.bucket.measures_title.xirr._measure": {
-        "value": "Measure",
+        "text": "Measure",
         "crowdinContext": ""
     },
     "dashboard.bucket.measures_title.xirr._metric": {
-        "value": "Metric",
+        "text": "Metric",
         "crowdinContext": ""
     },
     "dashboard.bucket.measures_title.waterfall._measure": {
-        "value": "Measures",
+        "text": "Measures",
         "crowdinContext": ""
     },
     "dashboard.bucket.measures_title.waterfall._metric": {
-        "value": "Metrics",
+        "text": "Metrics",
         "crowdinContext": ""
     },
     "dashboard.bucket.attribute_title.xirr": {
-        "value": "Date attribute",
+        "text": "Date attribute",
         "crowdinContext": ""
     },
     "dashboard.bucket.attribute_from_title.sankey": {
-        "value": "Attribute",
+        "text": "Attribute",
         "crowdinContext": ""
     },
     "dashboard.bucket.attribute_from_subtitle.sankey": {
-        "value": "from",
+        "text": "from",
         "crowdinContext": ""
     },
     "dashboard.bucket.attribute_to_title.sankey": {
-        "value": "Attribute",
+        "text": "Attribute",
         "crowdinContext": ""
     },
     "dashboard.bucket.attribute_to_subtitle.sankey": {
-        "value": "to",
+        "text": "to",
         "crowdinContext": ""
     },
     "dashboard.bucket.attribute_from_title.dependencywheel": {
-        "value": "Attribute",
+        "text": "Attribute",
         "crowdinContext": ""
     },
     "dashboard.bucket.attribute_from_subtitle.dependencywheel": {
-        "value": "from",
+        "text": "from",
         "crowdinContext": ""
     },
     "dashboard.bucket.attribute_to_title.dependencywheel": {
-        "value": "Attribute",
+        "text": "Attribute",
         "crowdinContext": ""
     },
     "dashboard.bucket.attribute_to_subtitle.dependencywheel": {
-        "value": "to",
+        "text": "to",
         "crowdinContext": ""
     },
     "dashboard.bucket.combo.subtitle.column": {
-        "value": "as columns",
+        "text": "as columns",
         "crowdinContext": "Display measures in column chart = 'as columns'."
     },
     "dashboard.bucket.combo.subtitle.line": {
-        "value": "as lines",
+        "text": "as lines",
         "crowdinContext": "Display measures in line chart = 'as lines'."
     },
     "dashboard.bucket.combo.subtitle.area": {
-        "value": "as areas",
+        "text": "as areas",
         "crowdinContext": "Display measures in area chart = 'as areas'."
     },
     "dashboard.bucket.measures_title.bubble._measure": {
-        "value": "Measure",
+        "text": "Measure",
         "crowdinContext": ""
     },
     "dashboard.bucket.measures_title.bubble._metric": {
-        "value": "Metric",
+        "text": "Metric",
         "crowdinContext": ""
     },
     "dashboard.bucket.secondary_measures_title.bubble._measure": {
-        "value": "Measure",
+        "text": "Measure",
         "crowdinContext": ""
     },
     "dashboard.bucket.secondary_measures_title.bubble._metric": {
-        "value": "Metric",
+        "text": "Metric",
         "crowdinContext": ""
     },
     "dashboard.bucket.tertiary_measures_title.bubble._measure": {
-        "value": "Measure",
+        "text": "Measure",
         "crowdinContext": ""
     },
     "dashboard.bucket.tertiary_measures_title.bubble._metric": {
-        "value": "Metric",
+        "text": "Metric",
         "crowdinContext": ""
     },
     "dashboard.bucket.measures_subtitle.bubble": {
-        "value": "X-axis",
+        "text": "X-axis",
         "crowdinContext": "Horizontal axis of a bubble plot."
     },
     "dashboard.bucket.secondary_measures_subtitle.bubble": {
-        "value": "Y-axis",
+        "text": "Y-axis",
         "crowdinContext": "Vertical axis of a bubble plot."
     },
     "dashboard.bucket.tertiary_measures_subtitle.bubble": {
-        "value": "Size",
+        "text": "Size",
         "crowdinContext": ""
     },
     "dashboard.bucket.location_title.pushpin": {
-        "value": "Location",
+        "text": "Location",
         "crowdinContext": "Position of a pin pushed to a map."
     },
     "dashboard.bucket.size_title.pushpin._measure": {
-        "value": "Measure",
+        "text": "Measure",
         "crowdinContext": ""
     },
     "dashboard.bucket.size_title.pushpin._metric": {
-        "value": "Metric",
+        "text": "Metric",
         "crowdinContext": ""
     },
     "dashboard.bucket.size_subtitle.pushpin": {
-        "value": "Size",
+        "text": "Size",
         "crowdinContext": "Size of a pin pushed to a map"
     },
     "dashboard.bucket.color_title.pushpin._measure": {
-        "value": "Measure",
+        "text": "Measure",
         "crowdinContext": ""
     },
     "dashboard.bucket.color_title.pushpin._metric": {
-        "value": "Metric",
+        "text": "Metric",
         "crowdinContext": ""
     },
     "dashboard.bucket.color_subtitle.pushpin": {
-        "value": "Color",
+        "text": "Color",
         "crowdinContext": "Color of a pin pushed to a map"
     },
     "dashboard.bucket.view_title.bubble": {
-        "value": "View by",
+        "text": "View by",
         "crowdinContext": ""
     },
     "dashboard.bucket.view_title.pie": {
-        "value": "View by",
+        "text": "View by",
         "crowdinContext": ""
     },
     "dashboard.bucket.view_title.treemap": {
-        "value": "View by",
+        "text": "View by",
         "crowdinContext": ""
     },
     "dashboard.bucket.view_title.donut": {
-        "value": "View by",
+        "text": "View by",
         "crowdinContext": ""
     },
     "dashboard.bucket.view_title.funnel": {
-        "value": "View by",
+        "text": "View by",
         "crowdinContext": ""
     },
     "dashboard.bucket.view_title.pyramid": {
-        "value": "View by",
+        "text": "View by",
         "crowdinContext": ""
     },
     "dashboard.bucket.view_title.column": {
-        "value": "View by",
+        "text": "View by",
         "crowdinContext": ""
     },
     "dashboard.bucket.view_title.bar": {
-        "value": "View by",
+        "text": "View by",
         "crowdinContext": ""
     },
     "dashboard.bucket.view_title.area": {
-        "value": "View by",
+        "text": "View by",
         "crowdinContext": ""
     },
     "dashboard.bucket.view_title.bullet": {
-        "value": "View by",
+        "text": "View by",
         "crowdinContext": ""
     },
     "dashboard.bucket.view_title.waterfall": {
-        "value": "View by",
+        "text": "View by",
         "crowdinContext": ""
     },
     "dashboard.bucket.view_title.heatmap": {
-        "value": "Rows",
+        "text": "Rows",
         "crowdinContext": ""
     },
     "dashboard.bucket.trend_title.line": {
-        "value": "Trend by",
+        "text": "Trend by",
         "crowdinContext": ""
     },
     "dashboard.bucket.view_title.combo": {
-        "value": "View by",
+        "text": "View by",
         "crowdinContext": ""
     },
     "dashboard.bucket.stack_title.column": {
-        "value": "Stack by",
+        "text": "Stack by",
         "crowdinContext": ""
     },
     "dashboard.bucket.stack_title.bar": {
-        "value": "Stack by",
+        "text": "Stack by",
         "crowdinContext": ""
     },
     "dashboard.bucket.stack_title.area": {
-        "value": "Stack by",
+        "text": "Stack by",
         "crowdinContext": ""
     },
     "dashboard.bucket.stack_title.heatmap": {
-        "value": "Columns",
+        "text": "Columns",
         "crowdinContext": ""
     },
     "dashboard.bucket.segment_title.line": {
-        "value": "Segment by",
+        "text": "Segment by",
         "crowdinContext": ""
     },
     "dashboard.bucket.segment_title.treemap": {
-        "value": "Segment by",
+        "text": "Segment by",
         "crowdinContext": ""
     },
     "dashboard.bucket.segment_title.pushpin": {
-        "value": "Segment by",
+        "text": "Segment by",
         "crowdinContext": ""
     },
     "dashboard.bucket.metric_segment_by_warning._measure": {
-        "value": "To add additional measure, remove {icons} from '<span class=\"stack-by\">'segment by'</span>'",
+        "text": "To add additional measure, remove {icons} from '<span class=\"stack-by\">'segment by'</span>'",
         "crowdinContext": "Do not translate HTML markup enclosed in '<>'. Do not translate {icons}. Translate words 'segment by'."
     },
     "dashboard.bucket.metric_segment_by_warning._metric": {
-        "value": "To add additional metric, remove {icons} from '<span class=\"stack-by\">'segment by'</span>'",
+        "text": "To add additional metric, remove {icons} from '<span class=\"stack-by\">'segment by'</span>'",
         "crowdinContext": "Do not translate HTML markup enclosed in '<>'. Do not translate {icons}. Translate words 'segment by'."
     },
     "dashboard.bucket.metric_stack_by_warning._measure": {
-        "value": "To add additional measure, remove {icons} from '<span class=\"stack-by\">'stack by'</span>'",
+        "text": "To add additional measure, remove {icons} from '<span class=\"stack-by\">'stack by'</span>'",
         "crowdinContext": "Do not translate HTML markup enclosed in '<>'. Do not translate {icons}. Translate words 'stack by'."
     },
     "dashboard.bucket.metric_stack_by_warning._metric": {
-        "value": "To add additional metric, remove {icons} from '<span class=\"stack-by\">'stack by'</span>'",
+        "text": "To add additional metric, remove {icons} from '<span class=\"stack-by\">'stack by'</span>'",
         "crowdinContext": "Do not translate HTML markup enclosed in '<>'. Do not translate {icons}. Translate words 'stack by'."
     },
     "dashboard.bucket.metric_view_by_warning._measure": {
-        "value": "To add additional measure, remove {icons} from '<span class=\"stack-by\">'view by'</span>'",
+        "text": "To add additional measure, remove {icons} from '<span class=\"stack-by\">'view by'</span>'",
         "crowdinContext": "Do not translate HTML markup enclosed in '<>'. Do not translate {icons}. Translate words 'view by'."
     },
     "dashboard.bucket.metric_view_by_warning._metric": {
-        "value": "To add additional metric, remove {icons} from '<span class=\"stack-by\">'view by'</span>'",
+        "text": "To add additional metric, remove {icons} from '<span class=\"stack-by\">'view by'</span>'",
         "crowdinContext": "Do not translate HTML markup enclosed in '<>'. Do not translate {icons}. Translate words 'view by'."
     },
     "dashboard.bucket.category_view_by_warning._measure|insight": {
-        "value": "To view by another attribute, an visualization can have only one measure",
+        "text": "To view by another attribute, an visualization can have only one measure",
         "crowdinContext": ""
     },
     "dashboard.bucket.category_view_by_warning._metric|insight": {
-        "value": "To view by another attribute, an visualization can have only one metric",
+        "text": "To view by another attribute, an visualization can have only one metric",
         "crowdinContext": ""
     },
     "dashboard.bucket.category_view_by_warning._measure|report": {
-        "value": "To view by another attribute, a report can have only one measure",
+        "text": "To view by another attribute, a report can have only one measure",
         "crowdinContext": "",
         "translate": false
     },
     "dashboard.bucket.category_view_by_warning._metric|report": {
-        "value": "To view by another attribute, a report can have only one metric",
+        "text": "To view by another attribute, a report can have only one metric",
         "crowdinContext": "",
         "translate": false
     },
     "dashboard.bucket.view_stack_by_warning": {
-        "value": "To add additional attribute, remove {icons} from '<span class=\"stack-by\">'stack by'</span>'",
+        "text": "To add additional attribute, remove {icons} from '<span class=\"stack-by\">'stack by'</span>'",
         "crowdinContext": "Do not translate HTML markup enclosed in '<>'. Do not translate {icons}. Translate words 'stack by'."
     },
     "dashboard.bucket.category_stack_by_warning._measure|insight": {
-        "value": "To stack by, an visualization can have only one measure",
+        "text": "To stack by, an visualization can have only one measure",
         "crowdinContext": ""
     },
     "dashboard.bucket.category_stack_by_warning._metric|insight": {
-        "value": "To stack by, an visualization can have only one metric",
+        "text": "To stack by, an visualization can have only one metric",
         "crowdinContext": ""
     },
     "dashboard.bucket.category_stack_by_warning._measure|report": {
-        "value": "To stack by, a report can have only one measure",
+        "text": "To stack by, a report can have only one measure",
         "crowdinContext": "",
         "translate": false
     },
     "dashboard.bucket.category_stack_by_warning._metric|report": {
-        "value": "To stack by, a report can have only one metric",
+        "text": "To stack by, a report can have only one metric",
         "crowdinContext": "",
         "translate": false
     },
     "dashboard.bucket.stack_view_by_warning|insight": {
-        "value": "To stack by, an visualization can have only one attribute in view by",
+        "text": "To stack by, an visualization can have only one attribute in view by",
         "crowdinContext": ""
     },
     "dashboard.bucket.stack_view_by_warning|report": {
-        "value": "To stack by, a report can have only one attribute in view by",
+        "text": "To stack by, a report can have only one attribute in view by",
         "crowdinContext": "",
         "translate": false
     },
     "dashboard.bucket.measure_stack_by_warning._measure|insight": {
-        "value": "To stack by an attribute, an visualization can have only one measure",
+        "text": "To stack by an attribute, an visualization can have only one measure",
         "crowdinContext": ""
     },
     "dashboard.bucket.measure_stack_by_warning._metric|insight": {
-        "value": "To stack by an attribute, an visualization can have only one metric",
+        "text": "To stack by an attribute, an visualization can have only one metric",
         "crowdinContext": ""
     },
     "dashboard.bucket.measure_stack_by_warning._measure|report": {
-        "value": "To stack by an attribute, a report can have only one measure",
+        "text": "To stack by an attribute, a report can have only one measure",
         "crowdinContext": "",
         "translate": false
     },
     "dashboard.bucket.measure_stack_by_warning._metric|report": {
-        "value": "To stack by an attribute, a report can have only one metric",
+        "text": "To stack by an attribute, a report can have only one metric",
         "crowdinContext": "",
         "translate": false
     },
     "dashboard.bucket.category_columns_warning._measure": {
-        "value": "Cannot add columns: limit is {oldLimit} measures and {oldRowsLimit} rows. Follow the limits to add more",
+        "text": "Cannot add columns: limit is {oldLimit} measures and {oldRowsLimit} rows. Follow the limits to add more",
         "crowdinContext": "Do not translate {oldLimit} and {oldRowsLimit}."
     },
     "dashboard.bucket.category_columns_warning._metric": {
-        "value": "Cannot add columns: limit is {oldLimit} metrics and {oldRowsLimit} rows. Follow the limits to add more",
+        "text": "Cannot add columns: limit is {oldLimit} metrics and {oldRowsLimit} rows. Follow the limits to add more",
         "crowdinContext": "Do not translate {oldLimit} and {oldRowsLimit}."
     },
     "dashboard.bucket.category_measures_rows_warning": {
-        "value": "To add up to {limit} more, remove all items from columns section",
+        "text": "To add up to {limit} more, remove all items from columns section",
         "crowdinContext": "Do not translate {limit}."
     },
     "dashboard.bucket.category_category_by_warning._measure|insight": {
-        "value": "To view by, an visualization can have only one measure",
+        "text": "To view by, an visualization can have only one measure",
         "crowdinContext": ""
     },
     "dashboard.bucket.category_category_by_warning._metric|insight": {
-        "value": "To view by, an visualization can have only one metric",
+        "text": "To view by, an visualization can have only one metric",
         "crowdinContext": ""
     },
     "dashboard.bucket.category_category_by_warning._measure|report": {
-        "value": "To view by, a report can have only one measure",
+        "text": "To view by, a report can have only one measure",
         "crowdinContext": "",
         "translate": false
     },
     "dashboard.bucket.category_category_by_warning._metric|report": {
-        "value": "To view by, a report can have only one metric",
+        "text": "To view by, a report can have only one metric",
         "crowdinContext": "",
         "translate": false
     },
     "dashboard.bucket.category_segment_by_warning._measure|insight": {
-        "value": "To segment by, an visualization can have only one measure",
+        "text": "To segment by, an visualization can have only one measure",
         "crowdinContext": ""
     },
     "dashboard.bucket.category_segment_by_warning._metric|insight": {
-        "value": "To segment by, an visualization can have only one metric",
+        "text": "To segment by, an visualization can have only one metric",
         "crowdinContext": ""
     },
     "dashboard.bucket.category_segment_by_warning._measure|report": {
-        "value": "To segment by, a report can have only one measure",
+        "text": "To segment by, a report can have only one measure",
         "crowdinContext": "",
         "translate": false
     },
     "dashboard.bucket.category_segment_by_warning._metric|report": {
-        "value": "To segment by, a report can have only one metric",
+        "text": "To segment by, a report can have only one metric",
         "crowdinContext": "",
         "translate": false
     },
     "dashboard.bucket.measures_title.table._measure": {
-        "value": "Measures",
+        "text": "Measures",
         "crowdinContext": ""
     },
     "dashboard.bucket.measures_title.table._metric": {
-        "value": "Metrics",
+        "text": "Metrics",
         "crowdinContext": ""
     },
     "dashboard.bucket.measures_title.sankey._measure": {
-        "value": "MEASURE",
+        "text": "MEASURE",
         "crowdinContext": ""
     },
     "dashboard.bucket.measures_title.sankey._metric": {
-        "value": "METRIC",
+        "text": "METRIC",
         "crowdinContext": ""
     },
     "dashboard.bucket.measures_title.dependencywheel._measure": {
-        "value": "MEASURE",
+        "text": "MEASURE",
         "crowdinContext": ""
     },
     "dashboard.bucket.measures_title.dependencywheel._metric": {
-        "value": "METRIC",
+        "text": "METRIC",
         "crowdinContext": ""
     },
     "dashboard.bucket.attribute_title.table": {
-        "value": "Rows",
+        "text": "Rows",
         "crowdinContext": ""
     },
     "dashboard.bucket.columns_title.table": {
-        "value": "Columns",
+        "text": "Columns",
         "crowdinContext": ""
     },
     "dashboard.bucket.attribute_title.repeater": {
-        "value": "Rows",
+        "text": "Rows",
         "crowdinContext": ""
     },
     "dashboard.bucket.view_title.repeater": {
-        "value": "View by",
+        "text": "View by",
         "crowdinContext": ""
     },
     "dashboard.bucket.columns_title.repeater": {
-        "value": "Columns",
+        "text": "Columns",
         "crowdinContext": ""
     },
     "dashboard.error.missing_primary_bucket_item.heading._measure|insight": {
-        "value": "No primary measure in your visualization",
+        "text": "No primary measure in your visualization",
         "crowdinContext": ""
     },
     "dashboard.error.missing_primary_bucket_item.heading._metric|insight": {
-        "value": "No primary metric in your visualization",
+        "text": "No primary metric in your visualization",
         "crowdinContext": ""
     },
     "dashboard.error.missing_primary_bucket_item.heading._measure|report": {
-        "value": "No primary measure in your report",
+        "text": "No primary measure in your report",
         "crowdinContext": "",
         "translate": false
     },
     "dashboard.error.missing_primary_bucket_item.heading._metric|report": {
-        "value": "No primary metric in your report",
+        "text": "No primary metric in your report",
         "crowdinContext": "",
         "translate": false
     },
     "dashboard.error.missing_primary_bucket_item.text._measure|insight": {
-        "value": "Add a primary measure to your visualization, or switch to table.\nOnce done, you'll be able to save it.",
+        "text": "Add a primary measure to your visualization, or switch to table.\nOnce done, you'll be able to save it.",
         "crowdinContext": ""
     },
     "dashboard.error.missing_primary_bucket_item.text._metric|insight": {
-        "value": "Add a primary metric to your visualization, or switch to table.\nOnce done, you'll be able to save it.",
+        "text": "Add a primary metric to your visualization, or switch to table.\nOnce done, you'll be able to save it.",
         "crowdinContext": ""
     },
     "dashboard.error.missing_primary_bucket_item.text._measure|report": {
-        "value": "Add a primary measure to your report, or switch to table.\nOnce done, you'll be able to save it.",
+        "text": "Add a primary measure to your report, or switch to table.\nOnce done, you'll be able to save it.",
         "crowdinContext": "",
         "translate": false
     },
     "dashboard.error.missing_primary_bucket_item.text._metric|report": {
-        "value": "Add a primary metric to your report, or switch to table.\nOnce done, you'll be able to save it.",
+        "text": "Add a primary metric to your report, or switch to table.\nOnce done, you'll be able to save it.",
         "crowdinContext": "",
         "translate": false
     },
     "dashboard.xirr.error.invalid_buckets.heading": {
-        "value": "Incomplete configuration",
+        "text": "Incomplete configuration",
         "crowdinContext": "Informs the user that they have not provided all the necessary configuration items (one measure and one date attribute)"
     },
     "dashboard.xirr.error.invalid_buckets.text._measure": {
-        "value": "Make sure you have selected one measure and one date attribute",
+        "text": "Make sure you have selected one measure and one date attribute",
         "crowdinContext": "The user should be instructed to review that they have added one measure and one date attribute to the visualization"
     },
     "dashboard.xirr.error.invalid_buckets.text._metric": {
-        "value": "Make sure you have selected one metric and one date attribute",
+        "text": "Make sure you have selected one metric and one date attribute",
         "crowdinContext": "The user should be instructed to review that they have added one metric and one date attribute to the visualization"
     },
     "properties.unsupported": {
-        "value": "This visualization doesn’t support configuration",
+        "text": "This visualization doesn’t support configuration",
         "crowdinContext": ""
     },
     "properties.config.not_applicable|insight": {
-        "value": "Configuration Panel is not applicable for this configuration of the visualization",
+        "text": "Configuration Panel is not applicable for this configuration of the visualization",
         "crowdinContext": ""
     },
     "properties.config.not_applicable|report": {
-        "value": "Configuration Panel is not applicable for this configuration of the report",
+        "text": "Configuration Panel is not applicable for this configuration of the report",
         "crowdinContext": "",
         "translate": false
     },
     "properties.not_applicable|insight": {
-        "value": "Property is not applicable for this configuration of the visualization",
+        "text": "Property is not applicable for this configuration of the visualization",
         "crowdinContext": ""
     },
     "properties.not_applicable|report": {
-        "value": "Property is not applicable for this configuration of the report",
+        "text": "Property is not applicable for this configuration of the report",
         "crowdinContext": "",
         "translate": false
     },
     "properties.auto_placeholder": {
-        "value": "auto",
+        "text": "auto",
         "crowdinContext": ""
     },
     "properties.auto_default": {
-        "value": "auto (default)",
+        "text": "auto (default)",
         "crowdinContext": ""
     },
     "properties.legend.title": {
-        "value": "Legend",
+        "text": "Legend",
         "crowdinContext": ""
     },
     "properties.legend.position": {
-        "value": "Position",
+        "text": "Position",
         "crowdinContext": ""
     },
     "properties.total.title": {
-        "value": "Total",
+        "text": "Total",
         "crowdinContext": ""
     },
     "properties.total.name": {
-        "value": "Name",
+        "text": "Name",
         "crowdinContext": ""
     },
     "properties.total.tooltip": {
-        "value": "Add sum of all values as a column at the end.",
+        "text": "Add sum of all values as a column at the end.",
         "crowdinContext": ""
     },
     "properties.total.measures.tooltip": {
-        "value": "Disable “is total” options in metric to add sum of all values as a column at the end.",
+        "text": "Disable “is total” options in metric to add sum of all values as a column at the end.",
         "crowdinContext": "The tooltip for the toggle total section when there is any metric set to total metric"
     },
     "properties.color.total": {
-        "value": "Total",
+        "text": "Total",
         "crowdinContext": ""
     },
     "properties.color.positive": {
-        "value": "Positive",
+        "text": "Positive",
         "crowdinContext": ""
     },
     "properties.color.negative": {
-        "value": "Negative",
+        "text": "Negative",
         "crowdinContext": ""
     },
     "properties.canvas.title": {
-        "value": "Canvas",
+        "text": "Canvas",
         "crowdinContext": ""
     },
     "properties.canvas.gridline": {
-        "value": "Gridline",
+        "text": "Gridline",
         "crowdinContext": ""
     },
     "properties.canvas.labels.percentages": {
-        "value": "Percentage",
+        "text": "Percentage",
         "crowdinContext": "applicable for funnel chart special data labels which can include percentages"
     },
     "properties.canvas.labels.percentages.info": {
-        "value": "Display percentages on each slice, with the top-most slice as 100% and the others as fractions of that value.",
+        "text": "Display percentages on each slice, with the top-most slice as 100% and the others as fractions of that value.",
         "crowdinContext": "this is an explanation tooltip for the Percentage option for funnel chart (properties.canvas.labels.percentages)"
     },
     "properties.canvas.labels.percentages.disabled": {
-        "value": "Percentages are hidden due to hidden data labels.",
+        "text": "Percentages are hidden due to hidden data labels.",
         "crowdinContext": "this is an explanation tooltip when the Percentage option for funnel chart is disabled (properties.canvas.labels.percentages)"
     },
     "properties.canvas.continuousLine.label": {
-        "value": "Continuous line",
+        "text": "Continuous line",
         "crowdinContext": ""
     },
     "properties.canvas.continuousLine.tooltip": {
-        "value": "Draw a line between points with missing values.",
+        "text": "Draw a line between points with missing values.",
         "crowdinContext": ""
     },
     "properties.canvas.dataLabels": {
-        "value": "Data Labels",
+        "text": "Data Labels",
         "crowdinContext": ""
     },
     "properties.canvas.dataLabels.auto": {
-        "value": "auto (default)",
+        "text": "auto (default)",
         "crowdinContext": ""
     },
     "properties.canvas.dataLabels.show": {
-        "value": "show",
+        "text": "show",
         "crowdinContext": ""
     },
     "properties.canvas.dataLabels.hide": {
-        "value": "hide",
+        "text": "hide",
         "crowdinContext": ""
     },
     "properties.canvas.rowHeight": {
-        "value": "Row height",
+        "text": "Row height",
         "crowdinContext": "Label of the dropdown for configuring the row height of the chart"
     },
     "properties.canvas.rowHeight.small": {
-        "value": "small",
+        "text": "small",
         "crowdinContext": "Option of the dropdown for configuring the row height of the chart (small)"
     },
     "properties.canvas.rowHeight.medium": {
-        "value": "medium",
+        "text": "medium",
         "crowdinContext": "Option of the dropdown for configuring the row height of the chart (medium)"
     },
     "properties.canvas.rowHeight.large": {
-        "value": "large",
+        "text": "large",
         "crowdinContext": "Option of the dropdown for configuring the row height of the chart (large)"
     },
     "properties.canvas.verticalAlign": {
-        "value": "Vertical align",
+        "text": "Vertical align",
         "crowdinContext": "Label of the dropdown for configuring vertical alignment of the chart cells"
     },
     "properties.canvas.verticalAlign.top": {
-        "value": "top",
+        "text": "top",
         "crowdinContext": "Option of the dropdown for configuring the vertical alignment of the chart cell (top)"
     },
     "properties.canvas.verticalAlign.middle": {
-        "value": "middle",
+        "text": "middle",
         "crowdinContext": "Option of the dropdown for configuring the vertical alignment of the chart cell (middle)"
     },
     "properties.canvas.verticalAlign.bottom": {
-        "value": "bottom",
+        "text": "bottom",
         "crowdinContext": "Option of the dropdown for configuring the vertical alignment of the chart cell (bottom)"
     },
     "properties.canvas.textWrapping": {
-        "value": "Text wrapping",
+        "text": "Text wrapping",
         "crowdinContext": "Label of the dropdown for configuring text wrapping of the chart cells"
     },
     "properties.canvas.textWrapping.clip": {
-        "value": "clip",
+        "text": "clip",
         "crowdinContext": "Option of the dropdown for configuring the text wrapping of the chart cell (clip)"
     },
     "properties.canvas.textWrapping.wrap": {
-        "value": "wrap",
+        "text": "wrap",
         "crowdinContext": "Option of the dropdown for configuring the text wrapping of the chart cell (wrap)"
     },
     "properties.canvas.image": {
-        "value": "Image",
+        "text": "Image",
         "crowdinContext": "Label of the dropdown for configuring image sizing of the chart cells"
     },
     "properties.canvas.image.fit": {
-        "value": "fit",
+        "text": "fit",
         "crowdinContext": "Option of the dropdown for configuring the image sizing of the chart cell (fit)"
     },
     "properties.canvas.image.fill": {
-        "value": "fill",
+        "text": "fill",
         "crowdinContext": "Option of the dropdown for configuring the image sizing of the chart cell (fill)"
     },
     "properties.forecast.title": {
-        "value": "Forecast",
+        "text": "Forecast",
         "crowdinContext": ""
     },
     "properties.forecastDisabled.title": {
-        "value": "Forecast is not available for this combination of buckets",
+        "text": "Forecast is not available for this combination of buckets",
         "crowdinContext": ""
     },
     "properties.forecastPeriod.title": {
-        "value": "Period",
+        "text": "Period",
         "crowdinContext": ""
     },
     "properties.forecastPeriod.placeholder": {
-        "value": "Period",
+        "text": "Period",
         "crowdinContext": ""
     },
     "properties.forecastSeasonal.title": {
-        "value": "Seasonality",
+        "text": "Seasonality",
         "crowdinContext": ""
     },
     "properties.forecastConfidence.title": {
-        "value": "Confidence",
+        "text": "Confidence",
         "crowdinContext": ""
     },
     "properties.forecastConfidence.70": {
-        "value": "70%",
+        "text": "70%",
         "crowdinContext": ""
     },
     "properties.forecastConfidence.75": {
-        "value": "75%",
+        "text": "75%",
         "crowdinContext": ""
     },
     "properties.forecastConfidence.80": {
-        "value": "80%",
+        "text": "80%",
         "crowdinContext": ""
     },
     "properties.forecastConfidence.85": {
-        "value": "85%",
+        "text": "85%",
         "crowdinContext": ""
     },
     "properties.forecastConfidence.90": {
-        "value": "90%",
+        "text": "90%",
         "crowdinContext": ""
     },
     "properties.forecastConfidence.95": {
-        "value": "95%",
+        "text": "95%",
         "crowdinContext": ""
     },
     "properties.forecastSliced.title": {
-        "value": "Showing partial forecast.",
+        "text": "Showing partial forecast.",
         "crowdinContext": ""
     },
     "properties.forecastSliced.description": {
-        "value": "The available data point don`t cover the entire selected period.",
+        "text": "The available data point don`t cover the entire selected period.",
         "crowdinContext": ""
     },
     "properties.clustering.title": {
-        "value": "Cluster",
+        "text": "Cluster",
         "crowdinContext": "Title of the clustering configuration section."
     },
     "properties.clustering.amount": {
-        "value": "Amount",
+        "text": "Amount",
         "crowdinContext": "Label of the input for configuring the number of clusters."
     },
     "properties.clustering.amount.placeholder": {
-        "value": "3",
+        "text": "3",
         "crowdinContext": "Placeholder of the input for configuring the number of clusters."
     },
     "properties.clustering.threshold": {
-        "value": "Threshold",
+        "text": "Threshold",
         "crowdinContext": "Label of the input for configuring the clustering threshold."
     },
     "properties.clustering.threshold.placeholder": {
-        "value": "0.03",
+        "text": "0.03",
         "crowdinContext": "Placeholder of the input for configuring the clustering threshold."
     },
     "properties.clustering.threshold.tooltip": {
-        "value": "The threshold is a limit that determines when to group data. <link>Learn more</link>",
+        "text": "The threshold is a limit that determines when to group data. <link>Learn more</link>",
         "crowdinContext": "Tooltip message of the clustering threshold input. Do not translate <link> and </link> tags"
     },
     "properties.clustering.amount.partial.title": {
-        "value": "Showing partial clusters",
+        "text": "Showing partial clusters",
         "crowdinContext": "Message title that is shown when clustering amount is higher than the number of visualization data points."
     },
     "properties.clustering.amount.partial.description": {
-        "value": "The available data points don't cover the entire selected amount.",
+        "text": "The available data points don't cover the entire selected amount.",
         "crowdinContext": "Message description that is shown when clustering amount is higher than the number of visualization data points."
     },
     "properties.clustering.disabled": {
-        "value": "Clustering requires 2 Metrics and View by, without Segment by.",
+        "text": "Clustering requires 2 Metrics and View by, without Segment by.",
         "crowdinContext": "Tooltip message of the disabled toggle that enables clustering"
     },
     "properties.canvas.totalLabels": {
-        "value": "Total Labels",
+        "text": "Total Labels",
         "crowdinContext": ""
     },
     "properties.canvas.totalLabels.auto": {
-        "value": "auto (default)",
+        "text": "auto (default)",
         "crowdinContext": ""
     },
     "properties.canvas.totalLabels.show": {
-        "value": "show",
+        "text": "show",
         "crowdinContext": ""
     },
     "properties.canvas.totalLabels.hide": {
-        "value": "hide",
+        "text": "hide",
         "crowdinContext": ""
     },
     "properties.canvas.dataPoints": {
-        "value": "Data Points",
+        "text": "Data Points",
         "crowdinContext": ""
     },
     "properties.canvas.dataPoints.auto": {
-        "value": "auto (default)",
+        "text": "auto (default)",
         "crowdinContext": ""
     },
     "properties.canvas.dataPoints.show": {
-        "value": "show",
+        "text": "show",
         "crowdinContext": ""
     },
     "properties.canvas.dataPoints.hide": {
-        "value": "hide",
+        "text": "hide",
         "crowdinContext": ""
     },
     "properties.yaxis.title": {
-        "value": "Y-Axis",
+        "text": "Y-Axis",
         "crowdinContext": "Vertical axis of a plot."
     },
     "properties.axis.labels": {
-        "value": "labels",
+        "text": "labels",
         "crowdinContext": ""
     },
     "properties.axis.rotation": {
-        "value": "Rotation",
+        "text": "Rotation",
         "crowdinContext": ""
     },
     "properties.axis.format": {
-        "value": "Format",
+        "text": "Format",
         "crowdinContext": ""
     },
     "properties.axis.format.inherit": {
-        "value": "inherit",
+        "text": "inherit",
         "crowdinContext": "Axis format option to inherit formatting from used measure."
     },
     "properties.axis.format.info.inherit._measure|insight": {
-        "value": "The format is inherited from the first measure in the visualization.",
+        "text": "The format is inherited from the first measure in the visualization.",
         "crowdinContext": "Info text for axis format option."
     },
     "properties.axis.format.info.inherit._metric|insight": {
-        "value": "The format is inherited from the first metric in the visualization.",
+        "text": "The format is inherited from the first metric in the visualization.",
         "crowdinContext": "Info text for axis format option."
     },
     "properties.axis.format.info.inherit._measure|report": {
-        "value": "The format is inherited from the first measure in the report.",
+        "text": "The format is inherited from the first measure in the report.",
         "crowdinContext": "",
         "translate": false
     },
     "properties.axis.format.info.inherit._metric|report": {
-        "value": "The format is inherited from the first metric in the report.",
+        "text": "The format is inherited from the first metric in the report.",
         "crowdinContext": "",
         "translate": false
     },
     "properties.axis.name": {
-        "value": "name",
+        "text": "name",
         "crowdinContext": "Name of the axis of a chart"
     },
     "properties.axis.name.position": {
-        "value": "Position",
+        "text": "Position",
         "crowdinContext": "Position of the axis of a chart"
     },
     "properties.axis.name.position.left": {
-        "value": "left",
+        "text": "left",
         "crowdinContext": ""
     },
     "properties.axis.name.position.center": {
-        "value": "center",
+        "text": "center",
         "crowdinContext": "Horizontal center (between left and right)"
     },
     "properties.axis.name.position.right": {
-        "value": "right",
+        "text": "right",
         "crowdinContext": ""
     },
     "properties.axis.name.position.top": {
-        "value": "top",
+        "text": "top",
         "crowdinContext": ""
     },
     "properties.axis.name.position.middle": {
-        "value": "middle",
+        "text": "middle",
         "crowdinContext": "Vertical center (between top and bottom)"
     },
     "properties.axis.name.position.bottom": {
-        "value": "bottom",
+        "text": "bottom",
         "crowdinContext": ""
     },
     "properties.axis.min": {
-        "value": "Min",
+        "text": "Min",
         "crowdinContext": ""
     },
     "properties.axis.min.warning": {
-        "value": "Min value cannot be greater than max value",
+        "text": "Min value cannot be greater than max value",
         "crowdinContext": ""
     },
     "properties.axis.max": {
-        "value": "Max",
+        "text": "Max",
         "crowdinContext": ""
     },
     "properties.axis.max.warning": {
-        "value": "Max value cannot be smaller than min value",
+        "text": "Max value cannot be smaller than min value",
         "crowdinContext": ""
     },
     "properties.xaxis.title": {
-        "value": "X-Axis",
+        "text": "X-Axis",
         "crowdinContext": "Horizontal axis of a plot."
     },
     "properties.axis.scale": {
-        "value": "scale",
+        "text": "scale",
         "crowdinContext": ""
     },
     "properties.axis.left": {
-        "value": "Left",
+        "text": "Left",
         "crowdinContext": ""
     },
     "properties.axis.right": {
-        "value": "Right",
+        "text": "Right",
         "crowdinContext": ""
     },
     "properties.axis.top": {
-        "value": "Top",
+        "text": "Top",
         "crowdinContext": ""
     },
     "properties.axis.bottom": {
-        "value": "Bottom",
+        "text": "Bottom",
         "crowdinContext": ""
     },
     "properties.rotation.0": {
-        "value": "0°",
+        "text": "0°",
         "crowdinContext": ""
     },
     "properties.rotation.30": {
-        "value": "30°",
+        "text": "30°",
         "crowdinContext": ""
     },
     "properties.rotation.60": {
-        "value": "60°",
+        "text": "60°",
         "crowdinContext": ""
     },
     "properties.rotation.90": {
-        "value": "90°",
+        "text": "90°",
         "crowdinContext": ""
     },
     "properties.legend.position.up": {
-        "value": "top",
+        "text": "top",
         "crowdinContext": ""
     },
     "properties.legend.position.down": {
-        "value": "bottom",
+        "text": "bottom",
         "crowdinContext": ""
     },
     "properties.legend.position.right": {
-        "value": "right",
+        "text": "right",
         "crowdinContext": ""
     },
     "properties.legend.position.left": {
-        "value": "left",
+        "text": "left",
         "crowdinContext": ""
     },
     "properties.orientation.title": {
-        "value": "Orientation",
+        "text": "Orientation",
         "crowdinContext": "The title for the orientation configuration section"
     },
     "properties.orientation.horizontal": {
-        "value": "Horizontal (default)",
+        "text": "Horizontal (default)",
         "crowdinContext": "The chart orientation configuration"
     },
     "properties.orientation.vertical": {
-        "value": "Vertical",
+        "text": "Vertical",
         "crowdinContext": "The chart orientation configuration"
     },
     "properties.points.title": {
-        "value": "Points",
+        "text": "Points",
         "crowdinContext": "Points on map"
     },
     "properties.points.groupNearbyPoints": {
-        "value": "Group nearby points",
+        "text": "Group nearby points",
         "crowdinContext": ""
     },
     "properties.points.size.title": {
-        "value": "Point Size",
+        "text": "Point Size",
         "crowdinContext": "Size of a point on a map"
     },
     "properties.points.size.extra_small": {
-        "value": "0.5x",
+        "text": "0.5x",
         "crowdinContext": "Multiplicator of size of a point on map. Means 50% of size."
     },
     "properties.points.size.small": {
-        "value": "0.75x",
+        "text": "0.75x",
         "crowdinContext": "Multiplicator of size of a point on map. Means 75% of size."
     },
     "properties.points.size.normal": {
-        "value": "normal",
+        "text": "normal",
         "crowdinContext": "Multiplicator of size of a point on map. Means 100% of size."
     },
     "properties.points.size.large": {
-        "value": "1.25x",
+        "text": "1.25x",
         "crowdinContext": "Multiplicator of size of a point on map. Means 125% of size."
     },
     "properties.points.size.extra_large": {
-        "value": "1.5x",
+        "text": "1.5x",
         "crowdinContext": "Multiplicator of size of a point on map. Means 150% of size."
     },
     "properties.points.size.min.title": {
-        "value": "Smallest",
+        "text": "Smallest",
         "crowdinContext": "Smallest size of a point on a map"
     },
     "properties.points.size.max.title": {
-        "value": "Largest",
+        "text": "Largest",
         "crowdinContext": "Largest size of a point on a map"
     },
     "properties.map.title": {
-        "value": "Map",
+        "text": "Map",
         "crowdinContext": "Map configuration"
     },
     "properties.viewport.area.title": {
-        "value": "Default viewport",
+        "text": "Default viewport",
         "crowdinContext": "Default viewport configuration"
     },
     "properties.viewport.area.auto_default": {
-        "value": "Include all data",
+        "text": "Include all data",
         "crowdinContext": "All data will be visibled on the map"
     },
     "properties.viewport.area.continents": {
-        "value": "continents",
+        "text": "continents",
         "crowdinContext": ""
     },
     "properties.viewport.area.continent_af": {
-        "value": "Africa",
+        "text": "Africa",
         "crowdinContext": "Continent Africa"
     },
     "properties.viewport.area.continent_as": {
-        "value": "Asia",
+        "text": "Asia",
         "crowdinContext": "Continent Asia"
     },
     "properties.viewport.area.continent_au": {
-        "value": "Australia",
+        "text": "Australia",
         "crowdinContext": "Continent Australia"
     },
     "properties.viewport.area.continent_eu": {
-        "value": "Europe",
+        "text": "Europe",
         "crowdinContext": "Continent Europe"
     },
     "properties.viewport.area.continent_na": {
-        "value": "America (North)",
+        "text": "America (North)",
         "crowdinContext": "Continent North America"
     },
     "properties.viewport.area.continent_sa": {
-        "value": "America (South)",
+        "text": "America (South)",
         "crowdinContext": "Continent South America"
     },
     "properties.viewport.area.world": {
-        "value": "World",
+        "text": "World",
         "crowdinContext": ""
     },
     "gs.color-dropdown.custom-color": {
-        "value": "Custom color",
+        "text": "Custom color",
         "crowdinContext": ""
     },
     "properties.colors.reset-colors": {
-        "value": "Reset Colors",
+        "text": "Reset Colors",
         "crowdinContext": ""
     },
     "properties.colors": {
-        "value": "Colors",
+        "text": "Colors",
         "crowdinContext": ""
     },
     "properties.colors.unsupported|insight": {
-        "value": "There are no colors for this configuration of the visualization",
+        "text": "There are no colors for this configuration of the visualization",
         "crowdinContext": ""
     },
     "properties.colors.unsupported|report": {
-        "value": "There are no colors for this configuration of the report",
+        "text": "There are no colors for this configuration of the report",
         "crowdinContext": "",
         "translate": false
     },
     "export_unsupported.colors|insight": {
-        "value": "The visualization is not compatible with custom colors. To open the visualization as a report, click Reset Colors in Configuration —> Colors.",
+        "text": "The visualization is not compatible with custom colors. To open the visualization as a report, click Reset Colors in Configuration —> Colors.",
         "crowdinContext": ""
     },
     "export_unsupported.colors|report": {
-        "value": "The report is not compatible with custom colors. Click Reset Colors in Configuration —> Colors.",
+        "text": "The report is not compatible with custom colors. Click Reset Colors in Configuration —> Colors.",
         "crowdinContext": "",
         "translate": false
     },
     "dashboard.bucket.measures_title.bullet._measure": {
-        "value": "Measure",
+        "text": "Measure",
         "crowdinContext": ""
     },
     "dashboard.bucket.measures_title.bullet._metric": {
-        "value": "Metric",
+        "text": "Metric",
         "crowdinContext": ""
     },
     "dashboard.bucket.secondary_measures_title.bullet._measure": {
-        "value": "Measure",
+        "text": "Measure",
         "crowdinContext": ""
     },
     "dashboard.bucket.secondary_measures_title.bullet._metric": {
-        "value": "Metric",
+        "text": "Metric",
         "crowdinContext": ""
     },
     "dashboard.bucket.tertiary_measures_title.bullet._measure": {
-        "value": "Measure",
+        "text": "Measure",
         "crowdinContext": ""
     },
     "dashboard.bucket.tertiary_measures_title.bullet._metric": {
-        "value": "Metric",
+        "text": "Metric",
         "crowdinContext": ""
     },
     "dashboard.bucket.measures_subtitle.bullet": {
-        "value": "Primary",
+        "text": "Primary",
         "crowdinContext": "Primary measure of a bullet chart."
     },
     "dashboard.bucket.secondary_measures_subtitle.bullet": {
-        "value": "Target",
+        "text": "Target",
         "crowdinContext": "Target of a bullet chart."
     },
     "dashboard.bucket.tertiary_measures_subtitle.bullet": {
-        "value": "Comparative",
+        "text": "Comparative",
         "crowdinContext": "Comparative measures of a bullet chart"
     },
     "sorting.disabled.explanation.attribute|insight": {
-        "value": "Sorting is not possible for this visualization configuration.",
+        "text": "Sorting is not possible for this visualization configuration.",
         "crowdinContext": "Explains why sort button is disabled. Shown as tooltip"
     },
     "sorting.disabled.explanation.attribute|report": {
-        "value": "Sorting is not possible for this report configuration.",
+        "text": "Sorting is not possible for this report configuration.",
         "crowdinContext": "Explains why sort button is disabled. Shown as tooltip",
         "translate": false
     },
     "sorting.disabled.explanation.measure._measure|insight": {
-        "value": "You must add at least one attribute to sort the visualization. You can also adjust the position of items in the Measures section to change their position in the visualization.",
+        "text": "You must add at least one attribute to sort the visualization. You can also adjust the position of items in the Measures section to change their position in the visualization.",
         "crowdinContext": "Explains why sort button is disabled. Shown as tooltip"
     },
     "sorting.disabled.explanation.measure._measure|report": {
-        "value": "You must add at least one attribute to sort the report. You can also adjust the position of items in the Measures section to change their position in the report.",
+        "text": "You must add at least one attribute to sort the report. You can also adjust the position of items in the Measures section to change their position in the report.",
         "crowdinContext": "Explains why sort button is disabled. Shown as tooltip",
         "translate": false
     },
     "sorting.disabled.explanation.measure._metric|insight": {
-        "value": "You must add at least one attribute to sort the visualization. You can also adjust the position of items in the Metrics section to change their position in the visualization.",
+        "text": "You must add at least one attribute to sort the visualization. You can also adjust the position of items in the Metrics section to change their position in the visualization.",
         "crowdinContext": "Explains why sort button is disabled. Shown as tooltip"
     },
     "sorting.disabled.explanation.measure._metric|report": {
-        "value": "You must add at least one attribute to sort the report. You can also adjust the position of items in the Metrics section to change their position in the report.",
+        "text": "You must add at least one attribute to sort the report. You can also adjust the position of items in the Metrics section to change their position in the report.",
         "crowdinContext": "Explains why sort button is disabled. Shown as tooltip",
         "translate": false
     },
     "properties.metrics.title._measure": {
-        "value": "Measures",
+        "text": "Measures",
         "crowdinContext": ""
     },
     "properties.metrics.title._metric": {
-        "value": "Metrics",
+        "text": "Metrics",
         "crowdinContext": ""
     },
     "properties.metrics.position": {
-        "value": "Position",
+        "text": "Position",
         "crowdinContext": ""
     },
     "properties.metrics.position.columns": {
-        "value": "columns (default)",
+        "text": "columns (default)",
         "crowdinContext": ""
     },
     "properties.metrics.position.rows": {
-        "value": "rows",
+        "text": "rows",
         "crowdinContext": ""
     },
     "properties.column.headers.title": {
-        "value": "Column Headers",
+        "text": "Column Headers",
         "crowdinContext": ""
     },
     "properties.column.headers.position": {
-        "value": "Position",
+        "text": "Position",
         "crowdinContext": ""
     },
     "properties.column.headers.position.top": {
-        "value": "top (default)",
+        "text": "top (default)",
         "crowdinContext": ""
     },
     "properties.column.headers.position.left": {
-        "value": "left",
+        "text": "left",
         "crowdinContext": ""
     },
     "dashboard.bucket.table.subtitle.columns": {
-        "value": "in columns",
+        "text": "in columns",
         "crowdinContext": ""
     },
     "dashboard.bucket.table.subtitle.rows": {
-        "value": "in rows",
+        "text": "in rows",
         "crowdinContext": ""
     },
     "properties.interactions.title": {
-        "value": "Interactions",
+        "text": "Interactions",
         "crowdinContext": "The title for the interactions configuration section"
     },
     "properties.advanced.title": {
-        "value": "Advanced customizations",
+        "text": "Advanced customizations",
         "crowdinContext": "The title for the advanced configuration section"
     },
     "properties.advanced.chartConfigOverride.noValueLabel": {
-        "value": "No customizations yet.",
+        "text": "No customizations yet.",
         "crowdinContext": "Text show when user did not define any customization yet."
     },
     "properties.advanced.chartConfigOverride.link": {
-        "value": "Learn more",
+        "text": "Learn more",
         "crowdinContext": "Text of link that leads to feature documentation."
     },
     "properties.advanced.chartConfigOverride.editorButton": {
-        "value": "Open editor",
+        "text": "Open editor",
         "crowdinContext": "Text of button that opens editor of configuration."
     },
     "properties.advanced.chartConfigOverride.title": {
-        "value": "Advanced customization",
+        "text": "Advanced customization",
         "crowdinContext": "Text of dialog that defines advanced customization of visualization."
     },
     "properties.advanced.chartConfigOverride.snippets.header": {
-        "value": "Snippets",
+        "text": "Snippets",
         "crowdinContext": "The header of list that contains snippets (recipes) of various charts configurations."
     },
     "properties.advanced.chartConfigOverride.button.apply": {
-        "value": "Apply",
+        "text": "Apply",
         "crowdinContext": "The label of button in dialog that applies the dialog value."
     },
     "properties.advanced.chartConfigOverride.button.cancel": {
-        "value": "Cancel",
+        "text": "Cancel",
         "crowdinContext": "The label of button in dialog that closes the dialog."
     },
     "properties.interactions.drillDown": {
-        "value": "Drill down",
+        "text": "Drill down",
         "crowdinContext": "The text for the drill down checkbox"
     },
     "properties.interactions.alerts": {
-        "value": "Alert",
+        "text": "Alert",
         "crowdinContext": "Label of the checkbox that enables/disables alerts configuration for particular visualization."
     },
     "properties.interactions.alerts.tooltip": {
-        "value": "Enable users to create alerts for this visualization on dashboards.",
+        "text": "Enable users to create alerts for this visualization on dashboards.",
         "crowdinContext": "Tooltip for the checkbox that enables/disables alerts configuration for particular visualization."
     },
     "properties.interactions.scheduledExports": {
-        "value": "Scheduled exports",
+        "text": "Scheduled exports",
         "crowdinContext": "Label of the checkbox that enables/disables scheduled exports configuration for particular visualization."
     },
     "properties.interactions.scheduledExports.tooltip": {
-        "value": "Enable users to create scheduled exports for this visualization on dashboards.",
+        "text": "Enable users to create scheduled exports for this visualization on dashboards.",
         "crowdinContext": "Tooltip for the checkbox that enables/disables scheduled exports configuration for particular visualization."
     },
     "properties.comparison.title": {
-        "value": "Comparison",
+        "text": "Comparison",
         "crowdinContext": "The title of comparison section"
     },
     "properties.comparison.calculationType.title": {
-        "value": "Calculated as",
+        "text": "Calculated as",
         "crowdinContext": "The label of calculation type dropdown"
     },
     "properties.comparison.calculationType.as.change": {
-        "value": "Change",
+        "text": "Change",
         "crowdinContext": "The title of the dropdown option that specifies the arithmetic operation to calculate the change between two values."
     },
     "properties.comparison.calculationType.as.ratio": {
-        "value": "Ratio",
+        "text": "Ratio",
         "crowdinContext": "The title of the dropdown option that specifies the arithmetic operation to calculate the ratio between two values."
     },
     "properties.comparison.calculationType.as.difference": {
-        "value": "Difference",
+        "text": "Difference",
         "crowdinContext": "The title of the dropdown option that specifies the arithmetic operation to calculate the difference between two values."
     },
     "properties.comparison.calculationType.as.changeDifference": {
-        "value": "Change (difference)",
+        "text": "Change (difference)",
         "crowdinContext": "The title of the dropdown option that specifies the arithmetic operation to calculate the change and difference between two values."
     },
     "properties.comparison.calculationType.as.change.tooltip.useIn._metric": {
-        "value": "Calculates the relative change between primary and secondary metric values.",
+        "text": "Calculates the relative change between primary and secondary metric values.",
         "crowdinContext": "The content describes the pertinent scenarios for the change calculation."
     },
     "properties.comparison.calculationType.as.change.tooltip.useIn._measure": {
-        "value": "Calculates the relative change between primary and secondary measure values.",
+        "text": "Calculates the relative change between primary and secondary measure values.",
         "crowdinContext": "The content describes the pertinent scenarios for the change calculation."
     },
     "properties.comparison.calculationType.as.ratio.tooltip.useIn._metric": {
-        "value": "Quantifies the share of the primary metric value in the secondary metric value.",
+        "text": "Quantifies the share of the primary metric value in the secondary metric value.",
         "crowdinContext": "The content describes the pertinent scenarios for the ratio calculation."
     },
     "properties.comparison.calculationType.as.ratio.tooltip.useIn._measure": {
-        "value": "Quantifies the share of the primary measure value in the secondary measure value.",
+        "text": "Quantifies the share of the primary measure value in the secondary measure value.",
         "crowdinContext": "The content describes the pertinent scenarios for the ratio calculation."
     },
     "properties.comparison.calculationType.as.difference.tooltip.useIn._metric": {
-        "value": "Calculates the absolute difference between primary and secondary metric values.",
+        "text": "Calculates the absolute difference between primary and secondary metric values.",
         "crowdinContext": "The content describes the pertinent scenarios for the difference calculation."
     },
     "properties.comparison.calculationType.as.difference.tooltip.useIn._measure": {
-        "value": "Calculates the absolute difference between primary and secondary measure values.",
+        "text": "Calculates the absolute difference between primary and secondary measure values.",
         "crowdinContext": "The content describes the pertinent scenarios for the difference calculation."
     },
     "properties.comparison.calculationType.as.changeDifference.tooltip.useIn._metric": {
-        "value": "Calculates both the relative change and absolute difference between primary and secondary metric values.",
+        "text": "Calculates both the relative change and absolute difference between primary and secondary metric values.",
         "crowdinContext": "The content describes the pertinent scenarios for the change (difference) calculation."
     },
     "properties.comparison.calculationType.as.changeDifference.tooltip.useIn._measure": {
-        "value": "Calculates both the relative change and absolute difference between primary and secondary measure values.",
+        "text": "Calculates both the relative change and absolute difference between primary and secondary measure values.",
         "crowdinContext": "The content describes the pertinent scenarios for the change (difference) calculation."
     },
     "properties.comparison.calculationType.tooltip.formula.section": {
-        "value": "Formula",
+        "text": "Formula",
         "crowdinContext": "The title of the section that describes the formula for the calculation"
     },
     "properties.comparison.calculationType.tooltip.formulaChange.section": {
-        "value": "Formula (relative change)",
+        "text": "Formula (relative change)",
         "crowdinContext": "The title of the section that describes the formula for the change calculation"
     },
     "properties.comparison.calculationType.tooltip.formulaDifference.section": {
-        "value": "Formula (absolute difference)",
+        "text": "Formula (absolute difference)",
         "crowdinContext": "The title of the section that describes the formula for the difference calculation"
     },
     "properties.comparison.calculationType.as.change.tooltip.formula": {
-        "value": "(Primary - Secondary) / Secondary",
+        "text": "(Primary - Secondary) / Secondary",
         "crowdinContext": "The content describes the formula of the change calculation."
     },
     "properties.comparison.calculationType.as.ratio.tooltip.formula": {
-        "value": "Primary / Secondary",
+        "text": "Primary / Secondary",
         "crowdinContext": "The content describes the formula of the ratio calculation."
     },
     "properties.comparison.calculationType.as.difference.tooltip.formula": {
-        "value": "Primary - Secondary",
+        "text": "Primary - Secondary",
         "crowdinContext": "The content describes the formula of the difference calculation."
     },
     "properties.comparison.calculationType.tooltip.example.section": {
-        "value": "Example",
+        "text": "Example",
         "crowdinContext": "The title of the section that provides an example for the calculation"
     },
     "properties.comparison.calculationType.as.change.tooltip.example": {
-        "value": "Year-over-year sales change = (the current year's sales - the previous year's sales) / the previous year's sales",
+        "text": "Year-over-year sales change = (the current year's sales - the previous year's sales) / the previous year's sales",
         "crowdinContext": "The example illustrating the change calculation."
     },
     "properties.comparison.calculationType.as.ratio.tooltip.example": {
-        "value": "Current sales compared to a quota = current sales / quota",
+        "text": "Current sales compared to a quota = current sales / quota",
         "crowdinContext": "The example illustrating the ratio calculation."
     },
     "properties.comparison.calculationType.as.difference.tooltip.example": {
-        "value": "Year-over-year sales difference = the current year's sales - the previous year's sales",
+        "text": "Year-over-year sales difference = the current year's sales - the previous year's sales",
         "crowdinContext": "The example illustrating the difference calculation."
     },
     "properties.comparison.calculationType.as.changeDifference.tooltip.example": {
-        "value": "Year-over-year sales change = [(the current year's sales - the previous year's sales) / the previous year's sales] AND [the current year's sales - the previous year's sales]",
+        "text": "Year-over-year sales change = [(the current year's sales - the previous year's sales) / the previous year's sales] AND [the current year's sales - the previous year's sales]",
         "crowdinContext": "The example illustrating the change (difference) calculation."
     },
     "properties.comparison.measureNumber.format.preset.inherit": {
-        "value": "Inherit",
+        "text": "Inherit",
         "crowdinContext": "An item in list of formatting presets. Means: use inherited measure format"
     },
     "properties.comparison.measureNumber.format.preset.rounded": {
-        "value": "Rounded",
+        "text": "Rounded",
         "crowdinContext": "An item in list of formatting presets. Whole number without decimal numbers."
     },
     "properties.comparison.measureNumber.format.preset.decimal1": {
-        "value": "Decimal (1)",
+        "text": "Decimal (1)",
         "crowdinContext": "An item in list of formatting presets. Decimal number measure format with one decimal number."
     },
     "properties.comparison.measureNumber.format.preset.decimal2": {
-        "value": "Decimal (2)",
+        "text": "Decimal (2)",
         "crowdinContext": "An item in list of formatting presets. Decimal number measure format with two decimal numbers."
     },
     "properties.comparison.measureNumber.format.preset.percentRounded": {
-        "value": "Percent (rounded)",
+        "text": "Percent (rounded)",
         "crowdinContext": "An item in list of formatting presets. Whole number without decimal numbers and with % sign at the end."
     },
     "properties.comparison.measureNumber.format.preset.percent1": {
-        "value": "Percent (1)",
+        "text": "Percent (1)",
         "crowdinContext": "An item in list of formatting presets. Decimal number with one decimal number and % sign at the end."
     },
     "properties.comparison.measureNumber.format.preset.percent2": {
-        "value": "Percent (2)",
+        "text": "Percent (2)",
         "crowdinContext": "An item in list of formatting presets. Decimal number with two decimal numbers and % sign at the end."
     },
     "properties.comparison.measureNumber.format.template.rounded": {
-        "value": "Rounded",
+        "text": "Rounded",
         "crowdinContext": "An item in list of formatting templates. Whole number without decimal numbers."
     },
     "properties.comparison.measureNumber.format.template.decimal1": {
-        "value": "Decimal (1)",
+        "text": "Decimal (1)",
         "crowdinContext": "An item in list of formatting templates. Decimal number measure format with one decimal number."
     },
     "properties.comparison.measureNumber.format.template.decimal2": {
-        "value": "Decimal (2)",
+        "text": "Decimal (2)",
         "crowdinContext": "An item in list of formatting templates. Decimal number measure format with two decimal numbers."
     },
     "properties.comparison.measureNumber.format.template.percentRounded": {
-        "value": "Percent (rounded)",
+        "text": "Percent (rounded)",
         "crowdinContext": "An item in list of formatting templates. Whole number without decimal numbers and with % sign at the end."
     },
     "properties.comparison.measureNumber.format.template.percent1": {
-        "value": "Percent (1)",
+        "text": "Percent (1)",
         "crowdinContext": "An item in list of formatting templates. Decimal number with one decimal number and % sign at the end."
     },
     "properties.comparison.measureNumber.format.template.percent2": {
-        "value": "Percent (2)",
+        "text": "Percent (2)",
         "crowdinContext": "An item in list of formatting templates. Decimal number with two decimal numbers and % sign at the end."
     },
     "properties.comparison.measureNumber.format.template.currency": {
-        "value": "Currency",
+        "text": "Currency",
         "crowdinContext": "An item in list of formatting templates. Number with currency sign."
     },
     "properties.comparison.measureNumber.format.template.currencyShortened": {
-        "value": "Currency shortened",
+        "text": "Currency shortened",
         "crowdinContext": "An item in list of formatting templates. Number with currency sign shortened with K, M, B and T characters."
     },
     "properties.comparison.measureNumber.format.template.largeNumbersShortened": {
-        "value": "Large numbers shortened",
+        "text": "Large numbers shortened",
         "crowdinContext": "An item in list of formatting templates. Number shortened with K, M, B and T characters."
     },
     "properties.comparison.measureNumber.format.template.largeNumbersShortenedWithColors": {
-        "value": "Large numbers shortened with colors",
+        "text": "Large numbers shortened with colors",
         "crowdinContext": "An item in list of formatting templates. Colored number shortened with K, M, B and T characters."
     },
     "properties.comparison.measureNumber.format.template.negativeNumbersRed": {
-        "value": "Negative numbers in red",
+        "text": "Negative numbers in red",
         "crowdinContext": "An item in list of formatting templates. Number is formatted in red color if negative."
     },
     "properties.comparison.measureNumber.format.template.financial": {
-        "value": "Financial",
+        "text": "Financial",
         "crowdinContext": "An item in list of formatting templates. Number is in brackets if negative."
     },
     "properties.comparison.measureNumber.format.template.decimalWithoutThousandsSeparator": {
-        "value": "Decimal (2) without thousands separator",
+        "text": "Decimal (2) without thousands separator",
         "crowdinContext": "An item in list of formatting templates."
     },
     "properties.comparison.measureNumber.format.template.conditionalColors": {
-        "value": "Conditional colors",
+        "text": "Conditional colors",
         "crowdinContext": "An item in list of formatting templates. Numbers is formatted in different colors based on its value."
     },
     "properties.comparison.measureNumber.format.template.trendSymbols": {
-        "value": "Trend symbols",
+        "text": "Trend symbols",
         "crowdinContext": "An item in list of formatting templates. Numbers is formatted in different colors prefixed with arrow symbol based on its value."
     },
     "properties.comparison.measureNumber.format.template.timeFromSeconds": {
-        "value": "Time (from seconds)",
+        "text": "Time (from seconds)",
         "crowdinContext": "An item in list of formatting templates. Seconds are formatted properly in hours, minutes and seconds."
     },
     "properties.comparison.measureNumber.format.template.zeroInsteadOfNull": {
-        "value": "Zero instead of blank value",
+        "text": "Zero instead of blank value",
         "crowdinContext": "An item in list of formatting templates. Null value is replaced with 0."
     },
     "properties.comparison.valueSubSection.title": {
-        "value": "Value",
+        "text": "Value",
         "crowdinContext": "The label of comparison value sub section."
     },
     "properties.comparison.format.title": {
-        "value": "Format",
+        "text": "Format",
         "crowdinContext": "The label of comparison format control."
     },
     "properties.comparison.subFormat.title": {
-        "value": "(Format)",
+        "text": "(Format)",
         "crowdinContext": "The label of comparison sub format control."
     },
     "properties.comparison.indicator.title": {
-        "value": "Indicator",
+        "text": "Indicator",
         "crowdinContext": "The label of comparison indicator sub section"
     },
     "properties.comparison.indicator.arrow.title": {
-        "value": "Arrow",
+        "text": "Arrow",
         "crowdinContext": "The label of the checkbox that controls whether to use the arrow indicator or not."
     },
     "properties.comparison.indicator.colorConfig.title": {
-        "value": "Color",
+        "text": "Color",
         "crowdinContext": "The label of the checkbox that controls whether to use the color or not."
     },
     "properties.comparison.indicator.colorConfig.equals": {
-        "value": "Primary = Secondary",
+        "text": "Primary = Secondary",
         "crowdinContext": "The label of the color item will be set when the primary value is equal to the secondary value."
     },
     "properties.comparison.indicator.colorConfig.positive": {
-        "value": "Primary > Secondary",
+        "text": "Primary > Secondary",
         "crowdinContext": "The label of the color item will be set when the primary value is greater than the secondary value."
     },
     "properties.comparison.indicator.colorConfig.negative": {
-        "value": "Primary < Secondary",
+        "text": "Primary < Secondary",
         "crowdinContext": "The label of the color item will be set when the primary value is less than the secondary value."
     },
     "properties.comparison.labelSubSection.title": {
-        "value": "Label",
+        "text": "Label",
         "crowdinContext": "The label of comparison label sub section."
     },
     "properties.comparison.labelSubSection.positionOnTop.disabled": {
-        "value": "Labels not applicable for value position top.",
+        "text": "Labels not applicable for value position top.",
         "crowdinContext": "Disable tooltip message when the comparison position is set to top."
     },
     "properties.comparison.labelSubSection.conditional.disabled": {
-        "value": "Conditional labels are not applicable to ratio calculations.",
+        "text": "Conditional labels are not applicable to ratio calculations.",
         "crowdinContext": "Disable tooltip message when the calculation is ratio."
     },
     "properties.comparison.labelName.title": {
-        "value": "Name",
+        "text": "Name",
         "crowdinContext": "The label of name input control."
     },
     "properties.comparison.labelConditional.title": {
-        "value": "Conditional",
+        "text": "Conditional",
         "crowdinContext": "The label of conditional checkbox control."
     },
     "properties.comparison.labelPositive.title": {
-        "value": "Primary > Secondary",
+        "text": "Primary > Secondary",
         "crowdinContext": "The label of the input control will be set when the primary value is greater than the secondary value."
     },
     "properties.comparison.labelNegative.title": {
-        "value": "Primary < Secondary",
+        "text": "Primary < Secondary",
         "crowdinContext": "The label of the input control will be set when the primary value is less than the secondary value."
     },
     "properties.comparison.labelEquals.title": {
-        "value": "Primary = Secondary",
+        "text": "Primary = Secondary",
         "crowdinContext": "The label of the input control will be set when the primary value is equal the secondary value."
     },
     "properties.comparison.position.title": {
-        "value": "Position",
+        "text": "Position",
         "crowdinContext": "The label of comparison position control."
     },
     "properties.comparison.position.top": {
-        "value": "top",
+        "text": "top",
         "crowdinContext": "The title of dropdown option that specifies the position of comparison to be on top."
     },
     "properties.comparison.position.right": {
-        "value": "right",
+        "text": "right",
         "crowdinContext": "The title of dropdown option that specifies the position of comparison to be on right."
     },
     "properties.comparison.position.left": {
-        "value": "left",
+        "text": "left",
         "crowdinContext": "The title of dropdown option that specifies the position of comparison to be on left."
     },
     "visualizations.headline.tertiary.title": {
-        "value": "Versus",
+        "text": "Versus",
         "crowdinContext": "Means comparison of two values - for example '100 (this week) VERSUS 10 (last week)'."
     },
     "gs.date.yesterday": {
-        "value": "Yesterday",
+        "text": "Yesterday",
         "crowdinContext": ""
     },
     "notifications.panel.button.label": {
-        "value": "Notifications",
+        "text": "Notifications",
         "crowdinContext": "A global notifications button label in the main menu"
     },
     "notifications.panel.notifications.list.label": {
-        "value": "Notifications",
+        "text": "Notifications",
         "crowdinContext": ""
     },
     "notifications.panel.tab.unread": {
-        "value": "Unread ({count})",
+        "text": "Unread ({count})",
         "crowdinContext": ""
     },
     "notifications.panel.tab.all": {
-        "value": "All",
+        "text": "All",
         "crowdinContext": ""
     },
     "notifications.panel.markAllAsRead": {
-        "value": "Mark all as read",
+        "text": "Mark all as read",
         "crowdinContext": ""
     },
     "notifications.panel.error.loading": {
-        "value": "Error loading notifications",
+        "text": "Error loading notifications",
         "crowdinContext": ""
     },
     "notifications.panel.empty.all": {
-        "value": "No notifications",
+        "text": "No notifications",
         "crowdinContext": ""
     },
     "notifications.panel.empty.unread": {
-        "value": "No unread notifications",
+        "text": "No unread notifications",
         "crowdinContext": ""
     },
     "notifications.panel.unsupported.notification.type": {
-        "value": "Unsupported notification type",
+        "text": "Unsupported notification type",
         "crowdinContext": ""
     },
     "notifications.panel.markAsRead": {
-        "value": "Mark as read",
+        "text": "Mark as read",
         "crowdinContext": ""
     },
     "notifications.panel.alert.notification.type.label": {
-        "value": "Alert notification",
+        "text": "Alert notification",
         "crowdinContext": ""
     },
     "notifications.filters.buttonLabel": {
-        "value": "Show filters",
+        "text": "Show filters",
         "crowdinContext": ""
     },
     "notifications.filters.dialog.title": {
-        "value": "Applied filters",
+        "text": "Applied filters",
         "crowdinContext": ""
     },
     "notifications.filters.dialog.dateRange": {
-        "value": "Date Range",
+        "text": "Date Range",
         "crowdinContext": ""
     },
     "notifications.panel.triggers.title": {
-        "value": "for {triggeredCount}/{totalCount} items",
+        "text": "for {triggeredCount}/{totalCount} items",
         "crowdinContext": ""
     },
     "notifications.panel.triggers.dialog.newValue": {
-        "value": "New value",
+        "text": "New value",
         "crowdinContext": ""
     },
     "close": {
-        "value": "Close",
+        "text": "Close",
         "crowdinContext": "Label of a button for closing a dialog window"
     },
     "notifications.panel.triggers.dialog.title": {
-        "value": "Triggered for",
+        "text": "Triggered for",
         "crowdinContext": ""
     },
     "notifications.panel.error.learnMore": {
-        "value": "Learn more",
+        "text": "Learn more",
         "crowdinContext": ""
     },
     "notifications.panel.error.traceId": {
-        "value": "Trace ID",
+        "text": "Trace ID",
         "crowdinContext": ""
     },
     "notifications.panel.error.message": {
-        "value": "The alert could not be processed.",
+        "text": "The alert could not be processed.",
         "crowdinContext": ""
     }
 }
