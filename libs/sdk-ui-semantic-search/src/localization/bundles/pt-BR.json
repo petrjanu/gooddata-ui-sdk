@@ -1,14 +1,14 @@
 {
-    "semantic-search.error.title.value": "Nosso serviço de pesquisa está temporariamente fora do ar.",
-    "semantic-search.error.text.value": "Estamos trabalhando para resolver o problema.",
-    "semantic-search.no-results.value": "Nenhum resultado encontrado para ”{query}”.",
-    "semantic-search.label.value": "Pesquisar painéis ou visualização",
-    "semantic-search.placeholder.value": "Pesquisar painéis ou visualizações…",
-    "semantic-search.id.value": "ID",
-    "semantic-search.tags.value": "Tags",
-    "semantic-search.match.value": "{score}% de correspondência",
-    "semantic-search.previous-search.value": "Pesquisa anterior",
-    "semantic-search.date.at.value": "em",
-    "gs.date.today.value": "Hoje",
-    "gs.date.yesterday.value": "Ontem"
+    "semantic-search.error.title.text": "Our search service is temporarily down.",
+    "semantic-search.error.text.text": "We are working to resolve the issue.",
+    "semantic-search.no-results.text": "No results found for “{query}”.",
+    "semantic-search.label.text": "Search dashboards or visualization",
+    "semantic-search.placeholder.text": "Search dashboards or visualization…",
+    "semantic-search.id.text": "ID",
+    "semantic-search.tags.text": "Tags",
+    "semantic-search.match.text": "{score}% match",
+    "semantic-search.previous-search.text": "Previous search",
+    "semantic-search.date.at.text": "at",
+    "gs.date.today.text": "Today",
+    "gs.date.yesterday.text": "Yesterday"
 }
