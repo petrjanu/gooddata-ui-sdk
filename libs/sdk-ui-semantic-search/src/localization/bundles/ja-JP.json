@@ -1,14 +1,14 @@
 {
-    "semantic-search.error.title.value": "検索サービスが一時的に停止しています。",
-    "semantic-search.error.text.value": "私たちはこの問題の解決に取り組んでいます。",
-    "semantic-search.no-results.value": "「{query}」の結果は見つかりませんでした。",
-    "semantic-search.label.value": "ダッシュボードまたはビジュアライゼーションを検索",
-    "semantic-search.placeholder.value": "ダッシュボードまたはビジュアライゼーションを検索…",
-    "semantic-search.id.value": "ID",
-    "semantic-search.tags.value": "タグ",
-    "semantic-search.match.value": "{score}％マッチ",
-    "semantic-search.previous-search.value": "過去の検索",
-    "semantic-search.date.at.value": "の時刻",
-    "gs.date.today.value": "今日",
-    "gs.date.yesterday.value": "昨日"
+    "semantic-search.error.title.text": "Our search service is temporarily down.",
+    "semantic-search.error.text.text": "We are working to resolve the issue.",
+    "semantic-search.no-results.text": "No results found for “{query}”.",
+    "semantic-search.label.text": "Search dashboards or visualization",
+    "semantic-search.placeholder.text": "Search dashboards or visualization…",
+    "semantic-search.id.text": "ID",
+    "semantic-search.tags.text": "Tags",
+    "semantic-search.match.text": "{score}% match",
+    "semantic-search.previous-search.text": "Previous search",
+    "semantic-search.date.at.text": "at",
+    "gs.date.today.text": "Today",
+    "gs.date.yesterday.text": "Yesterday"
 }
