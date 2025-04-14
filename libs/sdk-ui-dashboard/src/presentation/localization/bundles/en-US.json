@@ -1,8 +1,4 @@
 {
-    "test-string-1": {
-        "value": "Cancel all tasks",
-        "crowdinContext": "comment"
-    },
     "loading": {
         "value": "Loading…",
         "crowdinContext": "Use '…' as one character, not 3 dots ('...')."
