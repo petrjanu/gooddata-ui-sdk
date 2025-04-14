@@ -1,14 +1,14 @@
 {
-    "semantic-search.error.title": "Unser Suchdienst ist vorübergehend nicht verfügbar.",
-    "semantic-search.error.text": "Wir arbeiten daran, das Problem zu lösen.",
-    "semantic-search.no-results": "Keine Ergebnisse für „{query}“ gefunden.",
-    "semantic-search.placeholder": "Dashboards oder Visualisierung durchsuchen…",
-    "semantic-search.id": "ID",
-    "semantic-search.tags": "Tags",
-    "semantic-search.match": "{score}% Übereinstimmung",
-    "semantic-search.previous-search": "Vorherige Suche",
-    "semantic-search.date.at": "um",
-    "gs.date.today": "Heute",
-    "gs.date.yesterday": "Gestern",
-    "semantic-search.label": "Dashboards oder Visualisierung durchsuchen"
+    "semantic-search.error.title.value": "Unser Suchdienst ist vorübergehend nicht verfügbar.",
+    "semantic-search.error.text.value": "Wir arbeiten daran, das Problem zu lösen.",
+    "semantic-search.no-results.value": "Keine Ergebnisse für „{query}“ gefunden.",
+    "semantic-search.label.value": "Dashboards oder Visualisierung durchsuchen",
+    "semantic-search.placeholder.value": "Dashboards oder Visualisierung durchsuchen…",
+    "semantic-search.id.value": "ID",
+    "semantic-search.tags.value": "Tags",
+    "semantic-search.match.value": "{score}% Übereinstimmung",
+    "semantic-search.previous-search.value": "Vorherige Suche",
+    "semantic-search.date.at.value": "um",
+    "gs.date.today.value": "Heute",
+    "gs.date.yesterday.value": "Gestern"
 }
