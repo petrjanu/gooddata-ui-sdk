@@ -1,14 +1,14 @@
 {
-    "semantic-search.error.title.value": "Notre service de recherche est temporairement indisponible.",
-    "semantic-search.error.text.value": "Nous nous efforçons de résoudre ce problème.",
-    "semantic-search.no-results.value": "Aucun résultat trouvé pour ”{query}”.",
-    "semantic-search.label.value": "Recherche de tableaux de bord ou de visualisation",
-    "semantic-search.placeholder.value": "Recherche de tableaux de bord ou de visualisation…",
-    "semantic-search.id.value": "ID",
-    "semantic-search.tags.value": "Balises",
-    "semantic-search.match.value": "{score}% de correspondance",
-    "semantic-search.previous-search.value": "Recherche précédente",
-    "semantic-search.date.at.value": "à",
-    "gs.date.today.value": "Aujourd’hui",
-    "gs.date.yesterday.value": "Hier"
+    "semantic-search.error.title.text": "Notre service de recherche est temporairement indisponible.",
+    "semantic-search.error.text.text": "Nous nous efforçons de résoudre ce problème.",
+    "semantic-search.no-results.text": "Aucun résultat trouvé pour ”{query}”.",
+    "semantic-search.label.text": "Recherche de tableaux de bord ou de visualisation",
+    "semantic-search.placeholder.text": "Recherche de tableaux de bord ou de visualisation…",
+    "semantic-search.id.text": "ID",
+    "semantic-search.tags.text": "Balises",
+    "semantic-search.match.text": "{score}% de correspondance",
+    "semantic-search.previous-search.text": "Recherche précédente",
+    "semantic-search.date.at.text": "à",
+    "gs.date.today.text": "Aujourd’hui",
+    "gs.date.yesterday.text": "Hier"
 }

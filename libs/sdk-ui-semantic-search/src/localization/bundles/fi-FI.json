@@ -1,14 +1,14 @@
 {
-    "semantic-search.error.title.value": "Hakupalvelumme on tilapäisesti pois käytöstä.",
-    "semantic-search.error.text.value": "Pyrimme ratkaisemaan ongelman.",
-    "semantic-search.no-results.value": "Tuloksia ei löytynyt haulle “{query}“.",
-    "semantic-search.label.value": "Hae ohjauspaneeleista tai visualisoinnista",
-    "semantic-search.placeholder.value": "Hae koontinäytöistä tai visualisoinnista…",
-    "semantic-search.id.value": "ID",
-    "semantic-search.tags.value": "Tagit",
-    "semantic-search.match.value": "{score}% täsmää",
-    "semantic-search.previous-search.value": "Edellinen haku",
-    "semantic-search.date.at.value": "-",
-    "gs.date.today.value": "Tänään",
-    "gs.date.yesterday.value": "Eilen"
+    "semantic-search.error.title.text": "Hakupalvelumme on tilapäisesti pois käytöstä.",
+    "semantic-search.error.text.text": "Pyrimme ratkaisemaan ongelman.",
+    "semantic-search.no-results.text": "Tuloksia ei löytynyt haulle “{query}“.",
+    "semantic-search.label.text": "Hae ohjauspaneeleista tai visualisoinnista",
+    "semantic-search.placeholder.text": "Hae koontinäytöistä tai visualisoinnista…",
+    "semantic-search.id.text": "ID",
+    "semantic-search.tags.text": "Tagit",
+    "semantic-search.match.text": "{score}% täsmää",
+    "semantic-search.previous-search.text": "Edellinen haku",
+    "semantic-search.date.at.text": "-",
+    "gs.date.today.text": "Tänään",
+    "gs.date.yesterday.text": "Eilen"
 }
