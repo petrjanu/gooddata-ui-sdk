@@ -1,14 +1,14 @@
 {
-    "semantic-search.error.title.value": "我哋嘅搜索服務暫時關閉。",
-    "semantic-search.error.text.value": "我哋正在努力解決此問題。",
-    "semantic-search.no-results.value": "未搵到與“{query}”相關嘅結果。",
-    "semantic-search.label.value": "搜索儀錶板或可視化",
-    "semantic-search.placeholder.value": "搜索儀錶板或可視化…",
-    "semantic-search.id.value": "識別碼",
-    "semantic-search.tags.value": "標籤",
-    "semantic-search.match.value": "{score}％ 匹配",
-    "semantic-search.previous-search.value": "上一頁搜索",
-    "semantic-search.date.at.value": "在",
-    "gs.date.today.value": "今日",
-    "gs.date.yesterday.value": "昨日"
+    "semantic-search.error.title.text": "我哋嘅搜索服務暫時關閉。",
+    "semantic-search.error.text.text": "我哋正在努力解決此問題。",
+    "semantic-search.no-results.text": "未搵到與“{query}”相關嘅結果。",
+    "semantic-search.label.text": "搜索儀錶板或可視化",
+    "semantic-search.placeholder.text": "搜索儀錶板或可視化…",
+    "semantic-search.id.text": "識別碼",
+    "semantic-search.tags.text": "標籤",
+    "semantic-search.match.text": "{score}％ 匹配",
+    "semantic-search.previous-search.text": "上一頁搜索",
+    "semantic-search.date.at.text": "在",
+    "gs.date.today.text": "今日",
+    "gs.date.yesterday.text": "昨日"
 }
