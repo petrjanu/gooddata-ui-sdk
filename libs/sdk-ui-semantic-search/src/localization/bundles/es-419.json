@@ -1,14 +1,14 @@
 {
-    "semantic-search.error.title.value": "Nuestro servicio de búsqueda está temporalmente fuera de servicio.",
-    "semantic-search.error.text.value": "Estamos trabajando para resolver el problema.",
-    "semantic-search.no-results.value": "No se han encontrado resultados para “{query}”.",
-    "semantic-search.label.value": "Búsqueda en paneles de control o visualización",
-    "semantic-search.placeholder.value": "Búsqueda en paneles o visualización…",
-    "semantic-search.id.value": "ID",
-    "semantic-search.tags.value": "Etiquetas",
-    "semantic-search.match.value": "{score}% coincidencia",
-    "semantic-search.previous-search.value": "Búsqueda anterior",
-    "semantic-search.date.at.value": "en",
-    "gs.date.today.value": "Hoy",
-    "gs.date.yesterday.value": "Ayer"
+    "semantic-search.error.title.text": "Nuestro servicio de búsqueda está temporalmente fuera de servicio.",
+    "semantic-search.error.text.text": "Estamos trabajando para resolver el problema.",
+    "semantic-search.no-results.text": "No se han encontrado resultados para “{query}”.",
+    "semantic-search.label.text": "Búsqueda en paneles de control o visualización",
+    "semantic-search.placeholder.text": "Búsqueda en paneles o visualización…",
+    "semantic-search.id.text": "ID",
+    "semantic-search.tags.text": "Etiquetas",
+    "semantic-search.match.text": "{score}% coincidencia",
+    "semantic-search.previous-search.text": "Búsqueda anterior",
+    "semantic-search.date.at.text": "en",
+    "gs.date.today.text": "Hoy",
+    "gs.date.yesterday.text": "Ayer"
 }
