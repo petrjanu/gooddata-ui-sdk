@@ -1,14 +1,14 @@
 {
-    "semantic-search.error.title.text": "Our search service is temporarily down.",
-    "semantic-search.error.text.text": "We are working to resolve the issue.",
-    "semantic-search.no-results.text": "No results found for “{query}”.",
-    "semantic-search.label.text": "Search dashboards or visualization",
-    "semantic-search.placeholder.text": "Search dashboards or visualization…",
-    "semantic-search.id.text": "ID",
-    "semantic-search.tags.text": "Tags",
-    "semantic-search.match.text": "{score}% match",
-    "semantic-search.previous-search.text": "Previous search",
-    "semantic-search.date.at.text": "at",
-    "gs.date.today.text": "Today",
-    "gs.date.yesterday.text": "Yesterday"
+    "semantic-search.error.title.text": "Arama hizmetimiz geçici olarak devre dışı.",
+    "semantic-search.error.text.text": "Sorunu çözmek için çalışıyoruz.",
+    "semantic-search.no-results.text": "“{query}” için sonuç bulunamadı.",
+    "semantic-search.label.text": "Gösterge panolarını veya görselleştirmeyi ara",
+    "semantic-search.placeholder.text": "Gösterge panolarını veya görselleştirmeyi ara…",
+    "semantic-search.id.text": "Kimlik",
+    "semantic-search.tags.text": "Etiketler",
+    "semantic-search.match.text": "{score}% eşleşme",
+    "semantic-search.previous-search.text": "Önceki arama",
+    "semantic-search.date.at.text": "tarihinde",
+    "gs.date.today.text": "Bugün",
+    "gs.date.yesterday.text": "Dün"
 }
