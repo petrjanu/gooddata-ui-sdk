@@ -1,14 +1,14 @@
 {
-    "semantic-search.error.title.text": "Our search service is temporarily down.",
-    "semantic-search.error.text.text": "We are working to resolve the issue.",
-    "semantic-search.no-results.text": "No results found for “{query}”.",
-    "semantic-search.label.text": "Search dashboards or visualization",
-    "semantic-search.placeholder.text": "Search dashboards or visualization…",
+    "semantic-search.error.title.text": "저희 검색 서비스가 일시적으로 중단되었습니다.",
+    "semantic-search.error.text.text": "문제를 해결하기 위해 노력하고 있습니다.",
+    "semantic-search.no-results.text": "“{query}”에 대한 결과를 찾을 수 없습니다.",
+    "semantic-search.label.text": "대시보드 또는 시각화 검색",
+    "semantic-search.placeholder.text": "대시보드 또는 시각화 검색…",
     "semantic-search.id.text": "ID",
-    "semantic-search.tags.text": "Tags",
-    "semantic-search.match.text": "{score}% match",
-    "semantic-search.previous-search.text": "Previous search",
+    "semantic-search.tags.text": "태그",
+    "semantic-search.match.text": "{score}% 일치",
+    "semantic-search.previous-search.text": "이전 검색",
     "semantic-search.date.at.text": "at",
-    "gs.date.today.text": "Today",
-    "gs.date.yesterday.text": "Yesterday"
+    "gs.date.today.text": "오늘",
+    "gs.date.yesterday.text": "어제"
 }
