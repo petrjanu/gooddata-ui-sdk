@@ -1,14 +1,14 @@
 {
-    "semantic-search.error.title.value": "我们的搜索服务暂时中断。",
-    "semantic-search.error.text.value": "我们正在努力解决该问题。",
-    "semantic-search.no-results.value": "没有找到“的结果{query}”。",
-    "semantic-search.label.value": "搜索仪表板或可视化",
-    "semantic-search.placeholder.value": "搜索仪表板或可视化…",
-    "semantic-search.id.value": "ID",
-    "semantic-search.tags.value": "标签",
-    "semantic-search.match.value": "{score}％ 匹配",
-    "semantic-search.previous-search.value": "上一搜索",
-    "semantic-search.date.at.value": "在",
-    "gs.date.today.value": "今天",
-    "gs.date.yesterday.value": "昨天"
+    "semantic-search.error.title.text": "我们的搜索服务暂时中断。",
+    "semantic-search.error.text.text": "我们正在努力解决该问题。",
+    "semantic-search.no-results.text": "没有找到“的结果{query}”。",
+    "semantic-search.label.text": "搜索仪表板或可视化",
+    "semantic-search.placeholder.text": "搜索仪表板或可视化…",
+    "semantic-search.id.text": "ID",
+    "semantic-search.tags.text": "标签",
+    "semantic-search.match.text": "{score}％ 匹配",
+    "semantic-search.previous-search.text": "上一搜索",
+    "semantic-search.date.at.text": "在",
+    "gs.date.today.text": "今天",
+    "gs.date.yesterday.text": "昨天"
 }

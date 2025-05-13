@@ -1,14 +1,14 @@
 {
-    "semantic-search.error.title.value": "検索サービスが一時的に停止しています。",
-    "semantic-search.error.text.value": "私たちはこの問題の解決に取り組んでいます。",
-    "semantic-search.no-results.value": "「{query}」の結果は見つかりませんでした。",
-    "semantic-search.label.value": "ダッシュボードまたはビジュアライゼーションを検索",
-    "semantic-search.placeholder.value": "ダッシュボードまたはビジュアライゼーションを検索…",
-    "semantic-search.id.value": "ID",
-    "semantic-search.tags.value": "タグ",
-    "semantic-search.match.value": "{score}％マッチ",
-    "semantic-search.previous-search.value": "過去の検索",
-    "semantic-search.date.at.value": "の時刻",
-    "gs.date.today.value": "今日",
-    "gs.date.yesterday.value": "昨日"
+    "semantic-search.error.title.text": "検索サービスが一時的に停止しています。",
+    "semantic-search.error.text.text": "私たちはこの問題の解決に取り組んでいます。",
+    "semantic-search.no-results.text": "「{query}」の結果は見つかりませんでした。",
+    "semantic-search.label.text": "ダッシュボードまたはビジュアライゼーションを検索",
+    "semantic-search.placeholder.text": "ダッシュボードまたはビジュアライゼーションを検索…",
+    "semantic-search.id.text": "ID",
+    "semantic-search.tags.text": "タグ",
+    "semantic-search.match.text": "{score}％マッチ",
+    "semantic-search.previous-search.text": "過去の検索",
+    "semantic-search.date.at.text": "の時刻",
+    "gs.date.today.text": "今日",
+    "gs.date.yesterday.text": "昨日"
 }
