@@ -1,4 +1,5 @@
 {
+    "sample_value_crowdin_eval_1.text": "sample evaluation string 1",
     "empty_value.text": "boş değer",
     "gs.date.at.text": "tarihinde",
     "gs.header.help.text": "Yardım",
@@ -691,7 +692,7 @@
     "recurrence.types.monthly.last.text": "Ayın son {day} günü",
     "recurrence.types.monthly.first.text": "Ayın ilk günü",
     "recurrence.types.weekly.first.text": "Haftanın ilk günü",
-    "recurrence.types.monthly.text": "Monthly on the {week, select, 1 {first} 2 {second} 3 {third} 4 {fourth} other {last}} {day}",
+    "recurrence.types.monthly.text": "AYLIK olarak her {week, select, 1 {İLK} 2 {İKİNCİ} 3 {ÜÇÜNCÜ} 4 {DÖRDÜNCÜ} other {SON}} {day}.",
     "recurrence.types.cron.text": "Cron ifadesi",
     "recurrence.types.inherit.text": "Devral",
     "recurrence.description.hourly.text": "Her saatin başlangıcında",
