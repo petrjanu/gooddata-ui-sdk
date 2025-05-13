@@ -1,4 +1,8 @@
 {
+    "sample_value_crowdin_eval_1": {
+        "text": "sample evaluation string 1",
+        "crowdinContext": "This is just a sample value for Crowdin evaluation"
+    },
     "empty_value": {
         "text": "empty value",
         "crowdinContext": ""
