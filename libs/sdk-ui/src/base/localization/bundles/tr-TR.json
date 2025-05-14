@@ -1,5 +1,6 @@
 {
-    "sample_value_crowdin_eval_1.text": "sample evaluation string 1",
+    "sample_value_crowdin_eval_1.text": "örnek değerlendirme dizesi 1",
+    "sample_value_crowdin_eval_2.text": "örnek değerlendirme dizesi 2",
     "empty_value.text": "boş değer",
     "gs.date.at.text": "tarihinde",
     "gs.header.help.text": "Yardım",
