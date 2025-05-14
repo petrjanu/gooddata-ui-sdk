@@ -3,9 +3,13 @@
         "text": "sample evaluation string 1",
         "crowdinContext": "This is just a sample value for Crowdin evaluation"
     },
+    "sample_value_crowdin_eval_2": {
+        "text": "sample evaluation string 2",
+        "crowdinContext": "This is just a sample value for Crowdin evaluation"
+    },
     "empty_value": {
         "text": "empty value",
-        "crowdinContext": ""
+        "crowdinContext": "This string is used as a placeholder for headers that have no value, indicating an empty state in visualizations."
     },
     "gs.date.at": {
         "text": "at",
@@ -244,7 +248,7 @@
     },
     "visualization.emptyValue": {
         "text": "empty value",
-        "crowdinContext": ""
+        "crowdinContext": "This string is used as a placeholder for headers that have no value, indicating an empty state in visualizations."
     },
     "visualization.waterfall.total": {
         "text": "Total",
@@ -256,147 +260,147 @@
     },
     "visualization.ErrorMessageGeneric|insight": {
         "text": "Sorry, we can't display this visualization",
-        "crowdinContext": ""
+        "crowdinContext": "Displayed when a visualization cannot be rendered due to an error."
     },
     "visualization.ErrorMessageGeneric|report": {
         "text": "Sorry, we can't display this report",
-        "crowdinContext": "",
+        "crowdinContext": "Displayed when a report cannot be rendered due to an error.",
         "translate": false
     },
     "visualization.ErrorDescriptionGeneric": {
         "text": "Contact your administrator.",
-        "crowdinContext": ""
+        "crowdinContext": "Suggested action when a visualization or report cannot be displayed."
     },
     "visualization.ErrorMessageDataTooLarge": {
         "text": "Too many data points to display",
-        "crowdinContext": ""
+        "crowdinContext": "Displayed when a visualization cannot render due to excessive data points."
     },
     "visualization.ErrorDescriptionDataTooLarge": {
         "text": "Try applying filters.",
-        "crowdinContext": ""
+        "crowdinContext": "Suggested action to reduce data points for visualization."
     },
     "visualization.ErrorMessageNoData": {
         "text": "No data",
-        "crowdinContext": ""
+        "crowdinContext": "Displayed when there is no data available for the visualization."
     },
     "visualization.ErrorDescriptionNoData": {
         "text": "No data for your filter selection.",
-        "crowdinContext": ""
+        "crowdinContext": "Explanation for the absence of data in the visualization."
     },
     "visualization.ErrorMessageKpi": {
         "text": "Error",
-        "crowdinContext": ""
+        "crowdinContext": "Displayed when there is an error in rendering a KPI."
     },
     "visualization.ErrorMessageUnauthorized": {
         "text": "Unauthorized",
-        "crowdinContext": ""
+        "crowdinContext": "Displayed when a user does not have permission to view a visualization or report."
     },
     "visualization.ErrorDescriptionUnauthorized|insight": {
         "text": "Sorry you don't have access to this visualization. Login or ask your administrator to grant you permissions.",
-        "crowdinContext": ""
+        "crowdinContext": "Explanation and suggested action when a user lacks access to a visualization."
     },
     "visualization.ErrorDescriptionUnauthorized|report": {
         "text": "Sorry you don't have access to this report. Login or ask your administrator to grant you permissions.",
-        "crowdinContext": "",
+        "crowdinContext": "Explanation and suggested action when a user lacks access to a report.",
         "translate": false
     },
     "visualization.ErrorMessageNotFound|insight": {
         "text": "Sorry, we can't find this visualization",
-        "crowdinContext": ""
+        "crowdinContext": "Displayed when a visualization cannot be found."
     },
     "visualization.ErrorMessageNotFound|report": {
         "text": "Sorry, we can't find this report",
-        "crowdinContext": "",
+        "crowdinContext": "Displayed when a report cannot be found.",
         "translate": false
     },
     "visualization.ErrorDescriptionNotFound|insight": {
         "text": "The visualization with this URL does not exist.",
-        "crowdinContext": ""
+        "crowdinContext": "Explanation for a missing visualization."
     },
     "visualization.ErrorDescriptionNotFound|report": {
         "text": "The report with this URL does not exist.",
-        "crowdinContext": "",
+        "crowdinContext": "Explanation for a missing report.",
         "translate": false
     },
     "visualization.ErrorDescriptionMissingMapboxToken": {
         "text": "The Geochart configuration requires a valid API access token.",
-        "crowdinContext": ""
+        "crowdinContext": "Explanation for missing Mapbox token in Geochart configuration."
     },
     "visualization.tooltip.resetZoom": {
         "text": "Reset zoom",
-        "crowdinContext": ""
+        "crowdinContext": "Tooltip for resetting zoom on a visualization."
     },
     "visualization.tooltip.interaction": {
         "text": "Click chart to drill",
-        "crowdinContext": ""
+        "crowdinContext": "Tooltip indicating that clicking the chart will drill down into data."
     },
     "visualization.tooltip.generic.interaction": {
         "text": "Click to drill or filter",
-        "crowdinContext": ""
+        "crowdinContext": "Tooltip indicating that clicking will either drill down or apply a filter."
     },
     "gs.filterLabel.all": {
         "text": "All",
-        "crowdinContext": ""
+        "crowdinContext": "Label for selecting all items in a filter."
     },
     "gs.filterLabel.none": {
         "text": "None",
-        "crowdinContext": ""
+        "crowdinContext": "Label for selecting no items in a filter."
     },
     "gs.filter.loading": {
         "text": "Loading filter…",
-        "crowdinContext": "Use '…' as one character, not 3 dots ('...')."
+        "crowdinContext": "Indicates that a filter is currently loading. Use '…' as one character, not 3 dots ('...')."
     },
     "gs.filter.error": {
         "text": "Error when loading filter.",
-        "crowdinContext": ""
+        "crowdinContext": "Displayed when there is an error loading a filter."
     },
     "gs.filter.error.tooltip": {
         "text": "Error. Values cannot be loaded.",
-        "crowdinContext": ""
+        "crowdinContext": "Tooltip explaining that filter values cannot be loaded due to an error."
     },
     "gs.list.clear": {
         "text": "Clear",
-        "crowdinContext": ""
+        "crowdinContext": "Button label for clearing a selection."
     },
     "gs.list.cancel": {
         "text": "Cancel",
-        "crowdinContext": ""
+        "crowdinContext": "Button label for canceling an action."
     },
     "gs.list.apply": {
         "text": "Apply",
-        "crowdinContext": ""
+        "crowdinContext": "Button label for applying a selection or filter."
     },
     "gs.list.only": {
         "text": "Only",
-        "crowdinContext": ""
+        "crowdinContext": "Label for selecting only the specified item(s)."
     },
     "gs.list.selectAll": {
         "text": "Select all",
-        "crowdinContext": ""
+        "crowdinContext": "Button label for selecting all items in a list."
     },
     "gs.list.limitExceeded": {
         "text": "Sorry, you have exceeded the limit ({limit}).",
-        "crowdinContext": "Don't translate placeholder '{limit}'."
+        "crowdinContext": "Displayed when a user exceeds the selection limit. Do not translate placeholder '{limit}'."
     },
     "gs.list.limitReached": {
         "text": "You have reached the limit of {limit} selected values.",
-        "crowdinContext": "Don't translate placeholder '{limit}'."
+        "crowdinContext": "Displayed when a user reaches the selection limit. Do not translate placeholder '{limit}'."
     },
     "gs.list.cannotSelectMoreValues": {
         "text": "You cannot select more than {limit} values.",
-        "crowdinContext": "Don't translate placeholder '{limit}'."
+        "crowdinContext": "Displayed when a user attempts to select more than the allowed number of values. Do not translate placeholder '{limit}'."
     },
     "gs.list.noItemsFound": {
         "text": "No items found.",
-        "crowdinContext": ""
+        "crowdinContext": "Displayed when no items match the search criteria."
     },
     "gs.list.noResultsMatch": {
         "text": "No results match",
-        "crowdinContext": ""
+        "crowdinContext": "Displayed when no search results match the query."
     },
     "gs.list.error": {
         "text": "Error when loading filter values.",
-        "crowdinContext": ""
+        "crowdinContext": "Displayed when there is an error loading filter values."
     },
     "gs.header.upsellButtonText": {
         "text": "Upgrade",
