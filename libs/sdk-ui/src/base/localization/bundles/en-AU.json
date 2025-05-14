@@ -1,5 +1,6 @@
 {
     "sample_value_crowdin_eval_1.text": "sample evaluation string 1",
+    "sample_value_crowdin_eval_2.text": "sample evaluation string 2",
     "empty_value.text": "empty value",
     "gs.date.at.text": "at",
     "gs.header.help.text": "Give us a hand",
