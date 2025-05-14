@@ -1,7 +1,7 @@
 {
     "gd.gen-ai.global-error.text": "Something went wrong",
     "gd.gen-ai.global-error.description.text": "Try restarting the chatbot and starting over.",
-    "gd.gen-ai.global-error.button-details.text": "See details",
+    "gd.gen-ai.global-error.button-details.text": "View details",
     "gd.gen-ai.global-error.button-clear.text": "Restart chatbot",
     "gd.gen-ai.input-placeholder.text": "Ask here…",
     "gd.gen-ai.input-label.text": "Ask your question",
