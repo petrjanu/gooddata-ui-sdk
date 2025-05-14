@@ -1,5 +1,6 @@
 {
     "sample_value_crowdin_eval_1.text": "näytearvioinnin merkkijono 1",
+    "sample_value_crowdin_eval_2.text": "esimerkkiarvon arviointimerkkijono 2",
     "empty_value.text": "tyhjä arvo",
     "gs.date.at.text": "-",
     "gs.header.help.text": "Apua",
