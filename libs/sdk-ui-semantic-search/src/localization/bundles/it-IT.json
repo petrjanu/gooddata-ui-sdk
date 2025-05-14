@@ -2,7 +2,7 @@
     "semantic-search.error.title.text": "Il nostro servizio di ricerca è temporaneamente inattivo.",
     "semantic-search.error.text.text": "Stiamo lavorando per risolvere il problema.",
     "semantic-search.no-results.text": "Nessun risultato trovato per ”{query}”.",
-    "semantic-search.label.text": "Search dashboards or visualization",
+    "semantic-search.label.text": "Cerca dashboard o visualizzazioni",
     "semantic-search.placeholder.text": "Ricerca di cruscotti o visualizzazioni…",
     "semantic-search.id.text": "ID",
     "semantic-search.tags.text": "Tag",
