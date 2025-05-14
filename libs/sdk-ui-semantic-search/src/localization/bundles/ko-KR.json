@@ -8,7 +8,7 @@
     "semantic-search.tags.text": "태그",
     "semantic-search.match.text": "{score}% 일치",
     "semantic-search.previous-search.text": "이전 검색",
-    "semantic-search.date.at.text": "at",
+    "semantic-search.date.at.text": "에",
     "gs.date.today.text": "오늘",
     "gs.date.yesterday.text": "어제"
 }

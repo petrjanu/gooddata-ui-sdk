@@ -1,5 +1,6 @@
 {
-    "sample_value_crowdin_eval_1.text": "sample evaluation string 1",
+    "sample_value_crowdin_eval_1.text": "przykładowy ciąg oceny 1",
+    "sample_value_crowdin_eval_2.text": "przykładowy ciąg ocen 2",
     "empty_value.text": "brak wartości",
     "gs.date.at.text": "o",
     "gs.header.help.text": "Pomoc",
