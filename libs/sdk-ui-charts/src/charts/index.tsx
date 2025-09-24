@@ -1,4 +1,4 @@
-// (C) 2019-2024 GoodData Corporation
+// (C) 2019-2025 GoodData Corporation
 export type { IBaseChartProps } from "./_base/BaseChart.js";
 export { BaseChart } from "./_base/BaseChart.js";
 
@@ -55,9 +55,6 @@ export { Heatmap } from "./heatmap/Heatmap.js";
 
 export type { ILineChartProps, ILineChartBucketProps } from "./lineChart/LineChart.js";
 export { LineChart } from "./lineChart/LineChart.js";
-
-export type { IPieChartProps, IPieChartBucketProps } from "./pieChart/PieChart.js";
-export { PieChart } from "./pieChart/PieChart.js";
 
 export type { IScatterPlotProps, IScatterPlotBucketProps } from "./scatterPlot/ScatterPlot.js";
 export { ScatterPlot } from "./scatterPlot/ScatterPlot.js";

@@ -1,4 +1,4 @@
-// (C) 2019-2024 GoodData Corporation
+// (C) 2019-2025 GoodData Corporation
 import { Chart, IChartProps } from "./adapter/Chart.js";
 import { ChartTransformation, IChartTransformationProps } from "./ChartTransformation.js";
 export type { IHighChartsRendererProps } from "./adapter/HighChartsRenderer.js";
@@ -28,8 +28,6 @@ export {
     isPyramid,
     isTreemap,
     isScatterPlot,
-    isPieChart,
-    isPieOrDonutChart,
     isBulletChart,
     isSankey,
     isDependencyWheel,

@@ -1,4 +1,4 @@
-// (C) 2007-2023 GoodData Corporation
+// (C) 2007-2025 GoodData Corporation
 import clone from "lodash/clone.js";
 import includes from "lodash/includes.js";
 import isNil from "lodash/isNil.js";
@@ -64,17 +64,7 @@ export const isScatterPlot = isEqual(VisualizationTypes.SCATTER);
 /**
  * @internal
  */
-export const isPieChart = isEqual(VisualizationTypes.PIE);
-
-/**
- * @internal
- */
 export const isDonutChart = isEqual(VisualizationTypes.DONUT);
-
-/**
- * @internal
- */
-export const isPieOrDonutChart = (type: string): boolean => isPieChart(type) || isDonutChart(type);
 
 /**
  * @internal

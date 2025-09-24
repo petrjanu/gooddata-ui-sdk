@@ -1,4 +1,4 @@
-// (C) 2020-2024 GoodData Corporation
+// (C) 2020-2025 GoodData Corporation
 import last from "lodash/last.js";
 import { IInsightDefinition, insightVisualizationUrl } from "@gooddata/sdk-model";
 import { IVisualizationDescriptor } from "../interfaces/VisualizationDescriptor.js";
@@ -15,7 +15,6 @@ import { PyramidChartDescriptor } from "./pluggableVisualizations/pyramidChart/P
 import { HeadlineDescriptor } from "./pluggableVisualizations/headline/HeadlineDescriptor.js";
 import { HeatmapDescriptor } from "./pluggableVisualizations/heatMap/HeatmapDescriptor.js";
 import { LineChartDescriptor } from "./pluggableVisualizations/lineChart/LineChartDescriptor.js";
-import { PieChartDescriptor } from "./pluggableVisualizations/pieChart/PieChartDescriptor.js";
 import { PivotTableDescriptor } from "./pluggableVisualizations/pivotTable/PivotTableDescriptor.js";
 import { ScatterPlotDescriptor } from "./pluggableVisualizations/scatterPlot/ScatterPlotDescriptor.js";
 import { TreemapDescriptor } from "./pluggableVisualizations/treeMap/TreemapDescriptor.js";
@@ -128,7 +127,6 @@ const DefaultVisualizations = {
     column: ColumnChartDescriptor,
     line: LineChartDescriptor,
     area: AreaChartDescriptor,
-    pie: PieChartDescriptor,
     donut: DonutChartDescriptor,
     table: PivotTableDescriptor,
     headline: HeadlineDescriptor,
