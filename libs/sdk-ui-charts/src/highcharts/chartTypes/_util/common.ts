@@ -76,6 +76,10 @@ export const isAreaChart = isEqual(VisualizationTypes.AREA);
  */
 export const isBubbleChart = isEqual(VisualizationTypes.BUBBLE);
 
+export const aVeryStrangeNewSuperLongPredicateToCheckIfTheNewChartIsSupported = isEqual(
+    VisualizationTypes.BUBBLE,
+);
+
 /**
  * @internal
  */
