@@ -39,6 +39,12 @@ but note that this mode of development is not tested and not supported by our te
 **HINT**: The repository includes the `.envrc` configuration file for [direnv](https://direnv.net/); you can use this
 to auto-nvm-use the correct node.js installation every time you enter the `gooddata-ui-sdk` directory.
 
+**💡 Pro Tip**: Use `rush build --to <package-name>` to build only the dependencies needed for a specific package. This can significantly speed up your development workflow when working on a single library. For example:
+```bash
+# Only build dependencies needed for sdk-ui-charts
+rush build --to @gooddata/sdk-ui-charts
+```
+
 ## After you pull latest changes
 
 Always run `rush install`; this will make sure all the dependencies from the lock file will be installed in all
