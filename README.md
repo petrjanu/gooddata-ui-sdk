@@ -56,6 +56,8 @@ Before contributing, make sure you have the following prerequisites:
 - npm or yarn package manager
 - Git configured with your credentials
 
+For detailed development information, see our [Development Documentation](./dev_docs/README.md).
+
 ## License
 
 (c) 2017-2023 GoodData Corporation
