@@ -32,7 +32,9 @@ Learn about GoodData.UI:
 
 ## Package overview
 
-The most notable packages in this monorepo
+The most notable packages in this monorepo:
+
+> 💡 **Tip**: All packages are published to npm under the `@gooddata` scope. Check the individual package READMEs for detailed usage instructions.
 
 | package                                                           | description                                                                                        |
 | ----------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- |

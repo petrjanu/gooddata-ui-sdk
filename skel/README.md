@@ -15,14 +15,30 @@ execute `rush update` and then commit all the new files and changes.
 
 Alternatively, if you would like to create a new non-production tooling, use [create-new-tool.sh](create-new-tool.sh)
 
-## sdk-skel-ts
+## Available Skeletons
 
-Pure TypeScript project. Vitest for testing.
+### sdk-skel-ts
 
-Use this for new headless libraries.
+Pure TypeScript project with modern tooling:
+- **Testing**: Vitest for fast unit testing
+- **Build**: TypeScript compiler with optimized configuration
+- **Linting**: ESLint with GoodData.UI rules
 
-## sdk-skel-tsx
+Use this for new headless libraries, utilities, and backend services.
 
-TypeScript + React project. Vitest, React Testing Library and Storybook for testing.
+### sdk-skel-tsx
 
-Use this for new UI components.
+TypeScript + React project with comprehensive testing setup:
+- **Testing**: Vitest + React Testing Library for component testing
+- **Documentation**: Storybook for component documentation
+- **Build**: Optimized React build configuration
+- **Linting**: ESLint with React and accessibility rules
+
+Use this for new UI components, React hooks, and interactive elements.
+
+## Best Practices
+
+- Always run `rush update` after creating a new package
+- Follow the existing naming conventions (`@gooddata/sdk-*`)
+- Update the generated package.json with proper description and keywords
+- Add appropriate peer dependencies for React components
