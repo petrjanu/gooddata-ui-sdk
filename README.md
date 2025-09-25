@@ -44,6 +44,7 @@ The most notable packages in this monorepo
 | [`@gooddata/sdk-ui-ext`](./libs/sdk-ui-ext)                       | Various extensions to the base React-based components, see the package README for more             |
 | [`@gooddata/sdk-ui-filters`](./libs/sdk-ui-filters)               | Set of classes and React components for creating filter-related UI                                 |
 | [`@gooddata/sdk-ui-theme-provider`](./libs/sdk-ui-theme-provider) | Tools to make your application support themes                                                      |
+| [`@gooddata/sdk-ui-kit`](./libs/sdk-ui-kit)                       | Collection of reusable UI components and utilities for building consistent interfaces                |
 
 ## Sample Changes
 
