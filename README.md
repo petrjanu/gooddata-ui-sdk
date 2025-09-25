@@ -28,6 +28,10 @@ Learn about GoodData.UI:
 -   [📊 Examples Gallery](https://gdui-examples.herokuapp.com)
 -   [⚙️ API reference](https://sdk.gooddata.com/gooddata-ui-apidocs/docs/index.html)
 
+## Community and support
+
+If you have questions while exploring the SDK, start with the [GoodData Community Slack](https://www.gooddata.com/slack) where the engineering team and fellow builders share tips. The [GitHub Discussions](https://github.com/gooddata/gooddata-ui-sdk/discussions) board is also a great place to search for previously answered questions or to propose new ideas for the roadmap.
+
 ## Package overview
 
 The most notable packages in this monorepo
