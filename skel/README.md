@@ -1,7 +1,9 @@
 # Skeletons
 
-These are skeleton projects that can be used to bootstrap a new SDK package. You can use the
-attached [create-new-lib.sh](create-new-lib.sh) script to bootstrap a new package:
+These are skeleton projects that can be used to bootstrap a new SDK package quickly and efficiently. 
+The skeletons provide a standardized structure and configuration for new packages in the GoodData.UI ecosystem.
+
+You can use the attached [create-new-lib.sh](create-new-lib.sh) script to bootstrap a new package:
 
 ```bash
 cd skel

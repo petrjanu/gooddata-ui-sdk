@@ -49,7 +49,18 @@ The most notable packages in this monorepo
 
 ## Contributing
 
-To learn how to contribute, check out the [Contribution Guide](./dev_docs/contributing.md).
+We welcome contributions from the community! To learn how to contribute, check out the [Contribution Guide](./dev_docs/contributing.md).
+
+### Quick start for contributors
+
+1. Fork the repository
+2. Install dependencies: `rush install`
+3. Build the project: `rush build`
+4. Run tests: `rush test`
+5. Create your feature branch and make changes
+6. Submit a pull request
+
+For more detailed information, see our [development documentation](./dev_docs/).
 
 ## License
 
