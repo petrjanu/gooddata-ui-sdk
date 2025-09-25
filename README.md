@@ -30,7 +30,11 @@ Learn about GoodData.UI:
 
 ## Community and support
 
-If you have questions while exploring the SDK, start with the [GoodData Community Slack](https://www.gooddata.com/slack) where the engineering team and fellow builders share tips. The [GitHub Discussions](https://github.com/gooddata/gooddata-ui-sdk/discussions) board is also a great place to search for previously answered questions or to propose new ideas for the roadmap.
+No matter where you are on your GoodData.UI journey, there is a place to ask questions and share feedback:
+
+-   [💬 Community Slack](https://www.gooddata.com/slack) – Chat with GoodData engineers and community builders in real time.
+-   [🧠 GitHub Discussions](https://github.com/gooddata/gooddata-ui-sdk/discussions) – Browse previous answers or start a new thread with ideas and how-to questions.
+-   [🛟 GoodData Support Portal](https://support.gooddata.com/hc/en-us) – File a ticket with the GoodData Support team if you are an enterprise customer and need hands-on help.
 
 ## Package overview
 
