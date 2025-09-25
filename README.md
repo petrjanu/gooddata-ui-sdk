@@ -45,6 +45,15 @@ The most notable packages in this monorepo
 | [`@gooddata/sdk-ui-filters`](./libs/sdk-ui-filters)               | Set of classes and React components for creating filter-related UI                                 |
 | [`@gooddata/sdk-ui-theme-provider`](./libs/sdk-ui-theme-provider) | Tools to make your application support themes                                                      |
 
+## Sample Changes
+
+This section demonstrates sample changes made for testing pull request workflows. These changes are purely illustrative and showcase the development process.
+
+### Recent Updates
+- Enhanced documentation structure
+- Improved package descriptions
+- Updated resource links
+
 ## Contributing
 
 To learn how to contribute, check out the [Contribution Guide](./dev_docs/contributing.md).
