@@ -15,7 +15,15 @@
     <a href="https://www.gooddata.com/slack"><img src="https://img.shields.io/badge/slack-community-green?logo=slack" alt="GoodData Community Slack"></a>&nbsp;
 </p>
 
-[GoodData.UI](https://gooddata.com/docs/gooddata-ui) is a TypeScript framework for building analytical applications on top of the [GoodData platform](https://help.gooddata.com/doc/enterprise/en), [GoodData Cloud or GoodData.CN](https://www.gooddata.com/docs/cloud/).
+[GoodData.UI](https://gooddata.com/docs/gooddata-ui) is a powerful TypeScript framework for building modern analytical applications on top of the [GoodData platform](https://help.gooddata.com/doc/enterprise/en), [GoodData Cloud or GoodData.CN](https://www.gooddata.com/docs/cloud/).
+
+## ✨ Key Features
+
+- **🎨 Rich Visualizations**: Pre-built React components for charts, tables, and dashboards
+- **📊 Multiple Chart Types**: Line, bar, pie, scatter, heatmaps, and more
+- **🔧 Highly Customizable**: Extensive theming and styling options
+- **⚡ Performance Optimized**: Built for handling large datasets efficiently
+- **🔒 Enterprise Ready**: Security, authentication, and permission handling
 
 GoodData.UI consists of multiple libraries with clear-cut responsibilities ranging from low-level REST API clients up to visualization libraries that deliver React-based components to render different types of charts and tables.
 
