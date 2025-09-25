@@ -49,6 +49,13 @@ The most notable packages in this monorepo
 
 To learn how to contribute, check out the [Contribution Guide](./dev_docs/contributing.md).
 
+### Development Setup
+
+Before contributing, make sure you have the following prerequisites:
+- Node.js 18+ 
+- npm or yarn package manager
+- Git configured with your credentials
+
 ## License
 
 (c) 2017-2023 GoodData Corporation
