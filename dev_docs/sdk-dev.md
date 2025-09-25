@@ -5,6 +5,28 @@
 The SDK follows layered architecture with several packages (modules) on each layer. Each layer has clear set of responsibilities
 and constraints.
 
+## 🔧 Quick Development Tips
+
+### Debugging Components
+When developing or debugging UI components, you can enable additional logging:
+```typescript
+// Enable verbose logging for dashboard components
+window.gdc = { dashboardLogger: { enabled: true, level: 'debug' } };
+
+// Enable chart debugging
+window.gdc = { chartLogger: { enabled: true } };
+```
+
+### Performance Profiling
+Use the built-in performance markers to identify bottlenecks:
+```typescript
+import { recordPerformance } from '@gooddata/sdk-ui';
+
+recordPerformance('my-custom-operation', () => {
+    // Your code here
+});
+```
+
 -   Layer 1: Platform-specific API clients and their supporting code (models, DTOs and the like)
 -   Layer 2: Platform-agnostic domain model, analytical backend SPI, application APIs;
     > Note: SPI realizations are on this layer as well
