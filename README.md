@@ -27,6 +27,8 @@ Learn about GoodData.UI:
 -   [🚀 Quick start](https://www.gooddata.com/docs/gooddata-ui/latest/quick_start/)
 -   [📊 Examples Gallery](https://gdui-examples.herokuapp.com)
 -   [⚙️ API reference](https://sdk.gooddata.com/gooddata-ui-apidocs/docs/index.html)
+-   [🎯 Interactive Playground](https://gooddata-ui-playground.netlify.app/) - Try GoodData.UI components live
+-   [📖 Migration Guide](./dev_docs/migration.md) - Learn how to migrate between versions
 
 ## Package overview
 
