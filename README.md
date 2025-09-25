@@ -27,10 +27,14 @@ Learn about GoodData.UI:
 -   [🚀 Quick start](https://www.gooddata.com/docs/gooddata-ui/latest/quick_start/)
 -   [📊 Examples Gallery](https://gdui-examples.herokuapp.com)
 -   [⚙️ API reference](https://sdk.gooddata.com/gooddata-ui-apidocs/docs/index.html)
+-   [🎯 Interactive Playground](https://gooddata-ui-playground.netlify.app/) - Try GoodData.UI components live
+-   [📖 Migration Guide](./dev_docs/migration.md) - Learn how to migrate between versions
 
 ## Package overview
 
-The most notable packages in this monorepo
+The most notable packages in this monorepo:
+
+> 💡 **Tip**: All packages are published to npm under the `@gooddata` scope. Check the individual package READMEs for detailed usage instructions.
 
 | package                                                           | description                                                                                        |
 | ----------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- |
@@ -47,7 +51,18 @@ The most notable packages in this monorepo
 
 ## Contributing
 
-To learn how to contribute, check out the [Contribution Guide](./dev_docs/contributing.md).
+We welcome contributions from the community! To learn how to contribute, check out the [Contribution Guide](./dev_docs/contributing.md).
+
+### Quick start for contributors
+
+1. Fork the repository
+2. Install dependencies: `rush install`
+3. Build the project: `rush build`
+4. Run tests: `rush test`
+5. Create your feature branch and make changes
+6. Submit a pull request
+
+For more detailed information, see our [development documentation](./dev_docs/).
 
 ## License
 
