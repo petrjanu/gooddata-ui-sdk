@@ -27,6 +27,7 @@ Learn about GoodData.UI:
 -   [🚀 Quick start](https://www.gooddata.com/docs/gooddata-ui/latest/quick_start/)
 -   [📊 Examples Gallery](https://gdui-examples.herokuapp.com)
 -   [⚙️ API reference](https://sdk.gooddata.com/gooddata-ui-apidocs/docs/index.html)
+-   [🔧 Development guide](https://www.gooddata.com/docs/gooddata-ui/latest/development/)
 
 ## Package overview
 
