@@ -21,6 +21,8 @@ GoodData.UI consists of multiple libraries with clear-cut responsibilities rangi
 
 ## Documentation and examples
 
+> 📅 **Latest Update**: Enhanced documentation and improved developer experience - check out our latest features!
+
 Learn about GoodData.UI:
 
 -   [📚 Official documentation](https://gooddata.com/docs/gooddata-ui)
