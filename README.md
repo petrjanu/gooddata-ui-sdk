@@ -45,6 +45,22 @@ The most notable packages in this monorepo
 | [`@gooddata/sdk-ui-filters`](./libs/sdk-ui-filters)               | Set of classes and React components for creating filter-related UI                                 |
 | [`@gooddata/sdk-ui-theme-provider`](./libs/sdk-ui-theme-provider) | Tools to make your application support themes                                                      |
 
+## Quick Example
+
+Here's a simple example of how to get started with GoodData.UI:
+
+```typescript
+import { LineChart } from "@gooddata/sdk-ui-charts";
+import { newAttributeSort } from "@gooddata/sdk-model";
+
+// Create a simple line chart
+<LineChart
+  measures={[Revenue]}
+  viewBy={[Date]}
+  sortBy={[newAttributeSort(Date, "desc")]}
+/>
+```
+
 ## Contributing
 
 To learn how to contribute, check out the [Contribution Guide](./dev_docs/contributing.md).
